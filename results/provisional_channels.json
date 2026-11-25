@@ -1,0 +1,627 @@
+{
+ "n": 69,
+ "note": "channels declared provisional (placeholder or simplified physics); the final ladder drops them unless --allow-provisional",
+ "channels": [
+  {
+   "name": "C_hoogsteen_opening_proxy_kT",
+   "family": "C",
+   "resolution": "per_bp",
+   "units": "kT",
+   "description": "harmonic cost of reaching a 60 degree base-pair opening",
+   "reason": "a harmonic proxy: a Watson-Crick to Hoogsteen transition is a roughly 180 degree glycosidic flip into a second free-energy basin, and a single Gaussian has no second basin, so this is the local stiffness against opening rather than a barrier or a population.",
+   "source": "cgNA+ (Sharma, Patelli, De Bruin & Maddocks)"
+  },
+  {
+   "name": "C_mean_hoogsteen_proxy_kT",
+   "family": "C",
+   "resolution": "global",
+   "units": "kT",
+   "description": "mean opening proxy",
+   "reason": "a harmonic proxy: a Watson-Crick to Hoogsteen transition is a roughly 180 degree glycosidic flip into a second free-energy basin, and a single Gaussian has no second basin, so this is the local stiffness against opening rather than a barrier or a population.",
+   "source": "cgNA+ (Sharma, Patelli, De Bruin & Maddocks)"
+  },
+  {
+   "name": "C_max_hoogsteen_proxy_kT",
+   "family": "C",
+   "resolution": "global",
+   "units": "kT",
+   "description": "least openable base pair",
+   "reason": "a harmonic proxy: a Watson-Crick to Hoogsteen transition is a roughly 180 degree glycosidic flip into a second free-energy basin, and a single Gaussian has no second basin, so this is the local stiffness against opening rather than a barrier or a population.",
+   "source": "cgNA+ (Sharma, Patelli, De Bruin & Maddocks)"
+  },
+  {
+   "name": "C_salt_dtwist_deg",
+   "family": "C",
+   "resolution": "per_bp",
+   "units": "degrees",
+   "description": "change in dtwist_deg under elevated ionic strength",
+   "reason": "cgNA+ ships one parameter set, fit at a single ionic strength and temperature, so a re-predicted geometry under this condition would be the unmodified geometry with a new label on it. The value is NaN rather than a plausible number, and the ABC and hexamer-scale MD libraries PLAN.md names as Family C ground truth are what would supply it.",
+   "source": ""
+  },
+  {
+   "name": "C_salt_droll_deg",
+   "family": "C",
+   "resolution": "per_bp",
+   "units": "degrees",
+   "description": "change in droll_deg under elevated ionic strength",
+   "reason": "cgNA+ ships one parameter set, fit at a single ionic strength and temperature, so a re-predicted geometry under this condition would be the unmodified geometry with a new label on it. The value is NaN rather than a plausible number, and the ABC and hexamer-scale MD libraries PLAN.md names as Family C ground truth are what would supply it.",
+   "source": ""
+  },
+  {
+   "name": "C_salt_drise_A",
+   "family": "C",
+   "resolution": "per_bp",
+   "units": "angstrom",
+   "description": "change in drise_A under elevated ionic strength",
+   "reason": "cgNA+ ships one parameter set, fit at a single ionic strength and temperature, so a re-predicted geometry under this condition would be the unmodified geometry with a new label on it. The value is NaN rather than a plausible number, and the ABC and hexamer-scale MD libraries PLAN.md names as Family C ground truth are what would supply it.",
+   "source": ""
+  },
+  {
+   "name": "C_salt_dminor_width_A",
+   "family": "C",
+   "resolution": "per_bp",
+   "units": "angstrom",
+   "description": "change in dminor_width_A under elevated ionic strength",
+   "reason": "cgNA+ ships one parameter set, fit at a single ionic strength and temperature, so a re-predicted geometry under this condition would be the unmodified geometry with a new label on it. The value is NaN rather than a plausible number, and the ABC and hexamer-scale MD libraries PLAN.md names as Family C ground truth are what would supply it.",
+   "source": ""
+  },
+  {
+   "name": "C_salt_dmajor_width_A",
+   "family": "C",
+   "resolution": "per_bp",
+   "units": "angstrom",
+   "description": "change in dmajor_width_A under elevated ionic strength",
+   "reason": "cgNA+ ships one parameter set, fit at a single ionic strength and temperature, so a re-predicted geometry under this condition would be the unmodified geometry with a new label on it. The value is NaN rather than a plausible number, and the ABC and hexamer-scale MD libraries PLAN.md names as Family C ground truth are what would supply it.",
+   "source": ""
+  },
+  {
+   "name": "C_temp_dtwist_deg",
+   "family": "C",
+   "resolution": "per_bp",
+   "units": "degrees",
+   "description": "change in dtwist_deg under elevated temperature",
+   "reason": "cgNA+ ships one parameter set, fit at a single ionic strength and temperature, so a re-predicted geometry under this condition would be the unmodified geometry with a new label on it. The value is NaN rather than a plausible number, and the ABC and hexamer-scale MD libraries PLAN.md names as Family C ground truth are what would supply it.",
+   "source": ""
+  },
+  {
+   "name": "C_temp_droll_deg",
+   "family": "C",
+   "resolution": "per_bp",
+   "units": "degrees",
+   "description": "change in droll_deg under elevated temperature",
+   "reason": "cgNA+ ships one parameter set, fit at a single ionic strength and temperature, so a re-predicted geometry under this condition would be the unmodified geometry with a new label on it. The value is NaN rather than a plausible number, and the ABC and hexamer-scale MD libraries PLAN.md names as Family C ground truth are what would supply it.",
+   "source": ""
+  },
+  {
+   "name": "C_temp_drise_A",
+   "family": "C",
+   "resolution": "per_bp",
+   "units": "angstrom",
+   "description": "change in drise_A under elevated temperature",
+   "reason": "cgNA+ ships one parameter set, fit at a single ionic strength and temperature, so a re-predicted geometry under this condition would be the unmodified geometry with a new label on it. The value is NaN rather than a plausible number, and the ABC and hexamer-scale MD libraries PLAN.md names as Family C ground truth are what would supply it.",
+   "source": ""
+  },
+  {
+   "name": "C_temp_dminor_width_A",
+   "family": "C",
+   "resolution": "per_bp",
+   "units": "angstrom",
+   "description": "change in dminor_width_A under elevated temperature",
+   "reason": "cgNA+ ships one parameter set, fit at a single ionic strength and temperature, so a re-predicted geometry under this condition would be the unmodified geometry with a new label on it. The value is NaN rather than a plausible number, and the ABC and hexamer-scale MD libraries PLAN.md names as Family C ground truth are what would supply it.",
+   "source": ""
+  },
+  {
+   "name": "C_temp_dmajor_width_A",
+   "family": "C",
+   "resolution": "per_bp",
+   "units": "angstrom",
+   "description": "change in dmajor_width_A under elevated temperature",
+   "reason": "cgNA+ ships one parameter set, fit at a single ionic strength and temperature, so a re-predicted geometry under this condition would be the unmodified geometry with a new label on it. The value is NaN rather than a plausible number, and the ABC and hexamer-scale MD libraries PLAN.md names as Family C ground truth are what would supply it.",
+   "source": ""
+  },
+  {
+   "name": "D_nucleosome_rotational_phase_deg",
+   "family": "D",
+   "resolution": "global",
+   "units": "degrees",
+   "description": "register minimising the wrapping energy",
+   "reason": "the wrapping energy is the elastic term only; the histone-DNA contact energetics and the salt scaling are not parameterised from measurement",
+   "source": "Luger et al., Nature 389:251, 1997"
+  },
+  {
+   "name": "D_nucleosome_phasing_amplitude_kT",
+   "family": "D",
+   "resolution": "global",
+   "units": "kT",
+   "description": "spread of wrapping energy across register",
+   "reason": "the wrapping energy is the elastic term only; the histone-DNA contact energetics and the salt scaling are not parameterised from measurement",
+   "source": "Luger et al., Nature 389:251, 1997"
+  },
+  {
+   "name": "D_nucleosome_translational_bp",
+   "family": "D",
+   "resolution": "global",
+   "units": "bp",
+   "description": "start of the cheapest 147 bp to wrap",
+   "reason": "the wrapping energy is the elastic term only; the histone-DNA contact energetics and the salt scaling are not parameterised from measurement",
+   "source": "Luger et al., Nature 389:251, 1997"
+  },
+  {
+   "name": "D_cyclizability_L63",
+   "family": "D",
+   "resolution": "global",
+   "units": "log10 J",
+   "description": "ring closure propensity for a 63 bp loop",
+   "reason": "a Shimada-Yamakawa elastic estimate with a twist-register term, not the full ring-closure integral; loop-seq supervises the residual at the delta-learning stage",
+   "source": "Shimada & Yamakawa, Macromolecules 17:689, 1984"
+  },
+  {
+   "name": "D_cyclizability_L73",
+   "family": "D",
+   "resolution": "global",
+   "units": "log10 J",
+   "description": "ring closure propensity for a 73 bp loop",
+   "reason": "a Shimada-Yamakawa elastic estimate with a twist-register term, not the full ring-closure integral; loop-seq supervises the residual at the delta-learning stage",
+   "source": "Shimada & Yamakawa, Macromolecules 17:689, 1984"
+  },
+  {
+   "name": "D_cyclizability_L84",
+   "family": "D",
+   "resolution": "global",
+   "units": "log10 J",
+   "description": "ring closure propensity for a 84 bp loop",
+   "reason": "a Shimada-Yamakawa elastic estimate with a twist-register term, not the full ring-closure integral; loop-seq supervises the residual at the delta-learning stage",
+   "source": "Shimada & Yamakawa, Macromolecules 17:689, 1984"
+  },
+  {
+   "name": "D_cyclizability_L94",
+   "family": "D",
+   "resolution": "global",
+   "units": "log10 J",
+   "description": "ring closure propensity for a 94 bp loop",
+   "reason": "a Shimada-Yamakawa elastic estimate with a twist-register term, not the full ring-closure integral; loop-seq supervises the residual at the delta-learning stage",
+   "source": "Shimada & Yamakawa, Macromolecules 17:689, 1984"
+  },
+  {
+   "name": "D_nucleosome_dG_I0.05_kT",
+   "family": "D",
+   "resolution": "global",
+   "units": "kT",
+   "description": "nucleosome wrapping free energy at 0.05 M salt",
+   "reason": "the wrapping energy is the elastic term only; the histone-DNA contact energetics and the salt scaling are not parameterised from measurement",
+   "source": "Luger et al., Nature 389:251, 1997"
+  },
+  {
+   "name": "D_nucleosome_dG_I0.1_kT",
+   "family": "D",
+   "resolution": "global",
+   "units": "kT",
+   "description": "nucleosome wrapping free energy at 0.1 M salt",
+   "reason": "the wrapping energy is the elastic term only; the histone-DNA contact energetics and the salt scaling are not parameterised from measurement",
+   "source": "Luger et al., Nature 389:251, 1997"
+  },
+  {
+   "name": "D_nucleosome_dG_I0.15_kT",
+   "family": "D",
+   "resolution": "global",
+   "units": "kT",
+   "description": "nucleosome wrapping free energy at 0.15 M salt",
+   "reason": "the wrapping energy is the elastic term only; the histone-DNA contact energetics and the salt scaling are not parameterised from measurement",
+   "source": "Luger et al., Nature 389:251, 1997"
+  },
+  {
+   "name": "F_g4_best_stability",
+   "family": "F",
+   "resolution": "global",
+   "units": "dimensionless",
+   "description": "quadruplex stability ordering",
+   "reason": "stability is a dimensionless ordering from tetrad count and loop length, not a parameterised free energy; cation axis is a monotone encoding of the K > Na > Li ordering, not measured offsets",
+   "source": "structural definition evaluated on the sequence; no fitted parameters, the criterion is stated in the computing function's docstring"
+  },
+  {
+   "name": "F_g4_duplex_competition",
+   "family": "F",
+   "resolution": "global",
+   "units": "dimensionless",
+   "description": "quadruplex stability against the duplex it displaces",
+   "reason": "stability is a dimensionless ordering from tetrad count and loop length, not a parameterised free energy; cation axis is a monotone encoding of the K > Na > Li ordering, not measured offsets",
+   "source": "structural definition evaluated on the sequence; no fitted parameters, the criterion is stated in the computing function's docstring"
+  },
+  {
+   "name": "F_g4_topology_parallel",
+   "family": "F",
+   "resolution": "global",
+   "units": "probability",
+   "description": "soft probability of parallel topology",
+   "reason": "loop-length heuristic, not a fitted classifier",
+   "source": "structural definition evaluated on the sequence; no fitted parameters, the criterion is stated in the computing function's docstring"
+  },
+  {
+   "name": "F_g4_topology_antiparallel",
+   "family": "F",
+   "resolution": "global",
+   "units": "probability",
+   "description": "soft probability of antiparallel topology",
+   "reason": "loop-length heuristic, not a fitted classifier",
+   "source": "structural definition evaluated on the sequence; no fitted parameters, the criterion is stated in the computing function's docstring"
+  },
+  {
+   "name": "F_g4_topology_hybrid",
+   "family": "F",
+   "resolution": "global",
+   "units": "probability",
+   "description": "soft probability of hybrid topology",
+   "reason": "loop-length heuristic, not a fitted classifier",
+   "source": "structural definition evaluated on the sequence; no fitted parameters, the criterion is stated in the computing function's docstring"
+  },
+  {
+   "name": "F_g4_stability_K",
+   "family": "F",
+   "resolution": "global",
+   "units": "dimensionless",
+   "description": "quadruplex stability under K+",
+   "reason": "stability is a dimensionless ordering from tetrad count and loop length, not a parameterised free energy; cation axis is a monotone encoding of the K > Na > Li ordering, not measured offsets",
+   "source": "structural definition evaluated on the sequence; no fitted parameters, the criterion is stated in the computing function's docstring"
+  },
+  {
+   "name": "F_g4_stability_Na",
+   "family": "F",
+   "resolution": "global",
+   "units": "dimensionless",
+   "description": "quadruplex stability under Na+",
+   "reason": "stability is a dimensionless ordering from tetrad count and loop length, not a parameterised free energy; cation axis is a monotone encoding of the K > Na > Li ordering, not measured offsets",
+   "source": "structural definition evaluated on the sequence; no fitted parameters, the criterion is stated in the computing function's docstring"
+  },
+  {
+   "name": "F_g4_stability_Li",
+   "family": "F",
+   "resolution": "global",
+   "units": "dimensionless",
+   "description": "quadruplex stability under Li+",
+   "reason": "stability is a dimensionless ordering from tetrad count and loop length, not a parameterised free energy; cation axis is a monotone encoding of the K > Na > Li ordering, not measured offsets",
+   "source": "structural definition evaluated on the sequence; no fitted parameters, the criterion is stated in the computing function's docstring"
+  },
+  {
+   "name": "F_imotif_pH5.5",
+   "family": "F",
+   "resolution": "global",
+   "units": "score",
+   "description": "i-motif propensity scaled by cytosine N3 protonation at pH 5.5",
+   "reason": "pH scaling uses the free-cytidine pKa; the context shift that lets some i-motifs fold near neutral pH is not parameterised, and a search of the literature found no closed-form model of the transitional pH from C-tract and loop lengths -- only qualitative trends and machine-learned or simulation-based predictors",
+   "source": "structural definition evaluated on the sequence; no fitted parameters, the criterion is stated in the computing function's docstring"
+  },
+  {
+   "name": "F_imotif_pH6.5",
+   "family": "F",
+   "resolution": "global",
+   "units": "score",
+   "description": "i-motif propensity scaled by cytosine N3 protonation at pH 6.5",
+   "reason": "pH scaling uses the free-cytidine pKa; the context shift that lets some i-motifs fold near neutral pH is not parameterised, and a search of the literature found no closed-form model of the transitional pH from C-tract and loop lengths -- only qualitative trends and machine-learned or simulation-based predictors",
+   "source": "structural definition evaluated on the sequence; no fitted parameters, the criterion is stated in the computing function's docstring"
+  },
+  {
+   "name": "F_imotif_pH7.4",
+   "family": "F",
+   "resolution": "global",
+   "units": "score",
+   "description": "i-motif propensity scaled by cytosine N3 protonation at pH 7.4",
+   "reason": "pH scaling uses the free-cytidine pKa; the context shift that lets some i-motifs fold near neutral pH is not parameterised, and a search of the literature found no closed-form model of the transitional pH from C-tract and loop lengths -- only qualitative trends and machine-learned or simulation-based predictors",
+   "source": "structural definition evaluated on the sequence; no fitted parameters, the criterion is stated in the computing function's docstring"
+  },
+  {
+   "name": "F_zdna_kcal_I0.01",
+   "family": "F",
+   "resolution": "global",
+   "units": "kcal/mol/bp",
+   "description": "B-to-Z cost at ionic strength 0.01 M",
+   "reason": "salt scaling is a monotone placeholder. No parameterisation exists to replace it: Zhabinskaya & Benham 2011 (PMC3024258) state that 'no quantitative information is currently available regarding how these free energies partition between entropy and enthalpy, nor about their ionic strength dependences'",
+   "source": "structural definition evaluated on the sequence; no fitted parameters, the criterion is stated in the computing function's docstring"
+  },
+  {
+   "name": "F_zdna_kcal_I0.15",
+   "family": "F",
+   "resolution": "global",
+   "units": "kcal/mol/bp",
+   "description": "B-to-Z cost at ionic strength 0.15 M",
+   "reason": "salt scaling is a monotone placeholder. No parameterisation exists to replace it: Zhabinskaya & Benham 2011 (PMC3024258) state that 'no quantitative information is currently available regarding how these free energies partition between entropy and enthalpy, nor about their ionic strength dependences'",
+   "source": "structural definition evaluated on the sequence; no fitted parameters, the criterion is stated in the computing function's docstring"
+  },
+  {
+   "name": "F_zdna_kcal_I0.5",
+   "family": "F",
+   "resolution": "global",
+   "units": "kcal/mol/bp",
+   "description": "B-to-Z cost at ionic strength 0.5 M",
+   "reason": "salt scaling is a monotone placeholder. No parameterisation exists to replace it: Zhabinskaya & Benham 2011 (PMC3024258) state that 'no quantitative information is currently available regarding how these free energies partition between entropy and enthalpy, nor about their ionic strength dependences'",
+   "source": "structural definition evaluated on the sequence; no fitted parameters, the criterion is stated in the computing function's docstring"
+  },
+  {
+   "name": "F_triplex_pH5.5",
+   "family": "F",
+   "resolution": "global",
+   "units": "bp",
+   "description": "pyrimidine-motif triplex propensity at pH 5.5",
+   "reason": "pH scaling shares the i-motif placeholder",
+   "source": "structural definition evaluated on the sequence; no fitted parameters, the criterion is stated in the computing function's docstring"
+  },
+  {
+   "name": "F_triplex_pH6.5",
+   "family": "F",
+   "resolution": "global",
+   "units": "bp",
+   "description": "pyrimidine-motif triplex propensity at pH 6.5",
+   "reason": "pH scaling shares the i-motif placeholder",
+   "source": "structural definition evaluated on the sequence; no fitted parameters, the criterion is stated in the computing function's docstring"
+  },
+  {
+   "name": "F_triplex_pH7.4",
+   "family": "F",
+   "resolution": "global",
+   "units": "bp",
+   "description": "pyrimidine-motif triplex propensity at pH 7.4",
+   "reason": "pH scaling shares the i-motif placeholder",
+   "source": "structural definition evaluated on the sequence; no fitted parameters, the criterion is stated in the computing function's docstring"
+  },
+  {
+   "name": "F_cruciform_sigma-0.06",
+   "family": "F",
+   "resolution": "global",
+   "units": "dimensionless",
+   "description": "cruciform extrusion driving force at superhelical density -0.06",
+   "reason": "extrusion free energy is not parameterised; this scales arm length by |sigma|",
+   "source": "structural definition evaluated on the sequence; no fitted parameters, the criterion is stated in the computing function's docstring"
+  },
+  {
+   "name": "F_cruciform_sigma-0.03",
+   "family": "F",
+   "resolution": "global",
+   "units": "dimensionless",
+   "description": "cruciform extrusion driving force at superhelical density -0.03",
+   "reason": "extrusion free energy is not parameterised; this scales arm length by |sigma|",
+   "source": "structural definition evaluated on the sequence; no fitted parameters, the criterion is stated in the computing function's docstring"
+  },
+  {
+   "name": "F_cruciform_sigma0",
+   "family": "F",
+   "resolution": "global",
+   "units": "dimensionless",
+   "description": "cruciform extrusion driving force at superhelical density 0",
+   "reason": "extrusion free energy is not parameterised; this scales arm length by |sigma|",
+   "source": "structural definition evaluated on the sequence; no fitted parameters, the criterion is stated in the computing function's docstring"
+  },
+  {
+   "name": "G_cpd_methyl_weighted_W",
+   "family": "G",
+   "resolution": "per_bp",
+   "units": "relative propensity",
+   "description": "Watson strand dimer propensity with the methylated-cytosine enhancement applied",
+   "reason": "the dipyrimidine classification is exact, but the propensity weighting across the four classes and the roughly twofold enhancement at methylated cytosine are applied as flat factors from the literature rather than fitted to CPD-seq. The plan's ground truth is CPD-seq and dCPD-seq, and this channel is the structural prior that measurement would correct.",
+   "source": "Mao, Smerdon, Roberts & Wyrick, PNAS 113:9057, 2016"
+  },
+  {
+   "name": "G_sixfour_W",
+   "family": "G",
+   "resolution": "per_bp",
+   "units": "indicator",
+   "description": "Watson strand 6-4 photoproduct site, which favours a 3-prime thymine",
+   "reason": "the dipyrimidine classification is exact, but the propensity weighting across the four classes and the roughly twofold enhancement at methylated cytosine are applied as flat factors from the literature rather than fitted to CPD-seq. The plan's ground truth is CPD-seq and dCPD-seq, and this channel is the structural prior that measurement would correct.",
+   "source": "Mao, Smerdon, Roberts & Wyrick, PNAS 113:9057, 2016"
+  },
+  {
+   "name": "G_cpd_methyl_weighted_C",
+   "family": "G",
+   "resolution": "per_bp",
+   "units": "relative propensity",
+   "description": "Crick strand dimer propensity with the methylated-cytosine enhancement applied",
+   "reason": "the dipyrimidine classification is exact, but the propensity weighting across the four classes and the roughly twofold enhancement at methylated cytosine are applied as flat factors from the literature rather than fitted to CPD-seq. The plan's ground truth is CPD-seq and dCPD-seq, and this channel is the structural prior that measurement would correct.",
+   "source": "Mao, Smerdon, Roberts & Wyrick, PNAS 113:9057, 2016"
+  },
+  {
+   "name": "G_sixfour_C",
+   "family": "G",
+   "resolution": "per_bp",
+   "units": "indicator",
+   "description": "Crick strand 6-4 photoproduct site, which favours a 3-prime thymine",
+   "reason": "the dipyrimidine classification is exact, but the propensity weighting across the four classes and the roughly twofold enhancement at methylated cytosine are applied as flat factors from the literature rather than fitted to CPD-seq. The plan's ground truth is CPD-seq and dCPD-seq, and this channel is the structural prior that measurement would correct.",
+   "source": "Mao, Smerdon, Roberts & Wyrick, PNAS 113:9057, 2016"
+  },
+  {
+   "name": "G_dG_polar_kcal",
+   "family": "G",
+   "resolution": "global",
+   "units": "kcal/mol",
+   "description": "polar hydration free energy from the surface-area model",
+   "reason": "the nonpolar term uses the standard surface-area model with the implicit-solvent convention gamma = 0.0072 kcal/mol/A^2, but the polar term applies one coefficient to all nitrogen, oxygen and phosphorus rather than Eisenberg and McLachlan's per-atom-type table, so the absolute scale is not traceable even though the sequence ranking, which the surface area carries, is",
+   "source": "Eisenberg & McLachlan, Nature 319:199, 1986"
+  },
+  {
+   "name": "G_sixfour_density",
+   "family": "G",
+   "resolution": "global",
+   "units": "per base",
+   "description": "6-4 photoproduct sites per base, both strands",
+   "reason": "the dipyrimidine classification is exact, but the propensity weighting across the four classes and the roughly twofold enhancement at methylated cytosine are applied as flat factors from the literature rather than fitted to CPD-seq. The plan's ground truth is CPD-seq and dCPD-seq, and this channel is the structural prior that measurement would correct.",
+   "source": "Mao, Smerdon, Roberts & Wyrick, PNAS 113:9057, 2016"
+  },
+  {
+   "name": "E_k_open_per_s",
+   "family": "E",
+   "resolution": "per_bp",
+   "units": "per second",
+   "description": "base-pair opening rate",
+   "reason": "an attempt frequency is not derivable from equilibrium thermodynamics. The closing rate is fixed at the 1e7 per second that imino exchange measurements report for both AT and GC pairs, and the opening rate follows from the computed equilibrium constant. The sequence dependence is therefore entirely that of the equilibrium constant, and any sequence dependence of the prefactor itself is absent.",
+   "source": "Gueron & Leroy, Methods Enzymol 261:383, 1995"
+  },
+  {
+   "name": "E_bp_lifetime_ms",
+   "family": "E",
+   "resolution": "per_bp",
+   "units": "milliseconds",
+   "description": "mean closed lifetime of this base pair",
+   "reason": "an attempt frequency is not derivable from equilibrium thermodynamics. The closing rate is fixed at the 1e7 per second that imino exchange measurements report for both AT and GC pairs, and the opening rate follows from the computed equilibrium constant. The sequence dependence is therefore entirely that of the equilibrium constant, and any sequence dependence of the prefactor itself is absent.",
+   "source": "Gueron & Leroy, Methods Enzymol 261:383, 1995"
+  },
+  {
+   "name": "E_cruciform_dG_na0.01",
+   "family": "E",
+   "resolution": "global",
+   "units": "kcal/mol",
+   "description": "cruciform extrusion at 0.01 M sodium and sigma -0.06",
+   "reason": "extrusion is computed as the two strands' folds of the inverted-repeat region under the DNA parameter set, less the duplex free energy of that region, plus Benham's superhelical stress relief; the free energy of the four-way junction at the base of a cruciform is not parameterised here, so the absolute value omits one term.",
+   "source": "Benham, PNAS 90:2999, 1993"
+  },
+  {
+   "name": "E_cruciform_dG_na0.15",
+   "family": "E",
+   "resolution": "global",
+   "units": "kcal/mol",
+   "description": "cruciform extrusion at 0.15 M sodium and sigma -0.06",
+   "reason": "extrusion is computed as the two strands' folds of the inverted-repeat region under the DNA parameter set, less the duplex free energy of that region, plus Benham's superhelical stress relief; the free energy of the four-way junction at the base of a cruciform is not parameterised here, so the absolute value omits one term.",
+   "source": "Benham, PNAS 90:2999, 1993"
+  },
+  {
+   "name": "E_cruciform_dG_na1",
+   "family": "E",
+   "resolution": "global",
+   "units": "kcal/mol",
+   "description": "cruciform extrusion at 1 M sodium and sigma -0.06",
+   "reason": "extrusion is computed as the two strands' folds of the inverted-repeat region under the DNA parameter set, less the duplex free energy of that region, plus Benham's superhelical stress relief; the free energy of the four-way junction at the base of a cruciform is not parameterised here, so the absolute value omits one term.",
+   "source": "Benham, PNAS 90:2999, 1993"
+  },
+  {
+   "name": "E_triplex_dG_pH5.5",
+   "family": "E",
+   "resolution": "global",
+   "units": "kcal/mol",
+   "description": "intramolecular triplex free energy at pH 5.5, on this strand's purine tract",
+   "reason": "a conversion of a Family F propensity score into a free energy by dG = -RT ln(score), not an independent thermodynamic calculation. Family F owns the structural definition; this is the same quantity in energy units.",
+   "source": "Family F propensity"
+  },
+  {
+   "name": "E_imotif_dG_pH5.5",
+   "family": "E",
+   "resolution": "global",
+   "units": "kcal/mol",
+   "description": "i-motif free energy at pH 5.5, on this strand's cytosines",
+   "reason": "a conversion of a Family F propensity score into a free energy by dG = -RT ln(score), not an independent thermodynamic calculation. Family F owns the structural definition; this is the same quantity in energy units.",
+   "source": "Family F propensity"
+  },
+  {
+   "name": "E_triplex_dG_pH6.5",
+   "family": "E",
+   "resolution": "global",
+   "units": "kcal/mol",
+   "description": "intramolecular triplex free energy at pH 6.5, on this strand's purine tract",
+   "reason": "a conversion of a Family F propensity score into a free energy by dG = -RT ln(score), not an independent thermodynamic calculation. Family F owns the structural definition; this is the same quantity in energy units.",
+   "source": "Family F propensity"
+  },
+  {
+   "name": "E_imotif_dG_pH6.5",
+   "family": "E",
+   "resolution": "global",
+   "units": "kcal/mol",
+   "description": "i-motif free energy at pH 6.5, on this strand's cytosines",
+   "reason": "a conversion of a Family F propensity score into a free energy by dG = -RT ln(score), not an independent thermodynamic calculation. Family F owns the structural definition; this is the same quantity in energy units.",
+   "source": "Family F propensity"
+  },
+  {
+   "name": "E_triplex_dG_pH7.4",
+   "family": "E",
+   "resolution": "global",
+   "units": "kcal/mol",
+   "description": "intramolecular triplex free energy at pH 7.4, on this strand's purine tract",
+   "reason": "a conversion of a Family F propensity score into a free energy by dG = -RT ln(score), not an independent thermodynamic calculation. Family F owns the structural definition; this is the same quantity in energy units.",
+   "source": "Family F propensity"
+  },
+  {
+   "name": "E_imotif_dG_pH7.4",
+   "family": "E",
+   "resolution": "global",
+   "units": "kcal/mol",
+   "description": "i-motif free energy at pH 7.4, on this strand's cytosines",
+   "reason": "a conversion of a Family F propensity score into a free energy by dG = -RT ln(score), not an independent thermodynamic calculation. Family F owns the structural definition; this is the same quantity in energy units.",
+   "source": "Family F propensity"
+  },
+  {
+   "name": "W_nuc_dG_I0.05",
+   "family": "W",
+   "resolution": "window",
+   "units": "kT",
+   "description": "elastic nucleosome wrapping free energy of the 147 bp window centred here, I = 0.05 M",
+   "reason": "the wrapping energy is the elastic term only; the histone-DNA contact energetics and the salt scaling are not parameterised from measurement",
+   "source": "Luger et al., Nature 389:251, 1997"
+  },
+  {
+   "name": "W_nuc_dG_I0.1",
+   "family": "W",
+   "resolution": "window",
+   "units": "kT",
+   "description": "elastic nucleosome wrapping free energy of the 147 bp window centred here, I = 0.1 M",
+   "reason": "the wrapping energy is the elastic term only; the histone-DNA contact energetics and the salt scaling are not parameterised from measurement",
+   "source": "Luger et al., Nature 389:251, 1997"
+  },
+  {
+   "name": "W_nuc_dG_I0.15",
+   "family": "W",
+   "resolution": "window",
+   "units": "kT",
+   "description": "elastic nucleosome wrapping free energy of the 147 bp window centred here, I = 0.15 M",
+   "reason": "the wrapping energy is the elastic term only; the histone-DNA contact energetics and the salt scaling are not parameterised from measurement",
+   "source": "Luger et al., Nature 389:251, 1997"
+  },
+  {
+   "name": "W_nuc_phase",
+   "family": "W",
+   "resolution": "window",
+   "units": "degrees",
+   "description": "rotational phase of that window's best register",
+   "reason": "the wrapping energy is the elastic term only; the histone-DNA contact energetics and the salt scaling are not parameterised from measurement",
+   "source": "Luger et al., Nature 389:251, 1997"
+  },
+  {
+   "name": "W_nuc_amplitude",
+   "family": "W",
+   "resolution": "window",
+   "units": "kT",
+   "description": "rotational phasing amplitude of that window",
+   "reason": "the wrapping energy is the elastic term only; the histone-DNA contact energetics and the salt scaling are not parameterised from measurement",
+   "source": "Luger et al., Nature 389:251, 1997"
+  },
+  {
+   "name": "W_cyc_L63",
+   "family": "W",
+   "resolution": "window",
+   "units": "log10 J",
+   "description": "cyclizability of the 63 bp window centred here (Family D's model on the window)",
+   "reason": "a Shimada-Yamakawa elastic estimate with a twist-register term, not the full ring-closure integral; loop-seq supervises the residual at the delta-learning stage",
+   "source": "Shimada & Yamakawa, Macromolecules 17:689, 1984"
+  },
+  {
+   "name": "W_cyc_L73",
+   "family": "W",
+   "resolution": "window",
+   "units": "log10 J",
+   "description": "cyclizability of the 73 bp window centred here (Family D's model on the window)",
+   "reason": "a Shimada-Yamakawa elastic estimate with a twist-register term, not the full ring-closure integral; loop-seq supervises the residual at the delta-learning stage",
+   "source": "Shimada & Yamakawa, Macromolecules 17:689, 1984"
+  },
+  {
+   "name": "W_cyc_L84",
+   "family": "W",
+   "resolution": "window",
+   "units": "log10 J",
+   "description": "cyclizability of the 84 bp window centred here (Family D's model on the window)",
+   "reason": "a Shimada-Yamakawa elastic estimate with a twist-register term, not the full ring-closure integral; loop-seq supervises the residual at the delta-learning stage",
+   "source": "Shimada & Yamakawa, Macromolecules 17:689, 1984"
+  },
+  {
+   "name": "W_cyc_L94",
+   "family": "W",
+   "resolution": "window",
+   "units": "log10 J",
+   "description": "cyclizability of the 94 bp window centred here (Family D's model on the window)",
+   "reason": "a Shimada-Yamakawa elastic estimate with a twist-register term, not the full ring-closure integral; loop-seq supervises the residual at the delta-learning stage",
+   "source": "Shimada & Yamakawa, Macromolecules 17:689, 1984"
+  }
+ ]
+}

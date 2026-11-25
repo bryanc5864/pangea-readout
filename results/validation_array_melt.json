@@ -1,0 +1,74 @@
+{
+ "n": 27732,
+ "source": "Ke et al. 2025, Array Melt, arr_v1_adjusted.csv",
+ "na_1M": {
+  "pearson_r": 0.6838612251297129,
+  "spearman_rho": 0.6964317033079926,
+  "mae_kcal_mol": 2.0153403393243225,
+  "fitted_constant_offset_kcal_mol": 1.943526841256514,
+  "mae_after_offset_kcal_mol": 0.7137267027286233,
+  "rmse_after_offset_kcal_mol": 0.9436913244914562,
+  "by_series": {
+   "Bulges": {
+    "n": 9097,
+    "pearson_r": 0.5234950394493151,
+    "mae_after_offset": 0.7659254136318292
+   },
+   "MisMatches": {
+    "n": 10725,
+    "pearson_r": 0.6600539622126503,
+    "mae_after_offset": 0.7391561618765542
+   },
+   "TETRAloop": {
+    "n": 4691,
+    "pearson_r": 0.5578313303204145,
+    "mae_after_offset": 0.6269297822715344
+   },
+   "TRIloop": {
+    "n": 1168,
+    "pearson_r": 0.6830648214430279,
+    "mae_after_offset": 0.5612544043540021
+   },
+   "WatsonCrick": {
+    "n": 2027,
+    "pearson_r": 0.8926106562361465,
+    "mae_after_offset": 0.6256109812616925
+   }
+  }
+ },
+ "na_0.075M": {
+  "pearson_r": 0.6378887688794335,
+  "spearman_rho": 0.6418402444355346,
+  "mae_kcal_mol": 0.9795333045907597,
+  "fitted_constant_offset_kcal_mol": 0.7136303644953077,
+  "mae_after_offset_kcal_mol": 0.7425967468007519,
+  "rmse_after_offset_kcal_mol": 0.9877048784427217,
+  "by_series": {
+   "Bulges": {
+    "n": 9097,
+    "pearson_r": 0.3978766305258547,
+    "mae_after_offset": 0.777980766360031
+   },
+   "MisMatches": {
+    "n": 10725,
+    "pearson_r": 0.5704742298039853,
+    "mae_after_offset": 0.8101144404244661
+   },
+   "TETRAloop": {
+    "n": 4691,
+    "pearson_r": 0.5523123812903705,
+    "mae_after_offset": 0.6267015697391654
+   },
+   "TRIloop": {
+    "n": 1168,
+    "pearson_r": 0.6797160029575293,
+    "mae_after_offset": 0.4777244793317364
+   },
+   "WatsonCrick": {
+    "n": 2027,
+    "pearson_r": 0.8912331921176047,
+    "mae_after_offset": 0.6416812933097722
+   }
+  }
+ }
+}

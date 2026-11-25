@@ -1,0 +1,19 @@
+
+=== NaCl_025mM (lambda_D = 19.2 A) ===
+  seq   0  121:FAIL  81:86s  61:88s  41:86s
+  seq   1  121:FAIL  81:96s  61:98s  41:97s
+  seq   2  121:144s  81:127s  61:128s  41:125s
+  seq   3  121:FAIL  81:84s  61:86s  41:84s
+  seq   4  121:FAIL  81:97s  61:98s  41:98s
+  seq   5  121:FAIL  81:108s  61:109s  41:107s
+  seq   6  121:FAIL  81:74s  61:74s  41:73s
+  seq   7  121:FAIL  81:85s  61:86s  41:83s
+  seq   8  121:FAIL  81:74s  61:73s  41:72s
+  seq   9  121:FAIL  81:107s  61:108s  41:105s
+  seq  10  121:FAIL  81:85s  61:82s  41:82s
+  seq  11  121:FAIL  81:83s  61:84s  41:82s
+
+=== converged flank by condition (tolerance 0.05 sd) ===
+  NaCl_025mM   plan flank=None bp   measured shortest converged solute=none of those tried
+
+-> /nfs/roberts/scratch/pi_skr2/bjc75/pangea/apbs/convergence_v2/c025/summary_1018.json

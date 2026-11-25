@@ -1,0 +1,94 @@
+{
+ "computed": "2026-11-24T09:20:00",
+ "units_left": {
+  "A extras": 166128,
+  "K RNA/hybrid electrostatics": 467784,
+  "J oxDNA2 v2": 180028,
+  "M quadruplex solve stage": 73191,
+  "M i-motif": 25868,
+  "M triplex": 6948,
+  "G trimer DFT": 58,
+  "N modified-stack DFT (est. ~7 h per shard from the main tier)": 128,
+  "I side chains (est. ~1 h per item, pending the convergence test)": 952
+ },
+ "cruciform_cost": {
+  "seconds_per_candidate": 6846,
+  "gb_requested": 32,
+  "measured": "34489354 tasks 0-2 (stems 5, 8, 12 bp)"
+ },
+ "scopes": {
+  "cruciforms: stems >= 8 bp (12,559)": {
+   "cpu_h": 222718,
+   "slot_h": 279244,
+   "eta": {
+    "last 24 h without week (479 CPUs, 607 slots)": {
+     "days_labels": 19.2,
+     "training_start": "Dec 14"
+    },
+    "last 6 h without week (664 CPUs, 793 slots)": {
+     "days_labels": 14.7,
+     "training_start": "Dec 10"
+    },
+    "last 48 h without week (687 CPUs, 995 slots)": {
+     "days_labels": 11.7,
+     "training_start": "Dec 07"
+    }
+   }
+  },
+  "cruciforms: stems >= 8 bp, if long stems cost 2x": {
+   "cpu_h": 246601,
+   "slot_h": 336707,
+   "eta": {
+    "last 24 h without week (479 CPUs, 607 slots)": {
+     "days_labels": 23.1,
+     "training_start": "Dec 18"
+    },
+    "last 6 h without week (664 CPUs, 793 slots)": {
+     "days_labels": 17.7,
+     "training_start": "Dec 13"
+    },
+    "last 48 h without week (687 CPUs, 995 slots)": {
+     "days_labels": 14.1,
+     "training_start": "Dec 09"
+    }
+   }
+  },
+  "cruciforms: all (43,607)": {
+   "cpu_h": 281761,
+   "slot_h": 421303,
+   "eta": {
+    "last 24 h without week (479 CPUs, 607 slots)": {
+     "days_labels": 28.9,
+     "training_start": "Dec 24"
+    },
+    "last 6 h without week (664 CPUs, 793 slots)": {
+     "days_labels": 22.1,
+     "training_start": "Dec 17"
+    },
+    "last 48 h without week (687 CPUs, 995 slots)": {
+     "days_labels": 17.6,
+     "training_start": "Dec 12"
+    }
+   }
+  },
+  "(reference) no cruciforms": {
+   "cpu_h": 198835,
+   "slot_h": 221781,
+   "eta": {
+    "last 24 h without week (479 CPUs, 607 slots)": {
+     "days_labels": 15.2,
+     "training_start": "Dec 10"
+    },
+    "last 6 h without week (664 CPUs, 793 slots)": {
+     "days_labels": 11.7,
+     "training_start": "Dec 07"
+    },
+    "last 48 h without week (687 CPUs, 995 slots)": {
+     "days_labels": 9.3,
+     "training_start": "Dec 04"
+    }
+   }
+  }
+ },
+ "note": "Rates exclude the week partition (closed to jobs of <= 24 h). Cruciform cost from the v2 test (1.9 h mean, 32 GB requested); 8,191 of the 12,559 have 27-29 bp stems, whose cost (stem 28, task 3) is not yet measured. Not included: pKa production (test pending). +1 day packing before training."
+}

@@ -1,0 +1,132 @@
+{
+ "n_snapshots": 16,
+ "n_shards": 1024,
+ "per_bp": {
+  "C_BI_fraction_C": {
+   "kind": "population",
+   "n_values": 1147860,
+   "noise_var": 0.0033758978210902606,
+   "total_var": 0.014096660515502854,
+   "ceiling_r2": 0.7605179029900305
+  },
+  "C_BI_fraction_W": {
+   "kind": "population",
+   "n_values": 1147860,
+   "noise_var": 0.0034401557572352032,
+   "total_var": 0.013798484247072787,
+   "ceiling_r2": 0.7506859669774962
+  },
+  "C_sugar_C2endo_prob_C": {
+   "kind": "population",
+   "n_values": 1166991,
+   "noise_var": 0.002262008438439828,
+   "total_var": 0.004295353417496324,
+   "ceiling_r2": 0.4733824627268255
+  },
+  "C_sugar_C2endo_prob_W": {
+   "kind": "population",
+   "n_values": 1166991,
+   "noise_var": 0.0024659133600144875,
+   "total_var": 0.004827752038231332,
+   "ceiling_r2": 0.4892212067880177
+  },
+  "C_sugar_C3endo_prob_C": {
+   "kind": "population",
+   "n_values": 1166991,
+   "noise_var": 2.5118909800218394e-05,
+   "total_var": 2.547824850742197e-05,
+   "ceiling_r2": 0.014103744497935056
+  },
+  "C_sugar_C3endo_prob_W": {
+   "kind": "population",
+   "n_values": 1166991,
+   "noise_var": 3.391958821162003e-05,
+   "total_var": 3.472354980270937e-05,
+   "ceiling_r2": 0.02315320857623282
+  },
+  "C_alpha_C_sd": {
+   "kind": "spread",
+   "n_values": 1147860,
+   "noise_var": 0.8871049581857905,
+   "total_var": 3.844188087286325,
+   "ceiling_r2": 0.7692347673830882
+  },
+  "C_alpha_W_sd": {
+   "kind": "spread",
+   "n_values": 1147860,
+   "noise_var": 0.9314808008114582,
+   "total_var": 4.123178357424976,
+   "ceiling_r2": 0.7740867068886172
+  },
+  "C_beta_C_sd": {
+   "kind": "spread",
+   "n_values": 1147860,
+   "noise_var": 3.2806971370614435,
+   "total_var": 15.855209697079749,
+   "ceiling_r2": 0.7930839642148858
+  },
+  "C_beta_W_sd": {
+   "kind": "spread",
+   "n_values": 1147860,
+   "noise_var": 3.450690878718144,
+   "total_var": 17.000061076468487,
+   "ceiling_r2": 0.7970189128617546
+  },
+  "C_delta_C_sd": {
+   "kind": "spread",
+   "n_values": 1166991,
+   "noise_var": 4.040059661257136,
+   "total_var": 16.84985198105628,
+   "ceiling_r2": 0.7602317417506552
+  },
+  "C_delta_W_sd": {
+   "kind": "spread",
+   "n_values": 1166991,
+   "noise_var": 4.256883835875544,
+   "total_var": 17.878464290248505,
+   "ceiling_r2": 0.761898798086512
+  },
+  "C_epsilon_C_sd": {
+   "kind": "spread",
+   "n_values": 1147860,
+   "noise_var": 9.247808162575469,
+   "total_var": 106.0126557736786,
+   "ceiling_r2": 0.9127669418798622
+  },
+  "C_epsilon_W_sd": {
+   "kind": "spread",
+   "n_values": 1147860,
+   "noise_var": 9.596078296803274,
+   "total_var": 107.73263615890909,
+   "ceiling_r2": 0.9109269146384875
+  },
+  "C_gamma_C_sd": {
+   "kind": "spread",
+   "n_values": 1166991,
+   "noise_var": 0.6023054931393417,
+   "total_var": 6.047799057761918,
+   "ceiling_r2": 0.9004091426671451
+  },
+  "C_gamma_W_sd": {
+   "kind": "spread",
+   "n_values": 1166991,
+   "noise_var": 0.6292587546267518,
+   "total_var": 6.555748905781214,
+   "ceiling_r2": 0.904014207427646
+  },
+  "C_zeta_C_sd": {
+   "kind": "spread",
+   "n_values": 1147860,
+   "noise_var": 14.83020153112683,
+   "total_var": 157.64897437605586,
+   "ceiling_r2": 0.9059289691555439
+  },
+  "C_zeta_W_sd": {
+   "kind": "spread",
+   "n_values": 1147860,
+   "noise_var": 15.40017582942236,
+   "total_var": 162.08542964468882,
+   "ceiling_r2": 0.9049872905715126
+  }
+ }
+}

@@ -1,0 +1,25 @@
+[downloaded    ] lentimpra            lentimpra/HepG2.tsv                                  66.49 MB
+[downloaded    ] lentimpra            lentimpra/WTC11.tsv                                  23.46 MB
+[downloaded    ] lentimpra            lentimpra/K562_averaged.tsv                         102.26 MB
+[downloaded    ] lentimpra            lentimpra/WTC11_averaged.tsv                         23.66 MB
+[downloaded    ] lentimpra            lentimpra/HepG2_averaged.tsv                         67.11 MB
+[downloaded    ] lentimpra            lentimpra/K562.tsv                                  101.25 MB
+[downloaded    ] deepstarr            deepstarr/Sequences_Val.fa                           11.76 MB
+[downloaded    ] deepstarr            deepstarr/Sequences_Test.fa                          12.03 MB
+[downloaded    ] deepstarr            deepstarr/Sequences_activity_Val.txt                  4.41 MB
+[downloaded    ] jores_plant          jores_plant/CNN_train_leaf.tsv                       13.92 MB
+[downloaded    ] jores_plant          jores_plant/CNN_test_leaf.tsv                         1.52 MB
+[downloaded    ] deepstarr            deepstarr/Sequences_activity_Test.txt                 4.48 MB
+[downloaded    ] jores_plant          jores_plant/CNN_train_proto.tsv                      14.64 MB
+[downloaded    ] jores_plant          jores_plant/CNN_test_proto.tsv                        1.62 MB
+[downloaded    ] yeast_promoter       yeast_promoter/test_MAUDE.txt.gz                      1.62 MB
+[downloaded    ] sharpr_mpra          sharpr_mpra/Scaleup_counts_sequences.zip             26.41 MB
+[downloaded    ] sharpr_mpra          sharpr_mpra/K562_SHARPR-MPRA_scores.zip              19.06 MB
+[downloaded    ] sharpr_mpra          sharpr_mpra/HEPG2_SHARPR-MPRA_scores.zip             18.42 MB
+[downloaded    ] splice_sites         splice_sites/train.fna                               11.16 MB
+[downloaded    ] splice_sites         splice_sites/test.fna                                 1.24 MB
+[downloaded    ] yeast_promoter       yeast_promoter/train_sequences.txt.gz               223.63 MB
+[downloaded    ] deepstarr            deepstarr/Sequences_activity_Train.txt               43.68 MB
+[downloaded    ] deepstarr            deepstarr/Sequences_Train.fa                        116.92 MB
+
+23 files, 0.91 GB -> /home/bjc75/scratch/pangea/assays/download_activity_datasets.json

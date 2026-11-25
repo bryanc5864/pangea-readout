@@ -1,0 +1,257 @@
+{
+ "n_sequences": 6,
+ "pairs": {
+  "C_mean_BI_fraction": {
+   "max_abs_diff": NaN,
+   "spread": NaN,
+   "max_rel_diff": NaN
+  },
+  "C_mean_phosphate_azimuth": {
+   "max_abs_diff": 199.33749389648438,
+   "spread": 99.23124735619513,
+   "max_rel_diff": 2.0088177787481927
+  },
+  "C_mean_phosphate_radius": {
+   "max_abs_diff": 0.0,
+   "spread": 0.03617050316812002,
+   "max_rel_diff": 0.0
+  },
+  "G_cleavage_heterogeneity": {
+   "max_abs_diff": 0.2166154384613037,
+   "spread": 0.068774385193277,
+   "max_rel_diff": 3.1496528518946154
+  },
+  "G_max_cleavage": {
+   "max_abs_diff": 1.4540557861328125,
+   "spread": 0.5469683131782835,
+   "max_rel_diff": 2.6583912652703616
+  },
+  "G_mean_major_edge": {
+   "max_abs_diff": 0.1476898193359375,
+   "spread": 2.2608787840043747,
+   "max_rel_diff": 0.06532407680625647
+  },
+  "G_mean_minor_edge": {
+   "max_abs_diff": 0.10019493103027344,
+   "spread": 0.7250342232127773,
+   "max_rel_diff": 0.138193381529342
+  },
+  "G_mean_radical_target": {
+   "max_abs_diff": 0.3217735290527344,
+   "spread": 0.21923241313470543,
+   "max_rel_diff": 1.4677278986799431
+  },
+  "G_mean_sasa_base": {
+   "max_abs_diff": 0.31485748291015625,
+   "spread": 0.9737696857485826,
+   "max_rel_diff": 0.32333876019986235
+  },
+  "G_mean_sasa_phosphate": {
+   "max_abs_diff": 0.450286865234375,
+   "spread": 0.3397234311247908,
+   "max_rel_diff": 1.3254513053265697
+  },
+  "G_mean_sasa_sugar": {
+   "max_abs_diff": 0.16707229614257812,
+   "spread": 0.4962867228690362,
+   "max_rel_diff": 0.3366447024347786
+  },
+  "G_mean_sasa_total": {
+   "max_abs_diff": 0.9175262451171875,
+   "spread": 0.6905962266460117,
+   "max_rel_diff": 1.3286001424787632
+  }
+ },
+ "per_bp": {
+  "C_alpha": {
+   "index_map": "n-1-k",
+   "interior_median_rel": 0.19118248751883007,
+   "ends_max_rel": 1.3296745059156985
+  },
+  "C_beta": {
+   "index_map": "n-1-k",
+   "interior_median_rel": 0.00338780153490456,
+   "ends_max_rel": 0.06516535377602138
+  },
+  "C_delta": {
+   "index_map": "n-1-k",
+   "interior_median_rel": 0.05819140769853088,
+   "ends_max_rel": 1.3333595573115862
+  },
+  "C_eps_minus_zeta": {
+   "index_map": "n-1-k",
+   "interior_median_rel": 0.07241925200713284,
+   "ends_max_rel": 1.4548524839761467
+  },
+  "C_epsilon": {
+   "index_map": "n-1-k",
+   "interior_median_rel": 0.002732819767694914,
+   "ends_max_rel": 2.0455027995378043
+  },
+  "C_gamma": {
+   "index_map": "n-1-k",
+   "interior_median_rel": 0.1316799811869775,
+   "ends_max_rel": 5.608929117684561
+  },
+  "C_phosphate_axial_offset_A": {
+   "index_map": "n-2-k",
+   "interior_median_rel": 0.9681379634360057,
+   "ends_max_rel": 6.564462881097937
+  },
+  "C_phosphate_axial_offset_A_sd": {
+   "index_map": "n-1-k",
+   "interior_median_rel": 0.10831045212578229,
+   "ends_max_rel": 0.5169815027326887
+  },
+  "C_phosphate_azimuth_deg": {
+   "index_map": "n-2-k",
+   "interior_median_rel": 2.0029592480826466,
+   "ends_max_rel": 1.9844812171541253
+  },
+  "C_phosphate_azimuth_deg_sd": {
+   "index_map": "n-1-k",
+   "interior_median_rel": 0.09562746691634613,
+   "ends_max_rel": 0.33174473475825417
+  },
+  "C_phosphate_radius_A": {
+   "index_map": "n-1-k",
+   "interior_median_rel": 0.0,
+   "ends_max_rel": 0.0
+  },
+  "C_phosphate_radius_A_sd": {
+   "index_map": "n-1-k",
+   "interior_median_rel": 0.0994634541620342,
+   "ends_max_rel": 0.35861687043217394
+  },
+  "C_sugar_pucker_amplitude": {
+   "index_map": "n-1-k",
+   "interior_median_rel": 0.07664090164887018,
+   "ends_max_rel": 1.4696472486143501
+  },
+  "C_sugar_pucker_phase": {
+   "index_map": "n-1-k",
+   "interior_median_rel": 0.053129953354242504,
+   "ends_max_rel": 1.6303656775578368
+  },
+  "C_zeta": {
+   "index_map": "n-1-k",
+   "interior_median_rel": 0.057308773691620914,
+   "ends_max_rel": 0.7035695782259082
+  },
+  "G_cpd_CC": {
+   "index_map": "n-1-k",
+   "interior_median_rel": 0.0,
+   "ends_max_rel": 0.0
+  },
+  "G_cpd_CT": {
+   "index_map": "n-1-k",
+   "interior_median_rel": 0.0,
+   "ends_max_rel": 0.0
+  },
+  "G_cpd_TC": {
+   "index_map": "n-1-k",
+   "interior_median_rel": 0.0,
+   "ends_max_rel": 0.0
+  },
+  "G_cpd_TT": {
+   "index_map": "n-1-k",
+   "interior_median_rel": 0.0,
+   "ends_max_rel": 0.0
+  },
+  "G_cpd_any": {
+   "index_map": "n-1-k",
+   "interior_median_rel": 0.0,
+   "ends_max_rel": 0.0
+  },
+  "G_cpd_methyl_weighted": {
+   "index_map": "n-1-k",
+   "interior_median_rel": 0.0,
+   "ends_max_rel": 0.0
+  },
+  "G_cytosine_c6": {
+   "index_map": "n-1-k",
+   "interior_median_rel": 0.0,
+   "ends_max_rel": 0.0
+  },
+  "G_major_edge": {
+   "index_map": "n-1-k",
+   "interior_median_rel": 0.020975318305292055,
+   "ends_max_rel": 0.16772504398325486
+  },
+  "G_minor_edge": {
+   "index_map": "n-1-k",
+   "interior_median_rel": 0.0347665592057454,
+   "ends_max_rel": 0.5069511094568752
+  },
+  "G_probe_bisulfite": {
+   "index_map": "n-1-k",
+   "interior_median_rel": 0.0,
+   "ends_max_rel": 0.0
+  },
+  "G_probe_depc": {
+   "index_map": "n-1-k",
+   "interior_median_rel": 0.002070668019468078,
+   "ends_max_rel": 0.37416678913510487
+  },
+  "G_probe_dms": {
+   "index_map": "n-1-k",
+   "interior_median_rel": 0.002070668019468078,
+   "ends_max_rel": 0.37416678913510487
+  },
+  "G_probe_dnase_i": {
+   "index_map": "n-1-k",
+   "interior_median_rel": 0.0347665592057454,
+   "ends_max_rel": 0.5069511094568752
+  },
+  "G_probe_hydroxyl_radical": {
+   "index_map": "n-1-k",
+   "interior_median_rel": 0.15603640270790978,
+   "ends_max_rel": 0.5996401358423187
+  },
+  "G_probe_kmno4": {
+   "index_map": "n-1-k",
+   "interior_median_rel": 0.0,
+   "ends_max_rel": 1.0181823629275832
+  },
+  "G_purine_n7": {
+   "index_map": "n-1-k",
+   "interior_median_rel": 0.002070668019468078,
+   "ends_max_rel": 0.37416678913510487
+  },
+  "G_radical_target": {
+   "index_map": "n-1-k",
+   "interior_median_rel": 0.15603640270790978,
+   "ends_max_rel": 0.5996401358423187
+  },
+  "G_sasa_base": {
+   "index_map": "n-1-k",
+   "interior_median_rel": 0.02833769530323453,
+   "ends_max_rel": 0.6802250348157108
+  },
+  "G_sasa_phosphate": {
+   "index_map": "n-1-k",
+   "interior_median_rel": 0.08712829661868295,
+   "ends_max_rel": 0.5181697683409986
+  },
+  "G_sasa_sugar": {
+   "index_map": "n-1-k",
+   "interior_median_rel": 0.06889880597643967,
+   "ends_max_rel": 0.4415864375375662
+  },
+  "G_sasa_total": {
+   "index_map": "n-1-k",
+   "interior_median_rel": 0.048221829708577336,
+   "ends_max_rel": 0.5801135146508053
+  },
+  "G_sixfour": {
+   "index_map": "n-1-k",
+   "interior_median_rel": 0.0,
+   "ends_max_rel": 2.657429360726031
+  },
+  "G_thymine_c5c6": {
+   "index_map": "n-1-k",
+   "interior_median_rel": 0.0,
+   "ends_max_rel": 1.0181823629275832
+  }
+ }
+}

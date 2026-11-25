@@ -1,0 +1,161 @@
+{
+ "source_job": 34292050,
+ "script": "src/physics/fold/validate_loop_builder.py",
+ "protocol": "each loop of a solved quadruplex rebuilt from sequence on its core and the other loops (loop_builder.fill_and_relax), RMSD of the rebuilt loop after core superposition",
+ "loops": [
+  {
+   "pdb": "8FHV",
+   "loop": 0,
+   "length": 7,
+   "type": "lateral",
+   "seconds": 2586.5,
+   "loop_rmsd_A": 9.58,
+   "o3p_max_A": 1.62,
+   "min_contact_A": 2.89,
+   "status": "ok"
+  },
+  {
+   "pdb": "8FHV",
+   "loop": 1,
+   "length": 4,
+   "type": "lateral",
+   "seconds": 2560.6,
+   "loop_rmsd_A": 3.58,
+   "o3p_max_A": 1.609,
+   "min_contact_A": 3.0,
+   "status": "ok"
+  },
+  {
+   "pdb": "8FI0",
+   "loop": 2,
+   "length": 19,
+   "type": "lateral",
+   "seconds": 2759.6,
+   "loop_rmsd_A": 17.99,
+   "o3p_max_A": 1.611,
+   "min_contact_A": 2.88,
+   "status": "ok"
+  },
+  {
+   "pdb": "8ABN",
+   "loop": 1,
+   "length": 15,
+   "type": "lateral",
+   "seconds": 851.7,
+   "loop_rmsd_A": 13.31,
+   "o3p_max_A": 1.607,
+   "min_contact_A": 2.88,
+   "status": "ok"
+  },
+  {
+   "pdb": "8R6D",
+   "loop": 1,
+   "length": 3,
+   "type": "lateral",
+   "seconds": 1074.1,
+   "loop_rmsd_A": 2.06,
+   "o3p_max_A": 1.614,
+   "min_contact_A": 3.1,
+   "status": "ok"
+  },
+  {
+   "pdb": "8R6H",
+   "loop": 2,
+   "length": 3,
+   "type": "propeller",
+   "seconds": 1047.4,
+   "loop_rmsd_A": 3.29,
+   "o3p_max_A": 1.603,
+   "min_contact_A": 3.06,
+   "status": "ok"
+  },
+  {
+   "pdb": "7EL7",
+   "loop": 0,
+   "length": 13,
+   "type": "lateral",
+   "seconds": 852.4,
+   "loop_rmsd_A": 12.16,
+   "o3p_max_A": 1.679,
+   "min_contact_A": 2.85,
+   "status": "ok"
+  },
+  {
+   "pdb": "5MTA",
+   "loop": 0,
+   "length": 4,
+   "type": "propeller",
+   "seconds": 1062.8,
+   "loop_rmsd_A": 6.29,
+   "o3p_max_A": 1.615,
+   "min_contact_A": 2.8,
+   "status": "ok"
+  },
+  {
+   "pdb": "5MTA",
+   "loop": 1,
+   "length": 10,
+   "type": "diagonal",
+   "seconds": 1110.4,
+   "loop_rmsd_A": 7.15,
+   "o3p_max_A": 1.606,
+   "min_contact_A": 2.87,
+   "status": "ok"
+  },
+  {
+   "pdb": "7CV3",
+   "loop": 1,
+   "length": 10,
+   "type": "lateral",
+   "seconds": 799.7,
+   "loop_rmsd_A": 9.98,
+   "o3p_max_A": 1.615,
+   "min_contact_A": 3.1,
+   "status": "ok"
+  },
+  {
+   "pdb": "2LPW",
+   "loop": 1,
+   "length": 9,
+   "type": "propeller",
+   "seconds": 695.1,
+   "loop_rmsd_A": 14.32,
+   "o3p_max_A": 1.608,
+   "min_contact_A": 3.08,
+   "status": "ok"
+  },
+  {
+   "pdb": "8RZX",
+   "loop": 1,
+   "length": 8,
+   "type": "propeller",
+   "seconds": 672.6,
+   "loop_rmsd_A": 11.58,
+   "o3p_max_A": 1.614,
+   "min_contact_A": 3.32,
+   "status": "ok"
+  },
+  {
+   "pdb": "6NEB",
+   "loop": 1,
+   "length": 6,
+   "type": "propeller",
+   "seconds": 747.0,
+   "loop_rmsd_A": 8.89,
+   "o3p_max_A": 1.611,
+   "min_contact_A": 2.87,
+   "status": "ok"
+  },
+  {
+   "pdb": "6ZX7",
+   "loop": 1,
+   "length": 6,
+   "type": "diagonal",
+   "seconds": 685.7,
+   "loop_rmsd_A": 4.48,
+   "o3p_max_A": 1.608,
+   "min_contact_A": 2.9,
+   "status": "ok"
+  }
+ ]
+}

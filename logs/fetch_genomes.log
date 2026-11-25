@@ -1,0 +1,18 @@
+[ok] Caenorhabditis elegans           GCF_000002985.6      GC=35.5% len=100,272,607 downloaded
+[ok] Drosophila melanogaster          GCF_000001215.4      GC=42% len=143,706,478 downloaded
+[ok] Arabidopsis thaliana             GCF_000001735.4      GC=36% len=119,146,348 downloaded
+[ok] Saccharomyces cerevisiae         GCF_000146045.2      GC=38.5% len=12,071,326 downloaded
+[ok] Escherichia coli                 GCF_000008865.2      GC=50.5% len=5,594,605 downloaded
+[ok] Mycobacterium tuberculosis       GCF_000195955.2      GC=65.5% len=4,411,532 downloaded
+[ok] Streptomyces coelicolor          GCF_000203835.1      GC=72% len=9,054,847 downloaded
+[ok] Plasmodium falciparum            GCF_000002765.6      GC=19.5% len=23,292,622 downloaded
+[ok] Dictyostelium discoideum         GCF_000004695.1      GC=22.5% len=34,149,409 downloaded
+[ok] Methanocaldococcus jannaschii    GCF_000091665.1      GC=31.5% len=1,739,927 downloaded
+[ok] Thermus thermophilus             GCF_000091545.1      GC=69.5% len=2,116,056 downloaded
+[ok] Danio rerio                      GCF_052040795.2      GC=37% len=1,455,310,570 downloaded
+[ok] Mus musculus                     GCF_000001635.27     GC=42% len=2,728,206,152 downloaded
+[ok] Homo sapiens                     GCF_000001405.40     GC=41% len=3,099,441,038 downloaded
+[ok] Zea mays                         GCF_902167145.1      GC=47% len=2,182,075,994 downloaded
+
+manifest -> /home/bjc75/scratch/pangea/genomes/genomes_manifest.json
+GC range across panel: 19.5% to 72.0%

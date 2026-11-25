@@ -1,0 +1,78 @@
+{
+ "n_fragments": 300,
+ "n_ensemble": 3200,
+ "per_bp": {
+  "C_axis_bend_direction_sd": {
+   "noise_var": 6.272446632385254,
+   "total_var": 857.3382568359375,
+   "ceiling_r2": 0.9926838134395937
+  },
+  "C_axis_curvature_sd": {
+   "noise_var": 0.00016035443695727736,
+   "total_var": 0.03426789864897728,
+   "ceiling_r2": 0.9953205640474233
+  },
+  "C_major_depth_A_sd": {
+   "noise_var": 5.4148640629136935e-05,
+   "total_var": 0.004805838223546743,
+   "ceiling_r2": 0.9887327375349778
+  },
+  "C_major_width_A_sd": {
+   "noise_var": 0.0004996116040274501,
+   "total_var": 0.010879225097596645,
+   "ceiling_r2": 0.9540765450162604
+  },
+  "C_minor_depth_A_sd": {
+   "noise_var": 4.1474362660665065e-05,
+   "total_var": 0.011637208051979542,
+   "ceiling_r2": 0.9964360555834859
+  },
+  "C_minor_width_A_sd": {
+   "noise_var": 0.0003141144406981766,
+   "total_var": 0.0037055735010653734,
+   "ceiling_r2": 0.9152318957894461
+  },
+  "C_phosphate_axial_offset_A_C_sd": {
+   "noise_var": 0.00014521069533657283,
+   "total_var": 0.013982248492538929,
+   "ceiling_r2": 0.9896146392038406
+  },
+  "C_phosphate_axial_offset_A_W_sd": {
+   "noise_var": 0.0001438796316506341,
+   "total_var": 0.01376589760184288,
+   "ceiling_r2": 0.989548111150313
+  },
+  "C_phosphate_azimuth_deg_C_sd": {
+   "noise_var": 0.005233134143054485,
+   "total_var": 0.5350732803344727,
+   "ceiling_r2": 0.9902197804760812
+  },
+  "C_phosphate_azimuth_deg_W_sd": {
+   "noise_var": 0.005255484487861395,
+   "total_var": 0.5208491086959839,
+   "ceiling_r2": 0.9899097754030545
+  },
+  "C_phosphate_radius_A_C_sd": {
+   "noise_var": 7.057635230012238e-05,
+   "total_var": 0.0054927244782447815,
+   "ceiling_r2": 0.987150938922996
+  },
+  "C_phosphate_radius_A_W_sd": {
+   "noise_var": 7.381134491879493e-05,
+   "total_var": 0.005187766160815954,
+   "ceiling_r2": 0.9857720370134829
+  }
+ },
+ "global": {
+  "C_mean_major_width_sd_A": {
+   "noise_var": 1.3595493328466546e-05,
+   "total_var": 0.0009183193906210363,
+   "ceiling_r2": 0.98519524528468
+  },
+  "C_mean_minor_width_sd_A": {
+   "noise_var": 7.633188033651095e-06,
+   "total_var": 0.0004958714707754552,
+   "ceiling_r2": 0.9846065190608483
+  }
+ }
+}

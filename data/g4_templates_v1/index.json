@@ -1,0 +1,1266 @@
+[
+ {
+  "pdb": "1KF1",
+  "n_tetrads": 3,
+  "loops": [
+   3,
+   3,
+   3
+  ],
+  "sequence": "AGGGTTAGGGTTAGGGTTAGGG",
+  "strand_dirs": [
+   1,
+   1,
+   1,
+   1
+  ]
+ },
+ {
+  "pdb": "1XAV",
+  "n_tetrads": 3,
+  "loops": [
+   1,
+   2,
+   1
+  ],
+  "sequence": "TGAGGGTGGGTAGGGTGGGTAA",
+  "strand_dirs": [
+   1,
+   1,
+   1,
+   1
+  ]
+ },
+ {
+  "pdb": "2KQG",
+  "n_tetrads": 3,
+  "loops": [
+   1,
+   5,
+   1
+  ],
+  "sequence": "CGGGCGGGCACGAGGGAGGGT",
+  "strand_dirs": [
+   1,
+   1,
+   1,
+   1
+  ]
+ },
+ {
+  "pdb": "2KQH",
+  "n_tetrads": 3,
+  "loops": [
+   1,
+   5,
+   1
+  ],
+  "sequence": "CGGGCGGGCGCGAGGGAGGGT",
+  "strand_dirs": [
+   1,
+   1,
+   1,
+   1
+  ]
+ },
+ {
+  "pdb": "2KYP",
+  "n_tetrads": 3,
+  "loops": [
+   1,
+   5,
+   1
+  ],
+  "sequence": "CGGGCGGGCGCTAGGGAGGGT",
+  "strand_dirs": [
+   1,
+   1,
+   1,
+   1
+  ]
+ },
+ {
+  "pdb": "2KZE",
+  "n_tetrads": 3,
+  "loops": [
+   1,
+   3,
+   1
+  ],
+  "sequence": "AIGGGAGGGICTGGGAGGGC",
+  "strand_dirs": [
+   1,
+   1,
+   1,
+   1
+  ]
+ },
+ {
+  "pdb": "2L7V",
+  "n_tetrads": 3,
+  "loops": [
+   1,
+   2,
+   1
+  ],
+  "sequence": "TGAGGGTGGGTAGGGTGGGTAA",
+  "strand_dirs": [
+   1,
+   1,
+   1,
+   1
+  ]
+ },
+ {
+  "pdb": "2L88",
+  "n_tetrads": 3,
+  "loops": [
+   3,
+   1,
+   3
+  ],
+  "sequence": "GGGGCGGGGCGGGGCGGGGT",
+  "strand_dirs": [
+   1,
+   1,
+   1,
+   1
+  ]
+ },
+ {
+  "pdb": "2LBY",
+  "n_tetrads": 3,
+  "loops": [
+   1,
+   2,
+   1
+  ],
+  "sequence": "TAGGGAGGGTAGGGAGGGT",
+  "strand_dirs": [
+   1,
+   1,
+   1,
+   1
+  ]
+ },
+ {
+  "pdb": "2LD8",
+  "n_tetrads": 3,
+  "loops": [
+   3,
+   3,
+   3
+  ],
+  "sequence": "TAGGGTTAGGGTTAGGGTTAGGG",
+  "strand_dirs": [
+   1,
+   1,
+   1,
+   1
+  ]
+ },
+ {
+  "pdb": "2LEE",
+  "n_tetrads": 3,
+  "loops": [
+   1,
+   1,
+   1
+  ],
+  "sequence": "TAGGGCGGGAGGGAGGGAA",
+  "strand_dirs": [
+   1,
+   1,
+   1,
+   1
+  ]
+ },
+ {
+  "pdb": "2LK7",
+  "n_tetrads": 3,
+  "loops": [
+   1,
+   1,
+   1
+  ],
+  "sequence": "TTGGGTGGGTGGGTGGGT",
+  "strand_dirs": [
+   1,
+   1,
+   1,
+   1
+  ]
+ },
+ {
+  "pdb": "2LPW",
+  "n_tetrads": 3,
+  "loops": [
+   1,
+   9,
+   1
+  ],
+  "sequence": "AAGGGTGGGTGTAAGTGTGGGTGGGT",
+  "strand_dirs": [
+   1,
+   1,
+   1,
+   1
+  ]
+ },
+ {
+  "pdb": "2LXQ",
+  "n_tetrads": 3,
+  "loops": [
+   1,
+   2,
+   1
+  ],
+  "sequence": "TAGGGTGGGTTGGGTGGGGAAT",
+  "strand_dirs": [
+   1,
+   1,
+   1,
+   1
+  ]
+ },
+ {
+  "pdb": "2M27",
+  "n_tetrads": 3,
+  "loops": [
+   1,
+   4,
+   1
+  ],
+  "sequence": "CGGGGCGGGCCTTGGGCGGGGT",
+  "strand_dirs": [
+   1,
+   1,
+   1,
+   1
+  ]
+ },
+ {
+  "pdb": "2MB2",
+  "n_tetrads": 3,
+  "loops": [
+   1,
+   1,
+   1
+  ],
+  "sequence": "TTGGGGGGGGGGGGGGGT",
+  "strand_dirs": [
+   1,
+   1,
+   1,
+   1
+  ]
+ },
+ {
+  "pdb": "3R6R",
+  "n_tetrads": 3,
+  "loops": [
+   3,
+   3,
+   3
+  ],
+  "sequence": "AGGGTTAGGGTTAGGGTTAGGG",
+  "strand_dirs": [
+   1,
+   1,
+   1,
+   1
+  ]
+ },
+ {
+  "pdb": "3T5E",
+  "n_tetrads": 3,
+  "loops": [
+   3,
+   3,
+   3
+  ],
+  "sequence": "AGGGTTAGGGTTAGGGTTAGGG",
+  "strand_dirs": [
+   1,
+   1,
+   1,
+   1
+  ]
+ },
+ {
+  "pdb": "3UYH",
+  "n_tetrads": 3,
+  "loops": [
+   3,
+   3,
+   3
+  ],
+  "sequence": "GGGTTAGGGTTAGGGTTAGGG",
+  "strand_dirs": [
+   1,
+   1,
+   1,
+   1
+  ]
+ },
+ {
+  "pdb": "4DA3",
+  "n_tetrads": 2,
+  "loops": [
+   4,
+   4,
+   4
+  ],
+  "sequence": "GGGTTAGGGTTAGGGTTAGGG",
+  "strand_dirs": [
+   1,
+   1,
+   1,
+   1
+  ]
+ },
+ {
+  "pdb": "4DAQ",
+  "n_tetrads": 3,
+  "loops": [
+   3,
+   3,
+   3
+  ],
+  "sequence": "GGGTTAGGGTTAGGGTTAGGG",
+  "strand_dirs": [
+   1,
+   1,
+   1,
+   1
+  ]
+ },
+ {
+  "pdb": "4FXM",
+  "n_tetrads": 3,
+  "loops": [
+   3,
+   3,
+   3
+  ],
+  "sequence": "AGGGTTAGGGTTAGGGTTAGGG",
+  "strand_dirs": [
+   1,
+   1,
+   1,
+   1
+  ]
+ },
+ {
+  "pdb": "4G0F",
+  "n_tetrads": 3,
+  "loops": [
+   3,
+   3,
+   3
+  ],
+  "sequence": "AGGGTTAGGGTTAGGGTTAGGG",
+  "strand_dirs": [
+   1,
+   1,
+   1,
+   1
+  ]
+ },
+ {
+  "pdb": "5CCW",
+  "n_tetrads": 3,
+  "loops": [
+   3,
+   3,
+   3
+  ],
+  "sequence": "TAGGGTTAGGGTGGGTTAGGG",
+  "strand_dirs": [
+   1,
+   1,
+   1,
+   1
+  ]
+ },
+ {
+  "pdb": "5LIG",
+  "n_tetrads": 3,
+  "loops": [
+   1,
+   2,
+   1
+  ],
+  "sequence": "TAGGGAGGGTAGGGAGGGT",
+  "strand_dirs": [
+   1,
+   1,
+   1,
+   1
+  ]
+ },
+ {
+  "pdb": "5NYS",
+  "n_tetrads": 3,
+  "loops": [
+   2,
+   1,
+   2
+  ],
+  "sequence": "TAGGGACGGGCGGGCAGGGT",
+  "strand_dirs": [
+   1,
+   1,
+   1,
+   1
+  ]
+ },
+ {
+  "pdb": "5NYT",
+  "n_tetrads": 3,
+  "loops": [
+   2,
+   1,
+   2
+  ],
+  "sequence": "TAGGGACGGGCGGGCAGGGT",
+  "strand_dirs": [
+   -1,
+   -1,
+   -1,
+   -1
+  ]
+ },
+ {
+  "pdb": "5NYU",
+  "n_tetrads": 3,
+  "loops": [
+   2,
+   1,
+   2
+  ],
+  "sequence": "TAGGGACGGGCGGGCAGGGT",
+  "strand_dirs": [
+   1,
+   1,
+   1,
+   1
+  ]
+ },
+ {
+  "pdb": "5W77",
+  "n_tetrads": 3,
+  "loops": [
+   1,
+   2,
+   1
+  ],
+  "sequence": "TGAGGGTGGGTAGGGTGGGTAA",
+  "strand_dirs": [
+   1,
+   1,
+   1,
+   1
+  ]
+ },
+ {
+  "pdb": "6ERL",
+  "n_tetrads": 2,
+  "loops": [
+   2,
+   3,
+   2
+  ],
+  "sequence": "TGAGGTGGTAGGTGGTAA",
+  "strand_dirs": [
+   1,
+   1,
+   1,
+   1
+  ]
+ },
+ {
+  "pdb": "6H5R",
+  "n_tetrads": 3,
+  "loops": [
+   3,
+   3,
+   3
+  ],
+  "sequence": "TAGGGTTAGGGTTAGGGTTAGGGT",
+  "strand_dirs": [
+   1,
+   1,
+   1,
+   1
+  ]
+ },
+ {
+  "pdb": "6IP3",
+  "n_tetrads": 3,
+  "loops": [
+   3,
+   3,
+   3
+  ],
+  "sequence": "AGGGTTAGGGTTAGGGTTAGGG",
+  "strand_dirs": [
+   1,
+   1,
+   1,
+   1
+  ]
+ },
+ {
+  "pdb": "6IP7",
+  "n_tetrads": 3,
+  "loops": [
+   3,
+   3,
+   3
+  ],
+  "sequence": "AGGGTTAGGGTAGGGTTAGGG",
+  "strand_dirs": [
+   1,
+   1,
+   1,
+   1
+  ]
+ },
+ {
+  "pdb": "6ISW",
+  "n_tetrads": 3,
+  "loops": [
+   3,
+   3,
+   3
+  ],
+  "sequence": "AGGGTTAGGGTAGGGTTAGGG",
+  "strand_dirs": [
+   1,
+   1,
+   1,
+   1
+  ]
+ },
+ {
+  "pdb": "6JJ0",
+  "n_tetrads": 3,
+  "loops": [
+   1,
+   2,
+   1
+  ],
+  "sequence": "TGAGGGTGGGTAGGGTGGGTAA",
+  "strand_dirs": [
+   1,
+   1,
+   1,
+   1
+  ]
+ },
+ {
+  "pdb": "6JWD",
+  "n_tetrads": 3,
+  "loops": [
+   3,
+   1,
+   3
+  ],
+  "sequence": "GGGGCGGGGCGGGGCGGGGT",
+  "strand_dirs": [
+   1,
+   1,
+   1,
+   1
+  ]
+ },
+ {
+  "pdb": "6JWE",
+  "n_tetrads": 3,
+  "loops": [
+   3,
+   1,
+   3
+  ],
+  "sequence": "GGGGCGGGGCGGGGCGGGGT",
+  "strand_dirs": [
+   1,
+   1,
+   1,
+   1
+  ]
+ },
+ {
+  "pdb": "6K3Y",
+  "n_tetrads": 2,
+  "loops": [
+   1,
+   2,
+   2
+  ],
+  "sequence": "TTGGTGGGTGGGTGGGT",
+  "strand_dirs": [
+   1,
+   1,
+   1,
+   1
+  ]
+ },
+ {
+  "pdb": "6LNZ",
+  "n_tetrads": 2,
+  "loops": [
+   2,
+   5,
+   2
+  ],
+  "sequence": "CGGGGCGGGCCTTGGGCGGGGT",
+  "strand_dirs": [
+   1,
+   1,
+   1,
+   1
+  ]
+ },
+ {
+  "pdb": "6NEB",
+  "n_tetrads": 3,
+  "loops": [
+   1,
+   6,
+   1
+  ],
+  "sequence": "TTGGGGAGGGTTTTAAGGGTGGGGAAT",
+  "strand_dirs": [
+   1,
+   1,
+   1,
+   1
+  ]
+ },
+ {
+  "pdb": "6O2L",
+  "n_tetrads": 3,
+  "loops": [
+   1,
+   2,
+   1
+  ],
+  "sequence": "TGAGGGTGGGTAGGGTGGGTAA",
+  "strand_dirs": [
+   1,
+   1,
+   1,
+   1
+  ]
+ },
+ {
+  "pdb": "6V0L",
+  "n_tetrads": 2,
+  "loops": [
+   2,
+   1,
+   2
+  ],
+  "sequence": "AGGGAGGGCGGCGGGACA",
+  "strand_dirs": [
+   1,
+   1,
+   1,
+   1
+  ]
+ },
+ {
+  "pdb": "6W9P",
+  "n_tetrads": 4,
+  "loops": [
+   2,
+   2,
+   2
+  ],
+  "sequence": "GTTGGGGTTGGGGTTGGGGTTGGGGT",
+  "strand_dirs": [
+   1,
+   1,
+   1,
+   1
+  ]
+ },
+ {
+  "pdb": "6YY4",
+  "n_tetrads": 3,
+  "loops": [
+   1,
+   2,
+   1
+  ],
+  "sequence": "GGGTGGGAAGGGTGGGA",
+  "strand_dirs": [
+   1,
+   1,
+   1,
+   1
+  ]
+ },
+ {
+  "pdb": "6ZL2",
+  "n_tetrads": 3,
+  "loops": [
+   1,
+   2,
+   1
+  ],
+  "sequence": "TGAGGGTGGGTAGGGTGGGCTAGTCATTTTGACTAG",
+  "strand_dirs": [
+   1,
+   1,
+   1,
+   1
+  ]
+ },
+ {
+  "pdb": "6ZL9",
+  "n_tetrads": 3,
+  "loops": [
+   1,
+   2,
+   1
+  ],
+  "sequence": "GATCAGTTTTACTGATCGGGTGGGTAGGGTGGGTA",
+  "strand_dirs": [
+   1,
+   1,
+   1,
+   1
+  ]
+ },
+ {
+  "pdb": "7E5P",
+  "n_tetrads": 3,
+  "loops": [
+   1,
+   2,
+   1
+  ],
+  "sequence": "GGGTGGGTTGGGAGGG",
+  "strand_dirs": [
+   1,
+   1,
+   1,
+   1
+  ]
+ },
+ {
+  "pdb": "7JKU",
+  "n_tetrads": 4,
+  "loops": [
+   2,
+   2,
+   2
+  ],
+  "sequence": "GTTGGGGTTGGGGTTGGGGTTGGGGT",
+  "strand_dirs": [
+   -1,
+   -1,
+   -1,
+   -1
+  ]
+ },
+ {
+  "pdb": "7KBV",
+  "n_tetrads": 3,
+  "loops": [
+   1,
+   2,
+   1
+  ],
+  "sequence": "TGAGGGTGGGTAGGGTGGGGAA",
+  "strand_dirs": [
+   1,
+   1,
+   1,
+   1
+  ]
+ },
+ {
+  "pdb": "7KBW",
+  "n_tetrads": 3,
+  "loops": [
+   1,
+   2,
+   1
+  ],
+  "sequence": "TGAGGGTGGGTAGGGTGGGGAA",
+  "strand_dirs": [
+   1,
+   1,
+   1,
+   1
+  ]
+ },
+ {
+  "pdb": "7KBX",
+  "n_tetrads": 3,
+  "loops": [
+   1,
+   2,
+   1
+  ],
+  "sequence": "TGAGGGTGGGTAGGGTGGGTAA",
+  "strand_dirs": [
+   1,
+   1,
+   1,
+   1
+  ]
+ },
+ {
+  "pdb": "7KLP",
+  "n_tetrads": 3,
+  "loops": [
+   3,
+   3,
+   3
+  ],
+  "sequence": "AGGGTTAGGGTTAGGGTTAGGG",
+  "strand_dirs": [
+   1,
+   1,
+   1,
+   1
+  ]
+ },
+ {
+  "pdb": "7LL0",
+  "n_tetrads": 4,
+  "loops": [
+   2,
+   2,
+   2
+  ],
+  "sequence": "TTGGGGTTGGGGTTGGGGTTGGGGT",
+  "strand_dirs": [
+   1,
+   1,
+   1,
+   1
+  ]
+ },
+ {
+  "pdb": "7MSV",
+  "n_tetrads": 2,
+  "loops": [
+   2,
+   1,
+   2
+  ],
+  "sequence": "AAGGGAGGGCGGCGGGACA",
+  "strand_dirs": [
+   1,
+   1,
+   1,
+   1
+  ]
+ },
+ {
+  "pdb": "7N7D",
+  "n_tetrads": 3,
+  "loops": [
+   1,
+   2,
+   1
+  ],
+  "sequence": "TGAGGGTGGGTAGGGTGGGGAA",
+  "strand_dirs": [
+   1,
+   1,
+   1,
+   1
+  ]
+ },
+ {
+  "pdb": "7N7E",
+  "n_tetrads": 3,
+  "loops": [
+   1,
+   2,
+   1
+  ],
+  "sequence": "TGAGGGTGGGTAGGGTGGGGAA",
+  "strand_dirs": [
+   1,
+   1,
+   1,
+   1
+  ]
+ },
+ {
+  "pdb": "7NWD",
+  "n_tetrads": 3,
+  "loops": [
+   1,
+   5,
+   1
+  ],
+  "sequence": "GGGCGGGCGCTAGGGAGGGT",
+  "strand_dirs": [
+   1,
+   1,
+   1,
+   1
+  ]
+ },
+ {
+  "pdb": "7PNL",
+  "n_tetrads": 3,
+  "loops": [
+   3,
+   3,
+   3
+  ],
+  "sequence": "AGGGTTAGGGTTAGGGTTAGGGT",
+  "strand_dirs": [
+   -1,
+   -1,
+   -1,
+   -1
+  ]
+ },
+ {
+  "pdb": "7QVQ",
+  "n_tetrads": 3,
+  "loops": [
+   3,
+   3,
+   3
+  ],
+  "sequence": "TAGGGTTAGGGTTAGGGTTAGGGT",
+  "strand_dirs": [
+   1,
+   1,
+   1,
+   1
+  ]
+ },
+ {
+  "pdb": "7WGW",
+  "n_tetrads": 2,
+  "loops": [
+   2,
+   2,
+   1
+  ],
+  "sequence": "AAGGGAGGGCGGGAGGAA",
+  "strand_dirs": [
+   1,
+   1,
+   1,
+   1
+  ]
+ },
+ {
+  "pdb": "8D78",
+  "n_tetrads": 3,
+  "loops": [
+   3,
+   3,
+   3
+  ],
+  "sequence": "GGGGTTGGGGTTGGGGTTGGGG",
+  "strand_dirs": [
+   1,
+   1,
+   1,
+   1
+  ]
+ },
+ {
+  "pdb": "8D79",
+  "n_tetrads": 4,
+  "loops": [
+   2,
+   2,
+   2
+  ],
+  "sequence": "GGGGTTGGGGTTGGGGTTGGGGT",
+  "strand_dirs": [
+   1,
+   1,
+   1,
+   1
+  ]
+ },
+ {
+  "pdb": "8EBO",
+  "n_tetrads": 3,
+  "loops": [
+   1,
+   1,
+   5
+  ],
+  "sequence": "GAGGGAGGGAGGGAAAAGGGGA",
+  "strand_dirs": [
+   1,
+   1,
+   1,
+   1
+  ]
+ },
+ {
+  "pdb": "8EDP",
+  "n_tetrads": 3,
+  "loops": [
+   5,
+   1,
+   5
+  ],
+  "sequence": "AGGGAAAAGGGGAGGGAAAAGGGGA",
+  "strand_dirs": [
+   -1,
+   -1,
+   -1,
+   -1
+  ]
+ },
+ {
+  "pdb": "8GP7",
+  "n_tetrads": 3,
+  "loops": [
+   3,
+   1,
+   3
+  ],
+  "sequence": "GGGGCGGGGCGGGGCGGGGT",
+  "strand_dirs": [
+   1,
+   1,
+   1,
+   1
+  ]
+ },
+ {
+  "pdb": "8RZX",
+  "n_tetrads": 3,
+  "loops": [
+   1,
+   8,
+   1
+  ],
+  "sequence": "TGGGCGGGGCACAGGTGGGCGGGG",
+  "strand_dirs": [
+   1,
+   1,
+   1,
+   1
+  ]
+ },
+ {
+  "pdb": "8WA4",
+  "n_tetrads": 3,
+  "loops": [
+   1,
+   1,
+   2
+  ],
+  "sequence": "AAGGGAGGGAGGGAAGGGAG",
+  "strand_dirs": [
+   1,
+   1,
+   1,
+   1
+  ]
+ },
+ {
+  "pdb": "8Y2R",
+  "n_tetrads": 3,
+  "loops": [
+   1,
+   1,
+   2
+  ],
+  "sequence": "TAAGGGAGGGAGGGAAGGGAGC",
+  "strand_dirs": [
+   1,
+   1,
+   1,
+   1
+  ]
+ },
+ {
+  "pdb": "8ZVE",
+  "n_tetrads": 3,
+  "loops": [
+   1,
+   3,
+   1
+  ],
+  "sequence": "TCTGGGCGGGCGAGGGCGGGAGC",
+  "strand_dirs": [
+   1,
+   1,
+   1,
+   1
+  ]
+ },
+ {
+  "pdb": "8ZW3",
+  "n_tetrads": 3,
+  "loops": [
+   1,
+   3,
+   1
+  ],
+  "sequence": "TCTGGGCGGGCGAGGGCGGGAGC",
+  "strand_dirs": [
+   1,
+   1,
+   1,
+   1
+  ]
+ },
+ {
+  "pdb": "9DQE",
+  "n_tetrads": 3,
+  "loops": [
+   1,
+   1,
+   1
+  ],
+  "sequence": "TGAGGGAGGGCGGGAGGGAAT",
+  "strand_dirs": [
+   1,
+   1,
+   1,
+   1
+  ]
+ },
+ {
+  "pdb": "9JI9",
+  "n_tetrads": 3,
+  "loops": [
+   1,
+   1,
+   5
+  ],
+  "sequence": "TGCGGGCGGGCGGGTCGCTGGGCTC",
+  "strand_dirs": [
+   1,
+   1,
+   1,
+   1
+  ]
+ },
+ {
+  "pdb": "9JO0",
+  "n_tetrads": 3,
+  "loops": [
+   1,
+   1,
+   1
+  ],
+  "sequence": "TGAGGGAGGGCGGGAGGGAAT",
+  "strand_dirs": [
+   1,
+   1,
+   1,
+   1
+  ]
+ },
+ {
+  "pdb": "9JO1",
+  "n_tetrads": 3,
+  "loops": [
+   1,
+   1,
+   1
+  ],
+  "sequence": "TGAGGGAGGGCGGGAGGGAAT",
+  "strand_dirs": [
+   1,
+   1,
+   1,
+   1
+  ]
+ },
+ {
+  "pdb": "9KG4",
+  "n_tetrads": 3,
+  "loops": [
+   2,
+   3,
+   1
+  ],
+  "sequence": "AAAGGGTCGGGACTGGGCGGGGTT",
+  "strand_dirs": [
+   1,
+   1,
+   1,
+   1
+  ]
+ },
+ {
+  "pdb": "9KG8",
+  "n_tetrads": 3,
+  "loops": [
+   2,
+   3,
+   1
+  ],
+  "sequence": "AAAGGGTCGGGACTGGGCGGGGTT",
+  "strand_dirs": [
+   1,
+   1,
+   1,
+   1
+  ]
+ },
+ {
+  "pdb": "9U89",
+  "n_tetrads": 3,
+  "loops": [
+   2,
+   2,
+   2
+  ],
+  "sequence": "AAGGGTTGGGTTGGGTTGGGAA",
+  "strand_dirs": [
+   1,
+   1,
+   1,
+   1
+  ]
+ },
+ {
+  "pdb": "9UK6",
+  "n_tetrads": 4,
+  "loops": [
+   2,
+   2,
+   2
+  ],
+  "sequence": "GGGGCCGGGGCCGGGGCCGGGGCC",
+  "strand_dirs": [
+   1,
+   1,
+   1,
+   1
+  ]
+ },
+ {
+  "pdb": "9WIH",
+  "n_tetrads": 3,
+  "loops": [
+   1,
+   1,
+   1
+  ],
+  "sequence": "AAGGGTGGGTGGGTGGGAA",
+  "strand_dirs": [
+   1,
+   1,
+   1,
+   1
+  ]
+ }
+]

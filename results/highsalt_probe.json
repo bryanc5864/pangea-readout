@@ -1,0 +1,192 @@
+[
+  {
+    "cond": "NaCl_500mM",
+    "tpad": 20.0,
+    "h": 0.35,
+    "eqn": "npbe",
+    "ok": false,
+    "seconds": 221.6,
+    "lam": 4.3,
+    "coarse_spacing": [
+      0.41,
+      0.44,
+      1.1
+    ],
+    "dime": [
+      161,
+      161,
+      257
+    ]
+  },
+  {
+    "cond": "NaCl_500mM",
+    "tpad": 30.0,
+    "h": 0.35,
+    "eqn": "npbe",
+    "ok": false,
+    "seconds": 285.3,
+    "lam": 4.3,
+    "coarse_spacing": [
+      0.54,
+      0.57,
+      1.1
+    ],
+    "dime": [
+      161,
+      161,
+      257
+    ]
+  },
+  {
+    "cond": "NaCl_500mM",
+    "tpad": 50.0,
+    "h": 0.35,
+    "eqn": "npbe",
+    "ok": false,
+    "seconds": 98.1,
+    "lam": 4.3,
+    "coarse_spacing": [
+      0.78,
+      0.82,
+      1.1
+    ],
+    "dime": [
+      161,
+      161,
+      257
+    ]
+  },
+  {
+    "cond": "NaCl_500mM",
+    "tpad": 100.0,
+    "h": 0.35,
+    "eqn": "npbe",
+    "ok": false,
+    "seconds": 60.3,
+    "lam": 4.3,
+    "coarse_spacing": [
+      1.41,
+      1.44,
+      1.1
+    ],
+    "dime": [
+      161,
+      161,
+      257
+    ]
+  },
+  {
+    "cond": "NaCl_250mM",
+    "tpad": 20.0,
+    "h": 0.35,
+    "eqn": "npbe",
+    "ok": false,
+    "seconds": 38.1,
+    "lam": 6.08,
+    "coarse_spacing": [
+      0.41,
+      0.44,
+      1.1
+    ],
+    "dime": [
+      161,
+      161,
+      257
+    ]
+  },
+  {
+    "cond": "NaCl_250mM",
+    "tpad": 30.0,
+    "h": 0.35,
+    "eqn": "npbe",
+    "ok": false,
+    "seconds": 32.8,
+    "lam": 6.08,
+    "coarse_spacing": [
+      0.54,
+      0.57,
+      1.1
+    ],
+    "dime": [
+      161,
+      161,
+      257
+    ]
+  },
+  {
+    "cond": "NaCl_250mM",
+    "tpad": 50.0,
+    "h": 0.35,
+    "eqn": "npbe",
+    "ok": false,
+    "seconds": 66.0,
+    "lam": 6.08,
+    "coarse_spacing": [
+      0.78,
+      0.82,
+      1.1
+    ],
+    "dime": [
+      161,
+      161,
+      257
+    ]
+  },
+  {
+    "cond": "NaCl_250mM",
+    "tpad": 100.0,
+    "h": 0.35,
+    "eqn": "npbe",
+    "ok": true,
+    "seconds": 48.7,
+    "lam": 6.08,
+    "coarse_spacing": [
+      1.41,
+      1.44,
+      1.1
+    ],
+    "dime": [
+      161,
+      161,
+      257
+    ]
+  },
+  {
+    "cond": "NaCl_500mM",
+    "tpad": 50.0,
+    "h": 0.35,
+    "eqn": "lpbe",
+    "ok": true,
+    "seconds": 23.7,
+    "lam": 4.3,
+    "coarse_spacing": [
+      0.78,
+      0.82,
+      1.1
+    ],
+    "dime": [
+      161,
+      161,
+      257
+    ]
+  },
+  {
+    "cond": "NaCl_500mM",
+    "tpad": 50.0,
+    "h": 0.5,
+    "eqn": "npbe",
+    "ok": false,
+    "seconds": 5.4,
+    "lam": 4.3,
+    "coarse_spacing": [
+      1.3,
+      1.35,
+      1.46
+    ],
+    "dime": [
+      97,
+      97,
+      193
+    ]
+  }
+]

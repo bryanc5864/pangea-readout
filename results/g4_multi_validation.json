@@ -1,0 +1,5952 @@
+{
+ "summary": {
+  "parallel_2": {
+   "n_targets": 6,
+   "n_ok": 6,
+   "no_feasible_core": 0,
+   "fold_in_ensemble": 6,
+   "first_model_core_median_A": 1.026,
+   "first_model_core_below_2p5A": 6,
+   "first_model_loop_median_A": {
+    "propeller_1": [
+     4,
+     2.19
+    ],
+    "propeller_2": [
+     10,
+     1.8
+    ],
+    "propeller_4": [
+     3,
+     6.09
+    ],
+    "propeller_5": [
+     1,
+     7.38
+    ]
+   },
+   "best_model_core_median_A": 0.976,
+   "best_model_core_below_2p5A": 6,
+   "best_model_loop_median_A": {
+    "propeller_1": [
+     4,
+     2.6
+    ],
+    "propeller_2": [
+     10,
+     8.04
+    ],
+    "propeller_4": [
+     3,
+     4.92
+    ],
+    "propeller_5": [
+     1,
+     6.93
+    ]
+   }
+  },
+  "hybrid_2": {
+   "n_targets": 2,
+   "n_ok": 1,
+   "no_feasible_core": 1,
+   "fold_in_ensemble": 0,
+   "first_model_core_median_A": 4.686,
+   "first_model_core_below_2p5A": 0,
+   "first_model_loop_median_A": {
+    "lateral_3": [
+     1,
+     8.94
+    ],
+    "lateral_4": [
+     1,
+     17.22
+    ],
+    "propeller_3": [
+     1,
+     7.03
+    ]
+   },
+   "best_model_core_median_A": 4.686,
+   "best_model_core_below_2p5A": 0,
+   "best_model_loop_median_A": {
+    "lateral_3": [
+     1,
+     8.94
+    ],
+    "lateral_4": [
+     1,
+     17.22
+    ],
+    "propeller_3": [
+     1,
+     7.03
+    ]
+   }
+  },
+  "hybrid_3": {
+   "n_targets": 19,
+   "n_ok": 16,
+   "no_feasible_core": 2,
+   "fold_in_ensemble": 12,
+   "first_model_core_median_A": 6.623,
+   "first_model_core_below_2p5A": 6,
+   "first_model_loop_median_A": {
+    "diagonal_10": [
+     1,
+     4.94
+    ],
+    "diagonal_4": [
+     1,
+     21.75
+    ],
+    "diagonal_5": [
+     1,
+     6.64
+    ],
+    "lateral_10": [
+     1,
+     4.23
+    ],
+    "lateral_15": [
+     2,
+     5.28
+    ],
+    "lateral_2": [
+     4,
+     11.25
+    ],
+    "lateral_3": [
+     18,
+     12.88
+    ],
+    "lateral_4": [
+     1,
+     10.05
+    ],
+    "lateral_5": [
+     1,
+     23.85
+    ],
+    "lateral_7": [
+     1,
+     7.57
+    ],
+    "propeller_1": [
+     4,
+     3.99
+    ],
+    "propeller_2": [
+     5,
+     4.54
+    ],
+    "propeller_3": [
+     7,
+     11.05
+    ],
+    "propeller_4": [
+     1,
+     4.5
+    ]
+   },
+   "best_model_core_median_A": 1.27,
+   "best_model_core_below_2p5A": 12,
+   "best_model_loop_median_A": {
+    "diagonal_10": [
+     1,
+     4.94
+    ],
+    "diagonal_4": [
+     1,
+     21.75
+    ],
+    "diagonal_5": [
+     1,
+     6.64
+    ],
+    "lateral_10": [
+     1,
+     3.71
+    ],
+    "lateral_15": [
+     2,
+     4.78
+    ],
+    "lateral_2": [
+     4,
+     4.15
+    ],
+    "lateral_3": [
+     18,
+     3.14
+    ],
+    "lateral_4": [
+     1,
+     10.05
+    ],
+    "lateral_5": [
+     1,
+     23.85
+    ],
+    "lateral_7": [
+     1,
+     7.57
+    ],
+    "propeller_1": [
+     4,
+     4.27
+    ],
+    "propeller_2": [
+     5,
+     4.42
+    ],
+    "propeller_3": [
+     7,
+     3.52
+    ],
+    "propeller_4": [
+     1,
+     4.5
+    ]
+   }
+  },
+  "antiparallel_2": {
+   "n_targets": 18,
+   "n_ok": 16,
+   "no_feasible_core": 0,
+   "fold_in_ensemble": 10,
+   "first_model_core_median_A": 3.88,
+   "first_model_core_below_2p5A": 8,
+   "first_model_loop_median_A": {
+    "diagonal_4": [
+     5,
+     8.82
+    ],
+    "diagonal_5": [
+     4,
+     12.04
+    ],
+    "lateral_10": [
+     1,
+     7.02
+    ],
+    "lateral_15": [
+     1,
+     8.34
+    ],
+    "lateral_19": [
+     2,
+     1.45
+    ],
+    "lateral_2": [
+     8,
+     2.47
+    ],
+    "lateral_3": [
+     9,
+     4.34
+    ],
+    "lateral_4": [
+     14,
+     13.68
+    ],
+    "lateral_7": [
+     3,
+     1.49
+    ],
+    "propeller_2": [
+     1,
+     11.31
+    ]
+   },
+   "best_model_core_median_A": 1.161,
+   "best_model_core_below_2p5A": 10,
+   "best_model_loop_median_A": {
+    "diagonal_4": [
+     5,
+     15.85
+    ],
+    "diagonal_5": [
+     4,
+     8.2
+    ],
+    "lateral_10": [
+     1,
+     7.02
+    ],
+    "lateral_15": [
+     1,
+     7.13
+    ],
+    "lateral_19": [
+     2,
+     1.45
+    ],
+    "lateral_2": [
+     8,
+     2.28
+    ],
+    "lateral_3": [
+     9,
+     4.27
+    ],
+    "lateral_4": [
+     14,
+     16.34
+    ],
+    "lateral_7": [
+     3,
+     1.49
+    ],
+    "propeller_2": [
+     1,
+     11.7
+    ]
+   }
+  },
+  "antiparallel_3": {
+   "n_targets": 6,
+   "n_ok": 5,
+   "no_feasible_core": 1,
+   "fold_in_ensemble": 2,
+   "first_model_core_median_A": 9.484,
+   "first_model_core_below_2p5A": 1,
+   "first_model_loop_median_A": {
+    "diagonal_3": [
+     1,
+     10.88
+    ],
+    "diagonal_4": [
+     3,
+     20.21
+    ],
+    "lateral_1": [
+     1,
+     3.69
+    ],
+    "lateral_3": [
+     9,
+     3.1
+    ],
+    "propeller_1": [
+     1,
+     7.18
+    ]
+   },
+   "best_model_core_median_A": 9.179,
+   "best_model_core_below_2p5A": 2,
+   "best_model_loop_median_A": {
+    "diagonal_3": [
+     1,
+     9.61
+    ],
+    "diagonal_4": [
+     3,
+     20.19
+    ],
+    "lateral_1": [
+     1,
+     5.22
+    ],
+    "lateral_3": [
+     9,
+     3.1
+    ],
+    "propeller_1": [
+     1,
+     7.18
+    ]
+   }
+  }
+ },
+ "targets": [
+  {
+   "pdb": "143D",
+   "topology": "antiparallel",
+   "n_tetrads": 3,
+   "loops": [
+    "TTA",
+    "TTA",
+    "TTA"
+   ],
+   "loop_types": [
+    "lateral",
+    "diagonal",
+    "lateral"
+   ],
+   "fold": "l+dl-",
+   "models": [
+    {
+     "core": "7Z9L",
+     "core_fold": "l-l-l-",
+     "score": 0.45,
+     "donors": [
+      [
+       "7Z9L.pdb",
+       0,
+       0.0
+      ],
+      [
+       "7Z9L.pdb",
+       1,
+       0.0
+      ],
+      [
+       "7Z9L.pdb",
+       2,
+       0.0
+      ]
+     ],
+     "after": {
+      "core_fit": 7.758,
+      "core": 9.463,
+      "loop1": 9.628,
+      "loop2": 10.885,
+      "loop3": 1.656
+     },
+     "status": "ok"
+    },
+    {
+     "core": "5YEY",
+     "core_fold": "l-l-l-",
+     "score": 0.8,
+     "donors": [
+      [
+       "5YEY.pdb",
+       0,
+       0.0
+      ],
+      [
+       "5YEY.pdb",
+       1,
+       0.0
+      ],
+      [
+       "5YEY.pdb",
+       2,
+       0.0
+      ]
+     ],
+     "after": {
+      "core_fit": 7.569,
+      "core": 9.179,
+      "loop1": 8.933,
+      "loop2": 9.609,
+      "loop3": 2.755
+     },
+     "status": "ok"
+    },
+    {
+     "core": "7OTB",
+     "core_fold": "l+l+l+",
+     "score": 1.15,
+     "donors": [
+      [
+       "7OTB.pdb",
+       0,
+       0.0
+      ],
+      [
+       "7OTB.pdb",
+       1,
+       0.0
+      ],
+      [
+       "7OTB.pdb",
+       2,
+       0.0
+      ]
+     ],
+     "after": {
+      "core_fit": 7.65,
+      "core": 9.718,
+      "loop1": 3.453,
+      "loop2": 7.547,
+      "loop3": 10.314
+     },
+     "status": "ok"
+    }
+   ],
+   "status": "ok",
+   "best": {
+    "core_fit": 7.569,
+    "core": 9.179,
+    "loop1": 8.933,
+    "loop2": 9.609,
+    "loop3": 2.755
+   },
+   "best_core_fold": "l-l-l-",
+   "first": {
+    "core_fit": 7.758,
+    "core": 9.463,
+    "loop1": 9.628,
+    "loop2": 10.885,
+    "loop3": 1.656
+   },
+   "fold_in_ensemble": false
+  },
+  {
+   "pdb": "148D",
+   "topology": "antiparallel",
+   "n_tetrads": 2,
+   "loops": [
+    "TT",
+    "TGT",
+    "TT"
+   ],
+   "loop_types": [
+    "lateral",
+    "lateral",
+    "lateral"
+   ],
+   "fold": "l-l-l-",
+   "models": [
+    {
+     "core": "8ABN",
+     "core_fold": "l-l-l-",
+     "score": 0.94,
+     "donors": [
+      [
+       "8ABN.pdb",
+       0,
+       0.0
+      ],
+      [
+       "6GZN.pdb",
+       0,
+       0.49
+      ],
+      [
+       "8ABN.pdb",
+       2,
+       0.0
+      ]
+     ],
+     "after": {
+      "core_fit": 0.839,
+      "core": 1.164,
+      "loop1": 1.553,
+      "loop2": 4.274,
+      "loop3": 2.37
+     },
+     "status": "ok"
+    },
+    {
+     "core": "2MBJ",
+     "core_fold": "l-p-l-",
+     "score": 4.5,
+     "donors": [
+      [
+       "2M6V.pdb",
+       2,
+       0.47
+      ],
+      [
+       "2HY9.pdb",
+       0,
+       1.3
+      ],
+      [
+       "2M6W.pdb",
+       0,
+       1.98
+      ]
+     ],
+     "after": {
+      "core_fit": 3.322,
+      "core": 5.096,
+      "loop1": 1.538,
+      "loop2": 15.247,
+      "loop3": 14.393
+     },
+     "status": "ok"
+    },
+    {
+     "core": "7W9N",
+     "core_fold": "l+l+l+",
+     "score": 4.56,
+     "donors": [
+      [
+       "9U83.pdb",
+       0,
+       1.17
+      ],
+      [
+       "2KF8.pdb",
+       2,
+       0.73
+      ],
+      [
+       "2M6W.pdb",
+       0,
+       1.97
+      ]
+     ],
+     "after": {
+      "core_fit": 4.688,
+      "core": 6.857,
+      "loop1": 14.106,
+      "loop2": 16.43,
+      "loop3": 14.368
+     },
+     "status": "ok"
+    }
+   ],
+   "status": "ok",
+   "best": {
+    "core_fit": 0.839,
+    "core": 1.164,
+    "loop1": 1.553,
+    "loop2": 4.274,
+    "loop3": 2.37
+   },
+   "best_core_fold": "l-l-l-",
+   "first": {
+    "core_fit": 0.839,
+    "core": 1.164,
+    "loop1": 1.553,
+    "loop2": 4.274,
+    "loop3": 2.37
+   },
+   "fold_in_ensemble": true
+  },
+  {
+   "pdb": "1I34",
+   "topology": "antiparallel",
+   "n_tetrads": 2,
+   "loops": [
+    "TTTT",
+    "CA",
+    "GTTTT"
+   ],
+   "loop_types": [
+    "diagonal",
+    "propeller",
+    "diagonal"
+   ],
+   "fold": "dp-d",
+   "models": [
+    {
+     "core": "2LYG",
+     "core_fold": "l-l-l-",
+     "score": 5.04,
+     "donors": [
+      [
+       "7OQT.pdb",
+       2,
+       0.81
+      ],
+      [
+       "9U83.pdb",
+       0,
+       1.38
+      ],
+      [
+       "6L92.pdb",
+       0,
+       0.94
+      ]
+     ],
+     "after": {
+      "core_fit": 8.092,
+      "core": 10.478,
+      "loop1": 21.349,
+      "loop2": 11.309,
+      "loop3": 15.845
+     },
+     "status": "ok"
+    },
+    {
+     "core": "1C38",
+     "core_fold": "l-l-l-",
+     "score": 5.05,
+     "donors": [
+      [
+       "8JIH.pdb",
+       0,
+       0.86
+      ],
+      [
+       "9U83.pdb",
+       0,
+       1.01
+      ],
+      [
+       "6L92.pdb",
+       0,
+       1.04
+      ]
+     ],
+     "after": {
+      "core_fit": 7.732,
+      "core": 10.229,
+      "loop1": 20.928,
+      "loop2": 11.163,
+      "loop3": 17.458
+     },
+     "status": "ok"
+    },
+    {
+     "core": "1C34",
+     "core_fold": "l-l-l-",
+     "score": 5.06,
+     "donors": [
+      [
+       "8JIH.pdb",
+       0,
+       0.88
+      ],
+      [
+       "9U83.pdb",
+       0,
+       0.99
+      ],
+      [
+       "6L92.pdb",
+       0,
+       1.1
+      ]
+     ],
+     "after": {
+      "core_fit": 7.712,
+      "core": 10.135,
+      "loop1": 20.093,
+      "loop2": 11.701,
+      "loop3": 17.413
+     },
+     "status": "ok"
+    }
+   ],
+   "status": "ok",
+   "best": {
+    "core_fit": 7.712,
+    "core": 10.135,
+    "loop1": 20.093,
+    "loop2": 11.701,
+    "loop3": 17.413
+   },
+   "best_core_fold": "l-l-l-",
+   "first": {
+    "core_fit": 8.092,
+    "core": 10.478,
+    "loop1": 21.349,
+    "loop2": 11.309,
+    "loop3": 15.845
+   },
+   "fold_in_ensemble": false
+  },
+  {
+   "pdb": "2F8U",
+   "topology": "hybrid",
+   "n_tetrads": 3,
+   "loops": [
+    "CGC",
+    "AGGAATT",
+    "C"
+   ],
+   "loop_types": [
+    "lateral",
+    "lateral",
+    "propeller"
+   ],
+   "fold": "l+l+p+",
+   "models": [
+    {
+     "core": "2KZD",
+     "core_fold": "l+l+p+",
+     "score": 1.52,
+     "donors": [
+      [
+       "2KZD.pdb",
+       0,
+       0.0
+      ],
+      [
+       "8FI7.pdb",
+       0,
+       1.17
+      ],
+      [
+       "2KZD.pdb",
+       2,
+       0.0
+      ]
+     ],
+     "after": {
+      "core_fit": 0.825,
+      "core": 1.207,
+      "loop1": 3.563,
+      "loop2": 7.565,
+      "loop3": 4.063
+     },
+     "status": "ok"
+    },
+    {
+     "core": "8R4W",
+     "core_fold": "l+l+p+",
+     "score": 1.58,
+     "donors": [
+      [
+       "8R4W.pdb",
+       0,
+       0.0
+      ],
+      [
+       "8FI1.pdb",
+       0,
+       0.55
+      ],
+      [
+       "8R6D.pdb",
+       2,
+       0.63
+      ]
+     ],
+     "after": {
+      "core_fit": 0.915,
+      "core": 1.301,
+      "loop1": 3.978,
+      "loop2": 7.393,
+      "loop3": 2.893
+     },
+     "status": "ok"
+    },
+    {
+     "core": "7CV3",
+     "core_fold": "p+l+l+",
+     "score": 2.67,
+     "donors": [
+      [
+       "6KFI.pdb",
+       0,
+       0.92
+      ],
+      [
+       "7W9N.pdb",
+       2,
+       0.71
+      ],
+      [
+       "8YU3.pdb",
+       2,
+       0.85
+      ]
+     ],
+     "after": {
+      "core_fit": 5.31,
+      "core": 7.207,
+      "loop1": 15.535,
+      "loop2": 26.433,
+      "loop3": 12.187
+     },
+     "status": "ok"
+    }
+   ],
+   "status": "ok",
+   "best": {
+    "core_fit": 0.825,
+    "core": 1.207,
+    "loop1": 3.563,
+    "loop2": 7.565,
+    "loop3": 4.063
+   },
+   "best_core_fold": "l+l+p+",
+   "first": {
+    "core_fit": 0.825,
+    "core": 1.207,
+    "loop1": 3.563,
+    "loop2": 7.565,
+    "loop3": 4.063
+   },
+   "fold_in_ensemble": true
+  },
+  {
+   "pdb": "2GKU",
+   "topology": "hybrid",
+   "n_tetrads": 3,
+   "loops": [
+    "TTA",
+    "TTA",
+    "TTA"
+   ],
+   "loop_types": [
+    "propeller",
+    "lateral",
+    "lateral"
+   ],
+   "fold": "p+l+l+",
+   "models": [
+    {
+     "core": "6KFJ",
+     "core_fold": "l+l+p+",
+     "score": 0.3,
+     "donors": [
+      [
+       "6KFJ.pdb",
+       0,
+       0.0
+      ],
+      [
+       "6KFJ.pdb",
+       1,
+       0.0
+      ],
+      [
+       "6KFJ.pdb",
+       2,
+       0.0
+      ]
+     ],
+     "after": {
+      "core_fit": 5.364,
+      "core": 7.175,
+      "loop1": 13.709,
+      "loop2": 20.637,
+      "loop3": 11.629
+     },
+     "status": "ok"
+    },
+    {
+     "core": "5Z80",
+     "core_fold": "p+l+l+",
+     "score": 0.35,
+     "donors": [
+      [
+       "5Z80.pdb",
+       0,
+       0.0
+      ],
+      [
+       "5Z80.pdb",
+       1,
+       0.0
+      ],
+      [
+       "5Z80.pdb",
+       2,
+       0.0
+      ]
+     ],
+     "after": {
+      "core_fit": 0.847,
+      "core": 1.234,
+      "loop1": 5.519,
+      "loop2": 2.343,
+      "loop3": 3.913
+     },
+     "status": "ok"
+    },
+    {
+     "core": "8R4E",
+     "core_fold": "l-p-p-",
+     "score": 2.2,
+     "donors": [
+      [
+       "8R4E.pdb",
+       0,
+       0.0
+      ],
+      [
+       "9TNQ.pdb",
+       2,
+       0.67
+      ],
+      [
+       "6KFI.pdb",
+       0,
+       0.98
+      ]
+     ],
+     "after": {
+      "core_fit": 5.388,
+      "core": 6.809,
+      "loop1": 14.666,
+      "loop2": 15.405,
+      "loop3": 13.248
+     },
+     "status": "ok"
+    }
+   ],
+   "status": "ok",
+   "best": {
+    "core_fit": 0.847,
+    "core": 1.234,
+    "loop1": 5.519,
+    "loop2": 2.343,
+    "loop3": 3.913
+   },
+   "best_core_fold": "p+l+l+",
+   "first": {
+    "core_fit": 5.364,
+    "core": 7.175,
+    "loop1": 13.709,
+    "loop2": 20.637,
+    "loop3": 11.629
+   },
+   "fold_in_ensemble": true
+  },
+  {
+   "pdb": "2HY9",
+   "topology": "hybrid",
+   "n_tetrads": 3,
+   "loops": [
+    "TTA",
+    "TTA",
+    "TTA"
+   ],
+   "loop_types": [
+    "propeller",
+    "lateral",
+    "lateral"
+   ],
+   "fold": "p+l+l+",
+   "models": [
+    {
+     "core": "2GKU",
+     "core_fold": "p+l+l+",
+     "score": 0.3,
+     "donors": [
+      [
+       "2GKU.pdb",
+       0,
+       0.0
+      ],
+      [
+       "2GKU.pdb",
+       1,
+       0.0
+      ],
+      [
+       "2GKU.pdb",
+       2,
+       0.0
+      ]
+     ],
+     "after": {
+      "core_fit": 0.973,
+      "core": 1.356,
+      "loop1": 4.861,
+      "loop2": 3.132,
+      "loop3": 2.892
+     },
+     "status": "ok"
+    },
+    {
+     "core": "6KFJ",
+     "core_fold": "l+l+p+",
+     "score": 0.3,
+     "donors": [
+      [
+       "6KFJ.pdb",
+       0,
+       0.0
+      ],
+      [
+       "6KFJ.pdb",
+       1,
+       0.0
+      ],
+      [
+       "6KFJ.pdb",
+       2,
+       0.0
+      ]
+     ],
+     "after": {
+      "core_fit": 5.141,
+      "core": 6.975,
+      "loop1": 15.251,
+      "loop2": 20.008,
+      "loop3": 12.557
+     },
+     "status": "ok"
+    },
+    {
+     "core": "8R4E",
+     "core_fold": "l-p-p-",
+     "score": 2.51,
+     "donors": [
+      [
+       "8R4E.pdb",
+       0,
+       0.0
+      ],
+      [
+       "9TNQ.pdb",
+       2,
+       0.67
+      ],
+      [
+       "6KFJ.pdb",
+       2,
+       1.29
+      ]
+     ],
+     "after": {
+      "core_fit": 5.101,
+      "core": 6.649,
+      "loop1": 13.357,
+      "loop2": 14.654,
+      "loop3": 13.582
+     },
+     "status": "ok"
+    }
+   ],
+   "status": "ok",
+   "best": {
+    "core_fit": 0.973,
+    "core": 1.356,
+    "loop1": 4.861,
+    "loop2": 3.132,
+    "loop3": 2.892
+   },
+   "best_core_fold": "p+l+l+",
+   "first": {
+    "core_fit": 0.973,
+    "core": 1.356,
+    "loop1": 4.861,
+    "loop2": 3.132,
+    "loop3": 2.892
+   },
+   "fold_in_ensemble": true
+  },
+  {
+   "pdb": "2JPZ",
+   "topology": "hybrid",
+   "n_tetrads": 3,
+   "loops": [
+    "TTA",
+    "TTA",
+    "TTA"
+   ],
+   "loop_types": [
+    "lateral",
+    "lateral",
+    "propeller"
+   ],
+   "fold": "l+l+p+",
+   "models": [
+    {
+     "core": "2GKU",
+     "core_fold": "p+l+l+",
+     "score": 0.3,
+     "donors": [
+      [
+       "2GKU.pdb",
+       0,
+       0.0
+      ],
+      [
+       "2GKU.pdb",
+       1,
+       0.0
+      ],
+      [
+       "2GKU.pdb",
+       2,
+       0.0
+      ]
+     ],
+     "after": {
+      "core_fit": 5.342,
+      "core": 7.194,
+      "loop1": 14.125,
+      "loop2": 19.651,
+      "loop3": 11.739
+     },
+     "status": "ok"
+    },
+    {
+     "core": "9TNQ",
+     "core_fold": "l+l+p+",
+     "score": 0.35,
+     "donors": [
+      [
+       "9TNQ.pdb",
+       0,
+       0.0
+      ],
+      [
+       "9TNQ.pdb",
+       1,
+       0.0
+      ],
+      [
+       "9TNQ.pdb",
+       2,
+       0.0
+      ]
+     ],
+     "after": {
+      "core_fit": 0.977,
+      "core": 1.267,
+      "loop1": 3.566,
+      "loop2": 2.972,
+      "loop3": 3.519
+     },
+     "status": "ok"
+    },
+    {
+     "core": "8R4E",
+     "core_fold": "l-p-p-",
+     "score": 2.2,
+     "donors": [
+      [
+       "8R4E.pdb",
+       0,
+       0.0
+      ],
+      [
+       "9TNQ.pdb",
+       2,
+       0.67
+      ],
+      [
+       "6KFI.pdb",
+       0,
+       0.98
+      ]
+     ],
+     "after": {
+      "core_fit": 5.315,
+      "core": 6.682,
+      "loop1": 18.68,
+      "loop2": 14.121,
+      "loop3": 3.855
+     },
+     "status": "ok"
+    }
+   ],
+   "status": "ok",
+   "best": {
+    "core_fit": 0.977,
+    "core": 1.267,
+    "loop1": 3.566,
+    "loop2": 2.972,
+    "loop3": 3.519
+   },
+   "best_core_fold": "l+l+p+",
+   "first": {
+    "core_fit": 5.342,
+    "core": 7.194,
+    "loop1": 14.125,
+    "loop2": 19.651,
+    "loop3": 11.739
+   },
+   "fold_in_ensemble": true
+  },
+  {
+   "pdb": "2KF8",
+   "topology": "antiparallel",
+   "n_tetrads": 2,
+   "loops": [
+    "GTTA",
+    "GTTAG",
+    "TTA"
+   ],
+   "loop_types": [
+    "lateral",
+    "diagonal",
+    "lateral"
+   ],
+   "fold": "l+dl-",
+   "models": [
+    {
+     "core": "5LQH",
+     "core_fold": "l-dl+",
+     "score": 0.35,
+     "donors": [
+      [
+       "5LQH.pdb",
+       0,
+       0.0
+      ],
+      [
+       "5LQH.pdb",
+       1,
+       0.0
+      ],
+      [
+       "5LQH.pdb",
+       2,
+       0.0
+      ]
+     ],
+     "after": {
+      "core_fit": 4.54,
+      "core": 6.558,
+      "loop1": 19.47,
+      "loop2": 20.025,
+      "loop3": 16.955
+     },
+     "status": "ok"
+    },
+    {
+     "core": "5LQG",
+     "core_fold": "l+dl-",
+     "score": 0.35,
+     "donors": [
+      [
+       "5LQG.pdb",
+       0,
+       0.0
+      ],
+      [
+       "5LQG.pdb",
+       1,
+       0.0
+      ],
+      [
+       "5LQG.pdb",
+       2,
+       0.0
+      ]
+     ],
+     "after": {
+      "core_fit": 0.575,
+      "core": 1.062,
+      "loop1": 3.074,
+      "loop2": 8.176,
+      "loop3": 2.485
+     },
+     "status": "ok"
+    },
+    {
+     "core": "7W9N",
+     "core_fold": "l+l+l+",
+     "score": 3.13,
+     "donors": [
+      [
+       "8FI7.pdb",
+       1,
+       0.53
+      ],
+      [
+       "6L92.pdb",
+       0,
+       1.31
+      ],
+      [
+       "2KOW.pdb",
+       2,
+       0.7
+      ]
+     ],
+     "after": {
+      "core_fit": 7.513,
+      "core": 9.803,
+      "loop1": 6.492,
+      "loop2": 7.314,
+      "loop3": 9.252
+     },
+     "status": "ok"
+    }
+   ],
+   "status": "ok",
+   "best": {
+    "core_fit": 0.575,
+    "core": 1.062,
+    "loop1": 3.074,
+    "loop2": 8.176,
+    "loop3": 2.485
+   },
+   "best_core_fold": "l+dl-",
+   "first": {
+    "core_fit": 4.54,
+    "core": 6.558,
+    "loop1": 19.47,
+    "loop2": 20.025,
+    "loop3": 16.955
+   },
+   "fold_in_ensemble": true
+  },
+  {
+   "pdb": "2KKA",
+   "topology": "antiparallel",
+   "n_tetrads": 2,
+   "loops": [
+    "GTTA",
+    "GTTAI",
+    "TTA"
+   ],
+   "loop_types": [
+    "lateral",
+    "diagonal",
+    "lateral"
+   ],
+   "status": "non-standard loop"
+  },
+  {
+   "pdb": "2KM3",
+   "topology": "antiparallel",
+   "n_tetrads": 2,
+   "loops": [
+    "CTAG",
+    "CTAG",
+    "CTAG"
+   ],
+   "loop_types": [
+    "lateral",
+    "lateral",
+    "lateral"
+   ],
+   "fold": "l-l-l-",
+   "models": [
+    {
+     "core": "8XGP",
+     "core_fold": "l+l+l+",
+     "score": 0.45,
+     "donors": [
+      [
+       "8XGP.pdb",
+       0,
+       0.0
+      ],
+      [
+       "8XGP.pdb",
+       1,
+       0.0
+      ],
+      [
+       "8XGP.pdb",
+       2,
+       0.0
+      ]
+     ],
+     "after": {
+      "core_fit": 4.668,
+      "core": 6.883,
+      "loop1": 19.814,
+      "loop2": 17.004,
+      "loop3": 20.448
+     },
+     "status": "ok"
+    },
+    {
+     "core": "7OQT",
+     "core_fold": "l+dl-",
+     "score": 0.7,
+     "donors": [
+      [
+       "7OQT.pdb",
+       0,
+       0.0
+      ],
+      [
+       "7OQT.pdb",
+       1,
+       0.0
+      ],
+      [
+       "7OQT.pdb",
+       2,
+       0.0
+      ]
+     ],
+     "after": {
+      "core_fit": 7.518,
+      "core": 9.364,
+      "loop1": 11.003,
+      "loop2": 8.385,
+      "loop3": 6.74
+     },
+     "status": "ok"
+    },
+    {
+     "core": "2KOW",
+     "core_fold": "l-dl+",
+     "score": 1.79,
+     "donors": [
+      [
+       "7CV4.pdb",
+       2,
+       0.51
+      ],
+      [
+       "2KOW.pdb",
+       1,
+       0.0
+      ],
+      [
+       "8FI7.pdb",
+       1,
+       0.78
+      ]
+     ],
+     "after": {
+      "core_fit": 7.489,
+      "core": 9.515,
+      "loop1": 5.286,
+      "loop2": 7.096,
+      "loop3": 12.038
+     },
+     "status": "ok"
+    }
+   ],
+   "status": "ok",
+   "best": {
+    "core_fit": 4.668,
+    "core": 6.883,
+    "loop1": 19.814,
+    "loop2": 17.004,
+    "loop3": 20.448
+   },
+   "best_core_fold": "l+l+l+",
+   "first": {
+    "core_fit": 4.668,
+    "core": 6.883,
+    "loop1": 19.814,
+    "loop2": 17.004,
+    "loop3": 20.448
+   },
+   "fold_in_ensemble": false
+  },
+  {
+   "pdb": "2KOW",
+   "topology": "antiparallel",
+   "n_tetrads": 2,
+   "loops": [
+    "GTA",
+    "GTAG",
+    "TAI"
+   ],
+   "loop_types": [
+    "lateral",
+    "diagonal",
+    "lateral"
+   ],
+   "status": "non-standard loop"
+  },
+  {
+   "pdb": "2KZD",
+   "topology": "hybrid",
+   "n_tetrads": 3,
+   "loops": [
+    "IAG",
+    "CT",
+    "A"
+   ],
+   "loop_types": [
+    "lateral",
+    "lateral",
+    "propeller"
+   ],
+   "status": "non-standard loop"
+  },
+  {
+   "pdb": "2LOD",
+   "topology": "hybrid",
+   "n_tetrads": 3,
+   "loops": [
+    "AT",
+    "ACACA",
+    "GAC"
+   ],
+   "loop_types": [
+    "propeller",
+    "diagonal",
+    "lateral"
+   ],
+   "fold": "p+dl-",
+   "models": [
+    {
+     "core": "5MTA",
+     "core_fold": "p+dl-",
+     "score": 2.7,
+     "donors": [
+      [
+       "8R4W.pdb",
+       2,
+       0.96
+      ],
+      [
+       "5LQH.pdb",
+       1,
+       0.77
+      ],
+      [
+       "6ZX7.pdb",
+       0,
+       0.37
+      ]
+     ],
+     "after": {
+      "core_fit": 0.776,
+      "core": 1.035,
+      "loop1": 2.837,
+      "loop2": 6.644,
+      "loop3": 4.999
+     },
+     "status": "ok"
+    },
+    {
+     "core": "6L92",
+     "core_fold": "l-dp+",
+     "score": 2.84,
+     "donors": [
+      [
+       "148D.pdb",
+       2,
+       0.8
+      ],
+      [
+       "5LQH.pdb",
+       1,
+       0.62
+      ],
+      [
+       "6JWD.pdb",
+       2,
+       0.63
+      ]
+     ],
+     "after": {
+      "core_fit": 5.904,
+      "core": 6.759,
+      "loop1": 15.278,
+      "loop2": 8.611,
+      "loop3": 10.83
+     },
+     "status": "ok"
+    },
+    {
+     "core": "6KFJ",
+     "core_fold": "l+l+p+",
+     "score": 3.36,
+     "donors": [
+      [
+       "9U83.pdb",
+       0,
+       1.48
+      ],
+      [
+       "6L92.pdb",
+       0,
+       1.13
+      ],
+      [
+       "6KFJ.pdb",
+       2,
+       0.0
+      ]
+     ],
+     "after": {
+      "core_fit": 8.976,
+      "core": 11.818,
+      "loop1": 11.755,
+      "loop2": 20.03,
+      "loop3": 12.207
+     },
+     "status": "ok"
+    }
+   ],
+   "status": "ok",
+   "best": {
+    "core_fit": 0.776,
+    "core": 1.035,
+    "loop1": 2.837,
+    "loop2": 6.644,
+    "loop3": 4.999
+   },
+   "best_core_fold": "p+dl-",
+   "first": {
+    "core_fit": 0.776,
+    "core": 1.035,
+    "loop1": 2.837,
+    "loop2": 6.644,
+    "loop3": 4.999
+   },
+   "fold_in_ensemble": true
+  },
+  {
+   "pdb": "2M6V",
+   "topology": "antiparallel",
+   "n_tetrads": 2,
+   "loops": [
+    "GTTG",
+    "TTTT",
+    "GT"
+   ],
+   "loop_types": [
+    "lateral",
+    "diagonal",
+    "lateral"
+   ],
+   "fold": "l+dl-",
+   "models": [
+    {
+     "core": "2KM3",
+     "core_fold": "l-l-l-",
+     "score": 1.17,
+     "donors": [
+      [
+       "2KM3.pdb",
+       0,
+       0.0
+      ],
+      [
+       "2KM3.pdb",
+       1,
+       0.0
+      ],
+      [
+       "5MJX.pdb",
+       2,
+       0.52
+      ]
+     ],
+     "after": {
+      "core_fit": 7.38,
+      "core": 9.301,
+      "loop1": 9.41,
+      "loop2": 8.818,
+      "loop3": 5.419
+     },
+     "status": "ok"
+    },
+    {
+     "core": "7OQT",
+     "core_fold": "l+dl-",
+     "score": 1.27,
+     "donors": [
+      [
+       "7OQT.pdb",
+       0,
+       0.0
+      ],
+      [
+       "7OQT.pdb",
+       1,
+       0.0
+      ],
+      [
+       "5J4W.pdb",
+       2,
+       0.67
+      ]
+     ],
+     "after": {
+      "core_fit": 0.723,
+      "core": 1.141,
+      "loop1": 5.38,
+      "loop2": 3.191,
+      "loop3": 2.187
+     },
+     "status": "ok"
+    },
+    {
+     "core": "9JX5",
+     "core_fold": "l+l+l+",
+     "score": 2.06,
+     "donors": [
+      [
+       "9JX5.pdb",
+       0,
+       0.0
+      ],
+      [
+       "9JX5.pdb",
+       1,
+       0.0
+      ],
+      [
+       "9U83.pdb",
+       0,
+       1.46
+      ]
+     ],
+     "after": {
+      "core_fit": 7.49,
+      "core": 9.354,
+      "loop1": 5.074,
+      "loop2": 10.931,
+      "loop3": 9.032
+     },
+     "status": "ok"
+    }
+   ],
+   "status": "ok",
+   "best": {
+    "core_fit": 0.723,
+    "core": 1.141,
+    "loop1": 5.38,
+    "loop2": 3.191,
+    "loop3": 2.187
+   },
+   "best_core_fold": "l+dl-",
+   "first": {
+    "core_fit": 7.38,
+    "core": 9.301,
+    "loop1": 9.41,
+    "loop2": 8.818,
+    "loop3": 5.419
+   },
+   "fold_in_ensemble": true
+  },
+  {
+   "pdb": "2MFT",
+   "topology": "antiparallel",
+   "n_tetrads": 3,
+   "loops": [
+    "TTTT",
+    "T",
+    "TTTT"
+   ],
+   "loop_types": [
+    "diagonal",
+    "propeller",
+    "diagonal"
+   ],
+   "fold": "dp-d",
+   "models": [
+    {
+     "core": "7OTB",
+     "core_fold": "l+l+l+",
+     "score": 3.4,
+     "donors": [
+      [
+       "8FI7.pdb",
+       1,
+       0.63
+      ],
+      [
+       "9B6Z.pdb",
+       2,
+       1.31
+      ],
+      [
+       "8FI7.pdb",
+       1,
+       0.76
+      ]
+     ],
+     "after": {
+      "core_fit": 8.535,
+      "core": 10.724,
+      "loop1": 21.403,
+      "loop2": 7.185,
+      "loop3": 20.214
+     },
+     "status": "ok"
+    },
+    {
+     "core": "7OTB",
+     "core_fold": "l+l+l+",
+     "score": 3.51,
+     "donors": [
+      [
+       "8FI8.pdb",
+       1,
+       0.7
+      ],
+      [
+       "8YU3.pdb",
+       2,
+       1.38
+      ],
+      [
+       "8FI8.pdb",
+       1,
+       0.88
+      ]
+     ],
+     "after": {
+      "core_fit": 8.536,
+      "core": 10.726,
+      "loop1": 21.445,
+      "loop2": 7.13,
+      "loop3": 20.365
+     },
+     "status": "ok"
+    },
+    {
+     "core": "7OTB",
+     "core_fold": "l+l+l+",
+     "score": 3.69,
+     "donors": [
+      [
+       "8FI1.pdb",
+       1,
+       0.75
+      ],
+      [
+       "8YU3.pdb",
+       2,
+       1.38
+      ],
+      [
+       "8FI1.pdb",
+       1,
+       0.95
+      ]
+     ],
+     "after": {
+      "core_fit": 8.533,
+      "core": 10.721,
+      "loop1": 21.468,
+      "loop2": 7.178,
+      "loop3": 20.188
+     },
+     "status": "ok"
+    }
+   ],
+   "status": "ok",
+   "best": {
+    "core_fit": 8.533,
+    "core": 10.721,
+    "loop1": 21.468,
+    "loop2": 7.178,
+    "loop3": 20.188
+   },
+   "best_core_fold": "l+l+l+",
+   "first": {
+    "core_fit": 8.535,
+    "core": 10.724,
+    "loop1": 21.403,
+    "loop2": 7.185,
+    "loop3": 20.214
+   },
+   "fold_in_ensemble": false
+  },
+  {
+   "pdb": "2MFU",
+   "topology": "hybrid",
+   "n_tetrads": 2,
+   "loops": [
+    "TTTG",
+    "TTG",
+    "TTT"
+   ],
+   "loop_types": [
+    "lateral",
+    "lateral",
+    "propeller"
+   ],
+   "fold": "l+l+p+",
+   "models": [
+    {
+     "core": "6R9L",
+     "core_fold": "l-p-p-",
+     "score": 3.68,
+     "donors": [
+      [
+       "9GVI.pdb",
+       2,
+       0.55
+      ],
+      [
+       "8ZVE.pdb",
+       1,
+       1.31
+      ],
+      [
+       "9KG8.pdb",
+       1,
+       1.42
+      ]
+     ],
+     "after": {
+      "core_fit": 3.569,
+      "core": 4.686,
+      "loop1": 17.219,
+      "loop2": 8.941,
+      "loop3": 7.029
+     },
+     "status": "ok"
+    },
+    {
+     "core": "6R9L",
+     "core_fold": "l-p-p-",
+     "score": 4.15,
+     "donors": [
+      [
+       "9GVI.pdb",
+       2,
+       0.55
+      ],
+      [
+       "4G0F.pdb",
+       2,
+       1.44
+      ],
+      [
+       "4DAQ.pdb",
+       0,
+       1.51
+      ]
+     ],
+     "after": {
+      "core_fit": 3.567,
+      "core": 4.686,
+      "loop1": 17.305,
+      "loop2": 10.187,
+      "loop3": 5.63
+     },
+     "status": "ok"
+    },
+    {
+     "core": "6R9L",
+     "core_fold": "l-p-p-",
+     "score": 4.2,
+     "donors": [
+      [
+       "9GVI.pdb",
+       2,
+       0.55
+      ],
+      [
+       "4FXM.pdb",
+       0,
+       1.44
+      ],
+      [
+       "6ISW.pdb",
+       0,
+       1.55
+      ]
+     ],
+     "after": {
+      "core_fit": 3.569,
+      "core": 4.688,
+      "loop1": 17.309,
+      "loop2": 10.288,
+      "loop3": 5.788
+     },
+     "status": "ok"
+    }
+   ],
+   "status": "ok",
+   "best": {
+    "core_fit": 3.569,
+    "core": 4.686,
+    "loop1": 17.219,
+    "loop2": 8.941,
+    "loop3": 7.029
+   },
+   "best_core_fold": "l-p-p-",
+   "first": {
+    "core_fit": 3.569,
+    "core": 4.686,
+    "loop1": 17.219,
+    "loop2": 8.941,
+    "loop3": 7.029
+   },
+   "fold_in_ensemble": false
+  },
+  {
+   "pdb": "4DA3",
+   "topology": "parallel",
+   "n_tetrads": 2,
+   "loops": [
+    "TTAG",
+    "TTAG",
+    "TTAG"
+   ],
+   "loop_types": [
+    "propeller",
+    "propeller",
+    "propeller"
+   ],
+   "fold": "p+p+p+",
+   "models": [
+    {
+     "core": "6ERL",
+     "core_fold": "p+p+p+",
+     "score": 3.19,
+     "donors": [
+      [
+       "6IA4.pdb",
+       0,
+       0.56
+      ],
+      [
+       "6IA4.pdb",
+       0,
+       0.69
+      ],
+      [
+       "6IA4.pdb",
+       0,
+       0.98
+      ]
+     ],
+     "after": {
+      "core_fit": 0.931,
+      "core": 1.448,
+      "loop1": 6.088,
+      "loop2": 5.005,
+      "loop3": 6.708
+     },
+     "status": "ok"
+    },
+    {
+     "core": "7WGW",
+     "core_fold": "p+p+p+",
+     "score": 3.26,
+     "donors": [
+      [
+       "6IA4.pdb",
+       0,
+       0.89
+      ],
+      [
+       "6IA4.pdb",
+       0,
+       0.68
+      ],
+      [
+       "6IA4.pdb",
+       0,
+       1.35
+      ]
+     ],
+     "after": {
+      "core_fit": 0.918,
+      "core": 1.497,
+      "loop1": 5.296,
+      "loop2": 4.649,
+      "loop3": 6.129
+     },
+     "status": "ok"
+    },
+    {
+     "core": "6V0L",
+     "core_fold": "p+p+p+",
+     "score": 3.63,
+     "donors": [
+      [
+       "6IA4.pdb",
+       0,
+       0.6
+      ],
+      [
+       "6IA4.pdb",
+       0,
+       1.68
+      ],
+      [
+       "6IA4.pdb",
+       0,
+       0.75
+      ]
+     ],
+     "after": {
+      "core_fit": 0.734,
+      "core": 1.365,
+      "loop1": 4.916,
+      "loop2": 3.643,
+      "loop3": 7.274
+     },
+     "status": "ok"
+    }
+   ],
+   "status": "ok",
+   "best": {
+    "core_fit": 0.734,
+    "core": 1.365,
+    "loop1": 4.916,
+    "loop2": 3.643,
+    "loop3": 7.274
+   },
+   "best_core_fold": "p+p+p+",
+   "first": {
+    "core_fit": 0.931,
+    "core": 1.448,
+    "loop1": 6.088,
+    "loop2": 5.005,
+    "loop3": 6.708
+   },
+   "fold_in_ensemble": true
+  },
+  {
+   "pdb": "5J05",
+   "topology": "antiparallel",
+   "n_tetrads": 3,
+   "loops": [
+    "TTT",
+    "TTTT",
+    "A"
+   ],
+   "loop_types": [
+    "lateral",
+    "diagonal",
+    "lateral"
+   ],
+   "fold": "l+dl-",
+   "models": [
+    {
+     "core": "7Z9L",
+     "core_fold": "l-l-l-",
+     "score": 2.26,
+     "donors": [
+      [
+       "7Z9L.pdb",
+       0,
+       0.0
+      ],
+      [
+       "8FHZ.pdb",
+       1,
+       0.85
+      ],
+      [
+       "8YU3.pdb",
+       2,
+       1.11
+      ]
+     ],
+     "after": {
+      "core_fit": 7.777,
+      "core": 9.484,
+      "loop1": 9.59,
+      "loop2": 11.243,
+      "loop3": 3.69
+     },
+     "status": "ok"
+    },
+    {
+     "core": "5YEY",
+     "core_fold": "l-l-l-",
+     "score": 2.8,
+     "donors": [
+      [
+       "5YEY.pdb",
+       0,
+       0.0
+      ],
+      [
+       "8FI7.pdb",
+       1,
+       0.76
+      ],
+      [
+       "8YU3.pdb",
+       2,
+       1.54
+      ]
+     ],
+     "after": {
+      "core_fit": 7.396,
+      "core": 9.243,
+      "loop1": 8.192,
+      "loop2": 10.939,
+      "loop3": 5.225
+     },
+     "status": "ok"
+    },
+    {
+     "core": "7Z9L",
+     "core_fold": "l-l-l-",
+     "score": 2.89,
+     "donors": [
+      [
+       "2KOW.pdb",
+       0,
+       0.49
+      ],
+      [
+       "8FHX.pdb",
+       1,
+       0.88
+      ],
+      [
+       "9B6Z.pdb",
+       2,
+       1.07
+      ]
+     ],
+     "after": {
+      "core_fit": 7.786,
+      "core": 9.49,
+      "loop1": 9.866,
+      "loop2": 10.553,
+      "loop3": 3.417
+     },
+     "status": "ok"
+    }
+   ],
+   "status": "ok",
+   "best": {
+    "core_fit": 7.396,
+    "core": 9.243,
+    "loop1": 8.192,
+    "loop2": 10.939,
+    "loop3": 5.225
+   },
+   "best_core_fold": "l-l-l-",
+   "first": {
+    "core_fit": 7.777,
+    "core": 9.484,
+    "loop1": 9.59,
+    "loop2": 11.243,
+    "loop3": 3.69
+   },
+   "fold_in_ensemble": false
+  },
+  {
+   "pdb": "5J4P",
+   "topology": "antiparallel",
+   "n_tetrads": 2,
+   "loops": [
+    "TTT",
+    "TTTT",
+    "TTT"
+   ],
+   "loop_types": [
+    "lateral",
+    "diagonal",
+    "lateral"
+   ],
+   "fold": "l+dl-",
+   "models": [
+    {
+     "core": "2KOW",
+     "core_fold": "l-dl+",
+     "score": 0.4,
+     "donors": [
+      [
+       "2KOW.pdb",
+       0,
+       0.0
+      ],
+      [
+       "2KOW.pdb",
+       1,
+       0.0
+      ],
+      [
+       "2KOW.pdb",
+       2,
+       0.0
+      ]
+     ],
+     "status": "error: ValueError: No template found for residue 15 (DT).  The set of atoms is similar to DT, but has 1 C atom, 2 N atoms, and 1 O atom too many.  For more information, see https://github.com/openmm/openmm/wiki/Frequent"
+    },
+    {
+     "core": "6GZN",
+     "core_fold": "l+dl-",
+     "score": 1.13,
+     "donors": [
+      [
+       "6GZN.pdb",
+       0,
+       0.0
+      ],
+      [
+       "6L92.pdb",
+       1,
+       0.78
+      ],
+      [
+       "6GZN.pdb",
+       2,
+       0.0
+      ]
+     ],
+     "after": {
+      "core_fit": 0.796,
+      "core": 1.202,
+      "loop1": 3.267,
+      "loop2": 7.148,
+      "loop3": 5.937
+     },
+     "status": "ok"
+    },
+    {
+     "core": "2KM3",
+     "core_fold": "l-l-l-",
+     "score": 1.34,
+     "donors": [
+      [
+       "7Z9L.pdb",
+       0,
+       0.39
+      ],
+      [
+       "2KM3.pdb",
+       1,
+       0.0
+      ],
+      [
+       "2KF8.pdb",
+       2,
+       0.36
+      ]
+     ],
+     "after": {
+      "core_fit": 7.506,
+      "core": 9.406,
+      "loop1": 10.086,
+      "loop2": 9.25,
+      "loop3": 5.503
+     },
+     "status": "ok"
+    }
+   ],
+   "status": "ok",
+   "best": {
+    "core_fit": 0.796,
+    "core": 1.202,
+    "loop1": 3.267,
+    "loop2": 7.148,
+    "loop3": 5.937
+   },
+   "best_core_fold": "l+dl-",
+   "first": {
+    "core_fit": 0.796,
+    "core": 1.202,
+    "loop1": 3.267,
+    "loop2": 7.148,
+    "loop3": 5.937
+   },
+   "fold_in_ensemble": true
+  },
+  {
+   "pdb": "5J4W",
+   "topology": "antiparallel",
+   "n_tetrads": 2,
+   "loops": [
+    "TTT",
+    "TTTT",
+    "TT"
+   ],
+   "loop_types": [
+    "lateral",
+    "diagonal",
+    "lateral"
+   ],
+   "fold": "l+dl-",
+   "models": [
+    {
+     "core": "2M6V",
+     "core_fold": "l+dl-",
+     "score": 0.93,
+     "donors": [
+      [
+       "2KOW.pdb",
+       2,
+       0.38
+      ],
+      [
+       "2M6V.pdb",
+       1,
+       0.0
+      ],
+      [
+       "2M6V.pdb",
+       2,
+       0.0
+      ]
+     ],
+     "status": "error: ValueError: No template found for residue 4 (DT).  The set of atoms is similar to DT, but has 1 C atom, 2 N atoms, and 1 O atom too many.  For more information, see https://github.com/openmm/openmm/wiki/Frequentl"
+    },
+    {
+     "core": "2KM3",
+     "core_fold": "l-l-l-",
+     "score": 1.5,
+     "donors": [
+      [
+       "7Z9L.pdb",
+       0,
+       0.39
+      ],
+      [
+       "2KM3.pdb",
+       1,
+       0.0
+      ],
+      [
+       "5MJX.pdb",
+       2,
+       0.52
+      ]
+     ],
+     "after": {
+      "core_fit": 7.657,
+      "core": 9.601,
+      "loop1": 9.607,
+      "loop2": 10.124,
+      "loop3": 3.143
+     },
+     "status": "ok"
+    },
+    {
+     "core": "2KOW",
+     "core_fold": "l-dl+",
+     "score": 1.84,
+     "donors": [
+      [
+       "2KOW.pdb",
+       0,
+       0.0
+      ],
+      [
+       "2KOW.pdb",
+       1,
+       0.0
+      ],
+      [
+       "9U83.pdb",
+       0,
+       1.34
+      ]
+     ],
+     "after": {
+      "core_fit": 4.59,
+      "core": 6.561,
+      "loop1": 15.819,
+      "loop2": 15.846,
+      "loop3": 13.28
+     },
+     "status": "ok"
+    }
+   ],
+   "status": "ok",
+   "best": {
+    "core_fit": 4.59,
+    "core": 6.561,
+    "loop1": 15.819,
+    "loop2": 15.846,
+    "loop3": 13.28
+   },
+   "best_core_fold": "l-dl+",
+   "first": {
+    "core_fit": 7.657,
+    "core": 9.601,
+    "loop1": 9.607,
+    "loop2": 10.124,
+    "loop3": 3.143
+   },
+   "fold_in_ensemble": false
+  },
+  {
+   "pdb": "5LQG",
+   "topology": "antiparallel",
+   "n_tetrads": 2,
+   "loops": [
+    "GTTA",
+    "GTTAG",
+    "TTA"
+   ],
+   "loop_types": [
+    "lateral",
+    "diagonal",
+    "lateral"
+   ],
+   "fold": "l+dl-",
+   "models": [
+    {
+     "core": "2KF8",
+     "core_fold": "l+dl-",
+     "score": 0.3,
+     "donors": [
+      [
+       "2KF8.pdb",
+       0,
+       0.0
+      ],
+      [
+       "2KF8.pdb",
+       1,
+       0.0
+      ],
+      [
+       "2KF8.pdb",
+       2,
+       0.0
+      ]
+     ],
+     "after": {
+      "core_fit": 0.56,
+      "core": 1.053,
+      "loop1": 3.204,
+      "loop2": 8.233,
+      "loop3": 2.173
+     },
+     "status": "ok"
+    },
+    {
+     "core": "2KOW",
+     "core_fold": "l-dl+",
+     "score": 3.0,
+     "donors": [
+      [
+       "7CV4.pdb",
+       2,
+       0.51
+      ],
+      [
+       "2KF8.pdb",
+       1,
+       1.1
+      ],
+      [
+       "7W9N.pdb",
+       0,
+       0.84
+      ]
+     ],
+     "after": {
+      "core_fit": 4.728,
+      "core": 6.773,
+      "loop1": 19.332,
+      "loop2": 20.296,
+      "loop3": 16.5
+     },
+     "status": "ok"
+    },
+    {
+     "core": "7W9N",
+     "core_fold": "l+l+l+",
+     "score": 3.13,
+     "donors": [
+      [
+       "8FI7.pdb",
+       1,
+       0.53
+      ],
+      [
+       "6L92.pdb",
+       0,
+       1.31
+      ],
+      [
+       "2KOW.pdb",
+       2,
+       0.7
+      ]
+     ],
+     "after": {
+      "core_fit": 7.64,
+      "core": 9.973,
+      "loop1": 7.523,
+      "loop2": 7.821,
+      "loop3": 9.459
+     },
+     "status": "ok"
+    }
+   ],
+   "status": "ok",
+   "best": {
+    "core_fit": 0.56,
+    "core": 1.053,
+    "loop1": 3.204,
+    "loop2": 8.233,
+    "loop3": 2.173
+   },
+   "best_core_fold": "l+dl-",
+   "first": {
+    "core_fit": 0.56,
+    "core": 1.053,
+    "loop1": 3.204,
+    "loop2": 8.233,
+    "loop3": 2.173
+   },
+   "fold_in_ensemble": true
+  },
+  {
+   "pdb": "5MTA",
+   "topology": "hybrid",
+   "n_tetrads": 3,
+   "loops": [
+    "TTAA",
+    "TATAACTTTA",
+    "GTTA"
+   ],
+   "loop_types": [
+    "propeller",
+    "diagonal",
+    "lateral"
+   ],
+   "fold": "p+dl-",
+   "models": [
+    {
+     "core": "7CV3",
+     "core_fold": "p+l+l+",
+     "score": 3.16,
+     "donors": [
+      [
+       "2M27.pdb",
+       1,
+       1.88
+      ],
+      [
+       "7CV3.pdb",
+       1,
+       0.0
+      ],
+      [
+       "2KM3.pdb",
+       0,
+       0.73
+      ]
+     ],
+     "after": {
+      "core_fit": 7.594,
+      "core": 9.604,
+      "loop1": 4.503,
+      "loop2": 4.941,
+      "loop3": 10.052
+     },
+     "status": "ok"
+    },
+    {
+     "core": "2HY9",
+     "core_fold": "p+l+l+",
+     "score": 4.59,
+     "donors": [
+      [
+       "2M27.pdb",
+       1,
+       1.99
+      ],
+      [
+       "9GVI.pdb",
+       1,
+       1.05
+      ],
+      [
+       "2KM3.pdb",
+       0,
+       0.7
+      ]
+     ],
+     "after": {
+      "core_fit": 7.541,
+      "core": 9.69,
+      "loop1": 4.188,
+      "loop2": 6.346,
+      "loop3": 10.593
+     },
+     "status": "ok"
+    },
+    {
+     "core": "6KFI",
+     "core_fold": "p+l+l+",
+     "score": 4.76,
+     "donors": [
+      [
+       "2M27.pdb",
+       1,
+       1.8
+      ],
+      [
+       "9GVI.pdb",
+       1,
+       1.38
+      ],
+      [
+       "7OQT.pdb",
+       2,
+       0.88
+      ]
+     ],
+     "after": {
+      "core_fit": 7.637,
+      "core": 9.845,
+      "loop1": 3.938,
+      "loop2": 7.767,
+      "loop3": 9.202
+     },
+     "status": "ok"
+    }
+   ],
+   "status": "ok",
+   "best": {
+    "core_fit": 7.594,
+    "core": 9.604,
+    "loop1": 4.503,
+    "loop2": 4.941,
+    "loop3": 10.052
+   },
+   "best_core_fold": "p+l+l+",
+   "first": {
+    "core_fit": 7.594,
+    "core": 9.604,
+    "loop1": 4.503,
+    "loop2": 4.941,
+    "loop3": 10.052
+   },
+   "fold_in_ensemble": false
+  },
+  {
+   "pdb": "5YEY",
+   "topology": "antiparallel",
+   "n_tetrads": 3,
+   "loops": [
+    "TTA",
+    "TTA",
+    "TTT"
+   ],
+   "loop_types": [
+    "lateral",
+    "lateral",
+    "lateral"
+   ],
+   "fold": "l-l-l-",
+   "models": [
+    {
+     "core": "7Z9L",
+     "core_fold": "l-l-l-",
+     "score": 0.45,
+     "donors": [
+      [
+       "7Z9L.pdb",
+       0,
+       0.0
+      ],
+      [
+       "7Z9L.pdb",
+       1,
+       0.0
+      ],
+      [
+       "7Z9L.pdb",
+       2,
+       0.0
+      ]
+     ],
+     "after": {
+      "core_fit": 2.425,
+      "core": 1.946,
+      "loop1": 3.103,
+      "loop2": 3.07,
+      "loop3": 2.916
+     },
+     "status": "ok"
+    },
+    {
+     "core": "143D",
+     "core_fold": "l+dl-",
+     "score": 0.6,
+     "donors": [
+      [
+       "143D.pdb",
+       0,
+       0.0
+      ],
+      [
+       "143D.pdb",
+       1,
+       0.0
+      ],
+      [
+       "143D.pdb",
+       2,
+       0.0
+      ]
+     ],
+     "after": {
+      "core_fit": 7.571,
+      "core": 9.181,
+      "loop1": 7.781,
+      "loop2": 10.227,
+      "loop3": 2.418
+     },
+     "status": "ok"
+    },
+    {
+     "core": "6ZX7",
+     "core_fold": "l+dl-",
+     "score": 2.89,
+     "donors": [
+      [
+       "6ZX7.pdb",
+       0,
+       0.0
+      ],
+      [
+       "143D.pdb",
+       1,
+       1.37
+      ],
+      [
+       "6GZN.pdb",
+       2,
+       0.46
+      ]
+     ],
+     "after": {
+      "core_fit": 7.633,
+      "core": 9.346,
+      "loop1": 8.781,
+      "loop2": 8.267,
+      "loop3": 4.636
+     },
+     "status": "ok"
+    }
+   ],
+   "status": "ok",
+   "best": {
+    "core_fit": 2.425,
+    "core": 1.946,
+    "loop1": 3.103,
+    "loop2": 3.07,
+    "loop3": 2.916
+   },
+   "best_core_fold": "l-l-l-",
+   "first": {
+    "core_fit": 2.425,
+    "core": 1.946,
+    "loop1": 3.103,
+    "loop2": 3.07,
+    "loop3": 2.916
+   },
+   "fold_in_ensemble": true
+  },
+  {
+   "pdb": "6GZN",
+   "topology": "antiparallel",
+   "n_tetrads": 2,
+   "loops": [
+    "GTA",
+    "GAGCG",
+    "AGA"
+   ],
+   "loop_types": [
+    "lateral",
+    "diagonal",
+    "lateral"
+   ],
+   "fold": "l+dl-",
+   "models": [
+    {
+     "core": "2KF8",
+     "core_fold": "l+dl-",
+     "score": 0.86,
+     "donors": [
+      [
+       "2KOW.pdb",
+       2,
+       0.56
+      ],
+      [
+       "2KF8.pdb",
+       1,
+       0.0
+      ],
+      [
+       "2KF8.pdb",
+       2,
+       0.0
+      ]
+     ],
+     "after": {
+      "core_fit": 0.48,
+      "core": 0.935,
+      "loop1": 1.792,
+      "loop2": 5.551,
+      "loop3": 4.345
+     },
+     "status": "ok"
+    },
+    {
+     "core": "2KOW",
+     "core_fold": "l-dl+",
+     "score": 1.22,
+     "donors": [
+      [
+       "2KOW.pdb",
+       0,
+       0.0
+      ],
+      [
+       "5LQG.pdb",
+       1,
+       0.57
+      ],
+      [
+       "2KOW.pdb",
+       2,
+       0.0
+      ]
+     ],
+     "after": {
+      "core_fit": 4.702,
+      "core": 6.762,
+      "loop1": 17.002,
+      "loop2": 21.49,
+      "loop3": 17.097
+     },
+     "status": "ok"
+    },
+    {
+     "core": "7W9N",
+     "core_fold": "l+l+l+",
+     "score": 2.55,
+     "donors": [
+      [
+       "7W9N.pdb",
+       0,
+       0.0
+      ],
+      [
+       "6L92.pdb",
+       0,
+       1.31
+      ],
+      [
+       "2KOW.pdb",
+       2,
+       0.7
+      ]
+     ],
+     "after": {
+      "core_fit": 7.64,
+      "core": 9.947,
+      "loop1": 4.688,
+      "loop2": 6.422,
+      "loop3": 11.068
+     },
+     "status": "ok"
+    }
+   ],
+   "status": "ok",
+   "best": {
+    "core_fit": 0.48,
+    "core": 0.935,
+    "loop1": 1.792,
+    "loop2": 5.551,
+    "loop3": 4.345
+   },
+   "best_core_fold": "l+dl-",
+   "first": {
+    "core_fit": 0.48,
+    "core": 0.935,
+    "loop1": 1.792,
+    "loop2": 5.551,
+    "loop3": 4.345
+   },
+   "fold_in_ensemble": true
+  },
+  {
+   "pdb": "6K3Y",
+   "topology": "parallel",
+   "n_tetrads": 2,
+   "loops": [
+    "T",
+    "GT",
+    "GT"
+   ],
+   "loop_types": [
+    "propeller",
+    "propeller",
+    "propeller"
+   ],
+   "fold": "p+p+p+",
+   "models": [
+    {
+     "core": "7WGW",
+     "core_fold": "p+p+p+",
+     "score": 2.51,
+     "donors": [
+      [
+       "7WGW.pdb",
+       2,
+       0.93
+      ],
+      [
+       "7WGW.pdb",
+       1,
+       0.0
+      ],
+      [
+       "7WGW.pdb",
+       0,
+       0.93
+      ]
+     ],
+     "after": {
+      "core_fit": 0.641,
+      "core": 0.858,
+      "loop1": 3.542,
+      "loop2": 7.805,
+      "loop3": 6.252
+     },
+     "status": "ok"
+    },
+    {
+     "core": "6LNZ",
+     "core_fold": "p+p+p+",
+     "score": 2.69,
+     "donors": [
+      [
+       "2KQG.pdb",
+       0,
+       1.52
+      ],
+      [
+       "6LNZ.pdb",
+       0,
+       0.58
+      ],
+      [
+       "6LNZ.pdb",
+       2,
+       0.0
+      ]
+     ],
+     "after": {
+      "core_fit": 0.729,
+      "core": 1.102,
+      "loop1": 3.321,
+      "loop2": 6.873,
+      "loop3": 8.8
+     },
+     "status": "ok"
+    },
+    {
+     "core": "7MSV",
+     "core_fold": "p+p+p+",
+     "score": 2.97,
+     "donors": [
+      [
+       "2KQG.pdb",
+       0,
+       1.18
+      ],
+      [
+       "7MSV.pdb",
+       2,
+       1.24
+      ],
+      [
+       "7MSV.pdb",
+       2,
+       0.0
+      ]
+     ],
+     "after": {
+      "core_fit": 0.503,
+      "core": 0.9,
+      "loop1": 4.28,
+      "loop2": 7.342,
+      "loop3": 8.964
+     },
+     "status": "ok"
+    }
+   ],
+   "status": "ok",
+   "best": {
+    "core_fit": 0.641,
+    "core": 0.858,
+    "loop1": 3.542,
+    "loop2": 7.805,
+    "loop3": 6.252
+   },
+   "best_core_fold": "p+p+p+",
+   "first": {
+    "core_fit": 0.641,
+    "core": 0.858,
+    "loop1": 3.542,
+    "loop2": 7.805,
+    "loop3": 6.252
+   },
+   "fold_in_ensemble": true
+  },
+  {
+   "pdb": "6L92",
+   "topology": "hybrid",
+   "n_tetrads": 3,
+   "loops": [
+    "CCACC",
+    "CAGT",
+    "C"
+   ],
+   "loop_types": [
+    "lateral",
+    "diagonal",
+    "propeller"
+   ],
+   "fold": "l-dp+",
+   "models": [
+    {
+     "core": "7CV3",
+     "core_fold": "p+l+l+",
+     "score": 3.73,
+     "donors": [
+      [
+       "8EDP.pdb",
+       2,
+       1.9
+      ],
+      [
+       "2KM3.pdb",
+       1,
+       0.59
+      ],
+      [
+       "8YU3.pdb",
+       2,
+       0.85
+      ]
+     ],
+     "after": {
+      "core_fit": 9.018,
+      "core": 10.664,
+      "loop1": 23.847,
+      "loop2": 21.748,
+      "loop3": 8.11
+     },
+     "status": "ok"
+    },
+    {
+     "core": "8YU3",
+     "core_fold": "p+l+l+",
+     "score": 4.09,
+     "donors": [
+      [
+       "8EDP.pdb",
+       2,
+       1.94
+      ],
+      [
+       "9JX5.pdb",
+       2,
+       1.7
+      ],
+      [
+       "8YU3.pdb",
+       2,
+       0.0
+      ]
+     ],
+     "after": {
+      "core_fit": 8.932,
+      "core": 10.723,
+      "loop1": 23.407,
+      "loop2": 20.227,
+      "loop3": 6.946
+     },
+     "status": "ok"
+    },
+    {
+     "core": "2MB3",
+     "core_fold": "p+l+l+",
+     "score": 4.19,
+     "donors": [
+      [
+       "2KQH.pdb",
+       1,
+       1.9
+      ],
+      [
+       "8FI7.pdb",
+       1,
+       0.59
+      ],
+      [
+       "9B6Z.pdb",
+       2,
+       1.2
+      ]
+     ],
+     "after": {
+      "core_fit": 9.097,
+      "core": 10.772,
+      "loop1": 14.896,
+      "loop2": 9.478,
+      "loop3": 9.461
+     },
+     "status": "ok"
+    }
+   ],
+   "status": "ok",
+   "best": {
+    "core_fit": 9.018,
+    "core": 10.664,
+    "loop1": 23.847,
+    "loop2": 21.748,
+    "loop3": 8.11
+   },
+   "best_core_fold": "p+l+l+",
+   "first": {
+    "core_fit": 9.018,
+    "core": 10.664,
+    "loop1": 23.847,
+    "loop2": 21.748,
+    "loop3": 8.11
+   },
+   "fold_in_ensemble": false
+  },
+  {
+   "pdb": "6LNZ",
+   "topology": "parallel",
+   "n_tetrads": 2,
+   "loops": [
+    "CG",
+    "CCTTG",
+    "CG"
+   ],
+   "loop_types": [
+    "propeller",
+    "propeller",
+    "propeller"
+   ],
+   "fold": "p+p+p+",
+   "models": [
+    {
+     "core": "6V0L",
+     "core_fold": "p+p+p+",
+     "score": 2.1,
+     "donors": [
+      [
+       "6V0L.pdb",
+       0,
+       0.0
+      ],
+      [
+       "8EDP.pdb",
+       2,
+       1.8
+      ],
+      [
+       "6V0L.pdb",
+       2,
+       0.0
+      ]
+     ],
+     "after": {
+      "core_fit": 0.691,
+      "core": 1.248,
+      "loop1": 1.354,
+      "loop2": 7.376,
+      "loop3": 1.66
+     },
+     "status": "ok"
+    },
+    {
+     "core": "7MSV",
+     "core_fold": "p+p+p+",
+     "score": 2.11,
+     "donors": [
+      [
+       "7MSV.pdb",
+       0,
+       0.0
+      ],
+      [
+       "8EDP.pdb",
+       2,
+       1.91
+      ],
+      [
+       "7MSV.pdb",
+       2,
+       0.0
+      ]
+     ],
+     "after": {
+      "core_fit": 0.684,
+      "core": 1.299,
+      "loop1": 1.951,
+      "loop2": 7.823,
+      "loop3": 1.214
+     },
+     "status": "ok"
+    },
+    {
+     "core": "6K3Y",
+     "core_fold": "p+p+p+",
+     "score": 2.62,
+     "donors": [
+      [
+       "6K3Y.pdb",
+       2,
+       0.69
+      ],
+      [
+       "8EDP.pdb",
+       2,
+       1.58
+      ],
+      [
+       "6K3Y.pdb",
+       2,
+       0.0
+      ]
+     ],
+     "after": {
+      "core_fit": 0.736,
+      "core": 1.139,
+      "loop1": 8.218,
+      "loop2": 6.931,
+      "loop3": 8.942
+     },
+     "status": "ok"
+    }
+   ],
+   "status": "ok",
+   "best": {
+    "core_fit": 0.736,
+    "core": 1.139,
+    "loop1": 8.218,
+    "loop2": 6.931,
+    "loop3": 8.942
+   },
+   "best_core_fold": "p+p+p+",
+   "first": {
+    "core_fit": 0.691,
+    "core": 1.248,
+    "loop1": 1.354,
+    "loop2": 7.376,
+    "loop3": 1.66
+   },
+   "fold_in_ensemble": true
+  },
+  {
+   "pdb": "6V0L",
+   "topology": "parallel",
+   "n_tetrads": 2,
+   "loops": [
+    "AG",
+    "C",
+    "CG"
+   ],
+   "loop_types": [
+    "propeller",
+    "propeller",
+    "propeller"
+   ],
+   "fold": "p+p+p+",
+   "models": [
+    {
+     "core": "7MSV",
+     "core_fold": "p+p+p+",
+     "score": 0.35,
+     "donors": [
+      [
+       "7MSV.pdb",
+       0,
+       0.0
+      ],
+      [
+       "7MSV.pdb",
+       1,
+       0.0
+      ],
+      [
+       "7MSV.pdb",
+       2,
+       0.0
+      ]
+     ],
+     "after": {
+      "core_fit": 0.672,
+      "core": 1.026,
+      "loop1": 1.872,
+      "loop2": 1.451,
+      "loop3": 1.348
+     },
+     "status": "ok"
+    },
+    {
+     "core": "6LNZ",
+     "core_fold": "p+p+p+",
+     "score": 1.4,
+     "donors": [
+      [
+       "6LNZ.pdb",
+       0,
+       0.0
+      ],
+      [
+       "6K3Y.pdb",
+       0,
+       1.05
+      ],
+      [
+       "6LNZ.pdb",
+       2,
+       0.0
+      ]
+     ],
+     "after": {
+      "core_fit": 0.613,
+      "core": 1.196,
+      "loop1": 1.453,
+      "loop2": 5.345,
+      "loop3": 1.546
+     },
+     "status": "ok"
+    },
+    {
+     "core": "6K3Y",
+     "core_fold": "p+p+p+",
+     "score": 2.16,
+     "donors": [
+      [
+       "6K3Y.pdb",
+       2,
+       0.69
+      ],
+      [
+       "6K3Y.pdb",
+       0,
+       0.86
+      ],
+      [
+       "6K3Y.pdb",
+       2,
+       0.0
+      ]
+     ],
+     "after": {
+      "core_fit": 0.735,
+      "core": 1.204,
+      "loop1": 7.758,
+      "loop2": 2.902,
+      "loop3": 8.347
+     },
+     "status": "ok"
+    }
+   ],
+   "status": "ok",
+   "best": {
+    "core_fit": 0.672,
+    "core": 1.026,
+    "loop1": 1.872,
+    "loop2": 1.451,
+    "loop3": 1.348
+   },
+   "best_core_fold": "p+p+p+",
+   "first": {
+    "core_fit": 0.672,
+    "core": 1.026,
+    "loop1": 1.872,
+    "loop2": 1.451,
+    "loop3": 1.348
+   },
+   "fold_in_ensemble": true
+  },
+  {
+   "pdb": "6ZX7",
+   "topology": "antiparallel",
+   "n_tetrads": 3,
+   "loops": [
+    "CGC",
+    "AGGAAG",
+    "GC"
+   ],
+   "loop_types": [
+    "lateral",
+    "diagonal",
+    "lateral"
+   ],
+   "fold": "l+dl-",
+   "status": "no feasible core"
+  },
+  {
+   "pdb": "7CV3",
+   "topology": "hybrid",
+   "n_tetrads": 3,
+   "loops": [
+    "A",
+    "CGCGCCAGCG",
+    "TC"
+   ],
+   "loop_types": [
+    "propeller",
+    "lateral",
+    "lateral"
+   ],
+   "fold": "p+l+l+",
+   "models": [
+    {
+     "core": "5MTG",
+     "core_fold": "p+dl-",
+     "score": 2.94,
+     "donors": [
+      [
+       "6JWE.pdb",
+       1,
+       1.47
+      ],
+      [
+       "5MTG.pdb",
+       1,
+       0.0
+      ],
+      [
+       "9U83.pdb",
+       0,
+       1.27
+      ]
+     ],
+     "after": {
+      "core_fit": 7.543,
+      "core": 9.48,
+      "loop1": 3.098,
+      "loop2": 4.234,
+      "loop3": 9.412
+     },
+     "status": "ok"
+    },
+    {
+     "core": "2MB3",
+     "core_fold": "p+l+l+",
+     "score": 3.58,
+     "donors": [
+      [
+       "6JWE.pdb",
+       1,
+       1.13
+      ],
+      [
+       "7CV4.pdb",
+       1,
+       1.26
+      ],
+      [
+       "8R4W.pdb",
+       1,
+       0.55
+      ]
+     ],
+     "after": {
+      "core_fit": 1.074,
+      "core": 1.52,
+      "loop1": 3.521,
+      "loop2": 3.711,
+      "loop3": 3.938
+     },
+     "status": "ok"
+    },
+    {
+     "core": "6L92",
+     "core_fold": "l-dp+",
+     "score": 5.18,
+     "donors": [
+      [
+       "9B6Z.pdb",
+       2,
+       1.73
+      ],
+      [
+       "5MTG.pdb",
+       1,
+       0.93
+      ],
+      [
+       "6O2L.pdb",
+       1,
+       1.92
+      ]
+     ],
+     "after": {
+      "core_fit": 9.006,
+      "core": 10.655,
+      "loop1": 9.818,
+      "loop2": 26.3,
+      "loop3": 7.383
+     },
+     "status": "ok"
+    }
+   ],
+   "status": "ok",
+   "best": {
+    "core_fit": 1.074,
+    "core": 1.52,
+    "loop1": 3.521,
+    "loop2": 3.711,
+    "loop3": 3.938
+   },
+   "best_core_fold": "p+l+l+",
+   "first": {
+    "core_fit": 7.543,
+    "core": 9.48,
+    "loop1": 3.098,
+    "loop2": 4.234,
+    "loop3": 9.412
+   },
+   "fold_in_ensemble": true
+  },
+  {
+   "pdb": "7CV4",
+   "topology": "antiparallel",
+   "n_tetrads": 2,
+   "loops": [
+    "AG",
+    "CGCGCCAGCG",
+    "GTCG"
+   ],
+   "loop_types": [
+    "lateral",
+    "lateral",
+    "lateral"
+   ],
+   "fold": "l-l-l-",
+   "models": [
+    {
+     "core": "8ABN",
+     "core_fold": "l-l-l-",
+     "score": 1.74,
+     "donors": [
+      [
+       "8ABN.pdb",
+       0,
+       0.0
+      ],
+      [
+       "9GVI.pdb",
+       1,
+       0.71
+      ],
+      [
+       "5LQH.pdb",
+       0,
+       0.64
+      ]
+     ],
+     "after": {
+      "core_fit": 0.728,
+      "core": 1.158,
+      "loop1": 2.576,
+      "loop2": 7.017,
+      "loop3": 5.301
+     },
+     "status": "ok"
+    },
+    {
+     "core": "8JIH",
+     "core_fold": "l-dl+",
+     "score": 2.65,
+     "donors": [
+      [
+       "8ABN.pdb",
+       2,
+       0.69
+      ],
+      [
+       "5MTG.pdb",
+       1,
+       0.91
+      ],
+      [
+       "8FHZ.pdb",
+       1,
+       0.5
+      ]
+     ],
+     "after": {
+      "core_fit": 7.61,
+      "core": 9.621,
+      "loop1": 2.921,
+      "loop2": 7.277,
+      "loop3": 12.315
+     },
+     "status": "ok"
+    },
+    {
+     "core": "7OQT",
+     "core_fold": "l+dl-",
+     "score": 2.76,
+     "donors": [
+      [
+       "8YU3.pdb",
+       1,
+       1.41
+      ],
+      [
+       "5MTA.pdb",
+       1,
+       1.0
+      ],
+      [
+       "7OQT.pdb",
+       2,
+       0.0
+      ]
+     ],
+     "after": {
+      "core_fit": 7.362,
+      "core": 9.025,
+      "loop1": 7.103,
+      "loop2": 11.653,
+      "loop3": 4.493
+     },
+     "status": "ok"
+    }
+   ],
+   "status": "ok",
+   "best": {
+    "core_fit": 0.728,
+    "core": 1.158,
+    "loop1": 2.576,
+    "loop2": 7.017,
+    "loop3": 5.301
+   },
+   "best_core_fold": "l-l-l-",
+   "first": {
+    "core_fit": 0.728,
+    "core": 1.158,
+    "loop1": 2.576,
+    "loop2": 7.017,
+    "loop3": 5.301
+   },
+   "fold_in_ensemble": true
+  },
+  {
+   "pdb": "7EL7",
+   "topology": "hybrid",
+   "n_tetrads": 3,
+   "loops": [
+    "AGAGGAGAGCTCT",
+    "TT",
+    "T"
+   ],
+   "loop_types": [
+    "lateral",
+    "lateral",
+    "propeller"
+   ],
+   "fold": "l+l+p+",
+   "status": "no feasible core"
+  },
+  {
+   "pdb": "7MSV",
+   "topology": "parallel",
+   "n_tetrads": 2,
+   "loops": [
+    "AG",
+    "C",
+    "CG"
+   ],
+   "loop_types": [
+    "propeller",
+    "propeller",
+    "propeller"
+   ],
+   "fold": "p+p+p+",
+   "models": [
+    {
+     "core": "6V0L",
+     "core_fold": "p+p+p+",
+     "score": 0.4,
+     "donors": [
+      [
+       "6V0L.pdb",
+       0,
+       0.0
+      ],
+      [
+       "6V0L.pdb",
+       1,
+       0.0
+      ],
+      [
+       "6V0L.pdb",
+       2,
+       0.0
+      ]
+     ],
+     "after": {
+      "core_fit": 0.672,
+      "core": 1.025,
+      "loop1": 1.646,
+      "loop2": 1.051,
+      "loop3": 1.731
+     },
+     "status": "ok"
+    },
+    {
+     "core": "6LNZ",
+     "core_fold": "p+p+p+",
+     "score": 1.4,
+     "donors": [
+      [
+       "6LNZ.pdb",
+       0,
+       0.0
+      ],
+      [
+       "6K3Y.pdb",
+       0,
+       1.05
+      ],
+      [
+       "6LNZ.pdb",
+       2,
+       0.0
+      ]
+     ],
+     "after": {
+      "core_fit": 0.618,
+      "core": 1.258,
+      "loop1": 2.642,
+      "loop2": 4.826,
+      "loop3": 1.998
+     },
+     "status": "ok"
+    },
+    {
+     "core": "6K3Y",
+     "core_fold": "p+p+p+",
+     "score": 2.16,
+     "donors": [
+      [
+       "6K3Y.pdb",
+       2,
+       0.69
+      ],
+      [
+       "6K3Y.pdb",
+       0,
+       0.86
+      ],
+      [
+       "6K3Y.pdb",
+       2,
+       0.0
+      ]
+     ],
+     "after": {
+      "core_fit": 0.463,
+      "core": 0.925,
+      "loop1": 8.68,
+      "loop2": 2.268,
+      "loop3": 9.191
+     },
+     "status": "ok"
+    }
+   ],
+   "status": "ok",
+   "best": {
+    "core_fit": 0.463,
+    "core": 0.925,
+    "loop1": 8.68,
+    "loop2": 2.268,
+    "loop3": 9.191
+   },
+   "best_core_fold": "p+p+p+",
+   "first": {
+    "core_fit": 0.672,
+    "core": 1.025,
+    "loop1": 1.646,
+    "loop2": 1.051,
+    "loop3": 1.731
+   },
+   "fold_in_ensemble": true
+  },
+  {
+   "pdb": "7OQT",
+   "topology": "antiparallel",
+   "n_tetrads": 2,
+   "loops": [
+    "CTTA",
+    "CTTA",
+    "CTTA"
+   ],
+   "loop_types": [
+    "lateral",
+    "diagonal",
+    "lateral"
+   ],
+   "fold": "l+dl-",
+   "models": [
+    {
+     "core": "2KM3",
+     "core_fold": "l-l-l-",
+     "score": 0.3,
+     "donors": [
+      [
+       "2KM3.pdb",
+       0,
+       0.0
+      ],
+      [
+       "2KM3.pdb",
+       1,
+       0.0
+      ],
+      [
+       "2KM3.pdb",
+       2,
+       0.0
+      ]
+     ],
+     "after": {
+      "core_fit": 7.519,
+      "core": 9.424,
+      "loop1": 11.572,
+      "loop2": 8.762,
+      "loop3": 7.993
+     },
+     "status": "ok"
+    },
+    {
+     "core": "8XGP",
+     "core_fold": "l+l+l+",
+     "score": 0.45,
+     "donors": [
+      [
+       "8XGP.pdb",
+       0,
+       0.0
+      ],
+      [
+       "8XGP.pdb",
+       1,
+       0.0
+      ],
+      [
+       "8XGP.pdb",
+       2,
+       0.0
+      ]
+     ],
+     "after": {
+      "core_fit": 7.688,
+      "core": 9.998,
+      "loop1": 5.651,
+      "loop2": 13.183,
+      "loop3": 10.102
+     },
+     "status": "ok"
+    },
+    {
+     "core": "2KOW",
+     "core_fold": "l-dl+",
+     "score": 1.79,
+     "donors": [
+      [
+       "7CV4.pdb",
+       2,
+       0.51
+      ],
+      [
+       "2KOW.pdb",
+       1,
+       0.0
+      ],
+      [
+       "8FI7.pdb",
+       1,
+       0.78
+      ]
+     ],
+     "after": {
+      "core_fit": 4.522,
+      "core": 6.666,
+      "loop1": 16.888,
+      "loop2": 15.925,
+      "loop3": 18.695
+     },
+     "status": "ok"
+    }
+   ],
+   "status": "ok",
+   "best": {
+    "core_fit": 4.522,
+    "core": 6.666,
+    "loop1": 16.888,
+    "loop2": 15.925,
+    "loop3": 18.695
+   },
+   "best_core_fold": "l-dl+",
+   "first": {
+    "core_fit": 7.519,
+    "core": 9.424,
+    "loop1": 11.572,
+    "loop2": 8.762,
+    "loop3": 7.993
+   },
+   "fold_in_ensemble": false
+  },
+  {
+   "pdb": "7W9N",
+   "topology": "antiparallel",
+   "n_tetrads": 2,
+   "loops": [
+    "TGT",
+    "GT",
+    "CGTAAAG"
+   ],
+   "loop_types": [
+    "lateral",
+    "lateral",
+    "lateral"
+   ],
+   "fold": "l+l+l+",
+   "models": [
+    {
+     "core": "8FI7",
+     "core_fold": "l-l-l-",
+     "score": 2.88,
+     "donors": [
+      [
+       "8R4E.pdb",
+       0,
+       0.44
+      ],
+      [
+       "9U83.pdb",
+       0,
+       1.02
+      ],
+      [
+       "8FI2.pdb",
+       0,
+       0.52
+      ]
+     ],
+     "after": {
+      "core_fit": 4.639,
+      "core": 6.746,
+      "loop1": 16.112,
+      "loop2": 14.475,
+      "loop3": 26.773
+     },
+     "status": "ok"
+    },
+    {
+     "core": "8FI1",
+     "core_fold": "l-l-l-",
+     "score": 2.92,
+     "donors": [
+      [
+       "8R4E.pdb",
+       0,
+       0.44
+      ],
+      [
+       "9U83.pdb",
+       0,
+       1.15
+      ],
+      [
+       "8FI2.pdb",
+       0,
+       0.48
+      ]
+     ],
+     "after": {
+      "core_fit": 4.694,
+      "core": 6.826,
+      "loop1": 16.225,
+      "loop2": 14.298,
+      "loop3": 27.037
+     },
+     "status": "ok"
+    },
+    {
+     "core": "8FI8",
+     "core_fold": "l-l-l-",
+     "score": 2.97,
+     "donors": [
+      [
+       "8R4E.pdb",
+       0,
+       0.41
+      ],
+      [
+       "9U83.pdb",
+       0,
+       1.07
+      ],
+      [
+       "8FHZ.pdb",
+       0,
+       0.68
+      ]
+     ],
+     "after": {
+      "core_fit": 4.658,
+      "core": 6.786,
+      "loop1": 16.158,
+      "loop2": 14.443,
+      "loop3": 26.741
+     },
+     "status": "ok"
+    }
+   ],
+   "status": "ok",
+   "best": {
+    "core_fit": 4.639,
+    "core": 6.746,
+    "loop1": 16.112,
+    "loop2": 14.475,
+    "loop3": 26.773
+   },
+   "best_core_fold": "l-l-l-",
+   "first": {
+    "core_fit": 4.639,
+    "core": 6.746,
+    "loop1": 16.112,
+    "loop2": 14.475,
+    "loop3": 26.773
+   },
+   "fold_in_ensemble": false
+  },
+  {
+   "pdb": "7WGW",
+   "topology": "parallel",
+   "n_tetrads": 2,
+   "loops": [
+    "AG",
+    "CG",
+    "A"
+   ],
+   "loop_types": [
+    "propeller",
+    "propeller",
+    "propeller"
+   ],
+   "fold": "p+p+p+",
+   "models": [
+    {
+     "core": "6K3Y",
+     "core_fold": "p+p+p+",
+     "score": 2.24,
+     "donors": [
+      [
+       "6K3Y.pdb",
+       2,
+       0.69
+      ],
+      [
+       "6K3Y.pdb",
+       1,
+       0.0
+      ],
+      [
+       "6K3Y.pdb",
+       0,
+       0.69
+      ]
+     ],
+     "after": {
+      "core_fit": 0.62,
+      "core": 0.898,
+      "loop1": 8.43,
+      "loop2": 7.872,
+      "loop3": 2.931
+     },
+     "status": "ok"
+    },
+    {
+     "core": "6LNZ",
+     "core_fold": "p+p+p+",
+     "score": 2.39,
+     "donors": [
+      [
+       "6LNZ.pdb",
+       0,
+       0.0
+      ],
+      [
+       "6LNZ.pdb",
+       0,
+       0.58
+      ],
+      [
+       "2KQG.pdb",
+       0,
+       1.16
+      ]
+     ],
+     "after": {
+      "core_fit": 0.67,
+      "core": 1.142,
+      "loop1": 2.458,
+      "loop2": 2.984,
+      "loop3": 3.211
+     },
+     "status": "ok"
+    },
+    {
+     "core": "6V0L",
+     "core_fold": "p+p+p+",
+     "score": 2.76,
+     "donors": [
+      [
+       "6V0L.pdb",
+       0,
+       0.0
+      ],
+      [
+       "6K3Y.pdb",
+       1,
+       1.14
+      ],
+      [
+       "6K3Y.pdb",
+       0,
+       1.11
+      ]
+     ],
+     "after": {
+      "core_fit": 0.544,
+      "core": 1.158,
+      "loop1": 1.454,
+      "loop2": 8.764,
+      "loop3": 2.445
+     },
+     "status": "ok"
+    }
+   ],
+   "status": "ok",
+   "best": {
+    "core_fit": 0.62,
+    "core": 0.898,
+    "loop1": 8.43,
+    "loop2": 7.872,
+    "loop3": 2.931
+   },
+   "best_core_fold": "p+p+p+",
+   "first": {
+    "core_fit": 0.62,
+    "core": 0.898,
+    "loop1": 8.43,
+    "loop2": 7.872,
+    "loop3": 2.931
+   },
+   "fold_in_ensemble": true
+  },
+  {
+   "pdb": "7Z9L",
+   "topology": "antiparallel",
+   "n_tetrads": 3,
+   "loops": [
+    "TTA",
+    "TTA",
+    "TTA"
+   ],
+   "loop_types": [
+    "lateral",
+    "lateral",
+    "lateral"
+   ],
+   "fold": "l-l-l-",
+   "models": [
+    {
+     "core": "143D",
+     "core_fold": "l+dl-",
+     "score": 0.6,
+     "donors": [
+      [
+       "143D.pdb",
+       0,
+       0.0
+      ],
+      [
+       "143D.pdb",
+       1,
+       0.0
+      ],
+      [
+       "143D.pdb",
+       2,
+       0.0
+      ]
+     ],
+     "after": {
+      "core_fit": 7.8,
+      "core": 9.507,
+      "loop1": 10.041,
+      "loop2": 12.473,
+      "loop3": 1.375
+     },
+     "status": "ok"
+    },
+    {
+     "core": "5YEY",
+     "core_fold": "l-l-l-",
+     "score": 0.8,
+     "donors": [
+      [
+       "5YEY.pdb",
+       0,
+       0.0
+      ],
+      [
+       "5YEY.pdb",
+       1,
+       0.0
+      ],
+      [
+       "5YEY.pdb",
+       2,
+       0.0
+      ]
+     ],
+     "after": {
+      "core_fit": 2.447,
+      "core": 1.943,
+      "loop1": 3.551,
+      "loop2": 2.882,
+      "loop3": 3.68
+     },
+     "status": "ok"
+    },
+    {
+     "core": "7OTB",
+     "core_fold": "l+l+l+",
+     "score": 1.15,
+     "donors": [
+      [
+       "7OTB.pdb",
+       0,
+       0.0
+      ],
+      [
+       "7OTB.pdb",
+       1,
+       0.0
+      ],
+      [
+       "7OTB.pdb",
+       2,
+       0.0
+      ]
+     ],
+     "after": {
+      "core_fit": 8.176,
+      "core": 10.002,
+      "loop1": 20.464,
+      "loop2": 21.14,
+      "loop3": 21.968
+     },
+     "status": "ok"
+    }
+   ],
+   "status": "ok",
+   "best": {
+    "core_fit": 2.447,
+    "core": 1.943,
+    "loop1": 3.551,
+    "loop2": 2.882,
+    "loop3": 3.68
+   },
+   "best_core_fold": "l-l-l-",
+   "first": {
+    "core_fit": 7.8,
+    "core": 9.507,
+    "loop1": 10.041,
+    "loop2": 12.473,
+    "loop3": 1.375
+   },
+   "fold_in_ensemble": true
+  },
+  {
+   "pdb": "8ABN",
+   "topology": "antiparallel",
+   "n_tetrads": 2,
+   "loops": [
+    "TT",
+    "CGCGAAGCATTCGCG",
+    "TT"
+   ],
+   "loop_types": [
+    "lateral",
+    "lateral",
+    "lateral"
+   ],
+   "fold": "l-l-l-",
+   "models": [
+    {
+     "core": "2LYG",
+     "core_fold": "l-l-l-",
+     "score": 1.36,
+     "donors": [
+      [
+       "2LYG.pdb",
+       0,
+       0.0
+      ],
+      [
+       "8R6H.pdb",
+       0,
+       0.71
+      ],
+      [
+       "2LYG.pdb",
+       2,
+       0.0
+      ]
+     ],
+     "after": {
+      "core_fit": 0.708,
+      "core": 0.91,
+      "loop1": 1.155,
+      "loop2": 8.342,
+      "loop3": 1.412
+     },
+     "status": "ok"
+    },
+    {
+     "core": "7V3T",
+     "core_fold": "l-l-l-",
+     "score": 1.43,
+     "donors": [
+      [
+       "7V3T.pdb",
+       0,
+       0.0
+      ],
+      [
+       "8R6H.pdb",
+       0,
+       0.78
+      ],
+      [
+       "7V3T.pdb",
+       2,
+       0.0
+      ]
+     ],
+     "after": {
+      "core_fit": 0.7,
+      "core": 0.96,
+      "loop1": 1.626,
+      "loop2": 7.296,
+      "loop3": 2.215
+     },
+     "status": "ok"
+    },
+    {
+     "core": "5MJX",
+     "core_fold": "l-l-l-",
+     "score": 1.62,
+     "donors": [
+      [
+       "2LYG.pdb",
+       0,
+       0.28
+      ],
+      [
+       "8R6H.pdb",
+       0,
+       0.69
+      ],
+      [
+       "5MJX.pdb",
+       2,
+       0.0
+      ]
+     ],
+     "after": {
+      "core_fit": 0.418,
+      "core": 0.585,
+      "loop1": 0.778,
+      "loop2": 7.133,
+      "loop3": 1.404
+     },
+     "status": "ok"
+    }
+   ],
+   "status": "ok",
+   "best": {
+    "core_fit": 0.418,
+    "core": 0.585,
+    "loop1": 0.778,
+    "loop2": 7.133,
+    "loop3": 1.404
+   },
+   "best_core_fold": "l-l-l-",
+   "first": {
+    "core_fit": 0.708,
+    "core": 0.91,
+    "loop1": 1.155,
+    "loop2": 8.342,
+    "loop3": 1.412
+   },
+   "fold_in_ensemble": true
+  },
+  {
+   "pdb": "8FI0",
+   "topology": "antiparallel",
+   "n_tetrads": 2,
+   "loops": [
+    "ATGATGC",
+    "CAGT",
+    "GCTTCGCAGTTCCTGCGAG"
+   ],
+   "loop_types": [
+    "lateral",
+    "lateral",
+    "lateral"
+   ],
+   "fold": "l-l-l-",
+   "models": [
+    {
+     "core": "8FI7",
+     "core_fold": "l-l-l-",
+     "score": 0.85,
+     "donors": [
+      [
+       "8FI7.pdb",
+       0,
+       0.0
+      ],
+      [
+       "8FI7.pdb",
+       1,
+       0.0
+      ],
+      [
+       "8FI7.pdb",
+       2,
+       0.0
+      ]
+     ],
+     "after": {
+      "core_fit": 0.336,
+      "core": 0.403,
+      "loop1": 1.274,
+      "loop2": 0.924,
+      "loop3": 1.427
+     },
+     "status": "ok"
+    },
+    {
+     "core": "8FI1",
+     "core_fold": "l-l-l-",
+     "score": 1.24,
+     "donors": [
+      [
+       "8FI1.pdb",
+       0,
+       0.0
+      ],
+      [
+       "8FI1.pdb",
+       1,
+       0.0
+      ],
+      [
+       "8FI7.pdb",
+       2,
+       0.34
+      ]
+     ],
+     "after": {
+      "core_fit": 0.377,
+      "core": 0.415,
+      "loop1": 0.902,
+      "loop2": 0.517,
+      "loop3": 1.29
+     },
+     "status": "ok"
+    },
+    {
+     "core": "2M6V",
+     "core_fold": "l+dl-",
+     "score": 2.47,
+     "donors": [
+      [
+       "7W9N.pdb",
+       2,
+       0.52
+      ],
+      [
+       "2M6V.pdb",
+       1,
+       0.0
+      ],
+      [
+       "8FI7.pdb",
+       2,
+       0.8
+      ]
+     ],
+     "after": {
+      "core_fit": 7.151,
+      "core": 9.053,
+      "loop1": 15.839,
+      "loop2": 8.71,
+      "loop3": 20.828
+     },
+     "status": "ok"
+    }
+   ],
+   "status": "ok",
+   "best": {
+    "core_fit": 0.336,
+    "core": 0.403,
+    "loop1": 1.274,
+    "loop2": 0.924,
+    "loop3": 1.427
+   },
+   "best_core_fold": "l-l-l-",
+   "first": {
+    "core_fit": 0.336,
+    "core": 0.403,
+    "loop1": 1.274,
+    "loop2": 0.924,
+    "loop3": 1.427
+   },
+   "fold_in_ensemble": true
+  },
+  {
+   "pdb": "8FI7",
+   "topology": "antiparallel",
+   "n_tetrads": 2,
+   "loops": [
+    "ATGATGC",
+    "TAGT",
+    "GCTTCGCAGTTCCTGCGAG"
+   ],
+   "loop_types": [
+    "lateral",
+    "lateral",
+    "lateral"
+   ],
+   "fold": "l-l-l-",
+   "models": [
+    {
+     "core": "8FI0",
+     "core_fold": "l-l-l-",
+     "score": 0.75,
+     "donors": [
+      [
+       "8FI0.pdb",
+       0,
+       0.0
+      ],
+      [
+       "8FI0.pdb",
+       1,
+       0.0
+      ],
+      [
+       "8FI0.pdb",
+       2,
+       0.0
+      ]
+     ],
+     "after": {
+      "core_fit": 0.269,
+      "core": 0.34,
+      "loop1": 1.49,
+      "loop2": 1.12,
+      "loop3": 1.473
+     },
+     "status": "ok"
+    },
+    {
+     "core": "8FI1",
+     "core_fold": "l-l-l-",
+     "score": 1.17,
+     "donors": [
+      [
+       "8FI1.pdb",
+       0,
+       0.0
+      ],
+      [
+       "8FI1.pdb",
+       1,
+       0.0
+      ],
+      [
+       "8FI0.pdb",
+       2,
+       0.27
+      ]
+     ],
+     "after": {
+      "core_fit": 0.316,
+      "core": 0.353,
+      "loop1": 1.121,
+      "loop2": 0.88,
+      "loop3": 1.596
+     },
+     "status": "ok"
+    },
+    {
+     "core": "2M6V",
+     "core_fold": "l+dl-",
+     "score": 2.47,
+     "donors": [
+      [
+       "7W9N.pdb",
+       2,
+       0.52
+      ],
+      [
+       "2M6V.pdb",
+       1,
+       0.0
+      ],
+      [
+       "8FI0.pdb",
+       2,
+       0.75
+      ]
+     ],
+     "after": {
+      "core_fit": 7.134,
+      "core": 9.066,
+      "loop1": 15.174,
+      "loop2": 8.957,
+      "loop3": 19.861
+     },
+     "status": "ok"
+    }
+   ],
+   "status": "ok",
+   "best": {
+    "core_fit": 0.269,
+    "core": 0.34,
+    "loop1": 1.49,
+    "loop2": 1.12,
+    "loop3": 1.473
+   },
+   "best_core_fold": "l-l-l-",
+   "first": {
+    "core_fit": 0.269,
+    "core": 0.34,
+    "loop1": 1.49,
+    "loop2": 1.12,
+    "loop3": 1.473
+   },
+   "fold_in_ensemble": true
+  },
+  {
+   "pdb": "8R4E",
+   "topology": "hybrid",
+   "n_tetrads": 3,
+   "loops": [
+    "TCA",
+    "TT",
+    "TT"
+   ],
+   "loop_types": [
+    "lateral",
+    "propeller",
+    "propeller"
+   ],
+   "fold": "l-p-p-",
+   "models": [
+    {
+     "core": "8R4W",
+     "core_fold": "l+l+p+",
+     "score": 0.35,
+     "donors": [
+      [
+       "8R4W.pdb",
+       0,
+       0.0
+      ],
+      [
+       "8R4W.pdb",
+       1,
+       0.0
+      ],
+      [
+       "8R4W.pdb",
+       2,
+       0.0
+      ]
+     ],
+     "after": {
+      "core_fit": 5.127,
+      "core": 6.619,
+      "loop1": 19.305,
+      "loop2": 12.03,
+      "loop3": 4.421
+     },
+     "status": "ok"
+    },
+    {
+     "core": "2KZD",
+     "core_fold": "l+l+p+",
+     "score": 1.53,
+     "donors": [
+      [
+       "2KZD.pdb",
+       0,
+       0.0
+      ],
+      [
+       "2KZD.pdb",
+       1,
+       0.0
+      ],
+      [
+       "9U83.pdb",
+       2,
+       0.98
+      ]
+     ],
+     "status": "error: ValueError: No template found for residue 3 (DT).  The set of atoms is similar to DT, but has 1 C atom, 2 N atoms, and 1 O atom too many.  For more information, see https://github.com/openmm/openmm/wiki/Frequentl"
+    },
+    {
+     "core": "2MB3",
+     "core_fold": "p+l+l+",
+     "score": 1.96,
+     "donors": [
+      [
+       "2MB3.pdb",
+       0,
+       0.0
+      ],
+      [
+       "9U83.pdb",
+       0,
+       1.01
+      ],
+      [
+       "8R4W.pdb",
+       1,
+       0.55
+      ]
+     ],
+     "after": {
+      "core_fit": 5.244,
+      "core": 6.732,
+      "loop1": 13.567,
+      "loop2": 13.239,
+      "loop3": 12.29
+     },
+     "status": "ok"
+    }
+   ],
+   "status": "ok",
+   "best": {
+    "core_fit": 5.127,
+    "core": 6.619,
+    "loop1": 19.305,
+    "loop2": 12.03,
+    "loop3": 4.421
+   },
+   "best_core_fold": "l+l+p+",
+   "first": {
+    "core_fit": 5.127,
+    "core": 6.619,
+    "loop1": 19.305,
+    "loop2": 12.03,
+    "loop3": 4.421
+   },
+   "fold_in_ensemble": false
+  },
+  {
+   "pdb": "8R4W",
+   "topology": "hybrid",
+   "n_tetrads": 3,
+   "loops": [
+    "TCA",
+    "TT",
+    "TT"
+   ],
+   "loop_types": [
+    "lateral",
+    "lateral",
+    "propeller"
+   ],
+   "fold": "l+l+p+",
+   "models": [
+    {
+     "core": "8R4E",
+     "core_fold": "l-p-p-",
+     "score": 0.35,
+     "donors": [
+      [
+       "8R4E.pdb",
+       0,
+       0.0
+      ],
+      [
+       "8R4E.pdb",
+       1,
+       0.0
+      ],
+      [
+       "8R4E.pdb",
+       2,
+       0.0
+      ]
+     ],
+     "after": {
+      "core_fit": 5.136,
+      "core": 6.627,
+      "loop1": 18.687,
+      "loop2": 11.923,
+      "loop3": 4.544
+     },
+     "status": "ok"
+    },
+    {
+     "core": "2KZD",
+     "core_fold": "l+l+p+",
+     "score": 1.53,
+     "donors": [
+      [
+       "2KZD.pdb",
+       0,
+       0.0
+      ],
+      [
+       "2KZD.pdb",
+       1,
+       0.0
+      ],
+      [
+       "9U83.pdb",
+       2,
+       0.98
+      ]
+     ],
+     "status": "error: ValueError: No template found for residue 3 (DT).  The set of atoms is similar to DT, but has 1 C atom, 2 N atoms, and 1 O atom too many.  For more information, see https://github.com/openmm/openmm/wiki/Frequentl"
+    },
+    {
+     "core": "8YU3",
+     "core_fold": "p+l+l+",
+     "score": 2.07,
+     "donors": [
+      [
+       "6JWD.pdb",
+       2,
+       0.87
+      ],
+      [
+       "8YU3.pdb",
+       1,
+       0.0
+      ],
+      [
+       "2M6V.pdb",
+       2,
+       0.9
+      ]
+     ],
+     "after": {
+      "core_fit": 5.239,
+      "core": 6.994,
+      "loop1": 10.489,
+      "loop2": 20.055,
+      "loop3": 14.066
+     },
+     "status": "ok"
+    }
+   ],
+   "status": "ok",
+   "best": {
+    "core_fit": 5.136,
+    "core": 6.627,
+    "loop1": 18.687,
+    "loop2": 11.923,
+    "loop3": 4.544
+   },
+   "best_core_fold": "l-p-p-",
+   "first": {
+    "core_fit": 5.136,
+    "core": 6.627,
+    "loop1": 18.687,
+    "loop2": 11.923,
+    "loop3": 4.544
+   },
+   "fold_in_ensemble": false
+  },
+  {
+   "pdb": "8R6D",
+   "topology": "hybrid",
+   "n_tetrads": 3,
+   "loops": [
+    "CGCGAAGCATTCGCG",
+    "TTA",
+    "T"
+   ],
+   "loop_types": [
+    "lateral",
+    "lateral",
+    "propeller"
+   ],
+   "fold": "l+l+p+",
+   "models": [
+    {
+     "core": "7X3A",
+     "core_fold": "l+l+p+",
+     "score": 1.76,
+     "donors": [
+      [
+       "8ABN.pdb",
+       1,
+       0.67
+      ],
+      [
+       "2KKA.pdb",
+       2,
+       0.59
+      ],
+      [
+       "7X3A.pdb",
+       2,
+       0.0
+      ]
+     ],
+     "after": {
+      "core_fit": 0.776,
+      "core": 1.155,
+      "loop1": 6.921,
+      "loop2": 1.666,
+      "loop3": 3.92
+     },
+     "status": "ok"
+    },
+    {
+     "core": "7EL7",
+     "core_fold": "l+l+p+",
+     "score": 1.94,
+     "donors": [
+      [
+       "8R6H.pdb",
+       0,
+       0.85
+      ],
+      [
+       "5Z80.pdb",
+       2,
+       0.63
+      ],
+      [
+       "7EL7.pdb",
+       2,
+       0.0
+      ]
+     ],
+     "after": {
+      "core_fit": 0.792,
+      "core": 1.121,
+      "loop1": 3.81,
+      "loop2": 1.82,
+      "loop3": 2.838
+     },
+     "status": "ok"
+    },
+    {
+     "core": "8R6H",
+     "core_fold": "l+l+p+",
+     "score": 1.99,
+     "donors": [
+      [
+       "8R6H.pdb",
+       0,
+       0.0
+      ],
+      [
+       "8R6H.pdb",
+       1,
+       0.0
+      ],
+      [
+       "7CV3.pdb",
+       0,
+       1.64
+      ]
+     ],
+     "after": {
+      "core_fit": 0.502,
+      "core": 1.045,
+      "loop1": 5.718,
+      "loop2": 0.782,
+      "loop3": 4.48
+     },
+     "status": "ok"
+    }
+   ],
+   "status": "ok",
+   "best": {
+    "core_fit": 0.502,
+    "core": 1.045,
+    "loop1": 5.718,
+    "loop2": 0.782,
+    "loop3": 4.48
+   },
+   "best_core_fold": "l+l+p+",
+   "first": {
+    "core_fit": 0.776,
+    "core": 1.155,
+    "loop1": 6.921,
+    "loop2": 1.666,
+    "loop3": 3.92
+   },
+   "fold_in_ensemble": true
+  },
+  {
+   "pdb": "8R6H",
+   "topology": "hybrid",
+   "n_tetrads": 3,
+   "loops": [
+    "CGCGAAGCATTCGCG",
+    "TTA",
+    "TTA"
+   ],
+   "loop_types": [
+    "lateral",
+    "lateral",
+    "propeller"
+   ],
+   "fold": "l+l+p+",
+   "models": [
+    {
+     "core": "9TNR",
+     "core_fold": "l+l+p+",
+     "score": 1.01,
+     "donors": [
+      [
+       "8ABN.pdb",
+       1,
+       0.51
+      ],
+      [
+       "9TNR.pdb",
+       1,
+       0.0
+      ],
+      [
+       "9TNR.pdb",
+       2,
+       0.0
+      ]
+     ],
+     "after": {
+      "core_fit": 0.816,
+      "core": 1.075,
+      "loop1": 3.636,
+      "loop2": 2.147,
+      "loop3": 1.735
+     },
+     "status": "ok"
+    },
+    {
+     "core": "9TNQ",
+     "core_fold": "l+l+p+",
+     "score": 1.05,
+     "donors": [
+      [
+       "8ABN.pdb",
+       1,
+       0.6
+      ],
+      [
+       "9TNQ.pdb",
+       1,
+       0.0
+      ],
+      [
+       "9TNQ.pdb",
+       2,
+       0.0
+      ]
+     ],
+     "after": {
+      "core_fit": 0.657,
+      "core": 1.037,
+      "loop1": 3.838,
+      "loop2": 1.905,
+      "loop3": 3.007
+     },
+     "status": "ok"
+    },
+    {
+     "core": "8R6D",
+     "core_fold": "l+l+p+",
+     "score": 1.37,
+     "donors": [
+      [
+       "8R6D.pdb",
+       0,
+       0.0
+      ],
+      [
+       "8R6D.pdb",
+       1,
+       0.0
+      ],
+      [
+       "6KFI.pdb",
+       0,
+       1.07
+      ]
+     ],
+     "after": {
+      "core_fit": 0.465,
+      "core": 1.114,
+      "loop1": 6.481,
+      "loop2": 1.409,
+      "loop3": 4.332
+     },
+     "status": "ok"
+    }
+   ],
+   "status": "ok",
+   "best": {
+    "core_fit": 0.657,
+    "core": 1.037,
+    "loop1": 3.838,
+    "loop2": 1.905,
+    "loop3": 3.007
+   },
+   "best_core_fold": "l+l+p+",
+   "first": {
+    "core_fit": 0.816,
+    "core": 1.075,
+    "loop1": 3.636,
+    "loop2": 2.147,
+    "loop3": 1.735
+   },
+   "fold_in_ensemble": true
+  },
+  {
+   "pdb": "8XGP",
+   "topology": "antiparallel",
+   "n_tetrads": 2,
+   "loops": [
+    "CCTG",
+    "CCTG",
+    "CCTG"
+   ],
+   "loop_types": [
+    "lateral",
+    "lateral",
+    "lateral"
+   ],
+   "fold": "l+l+l+",
+   "models": [
+    {
+     "core": "2KM3",
+     "core_fold": "l-l-l-",
+     "score": 0.3,
+     "donors": [
+      [
+       "2KM3.pdb",
+       0,
+       0.0
+      ],
+      [
+       "2KM3.pdb",
+       1,
+       0.0
+      ],
+      [
+       "2KM3.pdb",
+       2,
+       0.0
+      ]
+     ],
+     "after": {
+      "core_fit": 4.594,
+      "core": 6.858,
+      "loop1": 19.14,
+      "loop2": 15.786,
+      "loop3": 20.135
+     },
+     "status": "ok"
+    },
+    {
+     "core": "7OQT",
+     "core_fold": "l+dl-",
+     "score": 0.7,
+     "donors": [
+      [
+       "7OQT.pdb",
+       0,
+       0.0
+      ],
+      [
+       "7OQT.pdb",
+       1,
+       0.0
+      ],
+      [
+       "7OQT.pdb",
+       2,
+       0.0
+      ]
+     ],
+     "after": {
+      "core_fit": 7.7,
+      "core": 10.011,
+      "loop1": 5.842,
+      "loop2": 12.655,
+      "loop3": 10.418
+     },
+     "status": "ok"
+    },
+    {
+     "core": "2KOW",
+     "core_fold": "l-dl+",
+     "score": 1.79,
+     "donors": [
+      [
+       "7CV4.pdb",
+       2,
+       0.51
+      ],
+      [
+       "2KOW.pdb",
+       1,
+       0.0
+      ],
+      [
+       "8FI7.pdb",
+       1,
+       0.78
+      ]
+     ],
+     "after": {
+      "core_fit": 7.654,
+      "core": 9.571,
+      "loop1": 10.419,
+      "loop2": 12.787,
+      "loop3": 6.545
+     },
+     "status": "ok"
+    }
+   ],
+   "status": "ok",
+   "best": {
+    "core_fit": 4.594,
+    "core": 6.858,
+    "loop1": 19.14,
+    "loop2": 15.786,
+    "loop3": 20.135
+   },
+   "best_core_fold": "l-l-l-",
+   "first": {
+    "core_fit": 4.594,
+    "core": 6.858,
+    "loop1": 19.14,
+    "loop2": 15.786,
+    "loop3": 20.135
+   },
+   "fold_in_ensemble": false
+  },
+  {
+   "pdb": "8YU3",
+   "topology": "hybrid",
+   "n_tetrads": 3,
+   "loops": [
+    "A",
+    "TA",
+    "A"
+   ],
+   "loop_types": [
+    "propeller",
+    "lateral",
+    "lateral"
+   ],
+   "fold": "p+l+l+",
+   "status": "no feasible core"
+  },
+  {
+   "pdb": "9GVI",
+   "topology": "hybrid",
+   "n_tetrads": 2,
+   "loops": [
+    "AG",
+    "CGCGCCAGCG",
+    "GTCG"
+   ],
+   "loop_types": [
+    "propeller",
+    "lateral",
+    "lateral"
+   ],
+   "fold": "p+l+l+",
+   "status": "no feasible core"
+  },
+  {
+   "pdb": "9PA0",
+   "topology": "hybrid",
+   "n_tetrads": 3,
+   "loops": [
+    "TTA",
+    "TTA",
+    "TTA"
+   ],
+   "loop_types": [
+    "propeller",
+    "lateral",
+    "lateral"
+   ],
+   "fold": "p+l+l+",
+   "models": [
+    {
+     "core": "2GKU",
+     "core_fold": "p+l+l+",
+     "score": 0.3,
+     "donors": [
+      [
+       "2GKU.pdb",
+       0,
+       0.0
+      ],
+      [
+       "2GKU.pdb",
+       1,
+       0.0
+      ],
+      [
+       "2GKU.pdb",
+       2,
+       0.0
+      ]
+     ],
+     "after": {
+      "core_fit": 0.976,
+      "core": 1.273,
+      "loop1": 3.521,
+      "loop2": 2.622,
+      "loop3": 2.713
+     },
+     "status": "ok"
+    },
+    {
+     "core": "6KFJ",
+     "core_fold": "l+l+p+",
+     "score": 0.3,
+     "donors": [
+      [
+       "6KFJ.pdb",
+       0,
+       0.0
+      ],
+      [
+       "6KFJ.pdb",
+       1,
+       0.0
+      ],
+      [
+       "6KFJ.pdb",
+       2,
+       0.0
+      ]
+     ],
+     "after": {
+      "core_fit": 5.279,
+      "core": 7.238,
+      "loop1": 14.62,
+      "loop2": 20.899,
+      "loop3": 12.507
+     },
+     "status": "ok"
+    },
+    {
+     "core": "8R4E",
+     "core_fold": "l-p-p-",
+     "score": 2.2,
+     "donors": [
+      [
+       "8R4E.pdb",
+       0,
+       0.0
+      ],
+      [
+       "9TNQ.pdb",
+       2,
+       0.67
+      ],
+      [
+       "6KFI.pdb",
+       0,
+       0.98
+      ]
+     ],
+     "after": {
+      "core_fit": 5.238,
+      "core": 6.75,
+      "loop1": 15.077,
+      "loop2": 16.343,
+      "loop3": 14.377
+     },
+     "status": "ok"
+    }
+   ],
+   "status": "ok",
+   "best": {
+    "core_fit": 0.976,
+    "core": 1.273,
+    "loop1": 3.521,
+    "loop2": 2.622,
+    "loop3": 2.713
+   },
+   "best_core_fold": "p+l+l+",
+   "first": {
+    "core_fit": 0.976,
+    "core": 1.273,
+    "loop1": 3.521,
+    "loop2": 2.622,
+    "loop3": 2.713
+   },
+   "fold_in_ensemble": true
+  },
+  {
+   "pdb": "9TNQ",
+   "topology": "hybrid",
+   "n_tetrads": 3,
+   "loops": [
+    "AAA",
+    "TAT",
+    "AAA"
+   ],
+   "loop_types": [
+    "lateral",
+    "lateral",
+    "propeller"
+   ],
+   "fold": "l+l+p+",
+   "models": [
+    {
+     "core": "2GKU",
+     "core_fold": "p+l+l+",
+     "score": 0.3,
+     "donors": [
+      [
+       "2GKU.pdb",
+       0,
+       0.0
+      ],
+      [
+       "2GKU.pdb",
+       1,
+       0.0
+      ],
+      [
+       "2GKU.pdb",
+       2,
+       0.0
+      ]
+     ],
+     "after": {
+      "core_fit": 5.283,
+      "core": 7.105,
+      "loop1": 15.357,
+      "loop2": 19.806,
+      "loop3": 12.459
+     },
+     "status": "ok"
+    },
+    {
+     "core": "6KFJ",
+     "core_fold": "l+l+p+",
+     "score": 0.3,
+     "donors": [
+      [
+       "6KFJ.pdb",
+       0,
+       0.0
+      ],
+      [
+       "6KFJ.pdb",
+       1,
+       0.0
+      ],
+      [
+       "6KFJ.pdb",
+       2,
+       0.0
+      ]
+     ],
+     "after": {
+      "core_fit": 0.813,
+      "core": 1.089,
+      "loop1": 4.093,
+      "loop2": 4.234,
+      "loop3": 2.849
+     },
+     "status": "ok"
+    },
+    {
+     "core": "8R4E",
+     "core_fold": "l-p-p-",
+     "score": 2.2,
+     "donors": [
+      [
+       "8R4E.pdb",
+       0,
+       0.0
+      ],
+      [
+       "2L88.pdb",
+       0,
+       0.87
+      ],
+      [
+       "6KFI.pdb",
+       0,
+       0.98
+      ]
+     ],
+     "after": {
+      "core_fit": 5.149,
+      "core": 6.642,
+      "loop1": 18.511,
+      "loop2": 14.465,
+      "loop3": 2.428
+     },
+     "status": "ok"
+    }
+   ],
+   "status": "ok",
+   "best": {
+    "core_fit": 0.813,
+    "core": 1.089,
+    "loop1": 4.093,
+    "loop2": 4.234,
+    "loop3": 2.849
+   },
+   "best_core_fold": "l+l+p+",
+   "first": {
+    "core_fit": 5.283,
+    "core": 7.105,
+    "loop1": 15.357,
+    "loop2": 19.806,
+    "loop3": 12.459
+   },
+   "fold_in_ensemble": true
+  },
+  {
+   "pdb": "9TNR",
+   "topology": "hybrid",
+   "n_tetrads": 3,
+   "loops": [
+    "ATT",
+    "AAT",
+    "TAT"
+   ],
+   "loop_types": [
+    "lateral",
+    "lateral",
+    "propeller"
+   ],
+   "fold": "l+l+p+",
+   "models": [
+    {
+     "core": "2GKU",
+     "core_fold": "p+l+l+",
+     "score": 0.3,
+     "donors": [
+      [
+       "2GKU.pdb",
+       0,
+       0.0
+      ],
+      [
+       "2GKU.pdb",
+       1,
+       0.0
+      ],
+      [
+       "2GKU.pdb",
+       2,
+       0.0
+      ]
+     ],
+     "after": {
+      "core_fit": 5.299,
+      "core": 7.174,
+      "loop1": 15.696,
+      "loop2": 20.011,
+      "loop3": 11.054
+     },
+     "status": "ok"
+    },
+    {
+     "core": "6KFJ",
+     "core_fold": "l+l+p+",
+     "score": 0.3,
+     "donors": [
+      [
+       "6KFJ.pdb",
+       0,
+       0.0
+      ],
+      [
+       "6KFJ.pdb",
+       1,
+       0.0
+      ],
+      [
+       "6KFJ.pdb",
+       2,
+       0.0
+      ]
+     ],
+     "after": {
+      "core_fit": 0.909,
+      "core": 1.25,
+      "loop1": 3.141,
+      "loop2": 2.677,
+      "loop3": 2.918
+     },
+     "status": "ok"
+    },
+    {
+     "core": "8R4E",
+     "core_fold": "l-p-p-",
+     "score": 2.2,
+     "donors": [
+      [
+       "8R4E.pdb",
+       0,
+       0.0
+      ],
+      [
+       "9TNQ.pdb",
+       2,
+       0.67
+      ],
+      [
+       "6KFI.pdb",
+       0,
+       0.98
+      ]
+     ],
+     "after": {
+      "core_fit": 5.252,
+      "core": 6.802,
+      "loop1": 18.757,
+      "loop2": 13.809,
+      "loop3": 3.437
+     },
+     "status": "ok"
+    }
+   ],
+   "status": "ok",
+   "best": {
+    "core_fit": 0.909,
+    "core": 1.25,
+    "loop1": 3.141,
+    "loop2": 2.677,
+    "loop3": 2.918
+   },
+   "best_core_fold": "l+l+p+",
+   "first": {
+    "core_fit": 5.299,
+    "core": 7.174,
+    "loop1": 15.696,
+    "loop2": 20.011,
+    "loop3": 11.054
+   },
+   "fold_in_ensemble": true
+  },
+  {
+   "pdb": "9U83",
+   "topology": "hybrid",
+   "n_tetrads": 3,
+   "loops": [
+    "TT",
+    "TT",
+    "TT"
+   ],
+   "loop_types": [
+    "lateral",
+    "lateral",
+    "propeller"
+   ],
+   "fold": "l+l+p+",
+   "models": [
+    {
+     "core": "8R4E",
+     "core_fold": "l-p-p-",
+     "score": 0.62,
+     "donors": [
+      [
+       "8R4W.pdb",
+       1,
+       0.27
+      ],
+      [
+       "8R4E.pdb",
+       1,
+       0.0
+      ],
+      [
+       "8R4E.pdb",
+       2,
+       0.0
+      ]
+     ],
+     "after": {
+      "core_fit": 5.275,
+      "core": 6.595,
+      "loop1": 18.239,
+      "loop2": 10.572,
+      "loop3": 4.789
+     },
+     "status": "ok"
+    },
+    {
+     "core": "8R4W",
+     "core_fold": "l+l+p+",
+     "score": 1.96,
+     "donors": [
+      [
+       "2M6W.pdb",
+       0,
+       1.56
+      ],
+      [
+       "8R4W.pdb",
+       1,
+       0.0
+      ],
+      [
+       "8R4W.pdb",
+       2,
+       0.0
+      ]
+     ],
+     "after": {
+      "core_fit": 1.317,
+      "core": 1.609,
+      "loop1": 4.354,
+      "loop2": 2.473,
+      "loop3": 3.806
+     },
+     "status": "ok"
+    },
+    {
+     "core": "9B6Z",
+     "core_fold": "p+l+l+",
+     "score": 2.51,
+     "donors": [
+      [
+       "8R4E.pdb",
+       2,
+       0.9
+      ],
+      [
+       "9B6Z.pdb",
+       1,
+       0.0
+      ],
+      [
+       "2M6V.pdb",
+       2,
+       0.86
+      ]
+     ],
+     "after": {
+      "core_fit": 5.41,
+      "core": 6.913,
+      "loop1": 12.349,
+      "loop2": 19.019,
+      "loop3": 14.866
+     },
+     "status": "ok"
+    }
+   ],
+   "status": "ok",
+   "best": {
+    "core_fit": 1.317,
+    "core": 1.609,
+    "loop1": 4.354,
+    "loop2": 2.473,
+    "loop3": 3.806
+   },
+   "best_core_fold": "l+l+p+",
+   "first": {
+    "core_fit": 5.275,
+    "core": 6.595,
+    "loop1": 18.239,
+    "loop2": 10.572,
+    "loop3": 4.789
+   },
+   "fold_in_ensemble": true
+  }
+ ]
+}

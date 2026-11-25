@@ -1,0 +1,503 @@
+[
+ {
+  "pdb": "1BQJ",
+  "n_pairs": 6,
+  "n_c": 3,
+  "duplexes": [
+   [
+    "A",
+    "B"
+   ],
+   [
+    "C",
+    "D"
+   ]
+  ],
+  "chains": {
+   "A": {
+    "resseq": [
+     2,
+     3,
+     4
+    ],
+    "dir": 1,
+    "resname": "DC"
+   },
+   "B": {
+    "resseq": [
+     7,
+     8,
+     9
+    ],
+    "dir": 1,
+    "resname": "DC"
+   },
+   "C": {
+    "resseq": [
+     12,
+     13,
+     14
+    ],
+    "dir": -1,
+    "resname": "DC"
+   },
+   "D": {
+    "resseq": [
+     17,
+     18,
+     19
+    ],
+    "dir": -1,
+    "resname": "DC"
+   }
+  }
+ },
+ {
+  "pdb": "1CN0",
+  "n_pairs": 6,
+  "n_c": 3,
+  "duplexes": [
+   [
+    "A",
+    "B"
+   ],
+   [
+    "C",
+    "D"
+   ]
+  ],
+  "chains": {
+   "A": {
+    "resseq": [
+     2,
+     3,
+     4
+    ],
+    "dir": 1,
+    "resname": "DC"
+   },
+   "B": {
+    "resseq": [
+     7,
+     8,
+     9
+    ],
+    "dir": 1,
+    "resname": "DC"
+   },
+   "C": {
+    "resseq": [
+     12,
+     13,
+     14
+    ],
+    "dir": -1,
+    "resname": "DC"
+   },
+   "D": {
+    "resseq": [
+     17,
+     18,
+     19
+    ],
+    "dir": -1,
+    "resname": "DC"
+   }
+  }
+ },
+ {
+  "pdb": "1Q2T",
+  "n_pairs": 8,
+  "n_c": 4,
+  "duplexes": [
+   [
+    "A",
+    "C"
+   ],
+   [
+    "B",
+    "D"
+   ]
+  ],
+  "chains": {
+   "A": {
+    "resseq": [
+     2,
+     4,
+     6,
+     7
+    ],
+    "dir": 1,
+    "resname": "DC"
+   },
+   "B": {
+    "resseq": [
+     2,
+     4,
+     6,
+     7
+    ],
+    "dir": -1,
+    "resname": "DC"
+   },
+   "C": {
+    "resseq": [
+     2,
+     4,
+     6,
+     7
+    ],
+    "dir": 1,
+    "resname": "DC"
+   },
+   "D": {
+    "resseq": [
+     2,
+     4,
+     6,
+     7
+    ],
+    "dir": -1,
+    "resname": "DC"
+   }
+  }
+ },
+ {
+  "pdb": "1RME",
+  "n_pairs": 6,
+  "n_c": 3,
+  "duplexes": [
+   [
+    "A",
+    "C"
+   ],
+   [
+    "B",
+    "D"
+   ]
+  ],
+  "chains": {
+   "A": {
+    "resseq": [
+     2,
+     4,
+     5
+    ],
+    "dir": 1,
+    "resname": "DC"
+   },
+   "B": {
+    "resseq": [
+     2,
+     4,
+     5
+    ],
+    "dir": -1,
+    "resname": "DC"
+   },
+   "C": {
+    "resseq": [
+     2,
+     4,
+     5
+    ],
+    "dir": 1,
+    "resname": "DC"
+   },
+   "D": {
+    "resseq": [
+     2,
+     4,
+     5
+    ],
+    "dir": -1,
+    "resname": "DC"
+   }
+  }
+ },
+ {
+  "pdb": "1YBL",
+  "n_pairs": 8,
+  "n_c": 4,
+  "duplexes": [
+   [
+    "A",
+    "C"
+   ],
+   [
+    "B",
+    "D"
+   ]
+  ],
+  "chains": {
+   "A": {
+    "resseq": [
+     3,
+     4,
+     5,
+     6
+    ],
+    "dir": 1,
+    "resname": "DC"
+   },
+   "B": {
+    "resseq": [
+     3,
+     4,
+     5,
+     6
+    ],
+    "dir": -1,
+    "resname": "DC"
+   },
+   "C": {
+    "resseq": [
+     3,
+     4,
+     5,
+     6
+    ],
+    "dir": 1,
+    "resname": "DC"
+   },
+   "D": {
+    "resseq": [
+     3,
+     4,
+     5,
+     6
+    ],
+    "dir": -1,
+    "resname": "DC"
+   }
+  }
+ },
+ {
+  "pdb": "1YBN",
+  "n_pairs": 8,
+  "n_c": 4,
+  "duplexes": [
+   [
+    "A",
+    "C"
+   ],
+   [
+    "B",
+    "D"
+   ]
+  ],
+  "chains": {
+   "A": {
+    "resseq": [
+     1,
+     2,
+     3,
+     4
+    ],
+    "dir": 1,
+    "resname": "DC"
+   },
+   "B": {
+    "resseq": [
+     1,
+     2,
+     3,
+     4
+    ],
+    "dir": -1,
+    "resname": "DC"
+   },
+   "C": {
+    "resseq": [
+     1,
+     2,
+     3,
+     4
+    ],
+    "dir": 1,
+    "resname": "DC"
+   },
+   "D": {
+    "resseq": [
+     1,
+     2,
+     3,
+     4
+    ],
+    "dir": -1,
+    "resname": "DC"
+   }
+  }
+ },
+ {
+  "pdb": "1YBR",
+  "n_pairs": 8,
+  "n_c": 4,
+  "duplexes": [
+   [
+    "A",
+    "C"
+   ],
+   [
+    "B",
+    "D"
+   ]
+  ],
+  "chains": {
+   "A": {
+    "resseq": [
+     1,
+     2,
+     3,
+     4
+    ],
+    "dir": 1,
+    "resname": "DC"
+   },
+   "B": {
+    "resseq": [
+     1,
+     2,
+     3,
+     4
+    ],
+    "dir": -1,
+    "resname": "DC"
+   },
+   "C": {
+    "resseq": [
+     1,
+     2,
+     3,
+     4
+    ],
+    "dir": 1,
+    "resname": "DC"
+   },
+   "D": {
+    "resseq": [
+     1,
+     2,
+     3,
+     4
+    ],
+    "dir": -1,
+    "resname": "DC"
+   }
+  }
+ },
+ {
+  "pdb": "2KKK",
+  "n_pairs": 10,
+  "n_c": 5,
+  "duplexes": [
+   [
+    "A",
+    "C"
+   ],
+   [
+    "B",
+    "D"
+   ]
+  ],
+  "chains": {
+   "A": {
+    "resseq": [
+     2,
+     4,
+     6,
+     8,
+     9
+    ],
+    "dir": 1,
+    "resname": "DC"
+   },
+   "B": {
+    "resseq": [
+     2,
+     4,
+     6,
+     8,
+     9
+    ],
+    "dir": -1,
+    "resname": "DC"
+   },
+   "C": {
+    "resseq": [
+     2,
+     4,
+     6,
+     8,
+     9
+    ],
+    "dir": 1,
+    "resname": "DC"
+   },
+   "D": {
+    "resseq": [
+     2,
+     4,
+     6,
+     8,
+     9
+    ],
+    "dir": -1,
+    "resname": "DC"
+   }
+  }
+ },
+ {
+  "pdb": "2N89",
+  "n_pairs": 6,
+  "n_c": 3,
+  "duplexes": [
+   [
+    "A",
+    "C"
+   ],
+   [
+    "B",
+    "D"
+   ]
+  ],
+  "chains": {
+   "A": {
+    "resseq": [
+     2,
+     3,
+     6
+    ],
+    "dir": 1,
+    "resname": "DC"
+   },
+   "B": {
+    "resseq": [
+     8,
+     9,
+     12
+    ],
+    "dir": -1,
+    "resname": "DC"
+   },
+   "C": {
+    "resseq": [
+     14,
+     15,
+     18
+    ],
+    "dir": 1,
+    "resname": "DC"
+   },
+   "D": {
+    "resseq": [
+     20,
+     21,
+     24
+    ],
+    "dir": -1,
+    "resname": "DC"
+   }
+  }
+ }
+]

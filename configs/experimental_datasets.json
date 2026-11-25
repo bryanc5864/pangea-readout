@@ -1,0 +1,265 @@
+{
+  "_comment": "Experimental biophysics datasets supervising PANGEA channels. Every URL was verified to resolve before being recorded. Where the plan's description of a resource turned out to be wrong, the correction is stated in the 'plan_correction' field rather than silently followed.",
+  "datasets": [
+    {
+      "name": "loopseq",
+      "title": "loop-seq intrinsic cyclizability",
+      "citation": "Basu A, Bobrovnikov DG, Qureshi Z, Kayikcioglu T, Ngo TTM, Ranjan A, Eustermann S, Cieza B, Morgan MT, Hejna M, Rube HT, Hopfner K-P, Wolberger C, Song JS, Ha T. Measuring DNA mechanics on the genome scale. Nature 589:462-467 (2021). doi:10.1038/s41586-020-03052-3",
+      "license": "Not open access. Springer Nature TDM terms; the Data Availability statement says there are no restrictions on data availability. Analyse freely; redistribution not explicitly granted.",
+      "plan_correction": "There is NO GEO series for loop-seq. The tables are Nature Supplementary Datasets. Raw reads are SRA PRJNA667271 only.",
+      "sequences_included": true,
+      "element_bp": 100,
+      "element_note": "25 bp adapter TTTCTTCACTTATCTCCCACCGTCC + 50 bp variable + 25 bp adapter GGCAGAAGACAAGGGAACGAAATAG; take characters 26-75 for the variable region",
+      "columns": "Sequence #, Sequence, Cyclizability (n=26), Cyclizability (n=29), Cyclizability (n=31), C0, Amplitude, Phase",
+      "target_column": "C0",
+      "target_note": "C0 is intrinsic cyclizability; n=26/29/31 are raw per-tether measurements and Amplitude/Phase describe the tether-geometry sinusoid removed to obtain C0",
+      "channel_family": "D. Mesoscale mechanics",
+      "files": [
+        {
+          "url": "https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-03052-3/MediaObjects/41586_2020_3052_MOESM6_ESM.txt",
+          "dest": "loopseq/random_library.txt",
+          "expect_bytes": 2117887,
+          "records": 12472
+        },
+        {
+          "url": "https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-03052-3/MediaObjects/41586_2020_3052_MOESM8_ESM.txt",
+          "dest": "loopseq/tiling_library.txt",
+          "expect_bytes": 14052716,
+          "records": 82368
+        },
+        {
+          "url": "https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-03052-3/MediaObjects/41586_2020_3052_MOESM9_ESM.txt",
+          "dest": "loopseq/chrv_library.txt",
+          "expect_bytes": 14045608,
+          "records": 82404
+        },
+        {
+          "url": "https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-03052-3/MediaObjects/41586_2020_3052_MOESM4_ESM.txt",
+          "dest": "loopseq/nucleosomal_library.txt",
+          "expect_bytes": 3383961,
+          "records": 19907
+        },
+        {
+          "url": "https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-03052-3/MediaObjects/41586_2020_3052_MOESM5_ESM.txt",
+          "dest": "loopseq/nucleosomal_coords.txt",
+          "expect_bytes": 375794,
+          "records": 19907
+        }
+      ]
+    },
+    {
+      "name": "orchid",
+      "title": "ORChID hydroxyl radical cleavage",
+      "citation": "Greenbaum JA, Pang B, Tullius TD. Genome Res 17:947-953 (2007). doi:10.1101/gr.6073107; Bishop EP et al., ACS Chem Biol 6:1314-1320 (2011)",
+      "license": "Site states only (c) 2003 Boston University; no license file. UCSC files under the ENCODE Data Release Policy, unrestricted since 2010-10-24.",
+      "plan_correction": "PLAN.md states ORChID provides 'experimental hydroxyl radical cleavage for all 512 pentamers'. That is wrong on two counts. ORChID is a sliding TETRAMER model: a measured 256-tetramer table plus a 64-trimer table, with pentamers derived at run time (and there are 1024 pentamers, not 512). The 512-pentamer table is DNAshape's minor-groove-width table, a different resource. Also orchid.bu.edu is dead; the live host is dna.bu.edu/orchid.",
+      "sequences_included": false,
+      "data_note": "Lookup tables are embedded as literal data inside PredictCleavagePatterns2.pm in the server tarball. The genome map is a UCSC hg17 wiggle track requiring both the index table and the binary .wib; decode as value = lowerLimit + byte/127*dataRange, with 128 meaning no data. 29,948,050 single-nucleotide values, matching the paper's ~30 Mb.",
+      "channel_family": "G. Solvation, hydration and chemical reactivity",
+      "files": [
+        {
+          "url": "https://dna.bu.edu/orchid/orchid2_server_predictions.tar.gz",
+          "dest": "orchid/orchid2_server_predictions.tar.gz",
+          "expect_bytes": 12703
+        },
+        {
+          "url": "https://dna.bu.edu/orchid/orchid1_prediction_scripts.tar.gz",
+          "dest": "orchid/orchid1_prediction_scripts.tar.gz",
+          "expect_bytes": 12016
+        },
+        {
+          "url": "https://hgdownload.soe.ucsc.edu/goldenPath/hg17/database/encodeBu_ORChID1.txt.gz",
+          "dest": "orchid/encodeBu_ORChID1.txt.gz",
+          "expect_bytes": 741818
+        },
+        {
+          "url": "https://hgdownload.soe.ucsc.edu/goldenPath/hg17/database/encodeBu_ORChID1.sql",
+          "dest": "orchid/encodeBu_ORChID1.sql",
+          "expect_bytes": 907
+        },
+        {
+          "url": "https://hgdownload.soe.ucsc.edu/gbdb/hg17/encode/Bu/2005-09-08/wib/encodeBu_ORChID1.wib",
+          "dest": "orchid/encodeBu_ORChID1.wib",
+          "expect_bytes": 29948050
+        }
+      ]
+    },
+    {
+      "name": "array_melt",
+      "title": "Array Melt high-throughput DNA melt thermodynamics",
+      "citation": "Ke Y, Sharma E, Wayment-Steele HK, Becker WR, Ho A, Marklund E, Greenleaf WJ. High-throughput DNA melt measurements enable improved models of DNA folding thermodynamics. Nat Commun 16:5572 (2025). doi:10.1038/s41467-025-60455-4",
+      "license": "Article CC BY-NC-ND 4.0; the Zenodo DATA is CC BY 4.0",
+      "plan_correction": "Second author is Eesha Sharma, not D. Sharma.",
+      "sequences_included": true,
+      "element_bp": "12-18 nt hairpin, mode 18",
+      "columns": "SEQID, dH, dS, Tm, dG_37, dH_se, Tm_se, dG_37_se, dS_se, RefSeq, TargetStruct, Series; RefSeq is the DNA sequence, TargetStruct is dot-bracket",
+      "units": "dH kcal/mol, dS kcal/(mol K), dG_37 kcal/mol, Tm degrees C; dG_37 = dH - 310.15*dS and Tm = dH/dS - 273.15 both hold exactly",
+      "known_bug": "In arr_v1_1M_n=27732.csv the dS column stores dH/Tm in Celsius rather than Kelvin on all rows. The adjusted and raw v1 files used here are unaffected.",
+      "channel_family": "E. Thermodynamics and strand dynamics",
+      "files": [
+        {
+          "url": "https://raw.githubusercontent.com/GreenleafLab/nnn_paper/main/data/models/processed/arr_v1_adjusted_n%3D27732.csv",
+          "dest": "array_melt/arr_v1_adjusted.csv",
+          "expect_bytes": 5778987,
+          "records": 27732
+        },
+        {
+          "url": "https://raw.githubusercontent.com/GreenleafLab/nnn_paper/main/data/models/raw/arr_v1_n%3D27732.csv",
+          "dest": "array_melt/arr_v1_raw.csv",
+          "expect_bytes": 22266347,
+          "records": 27732
+        }
+      ]
+    },
+    {
+      "name": "g4seq",
+      "title": "G4-seq genome-wide G-quadruplex maps",
+      "citation": "Marsico G et al., Nucleic Acids Res 47:3862-3874 (2019). doi:10.1093/nar/gkz179; Chambers VS et al., Nat Biotechnol 33:877-881 (2015). doi:10.1038/nbt.3295",
+      "license": "No per-dataset license statement in either GEO record.",
+      "sequences_included": false,
+      "genome_build": "hg19 for both studies, confirmed empirically from maximum chr1 coordinate",
+      "data_note": "4-column BED: chrom, start (0-based), end, score. Score is the per-base mismatch percentage maximised over a 50 bp window; floor 25 for K+ and 35 for PDS. GSE63874 files are 3-column with no score. Strand convention is inverted: 'plus' means the hit aligns to the forward strand, so the quadruplex is on the reverse strand.",
+      "ionic_conditions": "GSE110582 is Li+ to K+, or PDS with K+. GSE63874 is Na+ to K+, or PDS with Na+.",
+      "channel_family": "F. Non-canonical structure",
+      "files": [
+        {
+          "url": "https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3003nnn/GSM3003539/suppl/GSM3003539_Homo_all_w15_th-1_plus.hits.max.K.w50.25.bed.gz",
+          "dest": "g4seq/marsico_K_plus.bed.gz",
+          "expect_bytes": 2118772
+        },
+        {
+          "url": "https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3003nnn/GSM3003539/suppl/GSM3003539_Homo_all_w15_th-1_minus.hits.max.K.w50.25.bed.gz",
+          "dest": "g4seq/marsico_K_minus.bed.gz",
+          "expect_bytes": 2103095
+        },
+        {
+          "url": "https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3003nnn/GSM3003540/suppl/GSM3003540_Homo_all_w15_th-1_plus.hits.max.PDS.w50.35.bed.gz",
+          "dest": "g4seq/marsico_PDS_plus.bed.gz",
+          "expect_bytes": 6510580
+        },
+        {
+          "url": "https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3003nnn/GSM3003540/suppl/GSM3003540_Homo_all_w15_th-1_minus.hits.max.PDS.w50.35.bed.gz",
+          "dest": "g4seq/marsico_PDS_minus.bed.gz",
+          "expect_bytes": 6520440
+        },
+        {
+          "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE63nnn/GSE63874/suppl/GSE63874_README.txt",
+          "dest": "g4seq/GSE63874_README.txt",
+          "expect_bytes": 6050
+        },
+        {
+          "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE63nnn/GSE63874/suppl/GSE63874_Na_K_plus_hits_intersect.bed.gz",
+          "dest": "g4seq/chambers_Na_K_plus.bed.gz"
+        },
+        {
+          "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE63nnn/GSE63874/suppl/GSE63874_Na_K_minus_hits_intersect.bed.gz",
+          "dest": "g4seq/chambers_Na_K_minus.bed.gz"
+        }
+      ]
+    },
+    {
+      "name": "nucleosome_invitro",
+      "title": "In vitro nucleosome occupancy on purified yeast genomic DNA (the positive control task)",
+      "citation": "Kaplan N et al., Nature 458:362-366 (2009). doi:10.1038/nature07667",
+      "license": "No explicit license on GSE13622; Crossref shows CC BY-NC-SA 3.0 TDM terms on the article.",
+      "sequences_included": false,
+      "genome_build": "May 2006 SGD build, between sacCer1 and sacCer2; treat as sacCer2-equivalent and lift to sacCer3 if needed",
+      "columns": "Chromosome, Position, Normalized_Nucleosome_Occupancy; one row per covered base pair",
+      "value_note": "log2(per-bp coverage / genome mean), mean-subtracted, so 0 is genome average and +1 is twice average. 10,774,972 rows covering 88.6 percent of the nuclear genome. Chromosomes are Arabic 1-16 in Roman order; positions are 1-based.",
+      "why_this_one": "Kaplan 2009 and GSE15188 are the only maps assembled on purified bulk genomic DNA. Later in vitro maps use SGD-plasmid libraries and carry library coverage bias, which would corrupt a positive control.",
+      "channel_family": "D. Mesoscale mechanics; also the CEILING positive control",
+      "files": [
+        {
+          "url": "https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM351nnn/GSM351491/suppl/GSM351491_InVitro_normalized.tab.gz",
+          "dest": "nucleosome_invitro/InVitro_normalized.tab.gz",
+          "expect_bytes": 39173217
+        },
+        {
+          "url": "https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM351nnn/GSM351492/suppl/GSM351492_YPD_normalized.tab.gz",
+          "dest": "nucleosome_invitro/YPD_invivo_normalized.tab.gz",
+          "expect_bytes": 44045784
+        },
+        {
+          "url": "https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM379nnn/GSM379239/suppl/GSM379239_SALT_yeast_146bp.wig.gz",
+          "dest": "nucleosome_invitro/GSM379239_SALT_146bp.wig.gz",
+          "expect_bytes": 4404220
+        }
+      ]
+    },
+    {
+      "name": "cpdseq",
+      "title": "CPD-seq UV photoproduct maps at single-nucleotide resolution",
+      "citation": "Mao P, Smerdon MJ, Roberts SA, Wyrick JJ. PNAS 113:9057-9062 (2016). doi:10.1073/pnas.1606667113",
+      "license": "No permissions block available for the PNAS article; GEO record carries no license statement.",
+      "sequences_included": false,
+      "genome_build": "sacCer3",
+      "data_note": "variableStep span=1 WIG, 1-based, 17 chromosomes with chr prefix and Roman numerals. The value is per-nucleotide COVERAGE of 2-nt CPD intervals, not a per-dinucleotide count: an isolated YY shows the same number twice, and within a run of positions a,b,c the values are x, x+y, y. Every eligible dipyrimidine is present, with 0.0 where unread, so files are position-aligned and can be divided sample-wise. Both plus and minus files use plus-strand coordinates.",
+      "channel_family": "G. Solvation, hydration and chemical reactivity (photochemistry)",
+      "files": [
+        {
+          "url": "https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2109nnn/GSM2109560/suppl/GSM2109560_UV_0hr_A2_dipy_bkgd_plus.wig.gz",
+          "dest": "cpdseq/UV_0hr_plus.wig.gz",
+          "expect_bytes": 13558425
+        },
+        {
+          "url": "https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2109nnn/GSM2109560/suppl/GSM2109560_UV_0hr_A2_dipy_bkgd_minus.wig.gz",
+          "dest": "cpdseq/UV_0hr_minus.wig.gz",
+          "expect_bytes": 13587857
+        },
+        {
+          "url": "https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2109nnn/GSM2109565/suppl/GSM2109565_UV60J_A2_dipy_bkgd_plus.wig.gz",
+          "dest": "cpdseq/UV60J_nakedDNA_plus.wig.gz"
+        }
+      ]
+    },
+    {
+      "name": "dcpdseq",
+      "title": "dCPD-seq CPD deamination maps",
+      "citation": "Laughery MF, Stark B, Morledge-Hampton B, Roberts SA, Wyrick JJ. Genome Research 36(1):183-196 (2026). doi:10.1101/gr.280384.124",
+      "license": "CC BY 4.0",
+      "plan_correction": "PLAN.md dates this Genome Research 2025. The GEO release was 2025-10-01 but the paper is 2026.",
+      "sequences_included": false,
+      "data_note": "True 1 bp per-lesion resolution: one entry per cytosine in a TC/CT/CC context, 1,786,751 positions per strand. The reported coordinate is the damaged base adjacent to the ligation junction, on the damaged strand.",
+      "channel_family": "G. Solvation, hydration and chemical reactivity (photochemistry)",
+      "files": [
+        {
+          "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE284nnn/GSE284099/suppl/GSE284099_RAW.tar",
+          "dest": "dcpdseq/GSE284099_incell_RAW.tar"
+        },
+        {
+          "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE284nnn/GSE284778/suppl/GSE284778_RAW.tar",
+          "dest": "dcpdseq/GSE284778_nakedDNA_RAW.tar"
+        }
+      ]
+    },
+    {
+      "name": "s1_endseq_kasseq",
+      "title": "S1-END-seq (DNA secondary structure) and KAS-seq (single-stranded DNA)",
+      "citation": "Matos-Rodrigues G et al., S1-END-seq reveals DNA secondary structures in human cells. Molecular Cell 82:3538-3552 (2022). Wu T et al., KAS-seq: genome-wide single-stranded DNA mapping.",
+      "license": "No per-dataset license statement in either GEO record.",
+      "sequences_included": false,
+      "genome_build": "hg19, determined from the data: the S1-END-seq bigWig chromosome B-tree gives chr1 = 249,250,621, chr2 = 243,199,373 and chrX = 155,270,560 across 25 contigs, and the KAS-seq peak set reaches chr1:249,240,722, which fits hg19 (249,250,621) and overflows hg38 (248,956,422).",
+      "data_note": "S1-END-seq GSE203632 ships strand-separated bigWig per sample across five human lines (KM12, SW48, RKO, SW620, SW837); bigWig magic verified as 0x888FFC26 version 4 by range request. KAS-seq GSE139420 ships both bigWig signal and q<0.01 BED peak calls; the BED peaks are the directly usable form.",
+      "verification_note": "Located and verified directly after the delegated search did not return them. GSE203632 was confirmed by reading its GEO filelist, which names S1_END_seq files explicitly, rather than by title match.",
+      "channel_family": "F. Non-canonical structure",
+      "files": [
+        {
+          "url": "https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4141nnn/GSM4141409/suppl/GSM4141409_HEK293_Ctrl_KAS-IP_q01_peaks.rep1.bed.gz",
+          "dest": "kasseq/HEK293_Ctrl_rep1_q01_peaks.bed.gz"
+        },
+        {
+          "url": "https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4141nnn/GSM4141410/suppl/GSM4141410_HEK293_Ctrl_KAS-IP_q01_peaks.rep2.bed.gz",
+          "dest": "kasseq/HEK293_Ctrl_rep2_q01_peaks.bed.gz"
+        },
+        {
+          "url": "https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM6180nnn/GSM6180987/suppl/GSM6180987_S1_END_seq_KM12_replicate1.pos.bw",
+          "dest": "s1_endseq/KM12_rep1.pos.bw"
+        },
+        {
+          "url": "https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM6180nnn/GSM6180987/suppl/GSM6180987_S1_END_seq_KM12_replicate1.neg.bw",
+          "dest": "s1_endseq/KM12_rep1.neg.bw"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,522 @@
+{
+  "sequence": "AACCCGCATCCGGTTGACTTGAACGTGAGGATGAGAGGTAGATGACGTATGAAATCATCCG",
+  "condition": "NaCl_150mM",
+  "scored_bp": 21,
+  "reference_config": {
+    "solute_bp": 41,
+    "fine_spacing_A": 0.35,
+    "transverse_pad_A": 30.0,
+    "equation": "npbe",
+    "grid_points": 6661697,
+    "seconds": 36.6
+  },
+  "configs": [
+    {
+      "condition": "NaCl_150mM",
+      "equation": "npbe",
+      "fine_spacing_A": 0.5,
+      "transverse_pad_A": 30.0,
+      "axial_pad_A": 40.0,
+      "n_atoms": 2602,
+      "total_charge": -80.0,
+      "extent_A": [
+        35.7,
+        43.8,
+        135.9
+      ],
+      "coarse_A": [
+        95.7,
+        103.8,
+        215.9
+      ],
+      "fine_A": [
+        48.0,
+        48.0,
+        84.3
+      ],
+      "dime": [
+        97,
+        97,
+        193
+      ],
+      "grid_points": 1815937,
+      "coarse_spacing_A": [
+        0.986,
+        1.07,
+        1.118
+      ],
+      "seconds": 89.0,
+      "returncode": 0,
+      "exp_overflow_lines": 0,
+      "status": "ok",
+      "elec_energy_kJ_mol": 181169.3293801,
+      "potential_mean_by_radius": [
+        -2.5385720362221207,
+        -8.168743053284665,
+        -46.32868634893331,
+        -3.4367505384357555,
+        -1.8962394367813575,
+        -1.0327133424586927
+      ],
+      "potential_mean_by_sector": [
+        -2.1053285393721812,
+        -5.6905301361856315,
+        -21.27581455686881,
+        -2.54916360473057,
+        -29.178999020827348,
+        -2.6259395372150203
+      ],
+      "potential_finite_fraction": 0.9973544973544973,
+      "solute_bp": 41,
+      "n_bp_frames": 41,
+      "scored_bp": [
+        10,
+        31
+      ],
+      "vs_reference": {
+        "max_abs_diff_kT_e": 201.11658631191062,
+        "rmse_kT_e": 14.58940709927309,
+        "rmse_over_sd": 0.3048914276209239,
+        "pearson_r": 0.9775583859005935
+      }
+    },
+    {
+      "condition": "NaCl_150mM",
+      "equation": "npbe",
+      "fine_spacing_A": 0.5,
+      "transverse_pad_A": 50.0,
+      "axial_pad_A": 40.0,
+      "n_atoms": 2602,
+      "total_charge": -80.0,
+      "extent_A": [
+        35.7,
+        43.8,
+        135.9
+      ],
+      "coarse_A": [
+        135.7,
+        143.8,
+        215.9
+      ],
+      "fine_A": [
+        48.0,
+        48.0,
+        84.3
+      ],
+      "dime": [
+        97,
+        97,
+        193
+      ],
+      "grid_points": 1815937,
+      "coarse_spacing_A": [
+        1.399,
+        1.483,
+        1.118
+      ],
+      "seconds": 9.4,
+      "returncode": 0,
+      "exp_overflow_lines": 0,
+      "status": "ok",
+      "elec_energy_kJ_mol": 196268.1628265,
+      "potential_mean_by_radius": [
+        -2.5318602935700896,
+        -8.1609101959647,
+        -46.31833841103071,
+        -3.423094534673793,
+        -1.8752840312912862,
+        -0.9921244670571542
+      ],
+      "potential_mean_by_sector": [
+        -2.0919008873770815,
+        -5.676821104306532,
+        -21.258912312544382,
+        -2.5322173050482,
+        -29.15776337326395,
+        -2.6084428691109243
+      ],
+      "potential_finite_fraction": 0.9973544973544973,
+      "solute_bp": 41,
+      "n_bp_frames": 41,
+      "scored_bp": [
+        10,
+        31
+      ],
+      "vs_reference": {
+        "max_abs_diff_kT_e": 201.1301951178878,
+        "rmse_kT_e": 14.59079677464795,
+        "rmse_over_sd": 0.30492046924722765,
+        "pearson_r": 0.9775560742089241
+      }
+    },
+    {
+      "condition": "NaCl_150mM",
+      "equation": "npbe",
+      "fine_spacing_A": 0.35,
+      "transverse_pad_A": 30.0,
+      "axial_pad_A": 40.0,
+      "n_atoms": 2602,
+      "total_charge": -80.0,
+      "extent_A": [
+        35.7,
+        43.8,
+        135.9
+      ],
+      "coarse_A": [
+        95.7,
+        103.8,
+        215.9
+      ],
+      "fine_A": [
+        48.0,
+        48.0,
+        84.3
+      ],
+      "dime": [
+        161,
+        161,
+        257
+      ],
+      "grid_points": 6661697,
+      "coarse_spacing_A": [
+        0.594,
+        0.645,
+        0.84
+      ],
+      "seconds": 36.6,
+      "returncode": 0,
+      "exp_overflow_lines": 0,
+      "status": "ok",
+      "elec_energy_kJ_mol": 400881.7772425,
+      "potential_mean_by_radius": [
+        -2.3862090490754437,
+        -8.348575184843568,
+        -56.682076132186964,
+        -3.225238582762549,
+        -1.8947960168065197,
+        -1.0314519973099328
+      ],
+      "potential_mean_by_sector": [
+        -2.1007855316044535,
+        -5.54097596549633,
+        -24.736295807778237,
+        -2.6877794927547405,
+        -36.12382815846453,
+        -2.4049729195128355
+      ],
+      "potential_finite_fraction": 0.9973544973544973,
+      "solute_bp": 41,
+      "n_bp_frames": 41,
+      "scored_bp": [
+        10,
+        31
+      ],
+      "vs_reference": {
+        "max_abs_diff_kT_e": 0.0,
+        "rmse_kT_e": 0.0,
+        "rmse_over_sd": 0.0,
+        "pearson_r": 1.0
+      },
+      "is_reference": true
+    },
+    {
+      "condition": "NaCl_150mM",
+      "equation": "npbe",
+      "fine_spacing_A": 0.35,
+      "transverse_pad_A": 50.0,
+      "axial_pad_A": 40.0,
+      "n_atoms": 2602,
+      "total_charge": -80.0,
+      "extent_A": [
+        35.7,
+        43.8,
+        135.9
+      ],
+      "coarse_A": [
+        135.7,
+        143.8,
+        215.9
+      ],
+      "fine_A": [
+        48.0,
+        48.0,
+        84.3
+      ],
+      "dime": [
+        161,
+        161,
+        257
+      ],
+      "grid_points": 6661697,
+      "coarse_spacing_A": [
+        0.843,
+        0.893,
+        0.84
+      ],
+      "seconds": 36.5,
+      "returncode": 0,
+      "exp_overflow_lines": 0,
+      "status": "ok",
+      "elec_energy_kJ_mol": 393872.967251,
+      "potential_mean_by_radius": [
+        -2.379125281381838,
+        -8.34055367313091,
+        -56.67176453963208,
+        -3.211817779923259,
+        -1.8742715140101862,
+        -0.9915758628171889
+      ],
+      "potential_mean_by_sector": [
+        -2.0872318951701527,
+        -5.527088919638821,
+        -24.71946405142721,
+        -2.671215249854624,
+        -36.10288304871762,
+        -2.38788642873842
+      ],
+      "potential_finite_fraction": 0.9973544973544973,
+      "solute_bp": 41,
+      "n_bp_frames": 41,
+      "scored_bp": [
+        10,
+        31
+      ],
+      "vs_reference": {
+        "max_abs_diff_kT_e": 0.09933777789760767,
+        "rmse_kT_e": 0.021941320245961862,
+        "rmse_over_sd": 0.0004585327154255984,
+        "pearson_r": 0.9999999543903135
+      }
+    },
+    {
+      "condition": "NaCl_150mM",
+      "equation": "npbe",
+      "fine_spacing_A": 0.5,
+      "transverse_pad_A": 30.0,
+      "axial_pad_A": 40.0,
+      "n_atoms": 3872,
+      "total_charge": -120.0,
+      "extent_A": [
+        45.7,
+        55.0,
+        198.7
+      ],
+      "coarse_A": [
+        105.7,
+        115.0,
+        278.7
+      ],
+      "fine_A": [
+        48.0,
+        48.0,
+        84.3
+      ],
+      "dime": [
+        97,
+        97,
+        193
+      ],
+      "grid_points": 1815937,
+      "coarse_spacing_A": [
+        1.09,
+        1.185,
+        1.444
+      ],
+      "seconds": 6.5,
+      "returncode": -6,
+      "exp_overflow_lines": 6,
+      "status": "failed",
+      "reason": "overflow/abort",
+      "solute_bp": 61,
+      "n_bp_frames": 61,
+      "scored_bp": [
+        20,
+        41
+      ]
+    },
+    {
+      "condition": "NaCl_150mM",
+      "equation": "npbe",
+      "fine_spacing_A": 0.5,
+      "transverse_pad_A": 50.0,
+      "axial_pad_A": 40.0,
+      "n_atoms": 3872,
+      "total_charge": -120.0,
+      "extent_A": [
+        45.7,
+        55.0,
+        198.7
+      ],
+      "coarse_A": [
+        145.7,
+        155.0,
+        278.7
+      ],
+      "fine_A": [
+        48.0,
+        48.0,
+        84.3
+      ],
+      "dime": [
+        97,
+        97,
+        193
+      ],
+      "grid_points": 1815937,
+      "coarse_spacing_A": [
+        1.502,
+        1.598,
+        1.444
+      ],
+      "seconds": 9.8,
+      "returncode": 0,
+      "exp_overflow_lines": 0,
+      "status": "ok",
+      "elec_energy_kJ_mol": -446694226.5459,
+      "potential_mean_by_radius": [
+        -2.5860120659236103,
+        -8.12063854140607,
+        -46.57179433124029,
+        -3.414066581129926,
+        -1.8771092202034863,
+        -0.9948302071006297
+      ],
+      "potential_mean_by_sector": [
+        -2.093710533319859,
+        -5.655919075702655,
+        -21.495512129908764,
+        -2.524743213190925,
+        -29.152863733298894,
+        -2.6659865950129027
+      ],
+      "potential_finite_fraction": 0.9973544973544973,
+      "solute_bp": 61,
+      "n_bp_frames": 61,
+      "scored_bp": [
+        20,
+        41
+      ],
+      "vs_reference": {
+        "max_abs_diff_kT_e": 203.9609036922737,
+        "rmse_kT_e": 14.770306087251774,
+        "rmse_over_sd": 0.30867187944632735,
+        "pearson_r": 0.9760833866353693
+      }
+    },
+    {
+      "condition": "NaCl_150mM",
+      "equation": "npbe",
+      "fine_spacing_A": 0.35,
+      "transverse_pad_A": 30.0,
+      "axial_pad_A": 40.0,
+      "n_atoms": 3872,
+      "total_charge": -120.0,
+      "extent_A": [
+        45.7,
+        55.0,
+        198.7
+      ],
+      "coarse_A": [
+        105.7,
+        115.0,
+        278.7
+      ],
+      "fine_A": [
+        48.0,
+        48.0,
+        84.3
+      ],
+      "dime": [
+        161,
+        161,
+        257
+      ],
+      "grid_points": 6661697,
+      "coarse_spacing_A": [
+        0.656,
+        0.714,
+        1.084
+      ],
+      "seconds": 21.9,
+      "returncode": -6,
+      "exp_overflow_lines": 8,
+      "status": "failed",
+      "reason": "overflow/abort",
+      "solute_bp": 61,
+      "n_bp_frames": 61,
+      "scored_bp": [
+        20,
+        41
+      ]
+    },
+    {
+      "condition": "NaCl_150mM",
+      "equation": "npbe",
+      "fine_spacing_A": 0.35,
+      "transverse_pad_A": 50.0,
+      "axial_pad_A": 40.0,
+      "n_atoms": 3872,
+      "total_charge": -120.0,
+      "extent_A": [
+        45.7,
+        55.0,
+        198.7
+      ],
+      "coarse_A": [
+        145.7,
+        155.0,
+        278.7
+      ],
+      "fine_A": [
+        48.0,
+        48.0,
+        84.3
+      ],
+      "dime": [
+        161,
+        161,
+        257
+      ],
+      "grid_points": 6661697,
+      "coarse_spacing_A": [
+        0.905,
+        0.963,
+        1.084
+      ],
+      "seconds": 34.9,
+      "returncode": 0,
+      "exp_overflow_lines": 0,
+      "status": "ok",
+      "elec_energy_kJ_mol": -267724305.807,
+      "potential_mean_by_radius": [
+        -2.3463546316586323,
+        -8.264596059768653,
+        -57.40848046716532,
+        -3.2044289241373,
+        -1.8766842740831957,
+        -0.9944754652619472
+      ],
+      "potential_mean_by_sector": [
+        -2.089651950521283,
+        -5.49143507754416,
+        -25.23485945493642,
+        -2.6624364164868495,
+        -36.233267947272935,
+        -2.409844545967778
+      ],
+      "potential_finite_fraction": 0.9973544973544973,
+      "solute_bp": 61,
+      "n_bp_frames": 61,
+      "scored_bp": [
+        20,
+        41
+      ],
+      "vs_reference": {
+        "max_abs_diff_kT_e": 28.802008968161886,
+        "rmse_kT_e": 2.9584056401035586,
+        "rmse_over_sd": 0.06182516622885302,
+        "pearson_r": 0.9981665016367255
+      }
+    }
+  ]
+}

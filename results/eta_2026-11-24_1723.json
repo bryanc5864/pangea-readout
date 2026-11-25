@@ -1,0 +1,131 @@
+{
+ "computed": "2026-11-24T17:23:00",
+ "finished_units": {
+  "ax": 42522,
+  "k": 111142,
+  "j": 14055,
+  "im": 0,
+  "tx": 73,
+  "cr": 0
+ },
+ "units_left": {
+  "A extras": 148822,
+  "K RNA/hybrid electrostatics": 462890,
+  "J oxDNA2 v2": 177289,
+  "M quadruplex solve stage": 73191,
+  "M i-motif": 25868,
+  "M triplex": 6948,
+  "G trimer DFT": 58,
+  "N modified-stack DFT (est. ~7 h per shard)": 128,
+  "I side chains (est. ~1 h per item, pending the convergence test)": 952
+ },
+ "allocation_without_week": {
+  "last 6 h": {
+   "cpus": 1329,
+   "slots": 1576
+  },
+  "last 12 h": {
+   "cpus": 1148,
+   "slots": 1363
+  },
+  "last 24 h": {
+   "cpus": 844,
+   "slots": 1005
+  },
+  "last 48 h": {
+   "cpus": 684,
+   "slots": 990
+  }
+ },
+ "scopes": {
+  "cruciforms: stems >= 8 bp (12,559)": {
+   "cpu_h": 219500,
+   "slot_h": 257056,
+   "eta": {
+    "last 6 h (1329 CPUs, 1576 slots)": {
+     "days_labels": 6.8,
+     "training_start": "Dec 02"
+    },
+    "last 12 h (1148 CPUs, 1363 slots)": {
+     "days_labels": 7.9,
+     "training_start": "Dec 03"
+    },
+    "last 24 h (844 CPUs, 1005 slots)": {
+     "days_labels": 10.7,
+     "training_start": "Dec 06"
+    },
+    "last 48 h (684 CPUs, 990 slots)": {
+     "days_labels": 10.8,
+     "training_start": "Dec 06"
+    }
+   }
+  },
+  "cruciforms: stems >= 8 bp, if long stems cost 2x": {
+   "cpu_h": 243383,
+   "slot_h": 314519,
+   "eta": {
+    "last 6 h (1329 CPUs, 1576 slots)": {
+     "days_labels": 8.3,
+     "training_start": "Dec 04"
+    },
+    "last 12 h (1148 CPUs, 1363 slots)": {
+     "days_labels": 9.6,
+     "training_start": "Dec 05"
+    },
+    "last 24 h (844 CPUs, 1005 slots)": {
+     "days_labels": 13.0,
+     "training_start": "Dec 08"
+    },
+    "last 48 h (684 CPUs, 990 slots)": {
+     "days_labels": 13.2,
+     "training_start": "Dec 08"
+    }
+   }
+  },
+  "cruciforms: all (43,607)": {
+   "cpu_h": 278543,
+   "slot_h": 399114,
+   "eta": {
+    "last 6 h (1329 CPUs, 1576 slots)": {
+     "days_labels": 10.6,
+     "training_start": "Dec 06"
+    },
+    "last 12 h (1148 CPUs, 1363 slots)": {
+     "days_labels": 12.2,
+     "training_start": "Dec 07"
+    },
+    "last 24 h (844 CPUs, 1005 slots)": {
+     "days_labels": 16.5,
+     "training_start": "Dec 12"
+    },
+    "last 48 h (684 CPUs, 990 slots)": {
+     "days_labels": 16.8,
+     "training_start": "Dec 12"
+    }
+   }
+  },
+  "(reference) no cruciforms": {
+   "cpu_h": 195617,
+   "slot_h": 199593,
+   "eta": {
+    "last 6 h (1329 CPUs, 1576 slots)": {
+     "days_labels": 5.3,
+     "training_start": "Dec 01"
+    },
+    "last 12 h (1148 CPUs, 1363 slots)": {
+     "days_labels": 6.1,
+     "training_start": "Dec 01"
+    },
+    "last 24 h (844 CPUs, 1005 slots)": {
+     "days_labels": 8.3,
+     "training_start": "Dec 03"
+    },
+    "last 48 h (684 CPUs, 990 slots)": {
+     "days_labels": 8.4,
+     "training_start": "Dec 04"
+    }
+   }
+  }
+ },
+ "note": "CPU partitions only (GPU stages run alongside). Not included: pKa production (test pending). +1 day packing before training."
+}

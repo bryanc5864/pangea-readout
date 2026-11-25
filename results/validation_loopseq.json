@@ -1,0 +1,47 @@
+{
+ "n": 4000,
+ "library": "random",
+ "source": "Basu et al. 2021, loop-seq C0 (intrinsic cyclizability)",
+ "channels": {
+  "D_cyclizability_L63": {
+   "pearson_r": 0.17042611375686412,
+   "spearman_rho": 0.1649397105735474,
+   "n": 4000
+  },
+  "D_cyclizability_L73": {
+   "pearson_r": 0.17035729479656098,
+   "spearman_rho": 0.16489772013340329,
+   "n": 4000
+  },
+  "D_cyclizability_L84": {
+   "pearson_r": 0.1704413441598462,
+   "spearman_rho": 0.16495127951177585,
+   "n": 4000
+  },
+  "D_cyclizability_L94": {
+   "pearson_r": 0.1703725007419449,
+   "spearman_rho": 0.16493220326057464,
+   "n": 4000
+  },
+  "D_persistence_length_nm": {
+   "pearson_r": -0.022007348155641912,
+   "spearman_rho": -0.043764028537016164,
+   "n": 4000
+  },
+  "D_net_bend_deg": {
+   "pearson_r": 0.19045696465163117,
+   "spearman_rho": 0.169331518100094,
+   "n": 4000
+  },
+  "D_curvature_shortening": {
+   "pearson_r": 0.18748403703000546,
+   "spearman_rho": 0.17690886963973038,
+   "n": 4000
+  },
+  "D_mean_bend_variance_rad2": {
+   "pearson_r": 0.019860832160012016,
+   "spearman_rho": 0.04002356848898407,
+   "n": 4000
+  }
+ }
+}

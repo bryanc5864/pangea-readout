@@ -1,0 +1,17 @@
+{
+ "dataset": "nucleosome_invitro",
+ "features": "GC + 512 canonical 5-mers",
+ "crop": null,
+ "n_train": 106898,
+ "n_val": 11876,
+ "n_test": 24688,
+ "results": {
+  "all": {
+   "alpha": 0.01,
+   "test_pearson_r": 0.8876144874604817,
+   "test_r2": 0.781000618383701,
+   "gc_only_test_pearson_r": 0.7843820549954666,
+   "n_test": 24688
+  }
+ }
+}

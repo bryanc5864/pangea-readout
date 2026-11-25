@@ -1,0 +1,159 @@
+{
+ "n_fragments": 644,
+ "n_groups": 50,
+ "n_replicates": 16,
+ "n_channels": 60,
+ "by_kind": {
+  "A_C_condensed": {
+   "n": 1,
+   "median_snr_total": 19.72,
+   "median_snr_within": 19.39,
+   "min_snr_within": 19.39
+  },
+  "A_Cl_bb_occ": {
+   "n": 1,
+   "median_snr_total": 36.7,
+   "median_snr_within": 36.07,
+   "min_snr_within": 36.07
+  },
+  "A_Cl_maj_occ": {
+   "n": 1,
+   "median_snr_total": 16.68,
+   "median_snr_within": 16.55,
+   "min_snr_within": 16.55
+  },
+  "A_Cl_min_occ": {
+   "n": 1,
+   "median_snr_total": 29.72,
+   "median_snr_within": 26.64,
+   "min_snr_within": 26.64
+  },
+  "A_Na_bb_occ": {
+   "n": 1,
+   "median_snr_total": 19.68,
+   "median_snr_within": 18.4,
+   "min_snr_within": 18.4
+  },
+  "A_Na_maj_occ": {
+   "n": 1,
+   "median_snr_total": 13.83,
+   "median_snr_within": 13.7,
+   "min_snr_within": 13.7
+  },
+  "A_Na_min_occ": {
+   "n": 1,
+   "median_snr_total": 17.85,
+   "median_snr_within": 16.27,
+   "min_snr_within": 16.27
+  },
+  "A_W_condensed": {
+   "n": 1,
+   "median_snr_total": 18.44,
+   "median_snr_within": 17.97,
+   "min_snr_within": 17.97
+  },
+  "A_bpsolv": {
+   "n": 1,
+   "median_snr_total": 11.06,
+   "median_snr_within": 10.8,
+   "min_snr_within": 10.8
+  },
+  "A_grooveasym": {
+   "n": 1,
+   "median_snr_total": 34.4,
+   "median_snr_within": 30.32,
+   "min_snr_within": 30.32
+  },
+  "A_maj_Er": {
+   "n": 1,
+   "median_snr_total": 18.97,
+   "median_snr_within": 17.81,
+   "min_snr_within": 17.81
+  },
+  "A_maj_Et": {
+   "n": 1,
+   "median_snr_total": 38.15,
+   "median_snr_within": 37.73,
+   "min_snr_within": 37.73
+  },
+  "A_maj_Ez": {
+   "n": 1,
+   "median_snr_total": 53.21,
+   "median_snr_within": 52.54,
+   "min_snr_within": 52.54
+  },
+  "A_maj_dErdr": {
+   "n": 1,
+   "median_snr_total": 15.5,
+   "median_snr_within": 12.88,
+   "min_snr_within": 12.88
+  },
+  "A_maj_probe": {
+   "n": 1,
+   "median_snr_total": 13.53,
+   "median_snr_within": 13.05,
+   "min_snr_within": 13.05
+  },
+  "A_manning_xi": {
+   "n": 1,
+   "median_snr_total": 41.94,
+   "median_snr_within": 41.84,
+   "min_snr_within": 41.84
+  },
+  "A_min_Er": {
+   "n": 1,
+   "median_snr_total": 14.79,
+   "median_snr_within": 13.24,
+   "min_snr_within": 13.24
+  },
+  "A_min_Et": {
+   "n": 1,
+   "median_snr_total": 13.81,
+   "median_snr_within": 13.76,
+   "min_snr_within": 13.76
+  },
+  "A_min_Ez": {
+   "n": 1,
+   "median_snr_total": 20.51,
+   "median_snr_within": 20.54,
+   "min_snr_within": 20.54
+  },
+  "A_min_dErdr": {
+   "n": 1,
+   "median_snr_total": 10.15,
+   "median_snr_within": 9.71,
+   "min_snr_within": 9.71
+  },
+  "A_min_probe": {
+   "n": 1,
+   "median_snr_total": 37.95,
+   "median_snr_within": 33.71,
+   "min_snr_within": 33.71
+  },
+  "A_s*_pot_d*": {
+   "n": 36,
+   "median_snr_total": 19.4,
+   "median_snr_within": 18.99,
+   "min_snr_within": 6.69
+  },
+  "A_solvation": {
+   "n": 1,
+   "median_snr_total": 42.3,
+   "median_snr_within": 40.35,
+   "min_snr_within": 40.35
+  },
+  "A_strandasym": {
+   "n": 1,
+   "median_snr_total": 38.42,
+   "median_snr_within": 37.9,
+   "min_snr_within": 37.9
+  },
+  "A_surface_charge": {
+   "n": 1,
+   "median_snr_total": 22.42,
+   "median_snr_within": 22.4,
+   "min_snr_within": 22.4
+  }
+ },
+ "fraction_snr_within_above_5": 1.0
+}

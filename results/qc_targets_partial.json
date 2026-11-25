@@ -1,0 +1,54 @@
+{
+  "summary": {
+    "n_shards": 395,
+    "n_fragments": 147700,
+    "n_bp": 61,
+    "n_per_bp_channels": 226,
+    "n_global_channels": 302,
+    "n_provisional": 93,
+    "seconds_per_fragment": 7.232,
+    "cpu_hours_total": 296.7,
+    "strata": {
+      "panel": 92571,
+      "hexamer": 9480,
+      "extremes": 2298,
+      "random": 2696,
+      "compctrl": 512,
+      "mpra": 40143
+    },
+    "median_per_bp_finite_fraction": 0.9836065573770492,
+    "median_global_finite_fraction": 1.0,
+    "n_all_nan_channels": 31,
+    "all_nan_channels_sample": [
+      "C_alpha_C_sd",
+      "C_alpha_W_sd",
+      "C_beta_C_sd",
+      "C_beta_W_sd",
+      "C_delta_C_sd",
+      "C_delta_W_sd",
+      "C_epsilon_C_sd",
+      "C_epsilon_W_sd",
+      "C_gamma_C_sd",
+      "C_gamma_W_sd",
+      "C_salt_dmajor_width_A",
+      "C_salt_dminor_width_A"
+    ],
+    "n_constant_channels": 6,
+    "constant_channels_sample": [
+      "D_delta_twist_sigma0",
+      "D_nucleosome_translational_bp",
+      "D_writhe_sigma0",
+      "E_dCp_total_kcal_mol_K",
+      "F_cruciform_sigma0",
+      "F_zdna_junction_kcal"
+    ],
+    "n_channels_wider_than_the_fragment": 1,
+    "channels_wider_than_the_fragment": [
+      "E_strand_separation_dG_w100"
+    ],
+    "n_duplicate_sequences": 3
+  },
+  "problems": [
+    "3 sequences appear more than once, which would leak between training and validation"
+  ]
+}

@@ -1,0 +1,153 @@
+{
+ "n_fragments": 644,
+ "n_groups": 50,
+ "n_replicates": 16,
+ "n_channels": 59,
+ "by_kind": {
+  "A_C_condensed": {
+   "n": 1,
+   "median_snr_total": 27.29,
+   "median_snr_within": 26.7,
+   "min_snr_within": 26.7
+  },
+  "A_Cl_bb_occ": {
+   "n": 1,
+   "median_snr_total": 45.32,
+   "median_snr_within": 45.14,
+   "min_snr_within": 45.14
+  },
+  "A_Cl_maj_occ": {
+   "n": 1,
+   "median_snr_total": 41.04,
+   "median_snr_within": 40.59,
+   "min_snr_within": 40.59
+  },
+  "A_Cl_min_occ": {
+   "n": 1,
+   "median_snr_total": 84.77,
+   "median_snr_within": 75.86,
+   "min_snr_within": 75.86
+  },
+  "A_Na_bb_occ": {
+   "n": 1,
+   "median_snr_total": 34.98,
+   "median_snr_within": 33.19,
+   "min_snr_within": 33.19
+  },
+  "A_Na_maj_occ": {
+   "n": 1,
+   "median_snr_total": 35.76,
+   "median_snr_within": 34.81,
+   "min_snr_within": 34.81
+  },
+  "A_Na_min_occ": {
+   "n": 1,
+   "median_snr_total": 66.07,
+   "median_snr_within": 59.51,
+   "min_snr_within": 59.51
+  },
+  "A_W_condensed": {
+   "n": 1,
+   "median_snr_total": 28.38,
+   "median_snr_within": 27.46,
+   "min_snr_within": 27.46
+  },
+  "A_grooveasym": {
+   "n": 1,
+   "median_snr_total": 43.53,
+   "median_snr_within": 39.03,
+   "min_snr_within": 39.03
+  },
+  "A_maj_Er": {
+   "n": 1,
+   "median_snr_total": 17.02,
+   "median_snr_within": 16.16,
+   "min_snr_within": 16.16
+  },
+  "A_maj_Et": {
+   "n": 1,
+   "median_snr_total": 46.33,
+   "median_snr_within": 45.79,
+   "min_snr_within": 45.79
+  },
+  "A_maj_Ez": {
+   "n": 1,
+   "median_snr_total": 69.49,
+   "median_snr_within": 68.61,
+   "min_snr_within": 68.61
+  },
+  "A_maj_dErdr": {
+   "n": 1,
+   "median_snr_total": 14.07,
+   "median_snr_within": 12.6,
+   "min_snr_within": 12.6
+  },
+  "A_maj_probe": {
+   "n": 1,
+   "median_snr_total": 14.11,
+   "median_snr_within": 13.5,
+   "min_snr_within": 13.5
+  },
+  "A_manning_xi": {
+   "n": 1,
+   "median_snr_total": 59.55,
+   "median_snr_within": 59.42,
+   "min_snr_within": 59.42
+  },
+  "A_min_Er": {
+   "n": 1,
+   "median_snr_total": 43.32,
+   "median_snr_within": 39.66,
+   "min_snr_within": 39.66
+  },
+  "A_min_Et": {
+   "n": 1,
+   "median_snr_total": 20.4,
+   "median_snr_within": 20.33,
+   "min_snr_within": 20.33
+  },
+  "A_min_Ez": {
+   "n": 1,
+   "median_snr_total": 36.88,
+   "median_snr_within": 36.93,
+   "min_snr_within": 36.93
+  },
+  "A_min_dErdr": {
+   "n": 1,
+   "median_snr_total": 25.67,
+   "median_snr_within": 23.75,
+   "min_snr_within": 23.75
+  },
+  "A_min_probe": {
+   "n": 1,
+   "median_snr_total": 10.7,
+   "median_snr_within": 9.76,
+   "min_snr_within": 9.76
+  },
+  "A_s*_pot_d*": {
+   "n": 36,
+   "median_snr_total": 21.37,
+   "median_snr_within": 21.03,
+   "min_snr_within": 5.65
+  },
+  "A_solvation": {
+   "n": 1,
+   "median_snr_total": 9.42,
+   "median_snr_within": 9.23,
+   "min_snr_within": 9.23
+  },
+  "A_strandasym": {
+   "n": 1,
+   "median_snr_total": 53.78,
+   "median_snr_within": 53.07,
+   "min_snr_within": 53.07
+  },
+  "A_surface_charge": {
+   "n": 1,
+   "median_snr_total": 26.89,
+   "median_snr_within": 26.87,
+   "min_snr_within": 26.87
+  }
+ },
+ "fraction_snr_within_above_5": 1.0
+}

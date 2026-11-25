@@ -1,0 +1,94 @@
+{
+ "n_shards": 1024,
+ "source": "ORChID tetramer table (dna.bu.edu/orchid)",
+ "channels": {
+  "G_probe_hydroxyl_radical_W": {
+   "pearson_r_all_positions": 0.0890814289096867,
+   "spearman_rho_all_positions": 0.11586389235616966,
+   "pearson_r_by_position": [
+    -0.2466223540094844,
+    0.34644512677726047,
+    0.2295669665245062,
+    0.15923458258924994
+   ],
+   "mean_instances_per_tetramer": 43351.375
+  },
+  "G_probe_hydroxyl_radical_C": {
+   "pearson_r_all_positions": 0.11019308505237799,
+   "spearman_rho_all_positions": 0.13818935096219473,
+   "pearson_r_by_position": [
+    -0.23130029206176617,
+    0.3926969983998094,
+    0.22474420239230994,
+    0.14873733836528624
+   ],
+   "mean_instances_per_tetramer": 43351.375
+  },
+  "G_sasa_sugar_W": {
+   "pearson_r_all_positions": 0.12457924602359699,
+   "spearman_rho_all_positions": 0.11983878562954224,
+   "pearson_r_by_position": [
+    -0.1808453488940994,
+    0.35363296268236744,
+    0.2895393980380284,
+    0.04216612356938517
+   ],
+   "mean_instances_per_tetramer": 43351.375
+  },
+  "G_sasa_sugar_C": {
+   "pearson_r_all_positions": 0.12789107641220607,
+   "spearman_rho_all_positions": 0.12344514242117495,
+   "pearson_r_by_position": [
+    -0.1787270683908971,
+    0.36095508716989744,
+    0.2894589995599119,
+    0.038795564666017565
+   ],
+   "mean_instances_per_tetramer": 43351.375
+  },
+  "G_sasa_total_W": {
+   "pearson_r_all_positions": -0.03882703112960769,
+   "spearman_rho_all_positions": -0.025404743185031175,
+   "pearson_r_by_position": [
+    0.06056491159543946,
+    -0.12213854896179477,
+    -0.03805132257095434,
+    0.06343262890173937
+   ],
+   "mean_instances_per_tetramer": 43351.375
+  },
+  "G_sasa_total_C": {
+   "pearson_r_all_positions": -0.03915251910250614,
+   "spearman_rho_all_positions": -0.02548615402931896,
+   "pearson_r_by_position": [
+    0.060308189646275386,
+    -0.12316369759903414,
+    -0.0374551537598537,
+    0.05951495746927374
+   ],
+   "mean_instances_per_tetramer": 43351.375
+  },
+  "C_minor_width_A": {
+   "pearson_r_all_positions": 0.01033023764672152,
+   "spearman_rho_all_positions": -0.017991313820970356,
+   "pearson_r_by_position": [
+    0.030424726442307877,
+    0.09606613214623816,
+    0.022270287036107173,
+    -0.38041491233780833
+   ],
+   "mean_instances_per_tetramer": 82965.5625
+  },
+  "C_minor_depth_A": {
+   "pearson_r_all_positions": -0.006075803592379655,
+   "spearman_rho_all_positions": -0.007215942565000449,
+   "pearson_r_by_position": [
+    0.013178440296660116,
+    -0.05133250095285072,
+    0.05221469955477477,
+    0.016501473558035815
+   ],
+   "mean_instances_per_tetramer": 82965.5625
+  }
+ }
+}

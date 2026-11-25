@@ -1,0 +1,1631 @@
+{
+ "summary": {
+  "n_targets": 35,
+  "n_ok": 32,
+  "before_core_median_A": 1.192,
+  "before_loop1_median_A": 2.155,
+  "before_loop2_median_A": 4.001,
+  "before_loop3_median_A": 2.731,
+  "after_core_median_A": 1.119,
+  "after_loop1_median_A": 2.055,
+  "after_loop2_median_A": 3.9,
+  "after_loop3_median_A": 2.796
+ },
+ "targets": [
+  {
+   "pdb": "1KF1",
+   "loops": [
+    "TTA",
+    "TTA",
+    "TTA"
+   ],
+   "core": "1XAV",
+   "donors": [
+    [
+     "4DAQ.pdb",
+     1,
+     0.97
+    ],
+    [
+     "5CCW.pdb",
+     0,
+     1.08
+    ],
+    [
+     "5CCW.pdb",
+     2,
+     0.74
+    ]
+   ],
+   "before": {
+    "core_fit": 0.748,
+    "core": 1.548,
+    "loop1": 2.938,
+    "loop2": 4.335,
+    "loop3": 4.885
+   },
+   "minimiser": {
+    "energy_start_kJ_mol": 17099.8,
+    "energy_final_kJ_mol": -17502.54,
+    "max_force": 9.69,
+    "n_restrained": 261,
+    "n_atoms": 683,
+    "seconds": 63.2
+   },
+   "after": {
+    "core_fit": 0.754,
+    "core": 1.535,
+    "loop1": 3.1,
+    "loop2": 4.808,
+    "loop3": 4.388
+   },
+   "status": "ok"
+  },
+  {
+   "pdb": "1XAV",
+   "loops": [
+    "T",
+    "TA",
+    "T"
+   ],
+   "core": "1KF1",
+   "donors": [
+    [
+     "7NWD.pdb",
+     2,
+     0.82
+    ],
+    [
+     "5NYS.pdb",
+     0,
+     0.6
+    ],
+    [
+     "2KZE.pdb",
+     2,
+     0.75
+    ]
+   ],
+   "before": {
+    "core_fit": 0.748,
+    "core": 1.548,
+    "loop1": 1.319,
+    "loop2": 5.399,
+    "loop3": 1.387
+   },
+   "minimiser": {
+    "energy_start_kJ_mol": 5815.22,
+    "energy_final_kJ_mol": -13998.62,
+    "max_force": 12.2,
+    "n_restrained": 261,
+    "n_atoms": 523,
+    "seconds": 26.5
+   },
+   "after": {
+    "core_fit": 0.736,
+    "core": 1.49,
+    "loop1": 1.513,
+    "loop2": 4.889,
+    "loop3": 1.827
+   },
+   "status": "ok"
+  },
+  {
+   "pdb": "2KQG",
+   "loops": [
+    "C",
+    "CACGA",
+    "A"
+   ],
+   "core": "1KF1",
+   "donors": [
+    [
+     "7NWD.pdb",
+     2,
+     0.82
+    ],
+    [
+     "2KYP.pdb",
+     1,
+     1.0
+    ],
+    [
+     "2KZE.pdb",
+     2,
+     0.75
+    ]
+   ],
+   "before": {
+    "core_fit": 0.956,
+    "core": 1.63,
+    "loop1": 2.945,
+    "loop2": 3.667,
+    "loop3": 5.493
+   },
+   "minimiser": {
+    "energy_start_kJ_mol": 16913.36,
+    "energy_final_kJ_mol": -17929.49,
+    "max_force": 12.33,
+    "n_restrained": 261,
+    "n_atoms": 614,
+    "seconds": 68.7
+   },
+   "after": {
+    "core_fit": 0.953,
+    "core": 1.556,
+    "loop1": 1.676,
+    "loop2": 3.959,
+    "loop3": 5.133
+   },
+   "status": "ok"
+  },
+  {
+   "pdb": "2KQH",
+   "loops": [
+    "C",
+    "CGCGA",
+    "A"
+   ],
+   "core": "1KF1",
+   "donors": [
+    [
+     "7NWD.pdb",
+     2,
+     0.82
+    ],
+    [
+     "2KYP.pdb",
+     1,
+     1.0
+    ],
+    [
+     "2KZE.pdb",
+     2,
+     0.75
+    ]
+   ],
+   "before": {
+    "core_fit": 0.895,
+    "core": 1.685,
+    "loop1": 0.66,
+    "loop2": 7.568,
+    "loop3": 1.604
+   },
+   "minimiser": {
+    "energy_start_kJ_mol": 15945.77,
+    "energy_final_kJ_mol": -18227.56,
+    "max_force": 5.88,
+    "n_restrained": 261,
+    "n_atoms": 615,
+    "seconds": 101.5
+   },
+   "after": {
+    "core_fit": 0.864,
+    "core": 1.596,
+    "loop1": 1.677,
+    "loop2": 6.648,
+    "loop3": 1.668
+   },
+   "status": "ok"
+  },
+  {
+   "pdb": "2KYP",
+   "loops": [
+    "C",
+    "CGCTA",
+    "A"
+   ],
+   "core": "1KF1",
+   "donors": [
+    [
+     "7NWD.pdb",
+     2,
+     0.82
+    ],
+    [
+     "8EBO.pdb",
+     2,
+     1.18
+    ],
+    [
+     "2KZE.pdb",
+     2,
+     0.75
+    ]
+   ],
+   "status": "error: ValueError: cannot fit a A base frame (2 atoms)"
+  },
+  {
+   "pdb": "2L88",
+   "loops": [
+    "GCG",
+    "C",
+    "GCG"
+   ],
+   "core": "1KF1",
+   "donors": [
+    [
+     "1KF1.pdb",
+     0,
+     0.0
+    ],
+    [
+     "6ZL2.pdb",
+     2,
+     0.92
+    ],
+    [
+     "1KF1.pdb",
+     2,
+     0.0
+    ]
+   ],
+   "before": {
+    "core_fit": 1.886,
+    "core": 1.784,
+    "loop1": 6.748,
+    "loop2": 2.186,
+    "loop3": 8.371
+   },
+   "minimiser": {
+    "energy_start_kJ_mol": -1791.69,
+    "energy_final_kJ_mol": -18884.34,
+    "max_force": 21.38,
+    "n_restrained": 261,
+    "n_atoms": 617,
+    "seconds": 52.2
+   },
+   "after": {
+    "core_fit": 1.891,
+    "core": 1.763,
+    "loop1": 7.023,
+    "loop2": 3.159,
+    "loop3": 8.49
+   },
+   "status": "ok"
+  },
+  {
+   "pdb": "2LBY",
+   "loops": [
+    "A",
+    "TA",
+    "A"
+   ],
+   "core": "1KF1",
+   "donors": [
+    [
+     "7NWD.pdb",
+     2,
+     0.82
+    ],
+    [
+     "5NYS.pdb",
+     0,
+     0.6
+    ],
+    [
+     "2KZE.pdb",
+     2,
+     0.75
+    ]
+   ],
+   "before": {
+    "core_fit": 0.605,
+    "core": 1.312,
+    "loop1": 2.145,
+    "loop2": 7.385,
+    "loop3": 3.519
+   },
+   "minimiser": {
+    "energy_start_kJ_mol": 5583.78,
+    "energy_final_kJ_mol": -14329.92,
+    "max_force": 12.35,
+    "n_restrained": 261,
+    "n_atoms": 523,
+    "seconds": 37.3
+   },
+   "after": {
+    "core_fit": 0.593,
+    "core": 1.256,
+    "loop1": 2.045,
+    "loop2": 6.842,
+    "loop3": 3.014
+   },
+   "status": "ok"
+  },
+  {
+   "pdb": "2LD8",
+   "loops": [
+    "TTA",
+    "TTA",
+    "TTA"
+   ],
+   "core": "1KF1",
+   "donors": [
+    [
+     "1KF1.pdb",
+     0,
+     0.0
+    ],
+    [
+     "1KF1.pdb",
+     1,
+     0.0
+    ],
+    [
+     "1KF1.pdb",
+     2,
+     0.0
+    ]
+   ],
+   "before": {
+    "core_fit": 0.811,
+    "core": 1.17,
+    "loop1": 2.034,
+    "loop2": 3.014,
+    "loop3": 2.348
+   },
+   "minimiser": {
+    "energy_start_kJ_mol": -5522.13,
+    "energy_final_kJ_mol": -17764.45,
+    "max_force": 11.58,
+    "n_restrained": 261,
+    "n_atoms": 683,
+    "seconds": 29.0
+   },
+   "after": {
+    "core_fit": 0.819,
+    "core": 1.174,
+    "loop1": 2.065,
+    "loop2": 3.153,
+    "loop3": 2.412
+   },
+   "status": "ok"
+  },
+  {
+   "pdb": "2LEE",
+   "loops": [
+    "C",
+    "A",
+    "A"
+   ],
+   "core": "1KF1",
+   "donors": [
+    [
+     "7NWD.pdb",
+     2,
+     0.82
+    ],
+    [
+     "6ZL2.pdb",
+     2,
+     0.92
+    ],
+    [
+     "2KZE.pdb",
+     2,
+     0.75
+    ]
+   ],
+   "before": {
+    "core_fit": 0.705,
+    "core": 1.222,
+    "loop1": 0.88,
+    "loop2": 2.768,
+    "loop3": 1.487
+   },
+   "minimiser": {
+    "energy_start_kJ_mol": 32429.42,
+    "energy_final_kJ_mol": -13927.66,
+    "max_force": 15.41,
+    "n_restrained": 261,
+    "n_atoms": 489,
+    "seconds": 25.1
+   },
+   "after": {
+    "core_fit": 0.686,
+    "core": 1.068,
+    "loop1": 1.351,
+    "loop2": 2.35,
+    "loop3": 1.184
+   },
+   "status": "ok"
+  },
+  {
+   "pdb": "2LK7",
+   "loops": [
+    "T",
+    "T",
+    "T"
+   ],
+   "core": "1KF1",
+   "donors": [
+    [
+     "7NWD.pdb",
+     2,
+     0.82
+    ],
+    [
+     "6ZL2.pdb",
+     2,
+     0.92
+    ],
+    [
+     "2KZE.pdb",
+     2,
+     0.75
+    ]
+   ],
+   "before": {
+    "core_fit": 0.707,
+    "core": 1.416,
+    "loop1": 1.733,
+    "loop2": 3.613,
+    "loop3": 2.264
+   },
+   "minimiser": {
+    "energy_start_kJ_mol": 12043.9,
+    "energy_final_kJ_mol": -13064.58,
+    "max_force": 6.27,
+    "n_restrained": 261,
+    "n_atoms": 491,
+    "seconds": 19.2
+   },
+   "after": {
+    "core_fit": 0.676,
+    "core": 1.221,
+    "loop1": 1.464,
+    "loop2": 3.675,
+    "loop3": 2.578
+   },
+   "status": "ok"
+  },
+  {
+   "pdb": "2LXQ",
+   "loops": [
+    "T",
+    "TT",
+    "T"
+   ],
+   "core": "1KF1",
+   "donors": [
+    [
+     "7NWD.pdb",
+     2,
+     0.82
+    ],
+    [
+     "5NYS.pdb",
+     0,
+     0.6
+    ],
+    [
+     "2KZE.pdb",
+     2,
+     0.75
+    ]
+   ],
+   "before": {
+    "core_fit": 0.501,
+    "core": 1.232,
+    "loop1": 4.197,
+    "loop2": 4.901,
+    "loop3": 2.225
+   },
+   "minimiser": {
+    "energy_start_kJ_mol": 5435.19,
+    "energy_final_kJ_mol": -13819.72,
+    "max_force": 8.26,
+    "n_restrained": 261,
+    "n_atoms": 523,
+    "seconds": 27.1
+   },
+   "after": {
+    "core_fit": 0.486,
+    "core": 1.134,
+    "loop1": 5.077,
+    "loop2": 4.343,
+    "loop3": 1.807
+   },
+   "status": "ok"
+  },
+  {
+   "pdb": "2M27",
+   "loops": [
+    "C",
+    "CCTT",
+    "C"
+   ],
+   "core": "1KF1",
+   "status": "no donor"
+  },
+  {
+   "pdb": "2MB2",
+   "loops": [
+    "G",
+    "G",
+    "G"
+   ],
+   "core": "1KF1",
+   "donors": [
+    [
+     "7NWD.pdb",
+     2,
+     0.82
+    ],
+    [
+     "6ZL2.pdb",
+     2,
+     0.92
+    ],
+    [
+     "2KZE.pdb",
+     2,
+     0.75
+    ]
+   ],
+   "before": {
+    "core_fit": 0.608,
+    "core": 0.92,
+    "loop1": 1.664,
+    "loop2": 3.275,
+    "loop3": 1.777
+   },
+   "minimiser": {
+    "energy_start_kJ_mol": 150373.84,
+    "energy_final_kJ_mol": -14182.41,
+    "max_force": 38.61,
+    "n_restrained": 261,
+    "n_atoms": 494,
+    "seconds": 21.3
+   },
+   "after": {
+    "core_fit": 0.595,
+    "core": 0.765,
+    "loop1": 1.606,
+    "loop2": 2.9,
+    "loop3": 1.77
+   },
+   "status": "ok"
+  },
+  {
+   "pdb": "3UYH",
+   "loops": [
+    "TTA",
+    "TTA",
+    "TTA"
+   ],
+   "core": "1KF1",
+   "donors": [
+    [
+     "1KF1.pdb",
+     0,
+     0.0
+    ],
+    [
+     "1KF1.pdb",
+     1,
+     0.0
+    ],
+    [
+     "1KF1.pdb",
+     2,
+     0.0
+    ]
+   ],
+   "before": {
+    "core_fit": 0.394,
+    "core": 0.838,
+    "loop1": 0.773,
+    "loop2": 2.656,
+    "loop3": 1.398
+   },
+   "minimiser": {
+    "energy_start_kJ_mol": -5586.51,
+    "energy_final_kJ_mol": -17759.69,
+    "max_force": 11.49,
+    "n_restrained": 261,
+    "n_atoms": 683,
+    "seconds": 24.7
+   },
+   "after": {
+    "core_fit": 0.394,
+    "core": 0.848,
+    "loop1": 0.757,
+    "loop2": 2.411,
+    "loop3": 1.517
+   },
+   "status": "ok"
+  },
+  {
+   "pdb": "5NYS",
+   "loops": [
+    "AC",
+    "C",
+    "CA"
+   ],
+   "core": "1KF1",
+   "donors": [
+    [
+     "6ZL9.pdb",
+     1,
+     0.86
+    ],
+    [
+     "6ZL2.pdb",
+     2,
+     0.92
+    ],
+    [
+     "6ZL9.pdb",
+     1,
+     0.75
+    ]
+   ],
+   "before": {
+    "core_fit": 0.717,
+    "core": 1.139,
+    "loop1": 5.325,
+    "loop2": 3.199,
+    "loop3": 4.3
+   },
+   "minimiser": {
+    "energy_start_kJ_mol": 6241.35,
+    "energy_final_kJ_mol": -16480.0,
+    "max_force": 12.44,
+    "n_restrained": 261,
+    "n_atoms": 549,
+    "seconds": 27.8
+   },
+   "after": {
+    "core_fit": 0.685,
+    "core": 1.066,
+    "loop1": 4.032,
+    "loop2": 2.468,
+    "loop3": 3.847
+   },
+   "status": "ok"
+  },
+  {
+   "pdb": "6H5R",
+   "loops": [
+    "TTA",
+    "TTA",
+    "TTA"
+   ],
+   "core": "1KF1",
+   "donors": [
+    [
+     "1KF1.pdb",
+     0,
+     0.0
+    ],
+    [
+     "1KF1.pdb",
+     1,
+     0.0
+    ],
+    [
+     "1KF1.pdb",
+     2,
+     0.0
+    ]
+   ],
+   "before": {
+    "core_fit": 0.424,
+    "core": 0.924,
+    "loop1": 6.049,
+    "loop2": 5.797,
+    "loop3": 5.884
+   },
+   "minimiser": {
+    "energy_start_kJ_mol": -5554.45,
+    "energy_final_kJ_mol": -17764.62,
+    "max_force": 18.38,
+    "n_restrained": 261,
+    "n_atoms": 683,
+    "seconds": 29.9
+   },
+   "after": {
+    "core_fit": 0.413,
+    "core": 0.92,
+    "loop1": 6.003,
+    "loop2": 5.691,
+    "loop3": 5.812
+   },
+   "status": "ok"
+  },
+  {
+   "pdb": "6NEB",
+   "loops": [
+    "A",
+    "TTTTAA",
+    "T"
+   ],
+   "core": "1KF1",
+   "status": "no donor"
+  },
+  {
+   "pdb": "6YY4",
+   "loops": [
+    "T",
+    "AA",
+    "T"
+   ],
+   "core": "1KF1",
+   "donors": [
+    [
+     "7NWD.pdb",
+     2,
+     0.82
+    ],
+    [
+     "5NYS.pdb",
+     0,
+     0.6
+    ],
+    [
+     "2KZE.pdb",
+     2,
+     0.75
+    ]
+   ],
+   "before": {
+    "core_fit": 0.569,
+    "core": 1.252,
+    "loop1": 3.353,
+    "loop2": 4.54,
+    "loop3": 1.297
+   },
+   "minimiser": {
+    "energy_start_kJ_mol": 5647.83,
+    "energy_final_kJ_mol": -14149.92,
+    "max_force": 7.44,
+    "n_restrained": 261,
+    "n_atoms": 523,
+    "seconds": 30.4
+   },
+   "after": {
+    "core_fit": 0.578,
+    "core": 1.145,
+    "loop1": 4.155,
+    "loop2": 3.841,
+    "loop3": 0.992
+   },
+   "status": "ok"
+  },
+  {
+   "pdb": "6ZL2",
+   "loops": [
+    "T",
+    "TA",
+    "T"
+   ],
+   "core": "1KF1",
+   "donors": [
+    [
+     "7NWD.pdb",
+     2,
+     0.82
+    ],
+    [
+     "5NYS.pdb",
+     0,
+     0.6
+    ],
+    [
+     "2KZE.pdb",
+     2,
+     0.75
+    ]
+   ],
+   "before": {
+    "core_fit": 0.751,
+    "core": 1.289,
+    "loop1": 1.097,
+    "loop2": 2.769,
+    "loop3": 3.194
+   },
+   "minimiser": {
+    "energy_start_kJ_mol": 5458.08,
+    "energy_final_kJ_mol": -13972.32,
+    "max_force": 10.8,
+    "n_restrained": 261,
+    "n_atoms": 523,
+    "seconds": 25.0
+   },
+   "after": {
+    "core_fit": 0.73,
+    "core": 1.229,
+    "loop1": 2.037,
+    "loop2": 2.473,
+    "loop3": 3.155
+   },
+   "status": "ok"
+  },
+  {
+   "pdb": "6ZL9",
+   "loops": [
+    "T",
+    "TA",
+    "T"
+   ],
+   "core": "1KF1",
+   "donors": [
+    [
+     "7NWD.pdb",
+     2,
+     0.82
+    ],
+    [
+     "5NYS.pdb",
+     0,
+     0.6
+    ],
+    [
+     "2KZE.pdb",
+     2,
+     0.75
+    ]
+   ],
+   "before": {
+    "core_fit": 0.533,
+    "core": 1.054,
+    "loop1": 0.745,
+    "loop2": 5.132,
+    "loop3": 1.922
+   },
+   "minimiser": {
+    "energy_start_kJ_mol": 5936.22,
+    "energy_final_kJ_mol": -13978.46,
+    "max_force": 29.67,
+    "n_restrained": 261,
+    "n_atoms": 523,
+    "seconds": 28.1
+   },
+   "after": {
+    "core_fit": 0.498,
+    "core": 0.952,
+    "loop1": 1.836,
+    "loop2": 4.534,
+    "loop3": 1.623
+   },
+   "status": "ok"
+  },
+  {
+   "pdb": "7E5P",
+   "loops": [
+    "T",
+    "TT",
+    "A"
+   ],
+   "core": "1KF1",
+   "donors": [
+    [
+     "7NWD.pdb",
+     2,
+     0.82
+    ],
+    [
+     "5NYS.pdb",
+     0,
+     0.6
+    ],
+    [
+     "2KZE.pdb",
+     2,
+     0.75
+    ]
+   ],
+   "before": {
+    "core_fit": 0.704,
+    "core": 1.214,
+    "loop1": 2.516,
+    "loop2": 5.54,
+    "loop3": 1.085
+   },
+   "minimiser": {
+    "energy_start_kJ_mol": 6004.94,
+    "energy_final_kJ_mol": -14009.31,
+    "max_force": 11.63,
+    "n_restrained": 261,
+    "n_atoms": 523,
+    "seconds": 26.6
+   },
+   "after": {
+    "core_fit": 0.666,
+    "core": 1.12,
+    "loop1": 3.145,
+    "loop2": 4.897,
+    "loop3": 1.43
+   },
+   "status": "ok"
+  },
+  {
+   "pdb": "7KBV",
+   "loops": [
+    "T",
+    "TA",
+    "T"
+   ],
+   "core": "1KF1",
+   "donors": [
+    [
+     "7NWD.pdb",
+     2,
+     0.82
+    ],
+    [
+     "5NYS.pdb",
+     0,
+     0.6
+    ],
+    [
+     "2KZE.pdb",
+     2,
+     0.75
+    ]
+   ],
+   "before": {
+    "core_fit": 0.509,
+    "core": 1.17,
+    "loop1": 0.656,
+    "loop2": 5.144,
+    "loop3": 1.696
+   },
+   "minimiser": {
+    "energy_start_kJ_mol": 5679.04,
+    "energy_final_kJ_mol": -13978.03,
+    "max_force": 11.28,
+    "n_restrained": 261,
+    "n_atoms": 523,
+    "seconds": 26.3
+   },
+   "after": {
+    "core_fit": 0.465,
+    "core": 1.069,
+    "loop1": 0.989,
+    "loop2": 4.608,
+    "loop3": 1.501
+   },
+   "status": "ok"
+  },
+  {
+   "pdb": "7NWD",
+   "loops": [
+    "C",
+    "CGCTA",
+    "A"
+   ],
+   "core": "1KF1",
+   "donors": [
+    [
+     "2KZE.pdb",
+     2,
+     0.86
+    ],
+    [
+     "2KYP.pdb",
+     1,
+     1.0
+    ],
+    [
+     "2KZE.pdb",
+     2,
+     0.75
+    ]
+   ],
+   "before": {
+    "core_fit": 0.596,
+    "core": 1.162,
+    "loop1": 2.27,
+    "loop2": 6.472,
+    "loop3": 1.234
+   },
+   "minimiser": {
+    "energy_start_kJ_mol": 12827.52,
+    "energy_final_kJ_mol": -17767.5,
+    "max_force": 16.61,
+    "n_restrained": 261,
+    "n_atoms": 614,
+    "seconds": 50.4
+   },
+   "after": {
+    "core_fit": 0.59,
+    "core": 1.065,
+    "loop1": 1.966,
+    "loop2": 4.45,
+    "loop3": 1.326
+   },
+   "status": "ok"
+  },
+  {
+   "pdb": "7PNL",
+   "loops": [
+    "TTA",
+    "TTA",
+    "TTA"
+   ],
+   "core": "1KF1",
+   "donors": [
+    [
+     "1KF1.pdb",
+     0,
+     0.0
+    ],
+    [
+     "1KF1.pdb",
+     1,
+     0.0
+    ],
+    [
+     "1KF1.pdb",
+     2,
+     0.0
+    ]
+   ],
+   "before": {
+    "core_fit": 0.473,
+    "core": 0.968,
+    "loop1": 5.777,
+    "loop2": 5.943,
+    "loop3": 5.584
+   },
+   "minimiser": {
+    "energy_start_kJ_mol": -5151.69,
+    "energy_final_kJ_mol": -17759.53,
+    "max_force": 15.83,
+    "n_restrained": 261,
+    "n_atoms": 683,
+    "seconds": 24.0
+   },
+   "after": {
+    "core_fit": 0.474,
+    "core": 0.974,
+    "loop1": 5.741,
+    "loop2": 5.806,
+    "loop3": 5.507
+   },
+   "status": "ok"
+  },
+  {
+   "pdb": "8D78",
+   "loops": [
+    "GTT",
+    "GTT",
+    "GTT"
+   ],
+   "core": "1KF1",
+   "donors": [
+    [
+     "1KF1.pdb",
+     0,
+     0.0
+    ],
+    [
+     "1KF1.pdb",
+     1,
+     0.0
+    ],
+    [
+     "1KF1.pdb",
+     2,
+     0.0
+    ]
+   ],
+   "before": {
+    "core_fit": 0.554,
+    "core": 1.043,
+    "loop1": 8.732,
+    "loop2": 8.551,
+    "loop3": 8.558
+   },
+   "minimiser": {
+    "energy_start_kJ_mol": -1433.27,
+    "energy_final_kJ_mol": -18338.04,
+    "max_force": 8.2,
+    "n_restrained": 261,
+    "n_atoms": 686,
+    "seconds": 37.6
+   },
+   "after": {
+    "core_fit": 0.551,
+    "core": 1.053,
+    "loop1": 8.715,
+    "loop2": 8.502,
+    "loop3": 8.448
+   },
+   "status": "ok"
+  },
+  {
+   "pdb": "8EBO",
+   "loops": [
+    "A",
+    "A",
+    "AAAAG"
+   ],
+   "core": "1KF1",
+   "donors": [
+    [
+     "7NWD.pdb",
+     2,
+     0.82
+    ],
+    [
+     "6ZL2.pdb",
+     2,
+     0.92
+    ],
+    [
+     "2KYP.pdb",
+     1,
+     1.03
+    ]
+   ],
+   "before": {
+    "core_fit": 0.375,
+    "core": 1.065,
+    "loop1": 2.164,
+    "loop2": 2.557,
+    "loop3": 5.532
+   },
+   "minimiser": {
+    "energy_start_kJ_mol": 63182.03,
+    "energy_final_kJ_mol": -16938.74,
+    "max_force": 8.93,
+    "n_restrained": 261,
+    "n_atoms": 620,
+    "seconds": 72.5
+   },
+   "after": {
+    "core_fit": 0.407,
+    "core": 0.966,
+    "loop1": 2.974,
+    "loop2": 2.714,
+    "loop3": 4.522
+   },
+   "status": "ok"
+  },
+  {
+   "pdb": "8EDP",
+   "loops": [
+    "AAAAG",
+    "A",
+    "AAAAG"
+   ],
+   "core": "1KF1",
+   "donors": [
+    [
+     "2KYP.pdb",
+     1,
+     0.98
+    ],
+    [
+     "6ZL2.pdb",
+     2,
+     0.92
+    ],
+    [
+     "2KYP.pdb",
+     1,
+     1.03
+    ]
+   ],
+   "before": {
+    "core_fit": 0.36,
+    "core": 0.949,
+    "loop1": 4.723,
+    "loop2": 2.78,
+    "loop3": 5.695
+   },
+   "minimiser": {
+    "energy_start_kJ_mol": 84269.77,
+    "energy_final_kJ_mol": -20357.41,
+    "max_force": 10.07,
+    "n_restrained": 261,
+    "n_atoms": 749,
+    "seconds": 152.9
+   },
+   "after": {
+    "core_fit": 0.372,
+    "core": 0.887,
+    "loop1": 3.667,
+    "loop2": 2.641,
+    "loop3": 6.629
+   },
+   "status": "ok"
+  },
+  {
+   "pdb": "8WA4",
+   "loops": [
+    "A",
+    "A",
+    "AA"
+   ],
+   "core": "1KF1",
+   "donors": [
+    [
+     "7NWD.pdb",
+     2,
+     0.82
+    ],
+    [
+     "6ZL2.pdb",
+     2,
+     0.92
+    ],
+    [
+     "5NYS.pdb",
+     0,
+     0.47
+    ]
+   ],
+   "before": {
+    "core_fit": 0.692,
+    "core": 1.13,
+    "loop1": 0.805,
+    "loop2": 2.542,
+    "loop3": 3.938
+   },
+   "minimiser": {
+    "energy_start_kJ_mol": 28516.92,
+    "energy_final_kJ_mol": -14517.2,
+    "max_force": 12.88,
+    "n_restrained": 261,
+    "n_atoms": 523,
+    "seconds": 36.1
+   },
+   "after": {
+    "core_fit": 0.653,
+    "core": 1.008,
+    "loop1": 0.291,
+    "loop2": 2.315,
+    "loop3": 3.691
+   },
+   "status": "ok"
+  },
+  {
+   "pdb": "8Y2R",
+   "loops": [
+    "A",
+    "A",
+    "AA"
+   ],
+   "core": "1KF1",
+   "donors": [
+    [
+     "7NWD.pdb",
+     2,
+     0.82
+    ],
+    [
+     "6ZL2.pdb",
+     2,
+     0.92
+    ],
+    [
+     "5NYS.pdb",
+     0,
+     0.47
+    ]
+   ],
+   "before": {
+    "core_fit": 0.714,
+    "core": 1.215,
+    "loop1": 1.022,
+    "loop2": 2.285,
+    "loop3": 5.335
+   },
+   "minimiser": {
+    "energy_start_kJ_mol": 29237.71,
+    "energy_final_kJ_mol": -14505.34,
+    "max_force": 11.69,
+    "n_restrained": 261,
+    "n_atoms": 523,
+    "seconds": 50.6
+   },
+   "after": {
+    "core_fit": 0.687,
+    "core": 1.117,
+    "loop1": 1.98,
+    "loop2": 2.258,
+    "loop3": 5.319
+   },
+   "status": "ok"
+  },
+  {
+   "pdb": "8ZVE",
+   "loops": [
+    "C",
+    "CGA",
+    "C"
+   ],
+   "core": "1KF1",
+   "donors": [
+    [
+     "7NWD.pdb",
+     2,
+     0.82
+    ],
+    [
+     "1KF1.pdb",
+     1,
+     0.0
+    ],
+    [
+     "2KZE.pdb",
+     2,
+     0.75
+    ]
+   ],
+   "before": {
+    "core_fit": 0.683,
+    "core": 1.154,
+    "loop1": 0.574,
+    "loop2": 7.544,
+    "loop3": 2.037
+   },
+   "minimiser": {
+    "energy_start_kJ_mol": 3511.69,
+    "energy_final_kJ_mol": -16508.48,
+    "max_force": 21.53,
+    "n_restrained": 261,
+    "n_atoms": 550,
+    "seconds": 22.2
+   },
+   "after": {
+    "core_fit": 0.653,
+    "core": 1.067,
+    "loop1": 1.467,
+    "loop2": 7.706,
+    "loop3": 1.715
+   },
+   "status": "ok"
+  },
+  {
+   "pdb": "9DQE",
+   "loops": [
+    "A",
+    "C",
+    "A"
+   ],
+   "core": "1KF1",
+   "donors": [
+    [
+     "7NWD.pdb",
+     2,
+     0.82
+    ],
+    [
+     "6ZL2.pdb",
+     2,
+     0.92
+    ],
+    [
+     "2KZE.pdb",
+     2,
+     0.75
+    ]
+   ],
+   "before": {
+    "core_fit": 0.639,
+    "core": 1.262,
+    "loop1": 0.685,
+    "loop2": 2.587,
+    "loop3": 1.28
+   },
+   "minimiser": {
+    "energy_start_kJ_mol": 10825.19,
+    "energy_final_kJ_mol": -13910.61,
+    "max_force": 8.04,
+    "n_restrained": 261,
+    "n_atoms": 489,
+    "seconds": 23.3
+   },
+   "after": {
+    "core_fit": 0.605,
+    "core": 1.122,
+    "loop1": 1.308,
+    "loop2": 2.619,
+    "loop3": 1.052
+   },
+   "status": "ok"
+  },
+  {
+   "pdb": "9JI9",
+   "loops": [
+    "C",
+    "C",
+    "TCGCT"
+   ],
+   "core": "1KF1",
+   "donors": [
+    [
+     "7NWD.pdb",
+     2,
+     0.82
+    ],
+    [
+     "6ZL2.pdb",
+     2,
+     0.92
+    ],
+    [
+     "2KYP.pdb",
+     1,
+     1.03
+    ]
+   ],
+   "before": {
+    "core_fit": 0.561,
+    "core": 1.142,
+    "loop1": 1.151,
+    "loop2": 2.447,
+    "loop3": 6.05
+   },
+   "minimiser": {
+    "energy_start_kJ_mol": 16020.03,
+    "energy_final_kJ_mol": -18002.39,
+    "max_force": 7.13,
+    "n_restrained": 261,
+    "n_atoms": 612,
+    "seconds": 75.1
+   },
+   "after": {
+    "core_fit": 0.549,
+    "core": 1.037,
+    "loop1": 2.295,
+    "loop2": 2.897,
+    "loop3": 8.245
+   },
+   "status": "ok"
+  },
+  {
+   "pdb": "9KG4",
+   "loops": [
+    "TC",
+    "ACT",
+    "C"
+   ],
+   "core": "1KF1",
+   "donors": [
+    [
+     "5NYS.pdb",
+     0,
+     0.63
+    ],
+    [
+     "1KF1.pdb",
+     1,
+     0.0
+    ],
+    [
+     "2KZE.pdb",
+     2,
+     0.75
+    ]
+   ],
+   "before": {
+    "core_fit": 0.872,
+    "core": 1.398,
+    "loop1": 3.389,
+    "loop2": 7.229,
+    "loop3": 1.884
+   },
+   "minimiser": {
+    "energy_start_kJ_mol": 5.09,
+    "energy_final_kJ_mol": -16905.12,
+    "max_force": 7.95,
+    "n_restrained": 261,
+    "n_atoms": 581,
+    "seconds": 27.1
+   },
+   "after": {
+    "core_fit": 0.864,
+    "core": 1.371,
+    "loop1": 3.192,
+    "loop2": 7.395,
+    "loop3": 1.602
+   },
+   "status": "ok"
+  },
+  {
+   "pdb": "9U89",
+   "loops": [
+    "TT",
+    "TT",
+    "TT"
+   ],
+   "core": "1KF1",
+   "donors": [
+    [
+     "5NYS.pdb",
+     0,
+     0.63
+    ],
+    [
+     "5NYS.pdb",
+     0,
+     0.6
+    ],
+    [
+     "5NYS.pdb",
+     0,
+     0.47
+    ]
+   ],
+   "before": {
+    "core_fit": 0.674,
+    "core": 1.136,
+    "loop1": 5.129,
+    "loop2": 5.158,
+    "loop3": 4.767
+   },
+   "minimiser": {
+    "energy_start_kJ_mol": -3843.32,
+    "energy_final_kJ_mol": -15384.19,
+    "max_force": 6.77,
+    "n_restrained": 261,
+    "n_atoms": 587,
+    "seconds": 34.7
+   },
+   "after": {
+    "core_fit": 0.678,
+    "core": 1.156,
+    "loop1": 4.424,
+    "loop2": 4.42,
+    "loop3": 4.2
+   },
+   "status": "ok"
+  },
+  {
+   "pdb": "9WIH",
+   "loops": [
+    "T",
+    "T",
+    "T"
+   ],
+   "core": "1KF1",
+   "donors": [
+    [
+     "7NWD.pdb",
+     2,
+     0.82
+    ],
+    [
+     "6ZL2.pdb",
+     2,
+     0.92
+    ],
+    [
+     "2KZE.pdb",
+     2,
+     0.75
+    ]
+   ],
+   "before": {
+    "core_fit": 0.672,
+    "core": 1.418,
+    "loop1": 4.463,
+    "loop2": 2.464,
+    "loop3": 3.113
+   },
+   "minimiser": {
+    "energy_start_kJ_mol": 11177.45,
+    "energy_final_kJ_mol": -13070.01,
+    "max_force": 20.18,
+    "n_restrained": 261,
+    "n_atoms": 491,
+    "seconds": 18.8
+   },
+   "after": {
+    "core_fit": 0.661,
+    "core": 1.288,
+    "loop1": 5.208,
+    "loop2": 2.169,
+    "loop3": 3.044
+   },
+   "status": "ok"
+  }
+ ]
+}

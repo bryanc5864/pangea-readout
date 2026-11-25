@@ -1,0 +1,248 @@
+{
+ "sequence": "AAAGAACTACATAATATCATGACATACTTTAATTTTAGTAGTTATTTACAGAGCGTAAAAA",
+ "condition": "NaCl_150mM",
+ "n": 8,
+ "perturb_A": 0.001,
+ "minimisers": {
+  "capped": {
+   "max_iterations": 200,
+   "tolerance_kJ_mol_nm": null
+  },
+  "converged": {
+   "max_iterations": 20000,
+   "tolerance_kJ_mol_nm": 1.0
+  }
+ },
+ "reference_builds": {
+  "capped": {
+   "seconds": 19.4,
+   "minimisation": {
+    "energy_initial_kJ_mol": 135427.4662913041,
+    "energy_final_kJ_mol": -35810.0881477603,
+    "n_atoms": 3888,
+    "n_restrained": 1519,
+    "restrained_rmsd_angstrom": 0.3149517087943159,
+    "restrained_max_shift_angstrom": 1.0724386219765363,
+    "restraint_k_kJ_mol_nm2": 500.0,
+    "start_kept": "canonical",
+    "energy_final_plain_kJ_mol": -35252.20016328057,
+    "max_force_plain_kJ_mol_nm": 339.78102828899233,
+    "rms_force_plain_kJ_mol_nm": 30.22043143176996,
+    "energy_final_canonical_kJ_mol": -35810.0881477603,
+    "max_force_canonical_kJ_mol_nm": 53.18965204906918,
+    "rms_force_canonical_kJ_mol_nm": 9.559221130514912,
+    "max_iterations": 200,
+    "tolerance_kJ_mol_nm": null
+   }
+  },
+  "converged": {
+   "seconds": 28.9,
+   "minimisation": {
+    "energy_initial_kJ_mol": 134550.69665713652,
+    "energy_final_kJ_mol": -35895.935920268785,
+    "n_atoms": 3888,
+    "n_restrained": 1519,
+    "restrained_rmsd_angstrom": 0.3235995575214929,
+    "restrained_max_shift_angstrom": 1.096317927761518,
+    "restraint_k_kJ_mol_nm2": 500.0,
+    "start_kept": "canonical",
+    "energy_final_plain_kJ_mol": -35277.14605434111,
+    "max_force_plain_kJ_mol_nm": 6.949582243616077,
+    "rms_force_plain_kJ_mol_nm": 0.9706398458151392,
+    "energy_final_canonical_kJ_mol": -35895.935920268785,
+    "max_force_canonical_kJ_mol_nm": 5.269334557244932,
+    "rms_force_canonical_kJ_mol_nm": 0.9367810752924279,
+    "max_iterations": 20000,
+    "tolerance_kJ_mol_nm": 1.0
+   }
+  }
+ },
+ "arms": {
+  "grid/capped": {
+   "n_ok": 8,
+   "failures": [],
+   "median_sd_by_sector": {
+    "counterion": 0.00381,
+    "sector0": 0.00042,
+    "sector1": 0.00038,
+    "sector2": 0.00017,
+    "sector3": 0.00072,
+    "sector4": 0.00011,
+    "sector5": 0.00025
+   },
+   "median_sd_all": 0.00033,
+   "structure_spread": {
+    "max_atom_displacement_A": 0.0,
+    "median_atom_displacement_A": 0.0,
+    "max_bp_origin_sd_A": 0.0
+   },
+   "solve_seconds_median": 67.25
+  },
+  "grid/converged": {
+   "n_ok": 8,
+   "failures": [],
+   "median_sd_by_sector": {
+    "counterion": 0.00148,
+    "sector0": 0.00024,
+    "sector1": 0.00024,
+    "sector2": 0.00013,
+    "sector3": 0.0006,
+    "sector4": 0.00013,
+    "sector5": 0.00032
+   },
+   "median_sd_all": 0.00026,
+   "structure_spread": {
+    "max_atom_displacement_A": 0.0,
+    "median_atom_displacement_A": 0.0,
+    "max_bp_origin_sd_A": 0.0
+   },
+   "solve_seconds_median": 59.9
+  },
+  "structure/capped": {
+   "n_ok": 8,
+   "failures": [],
+   "median_sd_by_sector": {
+    "counterion": 0.00223,
+    "sector0": 0.00204,
+    "sector1": 0.00686,
+    "sector2": 0.00455,
+    "sector3": 0.00722,
+    "sector4": 0.0046,
+    "sector5": 0.00473
+   },
+   "median_sd_all": 0.00455,
+   "structure_spread": {
+    "max_atom_displacement_A": 2.1145,
+    "median_atom_displacement_A": 0.02385,
+    "max_bp_origin_sd_A": 0.02201
+   },
+   "minimisation": {
+    "start_kept": {
+     "plain": 0,
+     "canonical": 8
+    },
+    "energy_final_kJ_mol": [
+     -35828.93,
+     -35825.08,
+     -35854.18,
+     -35828.71,
+     -35819.2,
+     -35816.04,
+     -35854.81,
+     -35827.94
+    ],
+    "max_force_kept_kJ_mol_nm": [
+     128.71,
+     105.93,
+     67.08,
+     60.91,
+     108.82,
+     42.3,
+     73.4,
+     97.59
+    ],
+    "restrained_rmsd_A": [
+     0.3161,
+     0.3119,
+     0.3226,
+     0.3135,
+     0.3127,
+     0.3095,
+     0.3185,
+     0.3119
+    ],
+    "build_seconds": [
+     15.0,
+     15.0,
+     15.4,
+     7.1,
+     6.1,
+     7.1,
+     6.6,
+     6.3
+    ]
+   },
+   "solve_seconds_median": 66.8
+  },
+  "structure/converged": {
+   "n_ok": 8,
+   "failures": [],
+   "median_sd_by_sector": {
+    "counterion": 0.00115,
+    "sector0": 0.0008,
+    "sector1": 0.00225,
+    "sector2": 0.00132,
+    "sector3": 0.00037,
+    "sector4": 0.00139,
+    "sector5": 0.00059
+   },
+   "median_sd_all": 0.00074,
+   "structure_spread": {
+    "max_atom_displacement_A": 2.8569,
+    "median_atom_displacement_A": 0.006,
+    "max_bp_origin_sd_A": 0.00499
+   },
+   "minimisation": {
+    "start_kept": {
+     "plain": 0,
+     "canonical": 8
+    },
+    "energy_final_kJ_mol": [
+     -35893.24,
+     -35893.79,
+     -35896.21,
+     -35894.33,
+     -35895.73,
+     -35898.33,
+     -35894.19,
+     -35894.55
+    ],
+    "max_force_kept_kJ_mol_nm": [
+     5.72,
+     5.26,
+     5.83,
+     5.71,
+     7.73,
+     5.69,
+     5.39,
+     7.35
+    ],
+    "restrained_rmsd_A": [
+     0.3241,
+     0.3226,
+     0.3221,
+     0.3234,
+     0.3232,
+     0.3214,
+     0.3238,
+     0.3241
+    ],
+    "build_seconds": [
+     14.1,
+     14.2,
+     13.7,
+     14.1,
+     14.4,
+     14.6,
+     14.1,
+     13.8
+    ]
+   },
+   "solve_seconds_median": 59.599999999999994
+  }
+ },
+ "elapsed_s": 339.6,
+ "projection_NOT_A_TEST": {
+  "note": "signal = within-group variance of the gate fragments minus this study's capped-construction noise; noise = this study's grid and structure noise for each minimiser. Planning only; the gate is re-run on re-solved fragments.",
+  "capped": {
+   "n_channels": 67,
+   "fraction_snr_above_5": 0.6269,
+   "median_snr": 7.173
+  },
+  "converged": {
+   "n_channels": 65,
+   "fraction_snr_above_5": 0.9846,
+   "median_snr": 23.439
+  }
+ }
+}

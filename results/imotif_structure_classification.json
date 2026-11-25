@@ -1,0 +1,442 @@
+[
+ {
+  "n_cc_pairs": 4,
+  "chains": [
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "pdb": "105D"
+ },
+ {
+  "n_cc_pairs": 2,
+  "chains": [
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "pdb": "106D"
+ },
+ {
+  "n_cc_pairs": 3,
+  "chains": [
+   "A"
+  ],
+  "unimolecular": true,
+  "tract_lengths": [
+   1,
+   2,
+   1,
+   2
+  ],
+  "loops": [
+   3,
+   5,
+   3
+  ],
+  "sequence": "CTTTCCTTTACCTTTCC",
+  "n_tracts": 4,
+  "pair_rise_A": 4.43,
+  "pdb": "1A83"
+ },
+ {
+  "n_cc_pairs": 2,
+  "chains": [
+   "A",
+   "B"
+  ],
+  "pdb": "1BAE"
+ },
+ {
+  "n_cc_pairs": 6,
+  "chains": [
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "pdb": "1BQJ"
+ },
+ {
+  "n_cc_pairs": 5,
+  "chains": [
+   "A",
+   "B"
+  ],
+  "pdb": "1C11"
+ },
+ {
+  "n_cc_pairs": 6,
+  "chains": [
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "pdb": "1CN0"
+ },
+ {
+  "n_cc_pairs": 5,
+  "chains": [
+   "A"
+  ],
+  "unimolecular": true,
+  "tract_lengths": [
+   3,
+   2,
+   3,
+   2
+  ],
+  "loops": [
+   4,
+   3,
+   4
+  ],
+  "sequence": "CCCTAACCTAACCCUAACCCT",
+  "n_tracts": 4,
+  "pair_rise_A": 3.18,
+  "pdb": "1EL2"
+ },
+ {
+  "n_cc_pairs": 5,
+  "chains": [
+   "A"
+  ],
+  "unimolecular": true,
+  "tract_lengths": [
+   3,
+   2,
+   3,
+   2
+  ],
+  "loops": [
+   4,
+   3,
+   4
+  ],
+  "sequence": "CCCTAACCTAACCCUAACCCT",
+  "n_tracts": 4,
+  "pair_rise_A": 3.22,
+  "pdb": "1ELN"
+ },
+ {
+  "n_cc_pairs": 3,
+  "chains": [
+   "A"
+  ],
+  "unimolecular": true,
+  "tract_lengths": [
+   1,
+   2,
+   1,
+   2
+  ],
+  "loops": [
+   3,
+   4,
+   3
+  ],
+  "sequence": "CATTCCAUTCCUTTCC",
+  "n_tracts": 4,
+  "pair_rise_A": 3.18,
+  "pdb": "1G22"
+ },
+ {
+  "n_cc_pairs": 4,
+  "chains": [
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "pdb": "1M6A"
+ },
+ {
+  "n_cc_pairs": 8,
+  "chains": [
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "pdb": "1Q2T"
+ },
+ {
+  "n_cc_pairs": 6,
+  "chains": [
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "pdb": "1RME"
+ },
+ {
+  "n_cc_pairs": 0,
+  "pdb": "1V3N"
+ },
+ {
+  "n_cc_pairs": 0,
+  "pdb": "1V3O"
+ },
+ {
+  "n_cc_pairs": 0,
+  "pdb": "1V3P"
+ },
+ {
+  "n_cc_pairs": 8,
+  "chains": [
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "pdb": "1YBL"
+ },
+ {
+  "n_cc_pairs": 8,
+  "chains": [
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "pdb": "1YBN"
+ },
+ {
+  "n_cc_pairs": 8,
+  "chains": [
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "pdb": "1YBR"
+ },
+ {
+  "n_cc_pairs": 3,
+  "chains": [
+   "A",
+   "B"
+  ],
+  "pdb": "241D"
+ },
+ {
+  "n_cc_pairs": 5,
+  "chains": [
+   "A",
+   "B"
+  ],
+  "pdb": "2AWV"
+ },
+ {
+  "n_cc_pairs": 0,
+  "pdb": "2DZ7"
+ },
+ {
+  "n_cc_pairs": 0,
+  "pdb": "2KAZ"
+ },
+ {
+  "n_cc_pairs": 10,
+  "chains": [
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "pdb": "2KKK"
+ },
+ {
+  "n_cc_pairs": 0,
+  "pdb": "2KQG"
+ },
+ {
+  "n_cc_pairs": 2,
+  "chains": [
+   "A",
+   "B"
+  ],
+  "pdb": "2LSX"
+ },
+ {
+  "n_cc_pairs": 4,
+  "chains": [
+   "A",
+   "B"
+  ],
+  "pdb": "2MRZ"
+ },
+ {
+  "n_cc_pairs": 6,
+  "chains": [
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "pdb": "2N89"
+ },
+ {
+  "n_cc_pairs": 0,
+  "pdb": "2N9Q"
+ },
+ {
+  "n_cc_pairs": 0,
+  "pdb": "3T86"
+ },
+ {
+  "n_cc_pairs": 0,
+  "pdb": "4PZQ"
+ },
+ {
+  "n_cc_pairs": 0,
+  "pdb": "5MVP"
+ },
+ {
+  "n_cc_pairs": 2,
+  "chains": [
+   "A",
+   "B"
+  ],
+  "pdb": "5NIP"
+ },
+ {
+  "n_cc_pairs": 0,
+  "pdb": "5OGA"
+ },
+ {
+  "n_cc_pairs": 0,
+  "pdb": "5YZE"
+ },
+ {
+  "n_cc_pairs": 0,
+  "pdb": "5ZT2"
+ },
+ {
+  "n_cc_pairs": 0,
+  "pdb": "6FTU"
+ },
+ {
+  "n_cc_pairs": 0,
+  "pdb": "6TQI"
+ },
+ {
+  "n_cc_pairs": 3,
+  "chains": [
+   "A",
+   "B"
+  ],
+  "pdb": "6TZQ"
+ },
+ {
+  "n_cc_pairs": 3,
+  "chains": [
+   "A",
+   "B"
+  ],
+  "pdb": "6TZR"
+ },
+ {
+  "n_cc_pairs": 0,
+  "pdb": "6TZS"
+ },
+ {
+  "n_cc_pairs": 0,
+  "pdb": "7BI0"
+ },
+ {
+  "n_cc_pairs": 0,
+  "pdb": "7BL0"
+ },
+ {
+  "n_cc_pairs": 0,
+  "pdb": "7BLM"
+ },
+ {
+  "n_cc_pairs": 0,
+  "pdb": "7BMA"
+ },
+ {
+  "n_cc_pairs": 0,
+  "pdb": "7DFY"
+ },
+ {
+  "n_cc_pairs": 2,
+  "chains": [
+   "A",
+   "B"
+  ],
+  "pdb": "7EAQ"
+ },
+ {
+  "n_cc_pairs": 0,
+  "pdb": "7O5E"
+ },
+ {
+  "n_cc_pairs": 0,
+  "pdb": "7ZYX"
+ },
+ {
+  "n_cc_pairs": 16,
+  "chains": [
+   "A",
+   "B"
+  ],
+  "pdb": "8AYG"
+ },
+ {
+  "n_cc_pairs": 0,
+  "pdb": "8BQY"
+ },
+ {
+  "n_cc_pairs": 0,
+  "pdb": "8BV6"
+ },
+ {
+  "n_cc_pairs": 10,
+  "chains": [
+   "A",
+   "B"
+  ],
+  "pdb": "8CXF"
+ },
+ {
+  "n_cc_pairs": 12,
+  "chains": [
+   "A",
+   "B"
+  ],
+  "pdb": "8DHC"
+ },
+ {
+  "n_cc_pairs": 0,
+  "pdb": "8OFC"
+ },
+ {
+  "n_cc_pairs": 1,
+  "pdb": "8PMB"
+ },
+ {
+  "n_cc_pairs": 0,
+  "pdb": "8S4N"
+ },
+ {
+  "n_cc_pairs": 0,
+  "pdb": "8TAA"
+ },
+ {
+  "n_cc_pairs": 0,
+  "pdb": "9C46"
+ },
+ {
+  "n_cc_pairs": 0,
+  "pdb": "9S6I"
+ },
+ {
+  "n_cc_pairs": 0,
+  "pdb": "9S6Z"
+ }
+]

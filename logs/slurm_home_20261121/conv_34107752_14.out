@@ -1,0 +1,34 @@
+
+=== KCl_150mM (lambda_D = 7.8 A) ===
+  seq   0  61:40s  41:37s  31:36s
+  seq   1  61:40s  41:36s  31:36s
+  seq   2  61:41s  41:36s  31:36s
+  seq   3  61:41s  41:38s  31:35s
+  seq   4  61:37s  41:34s  31:32s
+  seq   5  61:40s  41:36s  31:33s
+  seq   6  61:39s  41:35s  31:33s
+  seq   7  61:39s  41:36s  31:33s
+  seq   8  61:35s  41:34s  31:33s
+  seq   9  61:39s  41:34s  31:30s
+  seq  10  61:43s  41:39s  31:28s
+  seq  11  61:40s  41:34s  31:28s
+
+=== NaCl_150mM_MgCl2_2mM (lambda_D = 7.7 A) ===
+  seq   0  61:45s  41:38s  31:33s
+  seq   1  61:FAIL  41:38s  31:37s
+  seq   2  61:FAIL  41:38s  31:37s
+  seq   3  61:FAIL  41:37s  31:37s
+  seq   4  61:FAIL  41:38s  31:36s
+  seq   5  61:42s  41:38s  31:34s
+  seq   6  61:43s  41:38s  31:35s
+  seq   7  61:FAIL  41:39s  31:35s
+  seq   8  61:FAIL  41:36s  31:35s
+  seq   9  61:FAIL  41:38s  31:33s
+  seq  10  61:48s  41:39s  31:32s
+  seq  11  61:FAIL  41:37s  31:31s
+
+=== converged flank by condition (tolerance 0.05 sd) ===
+  KCl_150mM    plan flank=None bp   measured shortest converged solute=none of those tried
+  NaCl_150mM_MgCl2_2mM plan flank=None bp   measured shortest converged solute=none of those tried
+
+-> /nfs/roberts/scratch/pi_skr2/bjc75/pangea/apbs/convergence_v2/ionid/summary_1014.json

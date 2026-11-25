@@ -1,0 +1,24 @@
+{
+ "dataset": "jores",
+ "features": "GC + 512 canonical 5-mers",
+ "crop": null,
+ "n_train": 119961,
+ "n_val": 13256,
+ "n_test": 14749,
+ "results": {
+  "leaf": {
+   "alpha": 0.0031622776601683794,
+   "test_pearson_r": 0.6381338504699194,
+   "test_r2": 0.40694960498790744,
+   "gc_only_test_pearson_r": -0.4401731849180274,
+   "n_test": 7154
+  },
+  "proto": {
+   "alpha": 0.0031622776601683794,
+   "test_pearson_r": 0.5915443551900326,
+   "test_r2": 0.3498963853114002,
+   "gc_only_test_pearson_r": 0.19469832370110118,
+   "n_test": 7595
+  }
+ }
+}

@@ -1,0 +1,2118 @@
+{
+ "B_bp_dipole_debye": {
+  "best_shift_inexact": null,
+  "declared": "symmetric",
+  "measured": "exact",
+  "shift": -1,
+  "sign": 1,
+  "worst_residual": 0.0
+ },
+ "B_bp_gap_eV": {
+  "best_shift_inexact": null,
+  "declared": "symmetric",
+  "measured": "exact",
+  "shift": -1,
+  "sign": 1,
+  "worst_residual": 0.0
+ },
+ "B_bp_homo_eV": {
+  "best_shift_inexact": null,
+  "declared": "symmetric",
+  "measured": "exact",
+  "shift": -1,
+  "sign": 1,
+  "worst_residual": 0.0
+ },
+ "B_bp_lumo_eV": {
+  "best_shift_inexact": null,
+  "declared": "symmetric",
+  "measured": "exact",
+  "shift": -1,
+  "sign": 1,
+  "worst_residual": 0.0
+ },
+ "B_bp_vea_eV": {
+  "best_shift_inexact": null,
+  "declared": "symmetric",
+  "measured": "exact",
+  "shift": -1,
+  "sign": 1,
+  "worst_residual": 0.0
+ },
+ "B_bp_vip_eV": {
+  "best_shift_inexact": null,
+  "declared": "symmetric",
+  "measured": "exact",
+  "shift": -1,
+  "sign": 1,
+  "worst_residual": 0.0
+ },
+ "B_dipole_debye": {
+  "best_shift_inexact": null,
+  "declared": "symmetric",
+  "measured": "exact",
+  "shift": -1,
+  "sign": 1,
+  "worst_residual": 0.0
+ },
+ "B_electron_site_energy_eV": {
+  "best_shift_inexact": null,
+  "declared": "symmetric",
+  "measured": "exact",
+  "shift": -1,
+  "sign": 1,
+  "worst_residual": 0.0
+ },
+ "B_gap_eV": {
+  "best_shift_inexact": null,
+  "declared": "symmetric",
+  "measured": "exact",
+  "shift": -1,
+  "sign": 1,
+  "worst_residual": 0.0
+ },
+ "B_hbond_3p_kcal_mol": {
+  "best_shift_inexact": -2,
+  "declared": "stranded",
+  "measured": "inexact",
+  "shift": null,
+  "sign": null,
+  "worst_residual": 0.022434504928263564
+ },
+ "B_hbond_5p_kcal_mol": {
+  "best_shift_inexact": 0,
+  "declared": "stranded",
+  "measured": "inexact",
+  "shift": null,
+  "sign": null,
+  "worst_residual": 0.0223996299618266
+ },
+ "B_hbond_mean_kcal_mol": {
+  "best_shift_inexact": null,
+  "declared": "symmetric",
+  "measured": "exact",
+  "shift": -1,
+  "sign": 1,
+  "worst_residual": 0.0
+ },
+ "B_hole_localization_prob": {
+  "best_shift_inexact": null,
+  "declared": "symmetric",
+  "measured": "exact",
+  "shift": -1,
+  "sign": 1,
+  "worst_residual": 0.0
+ },
+ "B_hole_site_energy_eV": {
+  "best_shift_inexact": null,
+  "declared": "symmetric",
+  "measured": "exact",
+  "shift": -1,
+  "sign": 1,
+  "worst_residual": 0.0
+ },
+ "B_homo_eV": {
+  "best_shift_inexact": null,
+  "declared": "symmetric",
+  "measured": "exact",
+  "shift": -1,
+  "sign": 1,
+  "worst_residual": 0.0
+ },
+ "B_lumo_eV": {
+  "best_shift_inexact": null,
+  "declared": "symmetric",
+  "measured": "exact",
+  "shift": -1,
+  "sign": 1,
+  "worst_residual": 0.0
+ },
+ "B_oxidative_susceptibility_eV": {
+  "best_shift_inexact": null,
+  "declared": "symmetric",
+  "measured": "exact",
+  "shift": -1,
+  "sign": 1,
+  "worst_residual": 0.0
+ },
+ "B_stacking_kcal_mol": {
+  "best_shift_inexact": null,
+  "declared": "symmetric",
+  "measured": "exact",
+  "shift": -1,
+  "sign": 1,
+  "worst_residual": 0.0
+ },
+ "B_vea_eV": {
+  "best_shift_inexact": null,
+  "declared": "symmetric",
+  "measured": "exact",
+  "shift": -1,
+  "sign": 1,
+  "worst_residual": 0.0
+ },
+ "B_vip_eV": {
+  "best_shift_inexact": null,
+  "declared": "symmetric",
+  "measured": "exact",
+  "shift": -1,
+  "sign": 1,
+  "worst_residual": 0.0
+ },
+ "C_BI_fraction_C": {
+  "declared": "stranded",
+  "measured": "undetermined"
+ },
+ "C_BI_fraction_W": {
+  "declared": "stranded",
+  "measured": "undetermined"
+ },
+ "C_K_inter_rise__inter_rise": {
+  "best_shift_inexact": -2,
+  "declared": "composite",
+  "measured": "inexact",
+  "shift": null,
+  "sign": null,
+  "worst_residual": 0.13470302877849127
+ },
+ "C_K_inter_roll__inter_rise": {
+  "best_shift_inexact": -3,
+  "declared": "composite",
+  "measured": "inexact",
+  "shift": null,
+  "sign": null,
+  "worst_residual": 0.9384581633770768
+ },
+ "C_K_inter_roll__inter_roll": {
+  "best_shift_inexact": -1,
+  "declared": "composite",
+  "measured": "inexact",
+  "shift": null,
+  "sign": null,
+  "worst_residual": 0.20611028151129912
+ },
+ "C_K_inter_roll__inter_shift": {
+  "best_shift_inexact": -1,
+  "declared": "composite",
+  "measured": "inexact",
+  "shift": null,
+  "sign": null,
+  "worst_residual": 0.9027911449863973
+ },
+ "C_K_inter_roll__inter_slide": {
+  "best_shift_inexact": 0,
+  "declared": "composite",
+  "measured": "inexact",
+  "shift": null,
+  "sign": null,
+  "worst_residual": 1.049733623788398
+ },
+ "C_K_inter_roll__inter_twist": {
+  "best_shift_inexact": -2,
+  "declared": "composite",
+  "measured": "inexact",
+  "shift": null,
+  "sign": null,
+  "worst_residual": 0.6294388506375392
+ },
+ "C_K_inter_shift__inter_rise": {
+  "best_shift_inexact": 3,
+  "declared": "composite",
+  "measured": "inexact",
+  "shift": null,
+  "sign": null,
+  "worst_residual": 1.3340747342905737
+ },
+ "C_K_inter_shift__inter_shift": {
+  "best_shift_inexact": -2,
+  "declared": "composite",
+  "measured": "inexact",
+  "shift": null,
+  "sign": null,
+  "worst_residual": 0.35506885202323724
+ },
+ "C_K_inter_shift__inter_slide": {
+  "best_shift_inexact": 0,
+  "declared": "composite",
+  "measured": "inexact",
+  "shift": null,
+  "sign": null,
+  "worst_residual": 1.0908112214228107
+ },
+ "C_K_inter_slide__inter_rise": {
+  "best_shift_inexact": -1,
+  "declared": "composite",
+  "measured": "inexact",
+  "shift": null,
+  "sign": null,
+  "worst_residual": 0.3615369782317
+ },
+ "C_K_inter_slide__inter_slide": {
+  "best_shift_inexact": -1,
+  "declared": "composite",
+  "measured": "inexact",
+  "shift": null,
+  "sign": null,
+  "worst_residual": 0.25528551894792917
+ },
+ "C_K_inter_tilt__inter_rise": {
+  "best_shift_inexact": -2,
+  "declared": "composite",
+  "measured": "inexact",
+  "shift": null,
+  "sign": null,
+  "worst_residual": 0.36749618958591257
+ },
+ "C_K_inter_tilt__inter_roll": {
+  "best_shift_inexact": 1,
+  "declared": "composite",
+  "measured": "inexact",
+  "shift": null,
+  "sign": null,
+  "worst_residual": 0.5247197259123172
+ },
+ "C_K_inter_tilt__inter_shift": {
+  "best_shift_inexact": -1,
+  "declared": "composite",
+  "measured": "inexact",
+  "shift": null,
+  "sign": null,
+  "worst_residual": 0.5775859128459829
+ },
+ "C_K_inter_tilt__inter_slide": {
+  "best_shift_inexact": 4,
+  "declared": "composite",
+  "measured": "inexact",
+  "shift": null,
+  "sign": null,
+  "worst_residual": 0.4730529318267367
+ },
+ "C_K_inter_tilt__inter_tilt": {
+  "best_shift_inexact": -1,
+  "declared": "composite",
+  "measured": "inexact",
+  "shift": null,
+  "sign": null,
+  "worst_residual": 0.34462170940300113
+ },
+ "C_K_inter_tilt__inter_twist": {
+  "best_shift_inexact": -1,
+  "declared": "composite",
+  "measured": "inexact",
+  "shift": null,
+  "sign": null,
+  "worst_residual": 0.7957957961887091
+ },
+ "C_K_inter_twist__inter_rise": {
+  "best_shift_inexact": -2,
+  "declared": "composite",
+  "measured": "inexact",
+  "shift": null,
+  "sign": null,
+  "worst_residual": 0.39697157495252905
+ },
+ "C_K_inter_twist__inter_shift": {
+  "best_shift_inexact": -4,
+  "declared": "composite",
+  "measured": "inexact",
+  "shift": null,
+  "sign": null,
+  "worst_residual": 0.9035809203602071
+ },
+ "C_K_inter_twist__inter_slide": {
+  "best_shift_inexact": -1,
+  "declared": "composite",
+  "measured": "inexact",
+  "shift": null,
+  "sign": null,
+  "worst_residual": 0.37988492381361155
+ },
+ "C_K_inter_twist__inter_twist": {
+  "best_shift_inexact": -1,
+  "declared": "composite",
+  "measured": "inexact",
+  "shift": null,
+  "sign": null,
+  "worst_residual": 0.043915673289515435
+ },
+ "C_K_intra_buckle__inter_rise": {
+  "best_shift_inexact": -2,
+  "declared": "composite",
+  "measured": "inexact",
+  "shift": null,
+  "sign": null,
+  "worst_residual": 0.48869230479282894
+ },
+ "C_K_intra_buckle__inter_roll": {
+  "best_shift_inexact": -4,
+  "declared": "composite",
+  "measured": "inexact",
+  "shift": null,
+  "sign": null,
+  "worst_residual": 0.9222530726874294
+ },
+ "C_K_intra_buckle__inter_shift": {
+  "best_shift_inexact": 1,
+  "declared": "composite",
+  "measured": "inexact",
+  "shift": null,
+  "sign": null,
+  "worst_residual": 1.0219607169871288
+ },
+ "C_K_intra_buckle__inter_slide": {
+  "best_shift_inexact": 2,
+  "declared": "composite",
+  "measured": "inexact",
+  "shift": null,
+  "sign": null,
+  "worst_residual": 1.3091598471406474
+ },
+ "C_K_intra_buckle__inter_tilt": {
+  "best_shift_inexact": -2,
+  "declared": "composite",
+  "measured": "inexact",
+  "shift": null,
+  "sign": null,
+  "worst_residual": 0.6410967369510564
+ },
+ "C_K_intra_buckle__inter_twist": {
+  "best_shift_inexact": 0,
+  "declared": "composite",
+  "measured": "inexact",
+  "shift": null,
+  "sign": null,
+  "worst_residual": 0.6042778150365387
+ },
+ "C_K_intra_buckle__intra_buckle": {
+  "best_shift_inexact": -1,
+  "declared": "composite",
+  "measured": "inexact",
+  "shift": null,
+  "sign": null,
+  "worst_residual": 0.2260822457126276
+ },
+ "C_K_intra_buckle__intra_opening": {
+  "best_shift_inexact": 0,
+  "declared": "composite",
+  "measured": "inexact",
+  "shift": null,
+  "sign": null,
+  "worst_residual": 0.7189774942203694
+ },
+ "C_K_intra_buckle__intra_propeller": {
+  "best_shift_inexact": 0,
+  "declared": "composite",
+  "measured": "inexact",
+  "shift": null,
+  "sign": null,
+  "worst_residual": 0.7388447477236253
+ },
+ "C_K_intra_buckle__intra_shear": {
+  "best_shift_inexact": 4,
+  "declared": "composite",
+  "measured": "inexact",
+  "shift": null,
+  "sign": null,
+  "worst_residual": 0.913684612228872
+ },
+ "C_K_intra_buckle__intra_stagger": {
+  "best_shift_inexact": 0,
+  "declared": "composite",
+  "measured": "inexact",
+  "shift": null,
+  "sign": null,
+  "worst_residual": 0.659620540427427
+ },
+ "C_K_intra_buckle__intra_stretch": {
+  "best_shift_inexact": -1,
+  "declared": "composite",
+  "measured": "inexact",
+  "shift": null,
+  "sign": null,
+  "worst_residual": 1.1045277332643202
+ },
+ "C_K_intra_opening__inter_rise": {
+  "best_shift_inexact": -2,
+  "declared": "composite",
+  "measured": "inexact",
+  "shift": null,
+  "sign": null,
+  "worst_residual": 1.1717482189615476
+ },
+ "C_K_intra_opening__inter_roll": {
+  "best_shift_inexact": -3,
+  "declared": "composite",
+  "measured": "inexact",
+  "shift": null,
+  "sign": null,
+  "worst_residual": 0.8295892307464046
+ },
+ "C_K_intra_opening__inter_shift": {
+  "best_shift_inexact": -2,
+  "declared": "composite",
+  "measured": "inexact",
+  "shift": null,
+  "sign": null,
+  "worst_residual": 0.415379595658379
+ },
+ "C_K_intra_opening__inter_slide": {
+  "best_shift_inexact": 0,
+  "declared": "composite",
+  "measured": "inexact",
+  "shift": null,
+  "sign": null,
+  "worst_residual": 0.4859404827875902
+ },
+ "C_K_intra_opening__inter_tilt": {
+  "best_shift_inexact": -1,
+  "declared": "composite",
+  "measured": "inexact",
+  "shift": null,
+  "sign": null,
+  "worst_residual": 0.5883667335471412
+ },
+ "C_K_intra_opening__inter_twist": {
+  "best_shift_inexact": -1,
+  "declared": "composite",
+  "measured": "inexact",
+  "shift": null,
+  "sign": null,
+  "worst_residual": 1.1758256167809025
+ },
+ "C_K_intra_opening__intra_opening": {
+  "best_shift_inexact": 0,
+  "declared": "composite",
+  "measured": "inexact",
+  "shift": null,
+  "sign": null,
+  "worst_residual": 0.0994057181858212
+ },
+ "C_K_intra_opening__intra_shear": {
+  "best_shift_inexact": 0,
+  "declared": "composite",
+  "measured": "inexact",
+  "shift": null,
+  "sign": null,
+  "worst_residual": 0.14641275300814238
+ },
+ "C_K_intra_opening__intra_stagger": {
+  "best_shift_inexact": -1,
+  "declared": "composite",
+  "measured": "inexact",
+  "shift": null,
+  "sign": null,
+  "worst_residual": 0.7863950633724105
+ },
+ "C_K_intra_opening__intra_stretch": {
+  "best_shift_inexact": 0,
+  "declared": "composite",
+  "measured": "inexact",
+  "shift": null,
+  "sign": null,
+  "worst_residual": 0.2172154725044514
+ },
+ "C_K_intra_propeller__inter_rise": {
+  "best_shift_inexact": -1,
+  "declared": "composite",
+  "measured": "inexact",
+  "shift": null,
+  "sign": null,
+  "worst_residual": 0.8888503769893534
+ },
+ "C_K_intra_propeller__inter_roll": {
+  "best_shift_inexact": -1,
+  "declared": "composite",
+  "measured": "inexact",
+  "shift": null,
+  "sign": null,
+  "worst_residual": 0.6582820146956316
+ },
+ "C_K_intra_propeller__inter_shift": {
+  "best_shift_inexact": -3,
+  "declared": "composite",
+  "measured": "inexact",
+  "shift": null,
+  "sign": null,
+  "worst_residual": 0.6653050917543553
+ },
+ "C_K_intra_propeller__inter_slide": {
+  "best_shift_inexact": 1,
+  "declared": "composite",
+  "measured": "inexact",
+  "shift": null,
+  "sign": null,
+  "worst_residual": 1.289061540384752
+ },
+ "C_K_intra_propeller__inter_tilt": {
+  "best_shift_inexact": -1,
+  "declared": "composite",
+  "measured": "inexact",
+  "shift": null,
+  "sign": null,
+  "worst_residual": 0.5781498442080858
+ },
+ "C_K_intra_propeller__inter_twist": {
+  "best_shift_inexact": -1,
+  "declared": "composite",
+  "measured": "inexact",
+  "shift": null,
+  "sign": null,
+  "worst_residual": 0.783970977831589
+ },
+ "C_K_intra_propeller__intra_opening": {
+  "best_shift_inexact": -1,
+  "declared": "composite",
+  "measured": "inexact",
+  "shift": null,
+  "sign": null,
+  "worst_residual": 0.8204916793107844
+ },
+ "C_K_intra_propeller__intra_propeller": {
+  "best_shift_inexact": 0,
+  "declared": "composite",
+  "measured": "inexact",
+  "shift": null,
+  "sign": null,
+  "worst_residual": 0.25360252465911354
+ },
+ "C_K_intra_propeller__intra_shear": {
+  "best_shift_inexact": -4,
+  "declared": "composite",
+  "measured": "inexact",
+  "shift": null,
+  "sign": null,
+  "worst_residual": 0.8970034752345499
+ },
+ "C_K_intra_propeller__intra_stagger": {
+  "best_shift_inexact": 0,
+  "declared": "composite",
+  "measured": "inexact",
+  "shift": null,
+  "sign": null,
+  "worst_residual": 0.6432441705551927
+ },
+ "C_K_intra_propeller__intra_stretch": {
+  "best_shift_inexact": -1,
+  "declared": "composite",
+  "measured": "inexact",
+  "shift": null,
+  "sign": null,
+  "worst_residual": 0.7916021800190416
+ },
+ "C_K_intra_shear__inter_rise": {
+  "best_shift_inexact": -1,
+  "declared": "composite",
+  "measured": "inexact",
+  "shift": null,
+  "sign": null,
+  "worst_residual": 0.7329365483660416
+ },
+ "C_K_intra_shear__inter_roll": {
+  "best_shift_inexact": -1,
+  "declared": "composite",
+  "measured": "inexact",
+  "shift": null,
+  "sign": null,
+  "worst_residual": 0.5352541988328866
+ },
+ "C_K_intra_shear__inter_shift": {
+  "best_shift_inexact": 3,
+  "declared": "composite",
+  "measured": "inexact",
+  "shift": null,
+  "sign": null,
+  "worst_residual": 0.775375060641774
+ },
+ "C_K_intra_shear__inter_slide": {
+  "best_shift_inexact": 0,
+  "declared": "composite",
+  "measured": "inexact",
+  "shift": null,
+  "sign": null,
+  "worst_residual": 0.835714561693841
+ },
+ "C_K_intra_shear__inter_tilt": {
+  "best_shift_inexact": -4,
+  "declared": "composite",
+  "measured": "inexact",
+  "shift": null,
+  "sign": null,
+  "worst_residual": 0.6572863431251017
+ },
+ "C_K_intra_shear__inter_twist": {
+  "best_shift_inexact": -1,
+  "declared": "composite",
+  "measured": "inexact",
+  "shift": null,
+  "sign": null,
+  "worst_residual": 0.3454510814276381
+ },
+ "C_K_intra_shear__intra_shear": {
+  "best_shift_inexact": 0,
+  "declared": "composite",
+  "measured": "inexact",
+  "shift": null,
+  "sign": null,
+  "worst_residual": 0.048754584649413776
+ },
+ "C_K_intra_shear__intra_stagger": {
+  "best_shift_inexact": 0,
+  "declared": "composite",
+  "measured": "inexact",
+  "shift": null,
+  "sign": null,
+  "worst_residual": 0.8874659054546031
+ },
+ "C_K_intra_shear__intra_stretch": {
+  "best_shift_inexact": 0,
+  "declared": "composite",
+  "measured": "inexact",
+  "shift": null,
+  "sign": null,
+  "worst_residual": 0.10565378119821975
+ },
+ "C_K_intra_stagger__inter_rise": {
+  "best_shift_inexact": -1,
+  "declared": "composite",
+  "measured": "inexact",
+  "shift": null,
+  "sign": null,
+  "worst_residual": 0.21943144999060624
+ },
+ "C_K_intra_stagger__inter_roll": {
+  "best_shift_inexact": -3,
+  "declared": "composite",
+  "measured": "inexact",
+  "shift": null,
+  "sign": null,
+  "worst_residual": 0.44567277215192497
+ },
+ "C_K_intra_stagger__inter_shift": {
+  "best_shift_inexact": 1,
+  "declared": "composite",
+  "measured": "inexact",
+  "shift": null,
+  "sign": null,
+  "worst_residual": 0.5544711920935459
+ },
+ "C_K_intra_stagger__inter_slide": {
+  "best_shift_inexact": -1,
+  "declared": "composite",
+  "measured": "inexact",
+  "shift": null,
+  "sign": null,
+  "worst_residual": 0.755950353855694
+ },
+ "C_K_intra_stagger__inter_tilt": {
+  "best_shift_inexact": 0,
+  "declared": "composite",
+  "measured": "inexact",
+  "shift": null,
+  "sign": null,
+  "worst_residual": 0.46341308072319903
+ },
+ "C_K_intra_stagger__inter_twist": {
+  "best_shift_inexact": -1,
+  "declared": "composite",
+  "measured": "inexact",
+  "shift": null,
+  "sign": null,
+  "worst_residual": 0.8586159226738244
+ },
+ "C_K_intra_stagger__intra_stagger": {
+  "best_shift_inexact": -1,
+  "declared": "composite",
+  "measured": "inexact",
+  "shift": null,
+  "sign": null,
+  "worst_residual": 0.30359000371371136
+ },
+ "C_K_intra_stretch__inter_rise": {
+  "best_shift_inexact": -1,
+  "declared": "composite",
+  "measured": "inexact",
+  "shift": null,
+  "sign": null,
+  "worst_residual": 0.6090379878454162
+ },
+ "C_K_intra_stretch__inter_roll": {
+  "best_shift_inexact": 4,
+  "declared": "composite",
+  "measured": "inexact",
+  "shift": null,
+  "sign": null,
+  "worst_residual": 1.3413531972139576
+ },
+ "C_K_intra_stretch__inter_shift": {
+  "best_shift_inexact": -1,
+  "declared": "composite",
+  "measured": "inexact",
+  "shift": null,
+  "sign": null,
+  "worst_residual": 1.0638232911104395
+ },
+ "C_K_intra_stretch__inter_slide": {
+  "best_shift_inexact": 1,
+  "declared": "composite",
+  "measured": "inexact",
+  "shift": null,
+  "sign": null,
+  "worst_residual": 0.9163144660032294
+ },
+ "C_K_intra_stretch__inter_tilt": {
+  "best_shift_inexact": -1,
+  "declared": "composite",
+  "measured": "inexact",
+  "shift": null,
+  "sign": null,
+  "worst_residual": 0.7182144622145268
+ },
+ "C_K_intra_stretch__inter_twist": {
+  "best_shift_inexact": -2,
+  "declared": "composite",
+  "measured": "inexact",
+  "shift": null,
+  "sign": null,
+  "worst_residual": 0.8098837565167745
+ },
+ "C_K_intra_stretch__intra_stagger": {
+  "best_shift_inexact": 0,
+  "declared": "composite",
+  "measured": "inexact",
+  "shift": null,
+  "sign": null,
+  "worst_residual": 0.9587348894645428
+ },
+ "C_K_intra_stretch__intra_stretch": {
+  "best_shift_inexact": 0,
+  "declared": "composite",
+  "measured": "inexact",
+  "shift": null,
+  "sign": null,
+  "worst_residual": 0.014072181887695993
+ },
+ "C_alpha_C": {
+  "best_shift_inexact": -3,
+  "declared": "stranded",
+  "measured": "inexact",
+  "shift": null,
+  "sign": null,
+  "worst_residual": 1.656430091641304
+ },
+ "C_alpha_C_sd": {
+  "declared": "stranded",
+  "measured": "undetermined"
+ },
+ "C_alpha_W": {
+  "best_shift_inexact": 2,
+  "declared": "stranded",
+  "measured": "inexact",
+  "shift": null,
+  "sign": null,
+  "worst_residual": 1.5397763206517208
+ },
+ "C_alpha_W_sd": {
+  "declared": "stranded",
+  "measured": "undetermined"
+ },
+ "C_axis_bend_direction_deg": {
+  "best_shift_inexact": -2,
+  "declared": "composite",
+  "measured": "inexact",
+  "shift": null,
+  "sign": null,
+  "worst_residual": 0.999258635798074
+ },
+ "C_axis_bend_direction_sd": {
+  "declared": "symmetric",
+  "measured": "undetermined"
+ },
+ "C_axis_curvature_deg_per_bp": {
+  "best_shift_inexact": null,
+  "declared": "symmetric",
+  "measured": "exact",
+  "shift": 0,
+  "sign": 1,
+  "worst_residual": 2.5919106753972823e-13
+ },
+ "C_axis_curvature_sd": {
+  "declared": "symmetric",
+  "measured": "undetermined"
+ },
+ "C_beta_C": {
+  "best_shift_inexact": 3,
+  "declared": "stranded",
+  "measured": "inexact",
+  "shift": null,
+  "sign": null,
+  "worst_residual": 1.9396741192887434
+ },
+ "C_beta_C_sd": {
+  "declared": "stranded",
+  "measured": "undetermined"
+ },
+ "C_beta_W": {
+  "best_shift_inexact": 4,
+  "declared": "stranded",
+  "measured": "inexact",
+  "shift": null,
+  "sign": null,
+  "worst_residual": 1.95901010015971
+ },
+ "C_beta_W_sd": {
+  "declared": "stranded",
+  "measured": "undetermined"
+ },
+ "C_buckle": {
+  "best_shift_inexact": null,
+  "declared": "antisymmetric",
+  "measured": "exact",
+  "shift": 0,
+  "sign": -1,
+  "worst_residual": 4.531652990090593e-13
+ },
+ "C_config_entropy_kB": {
+  "best_shift_inexact": -1,
+  "declared": "composite",
+  "measured": "inexact",
+  "shift": null,
+  "sign": null,
+  "worst_residual": 0.07856968800031823
+ },
+ "C_delta_C": {
+  "best_shift_inexact": -1,
+  "declared": "stranded",
+  "measured": "inexact",
+  "shift": null,
+  "sign": null,
+  "worst_residual": 0.2085195100021653
+ },
+ "C_delta_C_sd": {
+  "declared": "stranded",
+  "measured": "undetermined"
+ },
+ "C_delta_W": {
+  "best_shift_inexact": -2,
+  "declared": "stranded",
+  "measured": "inexact",
+  "shift": null,
+  "sign": null,
+  "worst_residual": 0.1555575352405653
+ },
+ "C_delta_W_sd": {
+  "declared": "stranded",
+  "measured": "undetermined"
+ },
+ "C_eps_minus_zeta_C": {
+  "best_shift_inexact": -2,
+  "declared": "stranded",
+  "measured": "inexact",
+  "shift": null,
+  "sign": null,
+  "worst_residual": 0.42100791282966493
+ },
+ "C_eps_minus_zeta_W": {
+  "best_shift_inexact": 2,
+  "declared": "stranded",
+  "measured": "inexact",
+  "shift": null,
+  "sign": null,
+  "worst_residual": 0.403015448298795
+ },
+ "C_epsilon_C": {
+  "best_shift_inexact": 3,
+  "declared": "stranded",
+  "measured": "inexact",
+  "shift": null,
+  "sign": null,
+  "worst_residual": 1.9699990121648503
+ },
+ "C_epsilon_C_sd": {
+  "declared": "stranded",
+  "measured": "undetermined"
+ },
+ "C_epsilon_W": {
+  "best_shift_inexact": 2,
+  "declared": "stranded",
+  "measured": "inexact",
+  "shift": null,
+  "sign": null,
+  "worst_residual": 1.972818442807803
+ },
+ "C_epsilon_W_sd": {
+  "declared": "stranded",
+  "measured": "undetermined"
+ },
+ "C_gamma_C": {
+  "best_shift_inexact": -1,
+  "declared": "stranded",
+  "measured": "inexact",
+  "shift": null,
+  "sign": null,
+  "worst_residual": 1.4533312712344013
+ },
+ "C_gamma_C_sd": {
+  "declared": "stranded",
+  "measured": "undetermined"
+ },
+ "C_gamma_W": {
+  "best_shift_inexact": -2,
+  "declared": "stranded",
+  "measured": "inexact",
+  "shift": null,
+  "sign": null,
+  "worst_residual": 1.4907521166763014
+ },
+ "C_gamma_W_sd": {
+  "declared": "stranded",
+  "measured": "undetermined"
+ },
+ "C_hoogsteen_opening_proxy_kT": {
+  "best_shift_inexact": 0,
+  "declared": "symmetric",
+  "measured": "inexact",
+  "shift": null,
+  "sign": null,
+  "worst_residual": 0.10975508165281336
+ },
+ "C_major_depth_A": {
+  "best_shift_inexact": null,
+  "declared": "symmetric",
+  "measured": "exact",
+  "shift": -4,
+  "sign": 1,
+  "worst_residual": 4.031830678233977e-14
+ },
+ "C_major_depth_A_sd": {
+  "declared": "symmetric",
+  "measured": "undetermined"
+ },
+ "C_major_width_A": {
+  "best_shift_inexact": null,
+  "declared": "symmetric",
+  "measured": "exact",
+  "shift": -4,
+  "sign": 1,
+  "worst_residual": 6.404767834506217e-14
+ },
+ "C_major_width_A_sd": {
+  "declared": "symmetric",
+  "measured": "undetermined"
+ },
+ "C_meth_dmajor_width_A": {
+  "best_shift_inexact": null,
+  "declared": "symmetric",
+  "measured": "exact",
+  "shift": -4,
+  "sign": 1,
+  "worst_residual": 1.2867081762469247e-12
+ },
+ "C_meth_dminor_width_A": {
+  "best_shift_inexact": null,
+  "declared": "symmetric",
+  "measured": "exact",
+  "shift": 4,
+  "sign": 1,
+  "worst_residual": 2.0643029614828204e-12
+ },
+ "C_meth_drise_A": {
+  "best_shift_inexact": null,
+  "declared": "symmetric",
+  "measured": "exact",
+  "shift": -1,
+  "sign": 1,
+  "worst_residual": 2.2555322115508295e-12
+ },
+ "C_meth_droll_deg": {
+  "best_shift_inexact": null,
+  "declared": "symmetric",
+  "measured": "exact",
+  "shift": -1,
+  "sign": 1,
+  "worst_residual": 8.10041260269848e-13
+ },
+ "C_meth_dtwist_deg": {
+  "best_shift_inexact": null,
+  "declared": "symmetric",
+  "measured": "exact",
+  "shift": -1,
+  "sign": 1,
+  "worst_residual": 1.0905229952062192e-12
+ },
+ "C_minor_depth_A": {
+  "best_shift_inexact": null,
+  "declared": "symmetric",
+  "measured": "exact",
+  "shift": 4,
+  "sign": 1,
+  "worst_residual": 5.650994541859041e-14
+ },
+ "C_minor_depth_A_sd": {
+  "declared": "symmetric",
+  "measured": "undetermined"
+ },
+ "C_minor_width_A": {
+  "best_shift_inexact": null,
+  "declared": "symmetric",
+  "measured": "exact",
+  "shift": 4,
+  "sign": 1,
+  "worst_residual": 7.891850072000084e-14
+ },
+ "C_minor_width_A_sd": {
+  "declared": "symmetric",
+  "measured": "undetermined"
+ },
+ "C_opening": {
+  "best_shift_inexact": null,
+  "declared": "symmetric",
+  "measured": "exact",
+  "shift": 0,
+  "sign": 1,
+  "worst_residual": 8.332931645013248e-13
+ },
+ "C_phosphate_axial_offset_A_C": {
+  "best_shift_inexact": -1,
+  "declared": "stranded",
+  "measured": "inexact",
+  "shift": null,
+  "sign": null,
+  "worst_residual": 0.36088176919840737
+ },
+ "C_phosphate_axial_offset_A_C_sd": {
+  "declared": "stranded",
+  "measured": "undetermined"
+ },
+ "C_phosphate_axial_offset_A_W": {
+  "best_shift_inexact": 1,
+  "declared": "stranded",
+  "measured": "inexact",
+  "shift": null,
+  "sign": null,
+  "worst_residual": 0.36088176919840304
+ },
+ "C_phosphate_axial_offset_A_W_sd": {
+  "declared": "stranded",
+  "measured": "undetermined"
+ },
+ "C_phosphate_azimuth_deg_C": {
+  "best_shift_inexact": 1,
+  "declared": "stranded",
+  "measured": "inexact",
+  "shift": null,
+  "sign": null,
+  "worst_residual": 0.05843948630842855
+ },
+ "C_phosphate_azimuth_deg_C_sd": {
+  "declared": "stranded",
+  "measured": "undetermined"
+ },
+ "C_phosphate_azimuth_deg_W": {
+  "best_shift_inexact": -1,
+  "declared": "stranded",
+  "measured": "inexact",
+  "shift": null,
+  "sign": null,
+  "worst_residual": 0.05843948630842878
+ },
+ "C_phosphate_azimuth_deg_W_sd": {
+  "declared": "stranded",
+  "measured": "undetermined"
+ },
+ "C_phosphate_radius_A_C": {
+  "best_shift_inexact": 4,
+  "declared": "stranded",
+  "measured": "inexact",
+  "shift": null,
+  "sign": null,
+  "worst_residual": 0.0935123466150126
+ },
+ "C_phosphate_radius_A_C_sd": {
+  "declared": "stranded",
+  "measured": "undetermined"
+ },
+ "C_phosphate_radius_A_W": {
+  "best_shift_inexact": -4,
+  "declared": "stranded",
+  "measured": "inexact",
+  "shift": null,
+  "sign": null,
+  "worst_residual": 0.09351234661503614
+ },
+ "C_phosphate_radius_A_W_sd": {
+  "declared": "stranded",
+  "measured": "undetermined"
+ },
+ "C_propeller": {
+  "best_shift_inexact": null,
+  "declared": "symmetric",
+  "measured": "exact",
+  "shift": 0,
+  "sign": 1,
+  "worst_residual": 2.1008986941012705e-13
+ },
+ "C_rise": {
+  "best_shift_inexact": null,
+  "declared": "symmetric",
+  "measured": "exact",
+  "shift": -1,
+  "sign": 1,
+  "worst_residual": 3.971411595266054e-14
+ },
+ "C_roll": {
+  "best_shift_inexact": null,
+  "declared": "symmetric",
+  "measured": "exact",
+  "shift": -1,
+  "sign": 1,
+  "worst_residual": 3.618308432460409e-13
+ },
+ "C_salt_dmajor_width_A": {
+  "declared": "symmetric",
+  "measured": "undetermined"
+ },
+ "C_salt_dminor_width_A": {
+  "declared": "symmetric",
+  "measured": "undetermined"
+ },
+ "C_salt_drise_A": {
+  "declared": "symmetric",
+  "measured": "undetermined"
+ },
+ "C_salt_droll_deg": {
+  "declared": "symmetric",
+  "measured": "undetermined"
+ },
+ "C_salt_dtwist_deg": {
+  "declared": "symmetric",
+  "measured": "undetermined"
+ },
+ "C_shear": {
+  "best_shift_inexact": null,
+  "declared": "antisymmetric",
+  "measured": "exact",
+  "shift": 0,
+  "sign": -1,
+  "worst_residual": 2.590482471059716e-13
+ },
+ "C_shift": {
+  "best_shift_inexact": null,
+  "declared": "antisymmetric",
+  "measured": "exact",
+  "shift": -1,
+  "sign": -1,
+  "worst_residual": 6.946664866612866e-13
+ },
+ "C_slide": {
+  "best_shift_inexact": null,
+  "declared": "symmetric",
+  "measured": "exact",
+  "shift": -1,
+  "sign": 1,
+  "worst_residual": 4.022416817251463e-13
+ },
+ "C_stagger": {
+  "best_shift_inexact": null,
+  "declared": "symmetric",
+  "measured": "exact",
+  "shift": 0,
+  "sign": 1,
+  "worst_residual": 5.149919228936657e-13
+ },
+ "C_stretch": {
+  "best_shift_inexact": null,
+  "declared": "symmetric",
+  "measured": "exact",
+  "shift": 0,
+  "sign": 1,
+  "worst_residual": 1.5150830081479414e-13
+ },
+ "C_sugar_C2endo_prob_C": {
+  "declared": "stranded",
+  "measured": "undetermined"
+ },
+ "C_sugar_C2endo_prob_W": {
+  "declared": "stranded",
+  "measured": "undetermined"
+ },
+ "C_sugar_C3endo_prob_C": {
+  "declared": "stranded",
+  "measured": "undetermined"
+ },
+ "C_sugar_C3endo_prob_W": {
+  "declared": "stranded",
+  "measured": "undetermined"
+ },
+ "C_sugar_pucker_amplitude_C": {
+  "best_shift_inexact": -2,
+  "declared": "stranded",
+  "measured": "inexact",
+  "shift": null,
+  "sign": null,
+  "worst_residual": 0.19051800976718047
+ },
+ "C_sugar_pucker_amplitude_W": {
+  "best_shift_inexact": -2,
+  "declared": "stranded",
+  "measured": "inexact",
+  "shift": null,
+  "sign": null,
+  "worst_residual": 0.21545199629867484
+ },
+ "C_sugar_pucker_phase_C": {
+  "best_shift_inexact": -2,
+  "declared": "stranded",
+  "measured": "inexact",
+  "shift": null,
+  "sign": null,
+  "worst_residual": 0.31726596724325834
+ },
+ "C_sugar_pucker_phase_W": {
+  "best_shift_inexact": -2,
+  "declared": "stranded",
+  "measured": "inexact",
+  "shift": null,
+  "sign": null,
+  "worst_residual": 0.3101791531838784
+ },
+ "C_temp_dmajor_width_A": {
+  "declared": "symmetric",
+  "measured": "undetermined"
+ },
+ "C_temp_dminor_width_A": {
+  "declared": "symmetric",
+  "measured": "undetermined"
+ },
+ "C_temp_drise_A": {
+  "declared": "symmetric",
+  "measured": "undetermined"
+ },
+ "C_temp_droll_deg": {
+  "declared": "symmetric",
+  "measured": "undetermined"
+ },
+ "C_temp_dtwist_deg": {
+  "declared": "symmetric",
+  "measured": "undetermined"
+ },
+ "C_tilt": {
+  "best_shift_inexact": null,
+  "declared": "antisymmetric",
+  "measured": "exact",
+  "shift": -1,
+  "sign": -1,
+  "worst_residual": 6.915266203900761e-13
+ },
+ "C_twist": {
+  "best_shift_inexact": null,
+  "declared": "symmetric",
+  "measured": "exact",
+  "shift": -1,
+  "sign": 1,
+  "worst_residual": 7.919221828787525e-14
+ },
+ "C_zeta_C": {
+  "best_shift_inexact": 0,
+  "declared": "stranded",
+  "measured": "inexact",
+  "shift": null,
+  "sign": null,
+  "worst_residual": 0.2705317510248255
+ },
+ "C_zeta_C_sd": {
+  "declared": "stranded",
+  "measured": "undetermined"
+ },
+ "C_zeta_W": {
+  "best_shift_inexact": 3,
+  "declared": "stranded",
+  "measured": "inexact",
+  "shift": null,
+  "sign": null,
+  "worst_residual": 0.29349780683186993
+ },
+ "C_zeta_W_sd": {
+  "declared": "stranded",
+  "measured": "undetermined"
+ },
+ "E_bp_lifetime_ms": {
+  "best_shift_inexact": null,
+  "declared": "symmetric",
+  "measured": "exact",
+  "shift": 0,
+  "sign": 1,
+  "worst_residual": 4.0610913266391476e-16
+ },
+ "E_dCp_kcal_mol_K": {
+  "best_shift_inexact": null,
+  "declared": "symmetric",
+  "measured": "exact",
+  "shift": -1,
+  "sign": 1,
+  "worst_residual": 0.0
+ },
+ "E_dG37_kcal_mol": {
+  "best_shift_inexact": null,
+  "declared": "symmetric",
+  "measured": "exact",
+  "shift": -1,
+  "sign": 1,
+  "worst_residual": 0.0
+ },
+ "E_dH_kcal_mol": {
+  "best_shift_inexact": null,
+  "declared": "symmetric",
+  "measured": "exact",
+  "shift": -1,
+  "sign": 1,
+  "worst_residual": 0.0
+ },
+ "E_dS_cal_mol_K": {
+  "best_shift_inexact": null,
+  "declared": "symmetric",
+  "measured": "exact",
+  "shift": -1,
+  "sign": 1,
+  "worst_residual": 0.0
+ },
+ "E_hbond_count": {
+  "best_shift_inexact": null,
+  "declared": "symmetric",
+  "measured": "exact",
+  "shift": 0,
+  "sign": 1,
+  "worst_residual": 0.0
+ },
+ "E_hbond_distance_A": {
+  "best_shift_inexact": 0,
+  "declared": "symmetric",
+  "measured": "inexact",
+  "shift": null,
+  "sign": null,
+  "worst_residual": 0.003087824052870767
+ },
+ "E_hbond_distance_spread_A": {
+  "best_shift_inexact": 0,
+  "declared": "symmetric",
+  "measured": "inexact",
+  "shift": null,
+  "sign": null,
+  "worst_residual": 0.13923257984460213
+ },
+ "E_imino_exchange_proxy": {
+  "best_shift_inexact": null,
+  "declared": "symmetric",
+  "measured": "exact",
+  "shift": 0,
+  "sign": 1,
+  "worst_residual": 2.0306346027539562e-16
+ },
+ "E_k_open_per_s": {
+  "best_shift_inexact": null,
+  "declared": "symmetric",
+  "measured": "exact",
+  "shift": 0,
+  "sign": 1,
+  "worst_residual": 2.9753529801250203e-16
+ },
+ "E_open_prob_T25": {
+  "best_shift_inexact": null,
+  "declared": "symmetric",
+  "measured": "exact",
+  "shift": 0,
+  "sign": 1,
+  "worst_residual": 3.729032527665956e-16
+ },
+ "E_open_prob_T37": {
+  "best_shift_inexact": null,
+  "declared": "symmetric",
+  "measured": "exact",
+  "shift": 0,
+  "sign": 1,
+  "worst_residual": 2.1694124808321005e-16
+ },
+ "E_open_prob_T45": {
+  "best_shift_inexact": null,
+  "declared": "symmetric",
+  "measured": "exact",
+  "shift": 0,
+  "sign": 1,
+  "worst_residual": 1.5541838167101123e-16
+ },
+ "E_open_prob_T55": {
+  "best_shift_inexact": null,
+  "declared": "symmetric",
+  "measured": "exact",
+  "shift": 0,
+  "sign": 1,
+  "worst_residual": 2.111834576063802e-16
+ },
+ "E_open_prob_T65": {
+  "best_shift_inexact": null,
+  "declared": "symmetric",
+  "measured": "exact",
+  "shift": 0,
+  "sign": 1,
+  "worst_residual": 1.4834599407132414e-16
+ },
+ "E_open_prob_T75": {
+  "best_shift_inexact": null,
+  "declared": "symmetric",
+  "measured": "exact",
+  "shift": 0,
+  "sign": 1,
+  "worst_residual": 2.1413562141925833e-16
+ },
+ "E_open_prob_sc-0.02": {
+  "best_shift_inexact": null,
+  "declared": "symmetric",
+  "measured": "exact",
+  "shift": 0,
+  "sign": 1,
+  "worst_residual": 2.6639323213347327e-16
+ },
+ "E_open_prob_sc-0.04": {
+  "best_shift_inexact": null,
+  "declared": "symmetric",
+  "measured": "exact",
+  "shift": 0,
+  "sign": 1,
+  "worst_residual": 1.8065291476924456e-16
+ },
+ "E_open_prob_sc-0.06": {
+  "best_shift_inexact": null,
+  "declared": "symmetric",
+  "measured": "exact",
+  "shift": 0,
+  "sign": 1,
+  "worst_residual": 4.998708220926951e-16
+ },
+ "E_open_prob_sc0": {
+  "best_shift_inexact": null,
+  "declared": "symmetric",
+  "measured": "exact",
+  "shift": 0,
+  "sign": 1,
+  "worst_residual": 1.990187105234961e-16
+ },
+ "E_sidd_dG_sc-0.02": {
+  "best_shift_inexact": null,
+  "declared": "symmetric",
+  "measured": "exact",
+  "shift": 0,
+  "sign": 1,
+  "worst_residual": 1.5344732751489833e-16
+ },
+ "E_sidd_dG_sc-0.04": {
+  "best_shift_inexact": null,
+  "declared": "symmetric",
+  "measured": "exact",
+  "shift": 0,
+  "sign": 1,
+  "worst_residual": 3.1019700989050353e-16
+ },
+ "E_sidd_dG_sc-0.06": {
+  "best_shift_inexact": null,
+  "declared": "symmetric",
+  "measured": "exact",
+  "shift": 0,
+  "sign": 1,
+  "worst_residual": 1.7237590234382055e-16
+ },
+ "E_sidd_dG_sc0": {
+  "best_shift_inexact": null,
+  "declared": "symmetric",
+  "measured": "exact",
+  "shift": 0,
+  "sign": 1,
+  "worst_residual": 7.479530785688241e-17
+ },
+ "E_stack_dG_na0.01": {
+  "best_shift_inexact": null,
+  "declared": "symmetric",
+  "measured": "exact",
+  "shift": -1,
+  "sign": 1,
+  "worst_residual": 0.0
+ },
+ "E_stack_dG_na0.05": {
+  "best_shift_inexact": null,
+  "declared": "symmetric",
+  "measured": "exact",
+  "shift": -1,
+  "sign": 1,
+  "worst_residual": 0.0
+ },
+ "E_stack_dG_na0.1": {
+  "best_shift_inexact": null,
+  "declared": "symmetric",
+  "measured": "exact",
+  "shift": -1,
+  "sign": 1,
+  "worst_residual": 0.0
+ },
+ "E_stack_dG_na0.15": {
+  "best_shift_inexact": null,
+  "declared": "symmetric",
+  "measured": "exact",
+  "shift": -1,
+  "sign": 1,
+  "worst_residual": 0.0
+ },
+ "E_stack_dG_na1": {
+  "best_shift_inexact": null,
+  "declared": "symmetric",
+  "measured": "exact",
+  "shift": -1,
+  "sign": 1,
+  "worst_residual": 0.0
+ },
+ "E_strand_separation_dG_w10": {
+  "best_shift_inexact": null,
+  "declared": "symmetric",
+  "measured": "exact",
+  "shift": 0,
+  "sign": 1,
+  "worst_residual": 2.4911787975398237e-16
+ },
+ "E_strand_separation_dG_w100": {
+  "declared": "symmetric",
+  "measured": "undetermined"
+ },
+ "E_strand_separation_dG_w50": {
+  "best_shift_inexact": null,
+  "declared": "symmetric",
+  "measured": "exact",
+  "shift": 0,
+  "sign": 1,
+  "worst_residual": 3.8669765817634694e-16
+ },
+ "F_g4hunter": {
+  "best_shift_inexact": null,
+  "declared": "antisymmetric",
+  "measured": "exact",
+  "shift": 0,
+  "sign": -1,
+  "worst_residual": 0.0
+ },
+ "F_imotif": {
+  "best_shift_inexact": null,
+  "declared": "antisymmetric",
+  "measured": "exact",
+  "shift": 0,
+  "sign": -1,
+  "worst_residual": 0.0
+ },
+ "F_zdna_step_kcal": {
+  "best_shift_inexact": null,
+  "declared": "symmetric",
+  "measured": "exact",
+  "shift": 0,
+  "sign": 1,
+  "worst_residual": 0.0
+ },
+ "G_cpd_CC_C": {
+  "best_shift_inexact": 0,
+  "declared": "stranded",
+  "measured": "inexact",
+  "shift": null,
+  "sign": null,
+  "worst_residual": 1.0
+ },
+ "G_cpd_CC_W": {
+  "best_shift_inexact": 0,
+  "declared": "stranded",
+  "measured": "inexact",
+  "shift": null,
+  "sign": null,
+  "worst_residual": 1.0
+ },
+ "G_cpd_CT_C": {
+  "best_shift_inexact": 0,
+  "declared": "stranded",
+  "measured": "inexact",
+  "shift": null,
+  "sign": null,
+  "worst_residual": 1.0
+ },
+ "G_cpd_CT_W": {
+  "best_shift_inexact": 0,
+  "declared": "stranded",
+  "measured": "inexact",
+  "shift": null,
+  "sign": null,
+  "worst_residual": 1.0
+ },
+ "G_cpd_TC_C": {
+  "best_shift_inexact": 0,
+  "declared": "stranded",
+  "measured": "inexact",
+  "shift": null,
+  "sign": null,
+  "worst_residual": 1.0
+ },
+ "G_cpd_TC_W": {
+  "best_shift_inexact": 0,
+  "declared": "stranded",
+  "measured": "inexact",
+  "shift": null,
+  "sign": null,
+  "worst_residual": 1.0
+ },
+ "G_cpd_TT_C": {
+  "best_shift_inexact": 0,
+  "declared": "stranded",
+  "measured": "inexact",
+  "shift": null,
+  "sign": null,
+  "worst_residual": 1.0
+ },
+ "G_cpd_TT_W": {
+  "best_shift_inexact": 0,
+  "declared": "stranded",
+  "measured": "inexact",
+  "shift": null,
+  "sign": null,
+  "worst_residual": 1.0
+ },
+ "G_cpd_any_C": {
+  "best_shift_inexact": 0,
+  "declared": "stranded",
+  "measured": "inexact",
+  "shift": null,
+  "sign": null,
+  "worst_residual": 1.0
+ },
+ "G_cpd_any_W": {
+  "best_shift_inexact": 0,
+  "declared": "stranded",
+  "measured": "inexact",
+  "shift": null,
+  "sign": null,
+  "worst_residual": 1.0
+ },
+ "G_cpd_methyl_weighted_C": {
+  "best_shift_inexact": 0,
+  "declared": "stranded",
+  "measured": "inexact",
+  "shift": null,
+  "sign": null,
+  "worst_residual": 1.0
+ },
+ "G_cpd_methyl_weighted_W": {
+  "best_shift_inexact": 0,
+  "declared": "stranded",
+  "measured": "inexact",
+  "shift": null,
+  "sign": null,
+  "worst_residual": 1.0
+ },
+ "G_cytosine_c6_C": {
+  "best_shift_inexact": 2,
+  "declared": "stranded",
+  "measured": "inexact",
+  "shift": null,
+  "sign": null,
+  "worst_residual": 0.981587519715147
+ },
+ "G_cytosine_c6_W": {
+  "best_shift_inexact": 2,
+  "declared": "stranded",
+  "measured": "inexact",
+  "shift": null,
+  "sign": null,
+  "worst_residual": 0.8880713852145972
+ },
+ "G_major_edge_C": {
+  "best_shift_inexact": -1,
+  "declared": "stranded",
+  "measured": "inexact",
+  "shift": null,
+  "sign": null,
+  "worst_residual": 0.602855041670349
+ },
+ "G_major_edge_W": {
+  "best_shift_inexact": 1,
+  "declared": "stranded",
+  "measured": "inexact",
+  "shift": null,
+  "sign": null,
+  "worst_residual": 0.6089073849556661
+ },
+ "G_minor_edge_C": {
+  "best_shift_inexact": 0,
+  "declared": "stranded",
+  "measured": "inexact",
+  "shift": null,
+  "sign": null,
+  "worst_residual": 0.487597915794605
+ },
+ "G_minor_edge_W": {
+  "best_shift_inexact": 0,
+  "declared": "stranded",
+  "measured": "inexact",
+  "shift": null,
+  "sign": null,
+  "worst_residual": 0.5166206782747729
+ },
+ "G_oxoguanine_susceptibility_eV": {
+  "best_shift_inexact": -2,
+  "declared": "stranded",
+  "measured": "inexact",
+  "shift": null,
+  "sign": null,
+  "worst_residual": 0.8401834554307602
+ },
+ "G_probe_bisulfite_C": {
+  "best_shift_inexact": 2,
+  "declared": "stranded",
+  "measured": "inexact",
+  "shift": null,
+  "sign": null,
+  "worst_residual": 0.981587519715147
+ },
+ "G_probe_bisulfite_W": {
+  "best_shift_inexact": 2,
+  "declared": "stranded",
+  "measured": "inexact",
+  "shift": null,
+  "sign": null,
+  "worst_residual": 0.8880713852145972
+ },
+ "G_probe_depc_C": {
+  "best_shift_inexact": -2,
+  "declared": "stranded",
+  "measured": "inexact",
+  "shift": null,
+  "sign": null,
+  "worst_residual": 0.9333876384622032
+ },
+ "G_probe_depc_W": {
+  "best_shift_inexact": -4,
+  "declared": "stranded",
+  "measured": "inexact",
+  "shift": null,
+  "sign": null,
+  "worst_residual": 0.9237204175058724
+ },
+ "G_probe_dms_C": {
+  "best_shift_inexact": -2,
+  "declared": "stranded",
+  "measured": "inexact",
+  "shift": null,
+  "sign": null,
+  "worst_residual": 0.9333876384622032
+ },
+ "G_probe_dms_W": {
+  "best_shift_inexact": -4,
+  "declared": "stranded",
+  "measured": "inexact",
+  "shift": null,
+  "sign": null,
+  "worst_residual": 0.9237204175058724
+ },
+ "G_probe_dnase_i_C": {
+  "best_shift_inexact": 0,
+  "declared": "stranded",
+  "measured": "inexact",
+  "shift": null,
+  "sign": null,
+  "worst_residual": 0.487597915794605
+ },
+ "G_probe_dnase_i_W": {
+  "best_shift_inexact": 0,
+  "declared": "stranded",
+  "measured": "inexact",
+  "shift": null,
+  "sign": null,
+  "worst_residual": 0.5166206782747729
+ },
+ "G_probe_hydroxyl_radical_C": {
+  "best_shift_inexact": 1,
+  "declared": "stranded",
+  "measured": "inexact",
+  "shift": null,
+  "sign": null,
+  "worst_residual": 0.38765058203847774
+ },
+ "G_probe_hydroxyl_radical_W": {
+  "best_shift_inexact": 2,
+  "declared": "stranded",
+  "measured": "inexact",
+  "shift": null,
+  "sign": null,
+  "worst_residual": 0.3844921956562249
+ },
+ "G_probe_kmno4_C": {
+  "best_shift_inexact": -4,
+  "declared": "stranded",
+  "measured": "inexact",
+  "shift": null,
+  "sign": null,
+  "worst_residual": 0.961897598032861
+ },
+ "G_probe_kmno4_W": {
+  "best_shift_inexact": 1,
+  "declared": "stranded",
+  "measured": "inexact",
+  "shift": null,
+  "sign": null,
+  "worst_residual": 0.9888368975879837
+ },
+ "G_purine_n7_C": {
+  "best_shift_inexact": -2,
+  "declared": "stranded",
+  "measured": "inexact",
+  "shift": null,
+  "sign": null,
+  "worst_residual": 0.9333876384622032
+ },
+ "G_purine_n7_W": {
+  "best_shift_inexact": -4,
+  "declared": "stranded",
+  "measured": "inexact",
+  "shift": null,
+  "sign": null,
+  "worst_residual": 0.9237204175058724
+ },
+ "G_radical_target_C": {
+  "best_shift_inexact": 1,
+  "declared": "stranded",
+  "measured": "inexact",
+  "shift": null,
+  "sign": null,
+  "worst_residual": 0.38765058203847774
+ },
+ "G_radical_target_W": {
+  "best_shift_inexact": 2,
+  "declared": "stranded",
+  "measured": "inexact",
+  "shift": null,
+  "sign": null,
+  "worst_residual": 0.3844921956562249
+ },
+ "G_sasa_base_C": {
+  "best_shift_inexact": 0,
+  "declared": "stranded",
+  "measured": "inexact",
+  "shift": null,
+  "sign": null,
+  "worst_residual": 0.3378650635551788
+ },
+ "G_sasa_base_W": {
+  "best_shift_inexact": 0,
+  "declared": "stranded",
+  "measured": "inexact",
+  "shift": null,
+  "sign": null,
+  "worst_residual": 0.31296336878817266
+ },
+ "G_sasa_phosphate_C": {
+  "best_shift_inexact": -1,
+  "declared": "stranded",
+  "measured": "inexact",
+  "shift": null,
+  "sign": null,
+  "worst_residual": 0.1006606782552101
+ },
+ "G_sasa_phosphate_W": {
+  "best_shift_inexact": 1,
+  "declared": "stranded",
+  "measured": "inexact",
+  "shift": null,
+  "sign": null,
+  "worst_residual": 0.10451503011217142
+ },
+ "G_sasa_sugar_C": {
+  "best_shift_inexact": 0,
+  "declared": "stranded",
+  "measured": "inexact",
+  "shift": null,
+  "sign": null,
+  "worst_residual": 0.14830648430087548
+ },
+ "G_sasa_sugar_W": {
+  "best_shift_inexact": 0,
+  "declared": "stranded",
+  "measured": "inexact",
+  "shift": null,
+  "sign": null,
+  "worst_residual": 0.11362328637000775
+ },
+ "G_sasa_total_C": {
+  "best_shift_inexact": 0,
+  "declared": "stranded",
+  "measured": "inexact",
+  "shift": null,
+  "sign": null,
+  "worst_residual": 0.13682206038455563
+ },
+ "G_sasa_total_W": {
+  "best_shift_inexact": 0,
+  "declared": "stranded",
+  "measured": "inexact",
+  "shift": null,
+  "sign": null,
+  "worst_residual": 0.13739551957705207
+ },
+ "G_sixfour_C": {
+  "best_shift_inexact": 0,
+  "declared": "stranded",
+  "measured": "inexact",
+  "shift": null,
+  "sign": null,
+  "worst_residual": 1.0
+ },
+ "G_sixfour_W": {
+  "best_shift_inexact": 0,
+  "declared": "stranded",
+  "measured": "inexact",
+  "shift": null,
+  "sign": null,
+  "worst_residual": 1.0
+ },
+ "G_thymine_c5c6_C": {
+  "best_shift_inexact": -4,
+  "declared": "stranded",
+  "measured": "inexact",
+  "shift": null,
+  "sign": null,
+  "worst_residual": 0.961897598032861
+ },
+ "G_thymine_c5c6_W": {
+  "best_shift_inexact": 1,
+  "declared": "stranded",
+  "measured": "inexact",
+  "shift": null,
+  "sign": null,
+  "worst_residual": 0.9888368975879837
+ },
+ "H_5hmC_dconfig_entropy_kB": {
+  "best_shift_inexact": -1,
+  "declared": "composite",
+  "measured": "inexact",
+  "shift": null,
+  "sign": null,
+  "worst_residual": 0.4820110301743351
+ },
+ "H_5hmC_dmajor_width_A": {
+  "best_shift_inexact": null,
+  "declared": "symmetric",
+  "measured": "exact",
+  "shift": -4,
+  "sign": 1,
+  "worst_residual": 1.3341476340829627e-12
+ },
+ "H_5hmC_dminor_width_A": {
+  "best_shift_inexact": null,
+  "declared": "symmetric",
+  "measured": "exact",
+  "shift": 4,
+  "sign": 1,
+  "worst_residual": 1.279056627960951e-12
+ },
+ "H_5hmC_drise_A": {
+  "best_shift_inexact": null,
+  "declared": "symmetric",
+  "measured": "exact",
+  "shift": -1,
+  "sign": 1,
+  "worst_residual": 3.127717942344557e-12
+ },
+ "H_5hmC_droll_deg": {
+  "best_shift_inexact": null,
+  "declared": "symmetric",
+  "measured": "exact",
+  "shift": -1,
+  "sign": 1,
+  "worst_residual": 6.50678679901216e-13
+ },
+ "H_5hmC_dtwist_deg": {
+  "best_shift_inexact": null,
+  "declared": "symmetric",
+  "measured": "exact",
+  "shift": -1,
+  "sign": 1,
+  "worst_residual": 9.70852696898265e-13
+ },
+ "H_5mC_dconfig_entropy_kB": {
+  "best_shift_inexact": -1,
+  "declared": "composite",
+  "measured": "inexact",
+  "shift": null,
+  "sign": null,
+  "worst_residual": 0.32207592058068896
+ },
+ "H_5mC_dmajor_width_A": {
+  "best_shift_inexact": null,
+  "declared": "symmetric",
+  "measured": "exact",
+  "shift": -4,
+  "sign": 1,
+  "worst_residual": 1.2867081762469247e-12
+ },
+ "H_5mC_dminor_width_A": {
+  "best_shift_inexact": null,
+  "declared": "symmetric",
+  "measured": "exact",
+  "shift": 4,
+  "sign": 1,
+  "worst_residual": 2.0643029614828204e-12
+ },
+ "H_5mC_drise_A": {
+  "best_shift_inexact": null,
+  "declared": "symmetric",
+  "measured": "exact",
+  "shift": -1,
+  "sign": 1,
+  "worst_residual": 2.2555322115508295e-12
+ },
+ "H_5mC_droll_deg": {
+  "best_shift_inexact": null,
+  "declared": "symmetric",
+  "measured": "exact",
+  "shift": -1,
+  "sign": 1,
+  "worst_residual": 8.10041260269848e-13
+ },
+ "H_5mC_dtwist_deg": {
+  "best_shift_inexact": null,
+  "declared": "symmetric",
+  "measured": "exact",
+  "shift": -1,
+  "sign": 1,
+  "worst_residual": 1.0905229952062192e-12
+ },
+ "L_m_positional_entropy": {
+  "best_shift_inexact": 0,
+  "declared": "stranded",
+  "measured": "inexact",
+  "shift": null,
+  "sign": null,
+  "worst_residual": 0.0011302269955373845
+ },
+ "L_m_unpaired_prob": {
+  "best_shift_inexact": 0,
+  "declared": "stranded",
+  "measured": "inexact",
+  "shift": null,
+  "sign": null,
+  "worst_residual": 0.00012012682663719746
+ },
+ "L_p_positional_entropy": {
+  "best_shift_inexact": 0,
+  "declared": "stranded",
+  "measured": "inexact",
+  "shift": null,
+  "sign": null,
+  "worst_residual": 0.0011302269955373845
+ },
+ "L_p_unpaired_prob": {
+  "best_shift_inexact": 0,
+  "declared": "stranded",
+  "measured": "inexact",
+  "shift": null,
+  "sign": null,
+  "worst_residual": 0.00012012682663719746
+ }
+}

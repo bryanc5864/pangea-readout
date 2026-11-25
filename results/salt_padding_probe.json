@@ -1,0 +1,110 @@
+[
+  {
+    "cond": "NaCl_025mM",
+    "lam": 19.2,
+    "n_lambda": 2.6,
+    "tpad": 50.0,
+    "bcfl": "sdh",
+    "ok": true,
+    "seconds": 37.5
+  },
+  {
+    "cond": "NaCl_025mM",
+    "lam": 19.2,
+    "n_lambda": 2.6,
+    "tpad": 50.0,
+    "bcfl": "mdh",
+    "ok": true,
+    "seconds": 48.6
+  },
+  {
+    "cond": "NaCl_025mM",
+    "lam": 19.2,
+    "n_lambda": 4.0,
+    "tpad": 76.9,
+    "bcfl": "sdh",
+    "ok": true,
+    "seconds": 70.6
+  },
+  {
+    "cond": "NaCl_025mM",
+    "lam": 19.2,
+    "n_lambda": 4.0,
+    "tpad": 76.9,
+    "bcfl": "mdh",
+    "ok": true,
+    "seconds": 82.8
+  },
+  {
+    "cond": "NaCl_025mM",
+    "lam": 19.2,
+    "n_lambda": 6.5,
+    "tpad": 125.0,
+    "bcfl": "sdh",
+    "ok": true,
+    "seconds": 53.1
+  },
+  {
+    "cond": "NaCl_025mM",
+    "lam": 19.2,
+    "n_lambda": 6.5,
+    "tpad": 125.0,
+    "bcfl": "mdh",
+    "ok": true,
+    "seconds": 63.2
+  },
+  {
+    "cond": "NaCl_010mM",
+    "lam": 30.4,
+    "n_lambda": 2.6,
+    "tpad": 79.0,
+    "bcfl": "sdh",
+    "ok": true,
+    "seconds": 41.8
+  },
+  {
+    "cond": "NaCl_010mM",
+    "lam": 30.4,
+    "n_lambda": 2.6,
+    "tpad": 79.0,
+    "bcfl": "mdh",
+    "ok": true,
+    "seconds": 55.5
+  },
+  {
+    "cond": "NaCl_010mM",
+    "lam": 30.4,
+    "n_lambda": 4.0,
+    "tpad": 121.6,
+    "bcfl": "sdh",
+    "ok": true,
+    "seconds": 54.0
+  },
+  {
+    "cond": "NaCl_010mM",
+    "lam": 30.4,
+    "n_lambda": 4.0,
+    "tpad": 121.6,
+    "bcfl": "mdh",
+    "ok": true,
+    "seconds": 65.9
+  },
+  {
+    "cond": "NaCl_010mM",
+    "lam": 30.4,
+    "n_lambda": 6.5,
+    "tpad": 197.6,
+    "bcfl": "sdh",
+    "ok": true,
+    "seconds": 64.8
+  },
+  {
+    "cond": "NaCl_010mM",
+    "lam": 30.4,
+    "n_lambda": 6.5,
+    "tpad": 197.6,
+    "bcfl": "mdh",
+    "ok": true,
+    "seconds": 87.1
+  }
+]

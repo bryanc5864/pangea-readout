@@ -1,0 +1,4816 @@
+[
+ {
+  "pdb": "143D",
+  "n_tetrads": 3,
+  "topology": "antiparallel",
+  "loops": [
+   3,
+   3,
+   3
+  ],
+  "loop_types": [
+   "lateral",
+   "diagonal",
+   "lateral"
+  ],
+  "fold": "l+dl-",
+  "loops_usable": [
+   true,
+   true,
+   true
+  ],
+  "strand_dirs": [
+   1,
+   -1,
+   -1,
+   1
+  ],
+  "sequence": "AGGGTTAGGGTTAGGGTTAGGG",
+  "n_ions": 0
+ },
+ {
+  "pdb": "148D",
+  "n_tetrads": 2,
+  "topology": "antiparallel",
+  "loops": [
+   2,
+   3,
+   2
+  ],
+  "loop_types": [
+   "lateral",
+   "lateral",
+   "lateral"
+  ],
+  "fold": "l-l-l-",
+  "loops_usable": [
+   true,
+   true,
+   true
+  ],
+  "strand_dirs": [
+   1,
+   -1,
+   1,
+   -1
+  ],
+  "sequence": "GGTTGGTGTGGTTGG",
+  "n_ions": 0
+ },
+ {
+  "pdb": "1C32",
+  "n_tetrads": 2,
+  "topology": "antiparallel",
+  "loops": [
+   2,
+   3,
+   2
+  ],
+  "loop_types": [
+   "lateral",
+   "lateral",
+   "lateral"
+  ],
+  "fold": "l-l-l-",
+  "loops_usable": [
+   true,
+   true,
+   true
+  ],
+  "strand_dirs": [
+   1,
+   -1,
+   1,
+   -1
+  ],
+  "sequence": "GGTTGGTGTGGTTGG",
+  "n_ions": 0
+ },
+ {
+  "pdb": "1C34",
+  "n_tetrads": 2,
+  "topology": "antiparallel",
+  "loops": [
+   2,
+   3,
+   2
+  ],
+  "loop_types": [
+   "lateral",
+   "lateral",
+   "lateral"
+  ],
+  "fold": "l-l-l-",
+  "loops_usable": [
+   true,
+   true,
+   true
+  ],
+  "strand_dirs": [
+   1,
+   -1,
+   1,
+   -1
+  ],
+  "sequence": "GGTTGGTGTGGTTGG",
+  "n_ions": 0
+ },
+ {
+  "pdb": "1C35",
+  "n_tetrads": 2,
+  "topology": "antiparallel",
+  "loops": [
+   2,
+   3,
+   2
+  ],
+  "loop_types": [
+   "lateral",
+   "lateral",
+   "lateral"
+  ],
+  "fold": "l-l-l-",
+  "loops_usable": [
+   true,
+   true,
+   true
+  ],
+  "strand_dirs": [
+   1,
+   -1,
+   1,
+   -1
+  ],
+  "sequence": "GGTTGGTGTGGTTGG",
+  "n_ions": 20
+ },
+ {
+  "pdb": "1C38",
+  "n_tetrads": 2,
+  "topology": "antiparallel",
+  "loops": [
+   2,
+   3,
+   2
+  ],
+  "loop_types": [
+   "lateral",
+   "lateral",
+   "lateral"
+  ],
+  "fold": "l-l-l-",
+  "loops_usable": [
+   true,
+   true,
+   true
+  ],
+  "strand_dirs": [
+   1,
+   -1,
+   1,
+   -1
+  ],
+  "sequence": "GGTTGGTGTGGTTGG",
+  "n_ions": 20
+ },
+ {
+  "pdb": "1I34",
+  "n_tetrads": 2,
+  "topology": "antiparallel",
+  "loops": [
+   4,
+   2,
+   5
+  ],
+  "loop_types": [
+   "diagonal",
+   "propeller",
+   "diagonal"
+  ],
+  "fold": "dp-d",
+  "loops_usable": [
+   true,
+   true,
+   true
+  ],
+  "strand_dirs": [
+   1,
+   1,
+   -1,
+   -1
+  ],
+  "sequence": "GGTTTTGGCAGGGTTTTGGT",
+  "n_ions": 0
+ },
+ {
+  "pdb": "1KF1",
+  "n_tetrads": 3,
+  "topology": "parallel",
+  "loops": [
+   3,
+   3,
+   3
+  ],
+  "loop_types": [
+   "propeller",
+   "propeller",
+   "propeller"
+  ],
+  "fold": "p+p+p+",
+  "loops_usable": [
+   true,
+   true,
+   true
+  ],
+  "strand_dirs": [
+   1,
+   1,
+   1,
+   1
+  ],
+  "sequence": "AGGGTTAGGGTTAGGGTTAGGG",
+  "n_ions": 3
+ },
+ {
+  "pdb": "1QDF",
+  "n_tetrads": 2,
+  "topology": "antiparallel",
+  "loops": [
+   2,
+   3,
+   2
+  ],
+  "loop_types": [
+   "lateral",
+   "lateral",
+   "lateral"
+  ],
+  "fold": "l-l-l-",
+  "loops_usable": [
+   true,
+   true,
+   true
+  ],
+  "strand_dirs": [
+   1,
+   -1,
+   1,
+   -1
+  ],
+  "sequence": "GGTTGGTGTGGTTGG",
+  "n_ions": 0
+ },
+ {
+  "pdb": "1QDH",
+  "n_tetrads": 2,
+  "topology": "antiparallel",
+  "loops": [
+   2,
+   3,
+   2
+  ],
+  "loop_types": [
+   "lateral",
+   "lateral",
+   "lateral"
+  ],
+  "fold": "l-l-l-",
+  "loops_usable": [
+   true,
+   true,
+   true
+  ],
+  "strand_dirs": [
+   1,
+   -1,
+   1,
+   -1
+  ],
+  "sequence": "GGTTGGTGTGGTTGG",
+  "n_ions": 0
+ },
+ {
+  "pdb": "1XAV",
+  "n_tetrads": 3,
+  "topology": "parallel",
+  "loops": [
+   1,
+   2,
+   1
+  ],
+  "loop_types": [
+   "propeller",
+   "propeller",
+   "propeller"
+  ],
+  "fold": "p+p+p+",
+  "loops_usable": [
+   true,
+   true,
+   true
+  ],
+  "strand_dirs": [
+   1,
+   1,
+   1,
+   1
+  ],
+  "sequence": "TGAGGGTGGGTAGGGTGGGTAA",
+  "n_ions": 2
+ },
+ {
+  "pdb": "2F8U",
+  "n_tetrads": 3,
+  "topology": "hybrid",
+  "loops": [
+   3,
+   7,
+   1
+  ],
+  "loop_types": [
+   "lateral",
+   "lateral",
+   "propeller"
+  ],
+  "fold": "l+l+p+",
+  "loops_usable": [
+   true,
+   true,
+   true
+  ],
+  "strand_dirs": [
+   1,
+   1,
+   1,
+   -1
+  ],
+  "sequence": "GGGCGCGGGAGGAATTGGGCGGG",
+  "n_ions": 0
+ },
+ {
+  "pdb": "2GKU",
+  "n_tetrads": 3,
+  "topology": "hybrid",
+  "loops": [
+   3,
+   3,
+   3
+  ],
+  "loop_types": [
+   "propeller",
+   "lateral",
+   "lateral"
+  ],
+  "fold": "p+l+l+",
+  "loops_usable": [
+   true,
+   true,
+   true
+  ],
+  "strand_dirs": [
+   1,
+   1,
+   -1,
+   1
+  ],
+  "sequence": "TTGGGTTAGGGTTAGGGTTAGGGA",
+  "n_ions": 0
+ },
+ {
+  "pdb": "2HY9",
+  "n_tetrads": 3,
+  "topology": "hybrid",
+  "loops": [
+   3,
+   3,
+   3
+  ],
+  "loop_types": [
+   "propeller",
+   "lateral",
+   "lateral"
+  ],
+  "fold": "p+l+l+",
+  "loops_usable": [
+   true,
+   true,
+   true
+  ],
+  "strand_dirs": [
+   1,
+   1,
+   -1,
+   1
+  ],
+  "sequence": "AAAGGGTTAGGGTTAGGGTTAGGGAA",
+  "n_ions": 0
+ },
+ {
+  "pdb": "2IDN",
+  "n_tetrads": 2,
+  "topology": "antiparallel",
+  "loops": [
+   2,
+   3,
+   2
+  ],
+  "loop_types": [
+   "lateral",
+   "lateral",
+   "lateral"
+  ],
+  "fold": "l-l-l-",
+  "loops_usable": [
+   false,
+   true,
+   true
+  ],
+  "strand_dirs": [
+   1,
+   -1,
+   1,
+   -1
+  ],
+  "sequence": "GGTTGGTGTGGTTGG",
+  "n_ions": 0
+ },
+ {
+  "pdb": "2JPZ",
+  "n_tetrads": 3,
+  "topology": "hybrid",
+  "loops": [
+   3,
+   3,
+   3
+  ],
+  "loop_types": [
+   "lateral",
+   "lateral",
+   "propeller"
+  ],
+  "fold": "l+l+p+",
+  "loops_usable": [
+   true,
+   true,
+   true
+  ],
+  "strand_dirs": [
+   1,
+   1,
+   1,
+   -1
+  ],
+  "sequence": "TTAGGGTTAGGGTTAGGGTTAGGGTT",
+  "n_ions": 0
+ },
+ {
+  "pdb": "2KF8",
+  "n_tetrads": 2,
+  "topology": "antiparallel",
+  "loops": [
+   4,
+   5,
+   3
+  ],
+  "loop_types": [
+   "lateral",
+   "diagonal",
+   "lateral"
+  ],
+  "fold": "l+dl-",
+  "loops_usable": [
+   true,
+   true,
+   true
+  ],
+  "strand_dirs": [
+   1,
+   1,
+   -1,
+   -1
+  ],
+  "sequence": "GGGTTAGGGTTAGGGTTAGGGT",
+  "n_ions": 0
+ },
+ {
+  "pdb": "2KKA",
+  "n_tetrads": 2,
+  "topology": "antiparallel",
+  "loops": [
+   4,
+   5,
+   3
+  ],
+  "loop_types": [
+   "lateral",
+   "diagonal",
+   "lateral"
+  ],
+  "fold": "l+dl-",
+  "loops_usable": [
+   true,
+   true,
+   true
+  ],
+  "strand_dirs": [
+   1,
+   1,
+   -1,
+   -1
+  ],
+  "sequence": "AGGGTTAGGGTTAIGGTTAGGGT",
+  "n_ions": 0
+ },
+ {
+  "pdb": "2KM3",
+  "n_tetrads": 2,
+  "topology": "antiparallel",
+  "loops": [
+   4,
+   4,
+   4
+  ],
+  "loop_types": [
+   "lateral",
+   "lateral",
+   "lateral"
+  ],
+  "fold": "l-l-l-",
+  "loops_usable": [
+   true,
+   true,
+   true
+  ],
+  "strand_dirs": [
+   1,
+   -1,
+   1,
+   -1
+  ],
+  "sequence": "AGGGCTAGGGCTAGGGCTAGGG",
+  "n_ions": 0
+ },
+ {
+  "pdb": "2KOW",
+  "n_tetrads": 2,
+  "topology": "antiparallel",
+  "loops": [
+   3,
+   4,
+   3
+  ],
+  "loop_types": [
+   "lateral",
+   "diagonal",
+   "lateral"
+  ],
+  "fold": "l-dl+",
+  "loops_usable": [
+   true,
+   true,
+   true
+  ],
+  "strand_dirs": [
+   1,
+   -1,
+   -1,
+   1
+  ],
+  "sequence": "TAGGGTAGGGTAGGGTAIGG",
+  "n_ions": 0
+ },
+ {
+  "pdb": "2KQG",
+  "n_tetrads": 3,
+  "topology": "parallel",
+  "loops": [
+   1,
+   5,
+   1
+  ],
+  "loop_types": [
+   "propeller",
+   "propeller",
+   "propeller"
+  ],
+  "fold": "p+p+p+",
+  "loops_usable": [
+   true,
+   true,
+   true
+  ],
+  "strand_dirs": [
+   1,
+   1,
+   1,
+   1
+  ],
+  "sequence": "CGGGCGGGCACGAGGGAGGGT",
+  "n_ions": 2
+ },
+ {
+  "pdb": "2KQH",
+  "n_tetrads": 3,
+  "topology": "parallel",
+  "loops": [
+   1,
+   5,
+   1
+  ],
+  "loop_types": [
+   "propeller",
+   "propeller",
+   "propeller"
+  ],
+  "fold": "p+p+p+",
+  "loops_usable": [
+   true,
+   true,
+   true
+  ],
+  "strand_dirs": [
+   1,
+   1,
+   1,
+   1
+  ],
+  "sequence": "CGGGCGGGCGCGAGGGAGGGT",
+  "n_ions": 2
+ },
+ {
+  "pdb": "2KYP",
+  "n_tetrads": 3,
+  "topology": "parallel",
+  "loops": [
+   1,
+   5,
+   1
+  ],
+  "loop_types": [
+   "propeller",
+   "propeller",
+   "propeller"
+  ],
+  "fold": "p+p+p+",
+  "loops_usable": [
+   true,
+   true,
+   true
+  ],
+  "strand_dirs": [
+   1,
+   1,
+   1,
+   1
+  ],
+  "sequence": "CGGGCGGGCGCTAGGGAGGGT",
+  "n_ions": 0
+ },
+ {
+  "pdb": "2KZD",
+  "n_tetrads": 3,
+  "topology": "hybrid",
+  "loops": [
+   3,
+   2,
+   1
+  ],
+  "loop_types": [
+   "lateral",
+   "lateral",
+   "propeller"
+  ],
+  "fold": "l+l+p+",
+  "loops_usable": [
+   true,
+   true,
+   true
+  ],
+  "strand_dirs": [
+   1,
+   1,
+   1,
+   -1
+  ],
+  "sequence": "AGGGIAGGGGCTGGGAGGGC",
+  "n_ions": 0
+ },
+ {
+  "pdb": "2KZE",
+  "n_tetrads": 3,
+  "topology": "parallel",
+  "loops": [
+   1,
+   3,
+   1
+  ],
+  "loop_types": [
+   "propeller",
+   "propeller",
+   "propeller"
+  ],
+  "fold": "p+p+p+",
+  "loops_usable": [
+   true,
+   true,
+   true
+  ],
+  "strand_dirs": [
+   1,
+   1,
+   1,
+   1
+  ],
+  "sequence": "AIGGGAGGGICTGGGAGGGC",
+  "n_ions": 0
+ },
+ {
+  "pdb": "2L7V",
+  "n_tetrads": 3,
+  "topology": "parallel",
+  "loops": [
+   1,
+   2,
+   1
+  ],
+  "loop_types": [
+   "propeller",
+   "propeller",
+   "propeller"
+  ],
+  "fold": "p+p+p+",
+  "loops_usable": [
+   true,
+   true,
+   true
+  ],
+  "strand_dirs": [
+   1,
+   1,
+   1,
+   1
+  ],
+  "sequence": "TGAGGGTGGGTAGGGTGGGTAA",
+  "n_ions": 2
+ },
+ {
+  "pdb": "2L88",
+  "n_tetrads": 3,
+  "topology": "parallel",
+  "loops": [
+   3,
+   1,
+   3
+  ],
+  "loop_types": [
+   "propeller",
+   "propeller",
+   "propeller"
+  ],
+  "fold": "p+p+p+",
+  "loops_usable": [
+   true,
+   true,
+   true
+  ],
+  "strand_dirs": [
+   1,
+   1,
+   1,
+   1
+  ],
+  "sequence": "GGGGCGGGGCGGGGCGGGGT",
+  "n_ions": 0
+ },
+ {
+  "pdb": "2LBY",
+  "n_tetrads": 3,
+  "topology": "parallel",
+  "loops": [
+   1,
+   2,
+   1
+  ],
+  "loop_types": [
+   "propeller",
+   "propeller",
+   "propeller"
+  ],
+  "fold": "p+p+p+",
+  "loops_usable": [
+   true,
+   true,
+   true
+  ],
+  "strand_dirs": [
+   1,
+   1,
+   1,
+   1
+  ],
+  "sequence": "TAGGGAGGGTAGGGAGGGT",
+  "n_ions": 0
+ },
+ {
+  "pdb": "2LD8",
+  "n_tetrads": 3,
+  "topology": "parallel",
+  "loops": [
+   3,
+   3,
+   3
+  ],
+  "loop_types": [
+   "propeller",
+   "propeller",
+   "propeller"
+  ],
+  "fold": "p+p+p+",
+  "loops_usable": [
+   true,
+   true,
+   true
+  ],
+  "strand_dirs": [
+   1,
+   1,
+   1,
+   1
+  ],
+  "sequence": "TAGGGTTAGGGTTAGGGTTAGGG",
+  "n_ions": 0
+ },
+ {
+  "pdb": "2LEE",
+  "n_tetrads": 3,
+  "topology": "parallel",
+  "loops": [
+   1,
+   1,
+   1
+  ],
+  "loop_types": [
+   "propeller",
+   "propeller",
+   "propeller"
+  ],
+  "fold": "p+p+p+",
+  "loops_usable": [
+   true,
+   true,
+   true
+  ],
+  "strand_dirs": [
+   1,
+   1,
+   1,
+   1
+  ],
+  "sequence": "TAGGGCGGGAGGGAGGGAA",
+  "n_ions": 0
+ },
+ {
+  "pdb": "2LK7",
+  "n_tetrads": 3,
+  "topology": "parallel",
+  "loops": [
+   1,
+   1,
+   1
+  ],
+  "loop_types": [
+   "propeller",
+   "propeller",
+   "propeller"
+  ],
+  "fold": "p+p+p+",
+  "loops_usable": [
+   true,
+   true,
+   true
+  ],
+  "strand_dirs": [
+   1,
+   1,
+   1,
+   1
+  ],
+  "sequence": "TTGGGTGGGTGGGTGGGT",
+  "n_ions": 0
+ },
+ {
+  "pdb": "2LOD",
+  "n_tetrads": 3,
+  "topology": "hybrid",
+  "loops": [
+   2,
+   5,
+   3
+  ],
+  "loop_types": [
+   "propeller",
+   "diagonal",
+   "lateral"
+  ],
+  "fold": "p+dl-",
+  "loops_usable": [
+   true,
+   true,
+   true
+  ],
+  "strand_dirs": [
+   1,
+   -1,
+   1,
+   1
+  ],
+  "sequence": "GGGATGGGACACAGGGGACGGG",
+  "n_ions": 0
+ },
+ {
+  "pdb": "2LPW",
+  "n_tetrads": 3,
+  "topology": "parallel",
+  "loops": [
+   1,
+   9,
+   1
+  ],
+  "loop_types": [
+   "propeller",
+   "propeller",
+   "propeller"
+  ],
+  "fold": "p+p+p+",
+  "loops_usable": [
+   true,
+   true,
+   true
+  ],
+  "strand_dirs": [
+   1,
+   1,
+   1,
+   1
+  ],
+  "sequence": "AAGGGTGGGTGTAAGTGTGGGTGGGT",
+  "n_ions": 0
+ },
+ {
+  "pdb": "2LXQ",
+  "n_tetrads": 3,
+  "topology": "parallel",
+  "loops": [
+   1,
+   2,
+   1
+  ],
+  "loop_types": [
+   "propeller",
+   "propeller",
+   "propeller"
+  ],
+  "fold": "p+p+p+",
+  "loops_usable": [
+   true,
+   true,
+   true
+  ],
+  "strand_dirs": [
+   1,
+   1,
+   1,
+   1
+  ],
+  "sequence": "TAGGGTGGGTTGGGTGGGGAAT",
+  "n_ions": 0
+ },
+ {
+  "pdb": "2LYG",
+  "n_tetrads": 2,
+  "topology": "antiparallel",
+  "loops": [
+   2,
+   3,
+   2
+  ],
+  "loop_types": [
+   "lateral",
+   "lateral",
+   "lateral"
+  ],
+  "fold": "l-l-l-",
+  "loops_usable": [
+   true,
+   true,
+   true
+  ],
+  "strand_dirs": [
+   1,
+   -1,
+   1,
+   -1
+  ],
+  "sequence": "GGTTGGTGTGGTTGG",
+  "n_ions": 0
+ },
+ {
+  "pdb": "2M27",
+  "n_tetrads": 3,
+  "topology": "parallel",
+  "loops": [
+   1,
+   4,
+   1
+  ],
+  "loop_types": [
+   "propeller",
+   "propeller",
+   "propeller"
+  ],
+  "fold": "p+p+p+",
+  "loops_usable": [
+   true,
+   true,
+   true
+  ],
+  "strand_dirs": [
+   1,
+   1,
+   1,
+   1
+  ],
+  "sequence": "CGGGGCGGGCCTTGGGCGGGGT",
+  "n_ions": 0
+ },
+ {
+  "pdb": "2M6V",
+  "n_tetrads": 2,
+  "topology": "antiparallel",
+  "loops": [
+   4,
+   4,
+   2
+  ],
+  "loop_types": [
+   "lateral",
+   "diagonal",
+   "lateral"
+  ],
+  "fold": "l+dl-",
+  "loops_usable": [
+   true,
+   true,
+   true
+  ],
+  "strand_dirs": [
+   1,
+   1,
+   -1,
+   -1
+  ],
+  "sequence": "GGGTTGGGTTTTGGGTGGG",
+  "n_ions": 0
+ },
+ {
+  "pdb": "2M6W",
+  "n_tetrads": 4,
+  "topology": "antiparallel",
+  "loops": [
+   2,
+   4,
+   2
+  ],
+  "loop_types": [
+   "lateral",
+   "diagonal",
+   "lateral"
+  ],
+  "fold": "l+dl-",
+  "loops_usable": [
+   true,
+   true,
+   true
+  ],
+  "strand_dirs": [
+   1,
+   1,
+   -1,
+   -1
+  ],
+  "sequence": "GGGGTTGGGGTTTTGGGGAAGGGG",
+  "n_ions": 0
+ },
+ {
+  "pdb": "2MB2",
+  "n_tetrads": 3,
+  "topology": "parallel",
+  "loops": [
+   1,
+   1,
+   1
+  ],
+  "loop_types": [
+   "propeller",
+   "propeller",
+   "propeller"
+  ],
+  "fold": "p+p+p+",
+  "loops_usable": [
+   true,
+   true,
+   true
+  ],
+  "strand_dirs": [
+   1,
+   1,
+   1,
+   1
+  ],
+  "sequence": "TTGGGGGGGGGGGGGGGT",
+  "n_ions": 0
+ },
+ {
+  "pdb": "2MB3",
+  "n_tetrads": 3,
+  "topology": "hybrid",
+  "loops": [
+   3,
+   3,
+   3
+  ],
+  "loop_types": [
+   "propeller",
+   "lateral",
+   "lateral"
+  ],
+  "fold": "p+l+l+",
+  "loops_usable": [
+   true,
+   true,
+   true
+  ],
+  "strand_dirs": [
+   1,
+   1,
+   -1,
+   1
+  ],
+  "sequence": "TTGGGTTAGGGTTAGGGTTAGGGA",
+  "n_ions": 0
+ },
+ {
+  "pdb": "2MBJ",
+  "n_tetrads": 2,
+  "topology": "antiparallel",
+  "loops": [
+   3,
+   4,
+   5
+  ],
+  "loop_types": [
+   "lateral",
+   "propeller",
+   "lateral"
+  ],
+  "fold": "l-p-l-",
+  "loops_usable": [
+   true,
+   true,
+   false
+  ],
+  "strand_dirs": [
+   1,
+   -1,
+   -1,
+   1
+  ],
+  "sequence": "TTAGGGTTAGGGTTAGGGTTAGGTTA",
+  "n_ions": 0
+ },
+ {
+  "pdb": "2MFT",
+  "n_tetrads": 3,
+  "topology": "antiparallel",
+  "loops": [
+   4,
+   1,
+   4
+  ],
+  "loop_types": [
+   "diagonal",
+   "propeller",
+   "diagonal"
+  ],
+  "fold": "dp-d",
+  "loops_usable": [
+   true,
+   true,
+   true
+  ],
+  "strand_dirs": [
+   1,
+   1,
+   -1,
+   -1
+  ],
+  "sequence": "GGGTTTTGGGTGGGTTTTGGG",
+  "n_ions": 0
+ },
+ {
+  "pdb": "2MFU",
+  "n_tetrads": 2,
+  "topology": "hybrid",
+  "loops": [
+   4,
+   3,
+   3
+  ],
+  "loop_types": [
+   "lateral",
+   "lateral",
+   "propeller"
+  ],
+  "fold": "l+l+p+",
+  "loops_usable": [
+   true,
+   true,
+   true
+  ],
+  "strand_dirs": [
+   1,
+   1,
+   1,
+   -1
+  ],
+  "sequence": "TGGGTTTGGGTTGGGTTTGGG",
+  "n_ions": 0
+ },
+ {
+  "pdb": "3R6R",
+  "n_tetrads": 3,
+  "topology": "parallel",
+  "loops": [
+   3,
+   3,
+   3
+  ],
+  "loop_types": [
+   "propeller",
+   "propeller",
+   "propeller"
+  ],
+  "fold": "p+p+p+",
+  "loops_usable": [
+   true,
+   true,
+   true
+  ],
+  "strand_dirs": [
+   1,
+   1,
+   1,
+   1
+  ],
+  "sequence": "AGGGTTAGGGTTAGGGTTAGGG",
+  "n_ions": 2
+ },
+ {
+  "pdb": "3T5E",
+  "n_tetrads": 3,
+  "topology": "parallel",
+  "loops": [
+   3,
+   3,
+   3
+  ],
+  "loop_types": [
+   "propeller",
+   "propeller",
+   "propeller"
+  ],
+  "fold": "p+p+p+",
+  "loops_usable": [
+   true,
+   true,
+   true
+  ],
+  "strand_dirs": [
+   1,
+   1,
+   1,
+   1
+  ],
+  "sequence": "AGGGTTAGGGTTAGGGTTAGGG",
+  "n_ions": 3
+ },
+ {
+  "pdb": "3UYH",
+  "n_tetrads": 3,
+  "topology": "parallel",
+  "loops": [
+   3,
+   3,
+   3
+  ],
+  "loop_types": [
+   "propeller",
+   "propeller",
+   "propeller"
+  ],
+  "fold": "p+p+p+",
+  "loops_usable": [
+   true,
+   true,
+   true
+  ],
+  "strand_dirs": [
+   1,
+   1,
+   1,
+   1
+  ],
+  "sequence": "GGGTTAGGGTTAGGGTTAGGG",
+  "n_ions": 3
+ },
+ {
+  "pdb": "4DA3",
+  "n_tetrads": 2,
+  "topology": "parallel",
+  "loops": [
+   4,
+   4,
+   4
+  ],
+  "loop_types": [
+   "propeller",
+   "propeller",
+   "propeller"
+  ],
+  "fold": "p+p+p+",
+  "loops_usable": [
+   true,
+   true,
+   true
+  ],
+  "strand_dirs": [
+   1,
+   1,
+   1,
+   1
+  ],
+  "sequence": "GGGTTAGGGTTAGGGTTAGGG",
+  "n_ions": 3
+ },
+ {
+  "pdb": "4DAQ",
+  "n_tetrads": 3,
+  "topology": "parallel",
+  "loops": [
+   3,
+   3,
+   3
+  ],
+  "loop_types": [
+   "propeller",
+   "propeller",
+   "propeller"
+  ],
+  "fold": "p+p+p+",
+  "loops_usable": [
+   true,
+   true,
+   true
+  ],
+  "strand_dirs": [
+   1,
+   1,
+   1,
+   1
+  ],
+  "sequence": "GGGTTAGGGTTAGGGTTAGGG",
+  "n_ions": 3
+ },
+ {
+  "pdb": "4FXM",
+  "n_tetrads": 3,
+  "topology": "parallel",
+  "loops": [
+   3,
+   3,
+   3
+  ],
+  "loop_types": [
+   "propeller",
+   "propeller",
+   "propeller"
+  ],
+  "fold": "p+p+p+",
+  "loops_usable": [
+   true,
+   true,
+   true
+  ],
+  "strand_dirs": [
+   1,
+   1,
+   1,
+   1
+  ],
+  "sequence": "AGGGTTAGGGTTAGGGTTAGGG",
+  "n_ions": 3
+ },
+ {
+  "pdb": "4G0F",
+  "n_tetrads": 3,
+  "topology": "parallel",
+  "loops": [
+   3,
+   3,
+   3
+  ],
+  "loop_types": [
+   "propeller",
+   "propeller",
+   "propeller"
+  ],
+  "fold": "p+p+p+",
+  "loops_usable": [
+   true,
+   true,
+   true
+  ],
+  "strand_dirs": [
+   1,
+   1,
+   1,
+   1
+  ],
+  "sequence": "AGGGTTAGGGTTAGGGTTAGGG",
+  "n_ions": 3
+ },
+ {
+  "pdb": "5CCW",
+  "n_tetrads": 3,
+  "topology": "parallel",
+  "loops": [
+   3,
+   3,
+   3
+  ],
+  "loop_types": [
+   "propeller",
+   "propeller",
+   "propeller"
+  ],
+  "fold": "p+p+p+",
+  "loops_usable": [
+   true,
+   false,
+   true
+  ],
+  "strand_dirs": [
+   1,
+   1,
+   1,
+   1
+  ],
+  "sequence": "TAGGGTTAGGGTGGGTTAGGG",
+  "n_ions": 2
+ },
+ {
+  "pdb": "5J05",
+  "n_tetrads": 3,
+  "topology": "antiparallel",
+  "loops": [
+   3,
+   4,
+   1
+  ],
+  "loop_types": [
+   "lateral",
+   "diagonal",
+   "lateral"
+  ],
+  "fold": "l+dl-",
+  "loops_usable": [
+   true,
+   true,
+   true
+  ],
+  "strand_dirs": [
+   1,
+   1,
+   -1,
+   -1
+  ],
+  "sequence": "GGGTTTGGGTTTTGGGAGGG",
+  "n_ions": 0
+ },
+ {
+  "pdb": "5J4P",
+  "n_tetrads": 2,
+  "topology": "antiparallel",
+  "loops": [
+   3,
+   4,
+   3
+  ],
+  "loop_types": [
+   "lateral",
+   "diagonal",
+   "lateral"
+  ],
+  "fold": "l+dl-",
+  "loops_usable": [
+   true,
+   true,
+   true
+  ],
+  "strand_dirs": [
+   1,
+   1,
+   -1,
+   -1
+  ],
+  "sequence": "GGTTTGGTTTTGGTTTGG",
+  "n_ions": 0
+ },
+ {
+  "pdb": "5J4W",
+  "n_tetrads": 2,
+  "topology": "antiparallel",
+  "loops": [
+   3,
+   4,
+   2
+  ],
+  "loop_types": [
+   "lateral",
+   "diagonal",
+   "lateral"
+  ],
+  "fold": "l+dl-",
+  "loops_usable": [
+   true,
+   true,
+   true
+  ],
+  "strand_dirs": [
+   1,
+   1,
+   -1,
+   -1
+  ],
+  "sequence": "GGTTTGGTTTTGGTTGG",
+  "n_ions": 0
+ },
+ {
+  "pdb": "5J6U",
+  "n_tetrads": 4,
+  "topology": "antiparallel",
+  "loops": [
+   3,
+   4,
+   2
+  ],
+  "loop_types": [
+   "lateral",
+   "diagonal",
+   "lateral"
+  ],
+  "fold": "l+dl-",
+  "loops_usable": [
+   true,
+   true,
+   true
+  ],
+  "strand_dirs": [
+   1,
+   1,
+   -1,
+   -1
+  ],
+  "sequence": "GGGGTTTGGGGTTTTGGGGAAGGGG",
+  "n_ions": 0
+ },
+ {
+  "pdb": "5LIG",
+  "n_tetrads": 3,
+  "topology": "parallel",
+  "loops": [
+   1,
+   2,
+   1
+  ],
+  "loop_types": [
+   "propeller",
+   "propeller",
+   "propeller"
+  ],
+  "fold": "p+p+p+",
+  "loops_usable": [
+   true,
+   true,
+   true
+  ],
+  "strand_dirs": [
+   1,
+   1,
+   1,
+   1
+  ],
+  "sequence": "TAGGGAGGGTAGGGAGGGT",
+  "n_ions": 0
+ },
+ {
+  "pdb": "5LQG",
+  "n_tetrads": 2,
+  "topology": "antiparallel",
+  "loops": [
+   4,
+   5,
+   3
+  ],
+  "loop_types": [
+   "lateral",
+   "diagonal",
+   "lateral"
+  ],
+  "fold": "l+dl-",
+  "loops_usable": [
+   true,
+   true,
+   true
+  ],
+  "strand_dirs": [
+   1,
+   1,
+   -1,
+   -1
+  ],
+  "sequence": "TAGGGTTAGGGTTAGGGTTAGG",
+  "n_ions": 0
+ },
+ {
+  "pdb": "5LQH",
+  "n_tetrads": 2,
+  "topology": "antiparallel",
+  "loops": [
+   4,
+   5,
+   3
+  ],
+  "loop_types": [
+   "lateral",
+   "diagonal",
+   "lateral"
+  ],
+  "fold": "l-dl+",
+  "loops_usable": [
+   true,
+   true,
+   true
+  ],
+  "strand_dirs": [
+   1,
+   -1,
+   -1,
+   1
+  ],
+  "sequence": "TAGGGTTAGGGTTAGGGTTAGG",
+  "n_ions": 0
+ },
+ {
+  "pdb": "5MBR",
+  "n_tetrads": 2,
+  "topology": "hybrid",
+  "loops": [
+   4,
+   3,
+   5
+  ],
+  "loop_types": [
+   "propeller",
+   "lateral",
+   "lateral"
+  ],
+  "fold": "p+l+l+",
+  "loops_usable": [
+   false,
+   true,
+   false
+  ],
+  "strand_dirs": [
+   1,
+   1,
+   -1,
+   1
+  ],
+  "sequence": "TTGGTTAGGTTAGGGTTAGGA",
+  "n_ions": 0
+ },
+ {
+  "pdb": "5MCR",
+  "n_tetrads": 2,
+  "topology": "hybrid",
+  "loops": [
+   3,
+   5,
+   5
+  ],
+  "loop_types": [
+   "propeller",
+   "diagonal",
+   "lateral"
+  ],
+  "fold": "p+dl-",
+  "loops_usable": [
+   false,
+   true,
+   false
+  ],
+  "strand_dirs": [
+   1,
+   1,
+   1,
+   -1
+  ],
+  "sequence": "GGATGGACACAGGGGACGG",
+  "n_ions": 0
+ },
+ {
+  "pdb": "5MJX",
+  "n_tetrads": 2,
+  "topology": "antiparallel",
+  "loops": [
+   2,
+   3,
+   2
+  ],
+  "loop_types": [
+   "lateral",
+   "lateral",
+   "lateral"
+  ],
+  "fold": "l-l-l-",
+  "loops_usable": [
+   false,
+   true,
+   true
+  ],
+  "strand_dirs": [
+   1,
+   -1,
+   1,
+   -1
+  ],
+  "sequence": "GGTGGTGTGGTTGG",
+  "n_ions": 0
+ },
+ {
+  "pdb": "5MTA",
+  "n_tetrads": 3,
+  "topology": "hybrid",
+  "loops": [
+   4,
+   10,
+   4
+  ],
+  "loop_types": [
+   "propeller",
+   "diagonal",
+   "lateral"
+  ],
+  "fold": "p+dl-",
+  "loops_usable": [
+   true,
+   true,
+   true
+  ],
+  "strand_dirs": [
+   1,
+   -1,
+   1,
+   1
+  ],
+  "sequence": "CAGGGTTAAGGGTATAACTTTAGGGGTTAGGGTT",
+  "n_ions": 0
+ },
+ {
+  "pdb": "5MTG",
+  "n_tetrads": 3,
+  "topology": "hybrid",
+  "loops": [
+   4,
+   10,
+   4
+  ],
+  "loop_types": [
+   "propeller",
+   "diagonal",
+   "lateral"
+  ],
+  "fold": "p+dl-",
+  "loops_usable": [
+   true,
+   true,
+   true
+  ],
+  "strand_dirs": [
+   1,
+   -1,
+   1,
+   1
+  ],
+  "sequence": "CAGGGTTAAGGGTATAACTTTAGGGGTTAGGGTT",
+  "n_ions": 0
+ },
+ {
+  "pdb": "5NYS",
+  "n_tetrads": 3,
+  "topology": "parallel",
+  "loops": [
+   2,
+   1,
+   2
+  ],
+  "loop_types": [
+   "propeller",
+   "propeller",
+   "propeller"
+  ],
+  "fold": "p+p+p+",
+  "loops_usable": [
+   true,
+   true,
+   true
+  ],
+  "strand_dirs": [
+   1,
+   1,
+   1,
+   1
+  ],
+  "sequence": "TAGGGACGGGCGGGCAGGGT",
+  "n_ions": 0
+ },
+ {
+  "pdb": "5NYT",
+  "n_tetrads": 3,
+  "topology": "parallel",
+  "loops": [
+   2,
+   1,
+   2
+  ],
+  "loop_types": [
+   "propeller",
+   "propeller",
+   "propeller"
+  ],
+  "fold": "p+p+p+",
+  "loops_usable": [
+   true,
+   true,
+   true
+  ],
+  "strand_dirs": [
+   -1,
+   -1,
+   -1,
+   -1
+  ],
+  "sequence": "TAGGGACGGGCGGGCAGGGT",
+  "n_ions": 0
+ },
+ {
+  "pdb": "5NYU",
+  "n_tetrads": 3,
+  "topology": "parallel",
+  "loops": [
+   2,
+   1,
+   2
+  ],
+  "loop_types": [
+   "propeller",
+   "propeller",
+   "propeller"
+  ],
+  "fold": "p+p+p+",
+  "loops_usable": [
+   true,
+   true,
+   true
+  ],
+  "strand_dirs": [
+   1,
+   1,
+   1,
+   1
+  ],
+  "sequence": "TAGGGACGGGCGGGCAGGGT",
+  "n_ions": 0
+ },
+ {
+  "pdb": "5OV2",
+  "n_tetrads": 2,
+  "topology": "hybrid",
+  "loops": [
+   3,
+   5,
+   5
+  ],
+  "loop_types": [
+   "propeller",
+   "diagonal",
+   "lateral"
+  ],
+  "fold": "p+dl-",
+  "loops_usable": [
+   false,
+   true,
+   false
+  ],
+  "strand_dirs": [
+   1,
+   1,
+   1,
+   -1
+  ],
+  "sequence": "GGATGGACACAGGGGACGG",
+  "n_ions": 0
+ },
+ {
+  "pdb": "5W77",
+  "n_tetrads": 3,
+  "topology": "parallel",
+  "loops": [
+   1,
+   2,
+   1
+  ],
+  "loop_types": [
+   "propeller",
+   "propeller",
+   "propeller"
+  ],
+  "fold": "p+p+p+",
+  "loops_usable": [
+   true,
+   true,
+   true
+  ],
+  "strand_dirs": [
+   1,
+   1,
+   1,
+   1
+  ],
+  "sequence": "TGAGGGTGGGTAGGGTGGGTAA",
+  "n_ions": 2
+ },
+ {
+  "pdb": "5YEY",
+  "n_tetrads": 3,
+  "topology": "antiparallel",
+  "loops": [
+   3,
+   3,
+   3
+  ],
+  "loop_types": [
+   "lateral",
+   "lateral",
+   "lateral"
+  ],
+  "fold": "l-l-l-",
+  "loops_usable": [
+   true,
+   true,
+   true
+  ],
+  "strand_dirs": [
+   1,
+   -1,
+   1,
+   -1
+  ],
+  "sequence": "GGGTTAGGGTTAGGGTTTGGG",
+  "n_ions": 0
+ },
+ {
+  "pdb": "5Z80",
+  "n_tetrads": 3,
+  "topology": "hybrid",
+  "loops": [
+   3,
+   3,
+   3
+  ],
+  "loop_types": [
+   "propeller",
+   "lateral",
+   "lateral"
+  ],
+  "fold": "p+l+l+",
+  "loops_usable": [
+   true,
+   true,
+   true
+  ],
+  "strand_dirs": [
+   1,
+   1,
+   -1,
+   1
+  ],
+  "sequence": "AAAGGGTTAGGGTTAGGGTTAGGGAA",
+  "n_ions": 0
+ },
+ {
+  "pdb": "6CCW",
+  "n_tetrads": 3,
+  "topology": "hybrid",
+  "loops": [
+   3,
+   3,
+   3
+  ],
+  "loop_types": [
+   "lateral",
+   "lateral",
+   "propeller"
+  ],
+  "fold": "l+l+p+",
+  "loops_usable": [
+   true,
+   true,
+   true
+  ],
+  "strand_dirs": [
+   -1,
+   1,
+   -1,
+   -1
+  ],
+  "sequence": "TTAGGGTTAGGGTTAGGGTTAGGGTT",
+  "n_ions": 0
+ },
+ {
+  "pdb": "6ERL",
+  "n_tetrads": 2,
+  "topology": "parallel",
+  "loops": [
+   2,
+   3,
+   2
+  ],
+  "loop_types": [
+   "propeller",
+   "propeller",
+   "propeller"
+  ],
+  "fold": "p+p+p+",
+  "loops_usable": [
+   false,
+   false,
+   false
+  ],
+  "strand_dirs": [
+   1,
+   1,
+   1,
+   1
+  ],
+  "sequence": "TGAGGTGGTAGGTGGTAA",
+  "n_ions": 0
+ },
+ {
+  "pdb": "6GZN",
+  "n_tetrads": 2,
+  "topology": "antiparallel",
+  "loops": [
+   3,
+   5,
+   3
+  ],
+  "loop_types": [
+   "lateral",
+   "diagonal",
+   "lateral"
+  ],
+  "fold": "l+dl-",
+  "loops_usable": [
+   true,
+   true,
+   true
+  ],
+  "strand_dirs": [
+   1,
+   1,
+   -1,
+   -1
+  ],
+  "sequence": "GGGTAGGGAGCGGGAGAGGG",
+  "n_ions": 0
+ },
+ {
+  "pdb": "6H5R",
+  "n_tetrads": 3,
+  "topology": "parallel",
+  "loops": [
+   3,
+   3,
+   3
+  ],
+  "loop_types": [
+   "propeller",
+   "propeller",
+   "propeller"
+  ],
+  "fold": "p+p+p+",
+  "loops_usable": [
+   true,
+   true,
+   true
+  ],
+  "strand_dirs": [
+   1,
+   1,
+   1,
+   1
+  ],
+  "sequence": "TAGGGTTAGGGTTAGGGTTAGGGT",
+  "n_ions": 3
+ },
+ {
+  "pdb": "6IA4",
+  "n_tetrads": 2,
+  "topology": "hybrid",
+  "loops": [
+   4,
+   3,
+   5
+  ],
+  "loop_types": [
+   "propeller",
+   "lateral",
+   "lateral"
+  ],
+  "fold": "p+l+l+",
+  "loops_usable": [
+   true,
+   true,
+   false
+  ],
+  "strand_dirs": [
+   1,
+   1,
+   -1,
+   1
+  ],
+  "sequence": "TTGGGTTAGGGTTAGGGTTAGGA",
+  "n_ions": 0
+ },
+ {
+  "pdb": "6IP3",
+  "n_tetrads": 3,
+  "topology": "parallel",
+  "loops": [
+   3,
+   3,
+   3
+  ],
+  "loop_types": [
+   "propeller",
+   "propeller",
+   "propeller"
+  ],
+  "fold": "p+p+p+",
+  "loops_usable": [
+   true,
+   true,
+   true
+  ],
+  "strand_dirs": [
+   1,
+   1,
+   1,
+   1
+  ],
+  "sequence": "AGGGTTAGGGTTAGGGTTAGGG",
+  "n_ions": 3
+ },
+ {
+  "pdb": "6IP7",
+  "n_tetrads": 3,
+  "topology": "parallel",
+  "loops": [
+   3,
+   3,
+   3
+  ],
+  "loop_types": [
+   "propeller",
+   "propeller",
+   "propeller"
+  ],
+  "fold": "p+p+p+",
+  "loops_usable": [
+   true,
+   false,
+   true
+  ],
+  "strand_dirs": [
+   1,
+   1,
+   1,
+   1
+  ],
+  "sequence": "AGGGTTAGGGTAGGGTTAGGG",
+  "n_ions": 3
+ },
+ {
+  "pdb": "6ISW",
+  "n_tetrads": 3,
+  "topology": "parallel",
+  "loops": [
+   3,
+   3,
+   3
+  ],
+  "loop_types": [
+   "propeller",
+   "propeller",
+   "propeller"
+  ],
+  "fold": "p+p+p+",
+  "loops_usable": [
+   true,
+   false,
+   true
+  ],
+  "strand_dirs": [
+   1,
+   1,
+   1,
+   1
+  ],
+  "sequence": "AGGGTTAGGGTAGGGTTAGGG",
+  "n_ions": 3
+ },
+ {
+  "pdb": "6JJ0",
+  "n_tetrads": 3,
+  "topology": "parallel",
+  "loops": [
+   1,
+   2,
+   1
+  ],
+  "loop_types": [
+   "propeller",
+   "propeller",
+   "propeller"
+  ],
+  "fold": "p+p+p+",
+  "loops_usable": [
+   true,
+   true,
+   true
+  ],
+  "strand_dirs": [
+   1,
+   1,
+   1,
+   1
+  ],
+  "sequence": "TGAGGGTGGGTAGGGTGGGTAA",
+  "n_ions": 0
+ },
+ {
+  "pdb": "6JWD",
+  "n_tetrads": 3,
+  "topology": "parallel",
+  "loops": [
+   3,
+   1,
+   3
+  ],
+  "loop_types": [
+   "propeller",
+   "propeller",
+   "propeller"
+  ],
+  "fold": "p+p+p+",
+  "loops_usable": [
+   true,
+   true,
+   true
+  ],
+  "strand_dirs": [
+   1,
+   1,
+   1,
+   1
+  ],
+  "sequence": "GGGGCGGGGCGGGGCGGGGT",
+  "n_ions": 0
+ },
+ {
+  "pdb": "6JWE",
+  "n_tetrads": 3,
+  "topology": "parallel",
+  "loops": [
+   3,
+   1,
+   3
+  ],
+  "loop_types": [
+   "propeller",
+   "propeller",
+   "propeller"
+  ],
+  "fold": "p+p+p+",
+  "loops_usable": [
+   true,
+   true,
+   true
+  ],
+  "strand_dirs": [
+   1,
+   1,
+   1,
+   1
+  ],
+  "sequence": "GGGGCGGGGCGGGGCGGGGT",
+  "n_ions": 0
+ },
+ {
+  "pdb": "6K3Y",
+  "n_tetrads": 2,
+  "topology": "parallel",
+  "loops": [
+   1,
+   2,
+   2
+  ],
+  "loop_types": [
+   "propeller",
+   "propeller",
+   "propeller"
+  ],
+  "fold": "p+p+p+",
+  "loops_usable": [
+   true,
+   true,
+   true
+  ],
+  "strand_dirs": [
+   1,
+   1,
+   1,
+   1
+  ],
+  "sequence": "TTGGTGGGTGGGTGGGT",
+  "n_ions": 0
+ },
+ {
+  "pdb": "6KFI",
+  "n_tetrads": 3,
+  "topology": "hybrid",
+  "loops": [
+   3,
+   3,
+   3
+  ],
+  "loop_types": [
+   "propeller",
+   "lateral",
+   "lateral"
+  ],
+  "fold": "p+l+l+",
+  "loops_usable": [
+   true,
+   true,
+   true
+  ],
+  "strand_dirs": [
+   1,
+   1,
+   -1,
+   1
+  ],
+  "sequence": "AAAGGGTTAGGGTTAGGGTTAGGGAA",
+  "n_ions": 0
+ },
+ {
+  "pdb": "6KFJ",
+  "n_tetrads": 3,
+  "topology": "hybrid",
+  "loops": [
+   3,
+   3,
+   3
+  ],
+  "loop_types": [
+   "lateral",
+   "lateral",
+   "propeller"
+  ],
+  "fold": "l+l+p+",
+  "loops_usable": [
+   true,
+   true,
+   true
+  ],
+  "strand_dirs": [
+   1,
+   1,
+   1,
+   -1
+  ],
+  "sequence": "TTAGGGTTAGGGTTAGGGTTAGGGTT",
+  "n_ions": 0
+ },
+ {
+  "pdb": "6L92",
+  "n_tetrads": 3,
+  "topology": "hybrid",
+  "loops": [
+   5,
+   4,
+   1
+  ],
+  "loop_types": [
+   "lateral",
+   "diagonal",
+   "propeller"
+  ],
+  "fold": "l-dp+",
+  "loops_usable": [
+   true,
+   true,
+   true
+  ],
+  "strand_dirs": [
+   1,
+   -1,
+   1,
+   1
+  ],
+  "sequence": "GGGCCACCGGGCAGTGGGCGGG",
+  "n_ions": 0
+ },
+ {
+  "pdb": "6LNZ",
+  "n_tetrads": 2,
+  "topology": "parallel",
+  "loops": [
+   2,
+   5,
+   2
+  ],
+  "loop_types": [
+   "propeller",
+   "propeller",
+   "propeller"
+  ],
+  "fold": "p+p+p+",
+  "loops_usable": [
+   true,
+   true,
+   true
+  ],
+  "strand_dirs": [
+   1,
+   1,
+   1,
+   1
+  ],
+  "sequence": "CGGGGCGGGCCTTGGGCGGGGT",
+  "n_ions": 0
+ },
+ {
+  "pdb": "6NEB",
+  "n_tetrads": 3,
+  "topology": "parallel",
+  "loops": [
+   1,
+   6,
+   1
+  ],
+  "loop_types": [
+   "propeller",
+   "propeller",
+   "propeller"
+  ],
+  "fold": "p+p+p+",
+  "loops_usable": [
+   true,
+   true,
+   true
+  ],
+  "strand_dirs": [
+   1,
+   1,
+   1,
+   1
+  ],
+  "sequence": "TTGGGGAGGGTTTTAAGGGTGGGGAAT",
+  "n_ions": 0
+ },
+ {
+  "pdb": "6O2L",
+  "n_tetrads": 3,
+  "topology": "parallel",
+  "loops": [
+   1,
+   2,
+   1
+  ],
+  "loop_types": [
+   "propeller",
+   "propeller",
+   "propeller"
+  ],
+  "fold": "p+p+p+",
+  "loops_usable": [
+   true,
+   true,
+   true
+  ],
+  "strand_dirs": [
+   1,
+   1,
+   1,
+   1
+  ],
+  "sequence": "TGAGGGTGGGTAGGGTGGGTAA",
+  "n_ions": 0
+ },
+ {
+  "pdb": "6R9L",
+  "n_tetrads": 2,
+  "topology": "hybrid",
+  "loops": [
+   5,
+   2,
+   2
+  ],
+  "loop_types": [
+   "lateral",
+   "propeller",
+   "propeller"
+  ],
+  "fold": "l-p-p-",
+  "loops_usable": [
+   true,
+   false,
+   false
+  ],
+  "strand_dirs": [
+   1,
+   -1,
+   -1,
+   -1
+  ],
+  "sequence": "GCGTGGGTCAGGGTGGTGGACGC",
+  "n_ions": 0
+ },
+ {
+  "pdb": "6V0L",
+  "n_tetrads": 2,
+  "topology": "parallel",
+  "loops": [
+   2,
+   1,
+   2
+  ],
+  "loop_types": [
+   "propeller",
+   "propeller",
+   "propeller"
+  ],
+  "fold": "p+p+p+",
+  "loops_usable": [
+   true,
+   true,
+   true
+  ],
+  "strand_dirs": [
+   1,
+   1,
+   1,
+   1
+  ],
+  "sequence": "AGGGAGGGCGGCGGGACA",
+  "n_ions": 0
+ },
+ {
+  "pdb": "6W9P",
+  "n_tetrads": 4,
+  "topology": "parallel",
+  "loops": [
+   2,
+   2,
+   2
+  ],
+  "loop_types": [
+   "propeller",
+   "propeller",
+   "propeller"
+  ],
+  "fold": "p+p+p+",
+  "loops_usable": [
+   true,
+   true,
+   true
+  ],
+  "strand_dirs": [
+   1,
+   1,
+   1,
+   1
+  ],
+  "sequence": "GTTGGGGTTGGGGTTGGGGTTGGGGT",
+  "n_ions": 4
+ },
+ {
+  "pdb": "6YY4",
+  "n_tetrads": 3,
+  "topology": "parallel",
+  "loops": [
+   1,
+   2,
+   1
+  ],
+  "loop_types": [
+   "propeller",
+   "propeller",
+   "propeller"
+  ],
+  "fold": "p+p+p+",
+  "loops_usable": [
+   true,
+   true,
+   true
+  ],
+  "strand_dirs": [
+   1,
+   1,
+   1,
+   1
+  ],
+  "sequence": "GGGTGGGAAGGGTGGGA",
+  "n_ions": 0
+ },
+ {
+  "pdb": "6ZL2",
+  "n_tetrads": 3,
+  "topology": "parallel",
+  "loops": [
+   1,
+   2,
+   1
+  ],
+  "loop_types": [
+   "propeller",
+   "propeller",
+   "propeller"
+  ],
+  "fold": "p+p+p+",
+  "loops_usable": [
+   true,
+   true,
+   true
+  ],
+  "strand_dirs": [
+   1,
+   1,
+   1,
+   1
+  ],
+  "sequence": "TGAGGGTGGGTAGGGTGGGCTAGTCATTTTGACTAG",
+  "n_ions": 0
+ },
+ {
+  "pdb": "6ZL9",
+  "n_tetrads": 3,
+  "topology": "parallel",
+  "loops": [
+   1,
+   2,
+   1
+  ],
+  "loop_types": [
+   "propeller",
+   "propeller",
+   "propeller"
+  ],
+  "fold": "p+p+p+",
+  "loops_usable": [
+   true,
+   true,
+   true
+  ],
+  "strand_dirs": [
+   1,
+   1,
+   1,
+   1
+  ],
+  "sequence": "GATCAGTTTTACTGATCGGGTGGGTAGGGTGGGTA",
+  "n_ions": 0
+ },
+ {
+  "pdb": "6ZX6",
+  "n_tetrads": 3,
+  "topology": "antiparallel",
+  "loops": [
+   3,
+   5,
+   3
+  ],
+  "loop_types": [
+   "lateral",
+   "diagonal",
+   "lateral"
+  ],
+  "fold": "l+dl-",
+  "loops_usable": [
+   true,
+   true,
+   false
+  ],
+  "strand_dirs": [
+   1,
+   1,
+   -1,
+   -1
+  ],
+  "sequence": "CGGGCGCGGGAGGAAGGGGCGGGA",
+  "n_ions": 0
+ },
+ {
+  "pdb": "6ZX7",
+  "n_tetrads": 3,
+  "topology": "antiparallel",
+  "loops": [
+   3,
+   6,
+   2
+  ],
+  "loop_types": [
+   "lateral",
+   "diagonal",
+   "lateral"
+  ],
+  "fold": "l+dl-",
+  "loops_usable": [
+   true,
+   true,
+   true
+  ],
+  "strand_dirs": [
+   1,
+   -1,
+   -1,
+   1
+  ],
+  "sequence": "CGGGCGCGGGAGGAAGGGGGCGGGA",
+  "n_ions": 0
+ },
+ {
+  "pdb": "7CV3",
+  "n_tetrads": 3,
+  "topology": "hybrid",
+  "loops": [
+   1,
+   10,
+   2
+  ],
+  "loop_types": [
+   "propeller",
+   "lateral",
+   "lateral"
+  ],
+  "fold": "p+l+l+",
+  "loops_usable": [
+   true,
+   true,
+   true
+  ],
+  "strand_dirs": [
+   1,
+   1,
+   -1,
+   1
+  ],
+  "sequence": "GCGGGAGGGCGCGCCAGCGGGGTCGGG",
+  "n_ions": 0
+ },
+ {
+  "pdb": "7CV4",
+  "n_tetrads": 2,
+  "topology": "antiparallel",
+  "loops": [
+   2,
+   10,
+   4
+  ],
+  "loop_types": [
+   "lateral",
+   "lateral",
+   "lateral"
+  ],
+  "fold": "l-l-l-",
+  "loops_usable": [
+   true,
+   true,
+   true
+  ],
+  "strand_dirs": [
+   1,
+   -1,
+   1,
+   -1
+  ],
+  "sequence": "GGGAGGGCGCGCCAGCGGGGTCGGGC",
+  "n_ions": 0
+ },
+ {
+  "pdb": "7E5P",
+  "n_tetrads": 3,
+  "topology": "parallel",
+  "loops": [
+   1,
+   2,
+   1
+  ],
+  "loop_types": [
+   "propeller",
+   "propeller",
+   "propeller"
+  ],
+  "fold": "p+p+p+",
+  "loops_usable": [
+   true,
+   true,
+   true
+  ],
+  "strand_dirs": [
+   1,
+   1,
+   1,
+   1
+  ],
+  "sequence": "GGGTGGGTTGGGAGGG",
+  "n_ions": 0
+ },
+ {
+  "pdb": "7EL7",
+  "n_tetrads": 3,
+  "topology": "hybrid",
+  "loops": [
+   13,
+   2,
+   1
+  ],
+  "loop_types": [
+   "lateral",
+   "lateral",
+   "propeller"
+  ],
+  "fold": "l+l+p+",
+  "loops_usable": [
+   true,
+   true,
+   true
+  ],
+  "strand_dirs": [
+   1,
+   1,
+   1,
+   -1
+  ],
+  "sequence": "AGGGAGAGGAGAGCTCTGGGTTGGGTGGG",
+  "n_ions": 0
+ },
+ {
+  "pdb": "7JKU",
+  "n_tetrads": 4,
+  "topology": "parallel",
+  "loops": [
+   2,
+   2,
+   2
+  ],
+  "loop_types": [
+   "propeller",
+   "propeller",
+   "propeller"
+  ],
+  "fold": "p+p+p+",
+  "loops_usable": [
+   false,
+   false,
+   false
+  ],
+  "strand_dirs": [
+   -1,
+   -1,
+   -1,
+   -1
+  ],
+  "sequence": "GTTGGGGTTGGGGTTGGGGTTGGGGT",
+  "n_ions": 4
+ },
+ {
+  "pdb": "7KBV",
+  "n_tetrads": 3,
+  "topology": "parallel",
+  "loops": [
+   1,
+   2,
+   1
+  ],
+  "loop_types": [
+   "propeller",
+   "propeller",
+   "propeller"
+  ],
+  "fold": "p+p+p+",
+  "loops_usable": [
+   true,
+   true,
+   true
+  ],
+  "strand_dirs": [
+   1,
+   1,
+   1,
+   1
+  ],
+  "sequence": "TGAGGGTGGGTAGGGTGGGGAA",
+  "n_ions": 0
+ },
+ {
+  "pdb": "7KBW",
+  "n_tetrads": 3,
+  "topology": "parallel",
+  "loops": [
+   1,
+   2,
+   1
+  ],
+  "loop_types": [
+   "propeller",
+   "propeller",
+   "propeller"
+  ],
+  "fold": "p+p+p+",
+  "loops_usable": [
+   true,
+   true,
+   true
+  ],
+  "strand_dirs": [
+   1,
+   1,
+   1,
+   1
+  ],
+  "sequence": "TGAGGGTGGGTAGGGTGGGGAA",
+  "n_ions": 0
+ },
+ {
+  "pdb": "7KBX",
+  "n_tetrads": 3,
+  "topology": "parallel",
+  "loops": [
+   1,
+   2,
+   1
+  ],
+  "loop_types": [
+   "propeller",
+   "propeller",
+   "propeller"
+  ],
+  "fold": "p+p+p+",
+  "loops_usable": [
+   true,
+   true,
+   true
+  ],
+  "strand_dirs": [
+   1,
+   1,
+   1,
+   1
+  ],
+  "sequence": "TGAGGGTGGGTAGGGTGGGTAA",
+  "n_ions": 0
+ },
+ {
+  "pdb": "7KLP",
+  "n_tetrads": 3,
+  "topology": "parallel",
+  "loops": [
+   3,
+   3,
+   3
+  ],
+  "loop_types": [
+   "propeller",
+   "propeller",
+   "propeller"
+  ],
+  "fold": "p+p+p+",
+  "loops_usable": [
+   true,
+   true,
+   true
+  ],
+  "strand_dirs": [
+   1,
+   1,
+   1,
+   1
+  ],
+  "sequence": "AGGGTTAGGGTTAGGGTTAGGG",
+  "n_ions": 5
+ },
+ {
+  "pdb": "7LL0",
+  "n_tetrads": 4,
+  "topology": "parallel",
+  "loops": [
+   2,
+   2,
+   2
+  ],
+  "loop_types": [
+   "propeller",
+   "propeller",
+   "propeller"
+  ],
+  "fold": "p+p+p+",
+  "loops_usable": [
+   true,
+   false,
+   true
+  ],
+  "strand_dirs": [
+   1,
+   1,
+   1,
+   1
+  ],
+  "sequence": "TTGGGGTTGGGGTTGGGGTTGGGGT",
+  "n_ions": 4
+ },
+ {
+  "pdb": "7MSV",
+  "n_tetrads": 2,
+  "topology": "parallel",
+  "loops": [
+   2,
+   1,
+   2
+  ],
+  "loop_types": [
+   "propeller",
+   "propeller",
+   "propeller"
+  ],
+  "fold": "p+p+p+",
+  "loops_usable": [
+   true,
+   true,
+   true
+  ],
+  "strand_dirs": [
+   1,
+   1,
+   1,
+   1
+  ],
+  "sequence": "AAGGGAGGGCGGCGGGACA",
+  "n_ions": 0
+ },
+ {
+  "pdb": "7N7D",
+  "n_tetrads": 3,
+  "topology": "parallel",
+  "loops": [
+   1,
+   2,
+   1
+  ],
+  "loop_types": [
+   "propeller",
+   "propeller",
+   "propeller"
+  ],
+  "fold": "p+p+p+",
+  "loops_usable": [
+   true,
+   true,
+   true
+  ],
+  "strand_dirs": [
+   1,
+   1,
+   1,
+   1
+  ],
+  "sequence": "TGAGGGTGGGTAGGGTGGGGAA",
+  "n_ions": 0
+ },
+ {
+  "pdb": "7N7E",
+  "n_tetrads": 3,
+  "topology": "parallel",
+  "loops": [
+   1,
+   2,
+   1
+  ],
+  "loop_types": [
+   "propeller",
+   "propeller",
+   "propeller"
+  ],
+  "fold": "p+p+p+",
+  "loops_usable": [
+   true,
+   true,
+   true
+  ],
+  "strand_dirs": [
+   1,
+   1,
+   1,
+   1
+  ],
+  "sequence": "TGAGGGTGGGTAGGGTGGGGAA",
+  "n_ions": 0
+ },
+ {
+  "pdb": "7NWD",
+  "n_tetrads": 3,
+  "topology": "parallel",
+  "loops": [
+   1,
+   5,
+   1
+  ],
+  "loop_types": [
+   "propeller",
+   "propeller",
+   "propeller"
+  ],
+  "fold": "p+p+p+",
+  "loops_usable": [
+   true,
+   true,
+   true
+  ],
+  "strand_dirs": [
+   1,
+   1,
+   1,
+   1
+  ],
+  "sequence": "GGGCGGGCGCTAGGGAGGGT",
+  "n_ions": 2
+ },
+ {
+  "pdb": "7OQT",
+  "n_tetrads": 2,
+  "topology": "antiparallel",
+  "loops": [
+   4,
+   4,
+   4
+  ],
+  "loop_types": [
+   "lateral",
+   "diagonal",
+   "lateral"
+  ],
+  "fold": "l+dl-",
+  "loops_usable": [
+   true,
+   true,
+   true
+  ],
+  "strand_dirs": [
+   1,
+   1,
+   -1,
+   -1
+  ],
+  "sequence": "GGCTTAGGCTTAGGCTTAGG",
+  "n_ions": 1
+ },
+ {
+  "pdb": "7OTB",
+  "n_tetrads": 3,
+  "topology": "antiparallel",
+  "loops": [
+   3,
+   3,
+   3
+  ],
+  "loop_types": [
+   "lateral",
+   "lateral",
+   "lateral"
+  ],
+  "fold": "l+l+l+",
+  "loops_usable": [
+   true,
+   true,
+   true
+  ],
+  "strand_dirs": [
+   1,
+   -1,
+   1,
+   -1
+  ],
+  "sequence": "GGGTTAGGGTTAGGGTTTGGG",
+  "n_ions": 4
+ },
+ {
+  "pdb": "7PNL",
+  "n_tetrads": 3,
+  "topology": "parallel",
+  "loops": [
+   3,
+   3,
+   3
+  ],
+  "loop_types": [
+   "propeller",
+   "propeller",
+   "propeller"
+  ],
+  "fold": "p+p+p+",
+  "loops_usable": [
+   true,
+   true,
+   true
+  ],
+  "strand_dirs": [
+   -1,
+   -1,
+   -1,
+   -1
+  ],
+  "sequence": "AGGGTTAGGGTTAGGGTTAGGGT",
+  "n_ions": 3
+ },
+ {
+  "pdb": "7QVQ",
+  "n_tetrads": 3,
+  "topology": "parallel",
+  "loops": [
+   3,
+   3,
+   3
+  ],
+  "loop_types": [
+   "propeller",
+   "propeller",
+   "propeller"
+  ],
+  "fold": "p+p+p+",
+  "loops_usable": [
+   true,
+   true,
+   true
+  ],
+  "strand_dirs": [
+   1,
+   1,
+   1,
+   1
+  ],
+  "sequence": "TAGGGTTAGGGTTAGGGTTAGGGT",
+  "n_ions": 3
+ },
+ {
+  "pdb": "7V3T",
+  "n_tetrads": 2,
+  "topology": "antiparallel",
+  "loops": [
+   2,
+   3,
+   2
+  ],
+  "loop_types": [
+   "lateral",
+   "lateral",
+   "lateral"
+  ],
+  "fold": "l-l-l-",
+  "loops_usable": [
+   true,
+   true,
+   true
+  ],
+  "strand_dirs": [
+   1,
+   -1,
+   1,
+   -1
+  ],
+  "sequence": "GGTTGGTGTGGTTGG",
+  "n_ions": 0
+ },
+ {
+  "pdb": "7W9N",
+  "n_tetrads": 2,
+  "topology": "antiparallel",
+  "loops": [
+   3,
+   2,
+   7
+  ],
+  "loop_types": [
+   "lateral",
+   "lateral",
+   "lateral"
+  ],
+  "fold": "l+l+l+",
+  "loops_usable": [
+   true,
+   true,
+   true
+  ],
+  "strand_dirs": [
+   1,
+   -1,
+   1,
+   -1
+  ],
+  "sequence": "CGATCGGGTGTGGGTGGCGTAAAGGGAGCATCG",
+  "n_ions": 0
+ },
+ {
+  "pdb": "7WGW",
+  "n_tetrads": 2,
+  "topology": "parallel",
+  "loops": [
+   2,
+   2,
+   1
+  ],
+  "loop_types": [
+   "propeller",
+   "propeller",
+   "propeller"
+  ],
+  "fold": "p+p+p+",
+  "loops_usable": [
+   true,
+   true,
+   true
+  ],
+  "strand_dirs": [
+   1,
+   1,
+   1,
+   1
+  ],
+  "sequence": "AAGGGAGGGCGGGAGGAA",
+  "n_ions": 0
+ },
+ {
+  "pdb": "7X2Z",
+  "n_tetrads": 3,
+  "topology": "hybrid",
+  "loops": [
+   13,
+   2,
+   1
+  ],
+  "loop_types": [
+   "lateral",
+   "lateral",
+   "propeller"
+  ],
+  "fold": "l+l+p+",
+  "loops_usable": [
+   true,
+   true,
+   true
+  ],
+  "strand_dirs": [
+   1,
+   1,
+   1,
+   -1
+  ],
+  "sequence": "AGGGAGAGGAGAGCTCTGGGTTGGGTGGG",
+  "n_ions": 0
+ },
+ {
+  "pdb": "7X3A",
+  "n_tetrads": 3,
+  "topology": "hybrid",
+  "loops": [
+   13,
+   2,
+   1
+  ],
+  "loop_types": [
+   "lateral",
+   "lateral",
+   "propeller"
+  ],
+  "fold": "l+l+p+",
+  "loops_usable": [
+   true,
+   true,
+   true
+  ],
+  "strand_dirs": [
+   1,
+   1,
+   1,
+   -1
+  ],
+  "sequence": "AGGGAGAGGAGAGCTCTGGGTTGGGTGGG",
+  "n_ions": 0
+ },
+ {
+  "pdb": "7Z9L",
+  "n_tetrads": 3,
+  "topology": "antiparallel",
+  "loops": [
+   3,
+   3,
+   3
+  ],
+  "loop_types": [
+   "lateral",
+   "lateral",
+   "lateral"
+  ],
+  "fold": "l-l-l-",
+  "loops_usable": [
+   true,
+   true,
+   true
+  ],
+  "strand_dirs": [
+   1,
+   -1,
+   1,
+   -1
+  ],
+  "sequence": "TAGGGTTAGGGTTAGGGTTAGGG",
+  "n_ions": 0
+ },
+ {
+  "pdb": "8ABN",
+  "n_tetrads": 2,
+  "topology": "antiparallel",
+  "loops": [
+   2,
+   15,
+   2
+  ],
+  "loop_types": [
+   "lateral",
+   "lateral",
+   "lateral"
+  ],
+  "fold": "l-l-l-",
+  "loops_usable": [
+   true,
+   true,
+   true
+  ],
+  "strand_dirs": [
+   1,
+   -1,
+   1,
+   -1
+  ],
+  "sequence": "GGTTGGCGCGAAGCATTCGCGGGTTGG",
+  "n_ions": 0
+ },
+ {
+  "pdb": "8D78",
+  "n_tetrads": 3,
+  "topology": "parallel",
+  "loops": [
+   3,
+   3,
+   3
+  ],
+  "loop_types": [
+   "propeller",
+   "propeller",
+   "propeller"
+  ],
+  "fold": "p+p+p+",
+  "loops_usable": [
+   true,
+   true,
+   true
+  ],
+  "strand_dirs": [
+   1,
+   1,
+   1,
+   1
+  ],
+  "sequence": "GGGGTTGGGGTTGGGGTTGGGG",
+  "n_ions": 0
+ },
+ {
+  "pdb": "8D79",
+  "n_tetrads": 4,
+  "topology": "parallel",
+  "loops": [
+   2,
+   2,
+   2
+  ],
+  "loop_types": [
+   "propeller",
+   "propeller",
+   "propeller"
+  ],
+  "fold": "p+p+p+",
+  "loops_usable": [
+   true,
+   false,
+   true
+  ],
+  "strand_dirs": [
+   1,
+   1,
+   1,
+   1
+  ],
+  "sequence": "GGGGTTGGGGTTGGGGTTGGGGT",
+  "n_ions": 5
+ },
+ {
+  "pdb": "8EBO",
+  "n_tetrads": 3,
+  "topology": "parallel",
+  "loops": [
+   1,
+   1,
+   5
+  ],
+  "loop_types": [
+   "propeller",
+   "propeller",
+   "propeller"
+  ],
+  "fold": "p+p+p+",
+  "loops_usable": [
+   true,
+   true,
+   false
+  ],
+  "strand_dirs": [
+   1,
+   1,
+   1,
+   1
+  ],
+  "sequence": "GAGGGAGGGAGGGAAAAGGGGA",
+  "n_ions": 3
+ },
+ {
+  "pdb": "8EDP",
+  "n_tetrads": 3,
+  "topology": "parallel",
+  "loops": [
+   5,
+   1,
+   5
+  ],
+  "loop_types": [
+   "propeller",
+   "propeller",
+   "propeller"
+  ],
+  "fold": "p+p+p+",
+  "loops_usable": [
+   false,
+   true,
+   true
+  ],
+  "strand_dirs": [
+   -1,
+   -1,
+   -1,
+   -1
+  ],
+  "sequence": "AGGGAAAAGGGGAGGGAAAAGGGGA",
+  "n_ions": 4
+ },
+ {
+  "pdb": "8FHV",
+  "n_tetrads": 2,
+  "topology": "antiparallel",
+  "loops": [
+   7,
+   4,
+   19
+  ],
+  "loop_types": [
+   "lateral",
+   "lateral",
+   "lateral"
+  ],
+  "fold": "l-l-l-",
+  "loops_usable": [
+   true,
+   true,
+   false
+  ],
+  "strand_dirs": [
+   1,
+   -1,
+   1,
+   -1
+  ],
+  "sequence": "CTTAGTAGGGATGATGCGGCAGTGGGCTTCGCAGTTCCTGCGAGGGGACTAAG",
+  "n_ions": 2
+ },
+ {
+  "pdb": "8FHX",
+  "n_tetrads": 2,
+  "topology": "antiparallel",
+  "loops": [
+   7,
+   4,
+   19
+  ],
+  "loop_types": [
+   "lateral",
+   "lateral",
+   "lateral"
+  ],
+  "fold": "l-l-l-",
+  "loops_usable": [
+   true,
+   true,
+   false
+  ],
+  "strand_dirs": [
+   1,
+   -1,
+   1,
+   -1
+  ],
+  "sequence": "CTTAGTAGGGATGATGCGGCAGTGGGCTTCGCAGTTCCTGCGAGGGGACTAAG",
+  "n_ions": 2
+ },
+ {
+  "pdb": "8FHZ",
+  "n_tetrads": 2,
+  "topology": "antiparallel",
+  "loops": [
+   7,
+   4,
+   19
+  ],
+  "loop_types": [
+   "lateral",
+   "lateral",
+   "lateral"
+  ],
+  "fold": "l-l-l-",
+  "loops_usable": [
+   true,
+   true,
+   false
+  ],
+  "strand_dirs": [
+   1,
+   -1,
+   1,
+   -1
+  ],
+  "sequence": "CTTAGTAGGGATGATGCGGCAGTGGGCTTCGCAGTTCCTGCGAGGGGACTAAG",
+  "n_ions": 2
+ },
+ {
+  "pdb": "8FI0",
+  "n_tetrads": 2,
+  "topology": "antiparallel",
+  "loops": [
+   7,
+   4,
+   19
+  ],
+  "loop_types": [
+   "lateral",
+   "lateral",
+   "lateral"
+  ],
+  "fold": "l-l-l-",
+  "loops_usable": [
+   true,
+   true,
+   true
+  ],
+  "strand_dirs": [
+   1,
+   -1,
+   1,
+   -1
+  ],
+  "sequence": "CTTAGTAGGGATGATGCGGCAGTGGGCTTCGCAGTTCCTGCGAGGGGACTAAG",
+  "n_ions": 2
+ },
+ {
+  "pdb": "8FI1",
+  "n_tetrads": 2,
+  "topology": "antiparallel",
+  "loops": [
+   7,
+   4,
+   19
+  ],
+  "loop_types": [
+   "lateral",
+   "lateral",
+   "lateral"
+  ],
+  "fold": "l-l-l-",
+  "loops_usable": [
+   true,
+   true,
+   false
+  ],
+  "strand_dirs": [
+   1,
+   -1,
+   1,
+   -1
+  ],
+  "sequence": "CTTAGTAGGGATGATGCGGGAGTGGGCTTCGCAGTTCCTGCGAGGGGACTAAG",
+  "n_ions": 2
+ },
+ {
+  "pdb": "8FI2",
+  "n_tetrads": 2,
+  "topology": "antiparallel",
+  "loops": [
+   7,
+   4,
+   19
+  ],
+  "loop_types": [
+   "lateral",
+   "lateral",
+   "lateral"
+  ],
+  "fold": "l-l-l-",
+  "loops_usable": [
+   true,
+   true,
+   false
+  ],
+  "strand_dirs": [
+   1,
+   -1,
+   1,
+   -1
+  ],
+  "sequence": "CTTAGTAGGGATGATGCGGTAGTGGGCTTCGCAGTTCCTGCGAGGGGACTAAG",
+  "n_ions": 2
+ },
+ {
+  "pdb": "8FI7",
+  "n_tetrads": 2,
+  "topology": "antiparallel",
+  "loops": [
+   7,
+   4,
+   19
+  ],
+  "loop_types": [
+   "lateral",
+   "lateral",
+   "lateral"
+  ],
+  "fold": "l-l-l-",
+  "loops_usable": [
+   true,
+   true,
+   true
+  ],
+  "strand_dirs": [
+   1,
+   -1,
+   1,
+   -1
+  ],
+  "sequence": "CTTAGTAGGGATGATGCGGTAGTGGGCTTCGCAGTTCCTGCGAGGGGACTAAG",
+  "n_ions": 2
+ },
+ {
+  "pdb": "8FI8",
+  "n_tetrads": 2,
+  "topology": "antiparallel",
+  "loops": [
+   7,
+   4,
+   19
+  ],
+  "loop_types": [
+   "lateral",
+   "lateral",
+   "lateral"
+  ],
+  "fold": "l-l-l-",
+  "loops_usable": [
+   true,
+   true,
+   false
+  ],
+  "strand_dirs": [
+   1,
+   -1,
+   1,
+   -1
+  ],
+  "sequence": "CTTAGTAGGGATGATGCGGTAGTGGGCTTCGCAGTTCCTGCGAGGGGACTAAG",
+  "n_ions": 2
+ },
+ {
+  "pdb": "8GP7",
+  "n_tetrads": 3,
+  "topology": "parallel",
+  "loops": [
+   3,
+   1,
+   3
+  ],
+  "loop_types": [
+   "propeller",
+   "propeller",
+   "propeller"
+  ],
+  "fold": "p+p+p+",
+  "loops_usable": [
+   true,
+   true,
+   true
+  ],
+  "strand_dirs": [
+   1,
+   1,
+   1,
+   1
+  ],
+  "sequence": "GGGGCGGGGCGGGGCGGGGT",
+  "n_ions": 0
+ },
+ {
+  "pdb": "8IJC",
+  "n_tetrads": 3,
+  "topology": "hybrid",
+  "loops": [
+   13,
+   2,
+   1
+  ],
+  "loop_types": [
+   "lateral",
+   "lateral",
+   "propeller"
+  ],
+  "fold": "l+l+p+",
+  "loops_usable": [
+   true,
+   true,
+   true
+  ],
+  "strand_dirs": [
+   1,
+   1,
+   1,
+   -1
+  ],
+  "sequence": "AGGGAGAGGAGAGCTCTGGGTTGGGTGGG",
+  "n_ions": 0
+ },
+ {
+  "pdb": "8JIC",
+  "n_tetrads": 2,
+  "topology": "antiparallel",
+  "loops": [
+   4,
+   5,
+   3
+  ],
+  "loop_types": [
+   "lateral",
+   "diagonal",
+   "lateral"
+  ],
+  "fold": "l+dl-",
+  "loops_usable": [
+   true,
+   true,
+   true
+  ],
+  "strand_dirs": [
+   1,
+   1,
+   -1,
+   -1
+  ],
+  "sequence": "TAGGGTTAGGGTTAGGGTTAGG",
+  "n_ions": 0
+ },
+ {
+  "pdb": "8JIH",
+  "n_tetrads": 2,
+  "topology": "antiparallel",
+  "loops": [
+   4,
+   5,
+   3
+  ],
+  "loop_types": [
+   "lateral",
+   "diagonal",
+   "lateral"
+  ],
+  "fold": "l-dl+",
+  "loops_usable": [
+   true,
+   true,
+   true
+  ],
+  "strand_dirs": [
+   1,
+   -1,
+   -1,
+   1
+  ],
+  "sequence": "TAGGGTTAGGGTTAGGGTTAGG",
+  "n_ions": 0
+ },
+ {
+  "pdb": "8R4E",
+  "n_tetrads": 3,
+  "topology": "hybrid",
+  "loops": [
+   3,
+   2,
+   2
+  ],
+  "loop_types": [
+   "lateral",
+   "propeller",
+   "propeller"
+  ],
+  "fold": "l-p-p-",
+  "loops_usable": [
+   true,
+   true,
+   true
+  ],
+  "strand_dirs": [
+   1,
+   -1,
+   -1,
+   -1
+  ],
+  "sequence": "GCGTGGGTCAGGGTTGGGTTGGGACGC",
+  "n_ions": 0
+ },
+ {
+  "pdb": "8R4W",
+  "n_tetrads": 3,
+  "topology": "hybrid",
+  "loops": [
+   3,
+   2,
+   2
+  ],
+  "loop_types": [
+   "lateral",
+   "lateral",
+   "propeller"
+  ],
+  "fold": "l+l+p+",
+  "loops_usable": [
+   true,
+   true,
+   true
+  ],
+  "strand_dirs": [
+   1,
+   1,
+   1,
+   -1
+  ],
+  "sequence": "TGAGGGTCAGGGTTGGGTTGGGTAA",
+  "n_ions": 0
+ },
+ {
+  "pdb": "8R6D",
+  "n_tetrads": 3,
+  "topology": "hybrid",
+  "loops": [
+   15,
+   3,
+   1
+  ],
+  "loop_types": [
+   "lateral",
+   "lateral",
+   "propeller"
+  ],
+  "fold": "l+l+p+",
+  "loops_usable": [
+   true,
+   true,
+   true
+  ],
+  "strand_dirs": [
+   1,
+   1,
+   1,
+   -1
+  ],
+  "sequence": "GGGCGCGAAGCATTCGCGGGGTTAGGGTGGG",
+  "n_ions": 0
+ },
+ {
+  "pdb": "8R6H",
+  "n_tetrads": 3,
+  "topology": "hybrid",
+  "loops": [
+   15,
+   3,
+   3
+  ],
+  "loop_types": [
+   "lateral",
+   "lateral",
+   "propeller"
+  ],
+  "fold": "l+l+p+",
+  "loops_usable": [
+   true,
+   true,
+   true
+  ],
+  "strand_dirs": [
+   1,
+   1,
+   1,
+   -1
+  ],
+  "sequence": "GGGCGCGAAGCATTCGCGGGGTTAGGGTTAGGG",
+  "n_ions": 0
+ },
+ {
+  "pdb": "8RZX",
+  "n_tetrads": 3,
+  "topology": "parallel",
+  "loops": [
+   1,
+   8,
+   1
+  ],
+  "loop_types": [
+   "propeller",
+   "propeller",
+   "propeller"
+  ],
+  "fold": "p+p+p+",
+  "loops_usable": [
+   true,
+   true,
+   true
+  ],
+  "strand_dirs": [
+   1,
+   1,
+   1,
+   1
+  ],
+  "sequence": "TGGGCGGGGCACAGGTGGGCGGGG",
+  "n_ions": 0
+ },
+ {
+  "pdb": "8WA4",
+  "n_tetrads": 3,
+  "topology": "parallel",
+  "loops": [
+   1,
+   1,
+   2
+  ],
+  "loop_types": [
+   "propeller",
+   "propeller",
+   "propeller"
+  ],
+  "fold": "p+p+p+",
+  "loops_usable": [
+   true,
+   true,
+   true
+  ],
+  "strand_dirs": [
+   1,
+   1,
+   1,
+   1
+  ],
+  "sequence": "AAGGGAGGGAGGGAAGGGAG",
+  "n_ions": 0
+ },
+ {
+  "pdb": "8XGP",
+  "n_tetrads": 2,
+  "topology": "antiparallel",
+  "loops": [
+   4,
+   4,
+   4
+  ],
+  "loop_types": [
+   "lateral",
+   "lateral",
+   "lateral"
+  ],
+  "fold": "l+l+l+",
+  "loops_usable": [
+   true,
+   true,
+   true
+  ],
+  "strand_dirs": [
+   1,
+   -1,
+   1,
+   -1
+  ],
+  "sequence": "GGGCCTGGGCCTGGGCCTGGG",
+  "n_ions": 0
+ },
+ {
+  "pdb": "8Y2R",
+  "n_tetrads": 3,
+  "topology": "parallel",
+  "loops": [
+   1,
+   1,
+   2
+  ],
+  "loop_types": [
+   "propeller",
+   "propeller",
+   "propeller"
+  ],
+  "fold": "p+p+p+",
+  "loops_usable": [
+   true,
+   true,
+   true
+  ],
+  "strand_dirs": [
+   1,
+   1,
+   1,
+   1
+  ],
+  "sequence": "TAAGGGAGGGAGGGAAGGGAGC",
+  "n_ions": 0
+ },
+ {
+  "pdb": "8YU3",
+  "n_tetrads": 3,
+  "topology": "hybrid",
+  "loops": [
+   1,
+   2,
+   1
+  ],
+  "loop_types": [
+   "propeller",
+   "lateral",
+   "lateral"
+  ],
+  "fold": "p+l+l+",
+  "loops_usable": [
+   true,
+   true,
+   true
+  ],
+  "strand_dirs": [
+   1,
+   1,
+   -1,
+   1
+  ],
+  "sequence": "TAGGGAGGGTAGGGAGGGT",
+  "n_ions": 0
+ },
+ {
+  "pdb": "8ZVE",
+  "n_tetrads": 3,
+  "topology": "parallel",
+  "loops": [
+   1,
+   3,
+   1
+  ],
+  "loop_types": [
+   "propeller",
+   "propeller",
+   "propeller"
+  ],
+  "fold": "p+p+p+",
+  "loops_usable": [
+   true,
+   true,
+   true
+  ],
+  "strand_dirs": [
+   1,
+   1,
+   1,
+   1
+  ],
+  "sequence": "TCTGGGCGGGCGAGGGCGGGAGC",
+  "n_ions": 0
+ },
+ {
+  "pdb": "8ZW3",
+  "n_tetrads": 3,
+  "topology": "parallel",
+  "loops": [
+   1,
+   3,
+   1
+  ],
+  "loop_types": [
+   "propeller",
+   "propeller",
+   "propeller"
+  ],
+  "fold": "p+p+p+",
+  "loops_usable": [
+   true,
+   true,
+   true
+  ],
+  "strand_dirs": [
+   1,
+   1,
+   1,
+   1
+  ],
+  "sequence": "TCTGGGCGGGCGAGGGCGGGAGC",
+  "n_ions": 0
+ },
+ {
+  "pdb": "9B6Z",
+  "n_tetrads": 3,
+  "topology": "hybrid",
+  "loops": [
+   1,
+   2,
+   1
+  ],
+  "loop_types": [
+   "propeller",
+   "lateral",
+   "lateral"
+  ],
+  "fold": "p+l+l+",
+  "loops_usable": [
+   true,
+   true,
+   true
+  ],
+  "strand_dirs": [
+   1,
+   1,
+   -1,
+   1
+  ],
+  "sequence": "TAGGGAGGGTAGGGAGGGT",
+  "n_ions": 0
+ },
+ {
+  "pdb": "9DQE",
+  "n_tetrads": 3,
+  "topology": "parallel",
+  "loops": [
+   1,
+   1,
+   1
+  ],
+  "loop_types": [
+   "propeller",
+   "propeller",
+   "propeller"
+  ],
+  "fold": "p+p+p+",
+  "loops_usable": [
+   true,
+   true,
+   true
+  ],
+  "strand_dirs": [
+   1,
+   1,
+   1,
+   1
+  ],
+  "sequence": "TGAGGGAGGGCGGGAGGGAAT",
+  "n_ions": 0
+ },
+ {
+  "pdb": "9GVI",
+  "n_tetrads": 2,
+  "topology": "hybrid",
+  "loops": [
+   2,
+   10,
+   4
+  ],
+  "loop_types": [
+   "propeller",
+   "lateral",
+   "lateral"
+  ],
+  "fold": "p+l+l+",
+  "loops_usable": [
+   true,
+   true,
+   true
+  ],
+  "strand_dirs": [
+   1,
+   1,
+   -1,
+   1
+  ],
+  "sequence": "GCGGGAGGGCGCGCCAGCGGGGTCGGG",
+  "n_ions": 0
+ },
+ {
+  "pdb": "9GVV",
+  "n_tetrads": 3,
+  "topology": "hybrid",
+  "loops": [
+   1,
+   10,
+   2
+  ],
+  "loop_types": [
+   "propeller",
+   "lateral",
+   "lateral"
+  ],
+  "fold": "p+l+l+",
+  "loops_usable": [
+   true,
+   true,
+   true
+  ],
+  "strand_dirs": [
+   1,
+   1,
+   -1,
+   1
+  ],
+  "sequence": "GCGGGAGGGCGCGCCAGCGGGGTCGGG",
+  "n_ions": 0
+ },
+ {
+  "pdb": "9JI9",
+  "n_tetrads": 3,
+  "topology": "parallel",
+  "loops": [
+   1,
+   1,
+   5
+  ],
+  "loop_types": [
+   "propeller",
+   "propeller",
+   "propeller"
+  ],
+  "fold": "p+p+p+",
+  "loops_usable": [
+   true,
+   true,
+   true
+  ],
+  "strand_dirs": [
+   1,
+   1,
+   1,
+   1
+  ],
+  "sequence": "TGCGGGCGGGCGGGTCGCTGGGCTC",
+  "n_ions": 0
+ },
+ {
+  "pdb": "9JO0",
+  "n_tetrads": 3,
+  "topology": "parallel",
+  "loops": [
+   1,
+   1,
+   1
+  ],
+  "loop_types": [
+   "propeller",
+   "propeller",
+   "propeller"
+  ],
+  "fold": "p+p+p+",
+  "loops_usable": [
+   true,
+   true,
+   true
+  ],
+  "strand_dirs": [
+   1,
+   1,
+   1,
+   1
+  ],
+  "sequence": "TGAGGGAGGGCGGGAGGGAAT",
+  "n_ions": 0
+ },
+ {
+  "pdb": "9JO1",
+  "n_tetrads": 3,
+  "topology": "parallel",
+  "loops": [
+   1,
+   1,
+   1
+  ],
+  "loop_types": [
+   "propeller",
+   "propeller",
+   "propeller"
+  ],
+  "fold": "p+p+p+",
+  "loops_usable": [
+   true,
+   true,
+   true
+  ],
+  "strand_dirs": [
+   1,
+   1,
+   1,
+   1
+  ],
+  "sequence": "TGAGGGAGGGCGGGAGGGAAT",
+  "n_ions": 0
+ },
+ {
+  "pdb": "9JX5",
+  "n_tetrads": 2,
+  "topology": "antiparallel",
+  "loops": [
+   4,
+   4,
+   4
+  ],
+  "loop_types": [
+   "lateral",
+   "lateral",
+   "lateral"
+  ],
+  "fold": "l+l+l+",
+  "loops_usable": [
+   true,
+   true,
+   true
+  ],
+  "strand_dirs": [
+   1,
+   -1,
+   1,
+   -1
+  ],
+  "sequence": "GGGCCTGGGCCTGGGCCTGGG",
+  "n_ions": 0
+ },
+ {
+  "pdb": "9KG4",
+  "n_tetrads": 3,
+  "topology": "parallel",
+  "loops": [
+   2,
+   3,
+   1
+  ],
+  "loop_types": [
+   "propeller",
+   "propeller",
+   "propeller"
+  ],
+  "fold": "p+p+p+",
+  "loops_usable": [
+   true,
+   true,
+   true
+  ],
+  "strand_dirs": [
+   1,
+   1,
+   1,
+   1
+  ],
+  "sequence": "AAAGGGTCGGGACTGGGCGGGGTT",
+  "n_ions": 0
+ },
+ {
+  "pdb": "9KG8",
+  "n_tetrads": 3,
+  "topology": "parallel",
+  "loops": [
+   2,
+   3,
+   1
+  ],
+  "loop_types": [
+   "propeller",
+   "propeller",
+   "propeller"
+  ],
+  "fold": "p+p+p+",
+  "loops_usable": [
+   true,
+   true,
+   true
+  ],
+  "strand_dirs": [
+   1,
+   1,
+   1,
+   1
+  ],
+  "sequence": "AAAGGGTCGGGACTGGGCGGGGTT",
+  "n_ions": 0
+ },
+ {
+  "pdb": "9MMF",
+  "n_tetrads": 4,
+  "topology": "hybrid",
+  "loops": [
+   3,
+   5,
+   4
+  ],
+  "loop_types": [
+   "lateral",
+   "lateral",
+   "propeller"
+  ],
+  "fold": "l+l+p+",
+  "loops_usable": [
+   true,
+   true,
+   true
+  ],
+  "strand_dirs": [
+   1,
+   -1,
+   1,
+   1
+  ],
+  "sequence": "TGGGGGTTTGGGGGTTTGGGGGTTTGGGGGT",
+  "n_ions": 4
+ },
+ {
+  "pdb": "9PA0",
+  "n_tetrads": 3,
+  "topology": "hybrid",
+  "loops": [
+   3,
+   3,
+   3
+  ],
+  "loop_types": [
+   "propeller",
+   "lateral",
+   "lateral"
+  ],
+  "fold": "p+l+l+",
+  "loops_usable": [
+   true,
+   true,
+   true
+  ],
+  "strand_dirs": [
+   1,
+   1,
+   -1,
+   1
+  ],
+  "sequence": "TAGGGTTAGGGTTAGGGTTAGGGA",
+  "n_ions": 0
+ },
+ {
+  "pdb": "9TNQ",
+  "n_tetrads": 3,
+  "topology": "hybrid",
+  "loops": [
+   3,
+   3,
+   3
+  ],
+  "loop_types": [
+   "lateral",
+   "lateral",
+   "propeller"
+  ],
+  "fold": "l+l+p+",
+  "loops_usable": [
+   true,
+   true,
+   true
+  ],
+  "strand_dirs": [
+   1,
+   1,
+   1,
+   -1
+  ],
+  "sequence": "TTAGGGAAAGGGTATGGGAAAGGGTT",
+  "n_ions": 0
+ },
+ {
+  "pdb": "9TNR",
+  "n_tetrads": 3,
+  "topology": "hybrid",
+  "loops": [
+   3,
+   3,
+   3
+  ],
+  "loop_types": [
+   "lateral",
+   "lateral",
+   "propeller"
+  ],
+  "fold": "l+l+p+",
+  "loops_usable": [
+   true,
+   true,
+   true
+  ],
+  "strand_dirs": [
+   1,
+   1,
+   1,
+   -1
+  ],
+  "sequence": "TTAGGGATTGGGAATGGGTATGGGTT",
+  "n_ions": 0
+ },
+ {
+  "pdb": "9U83",
+  "n_tetrads": 3,
+  "topology": "hybrid",
+  "loops": [
+   2,
+   2,
+   2
+  ],
+  "loop_types": [
+   "lateral",
+   "lateral",
+   "propeller"
+  ],
+  "fold": "l+l+p+",
+  "loops_usable": [
+   true,
+   true,
+   true
+  ],
+  "strand_dirs": [
+   1,
+   1,
+   1,
+   -1
+  ],
+  "sequence": "AAGGGTTGGGTTGGGTTGGGAA",
+  "n_ions": 0
+ },
+ {
+  "pdb": "9U89",
+  "n_tetrads": 3,
+  "topology": "parallel",
+  "loops": [
+   2,
+   2,
+   2
+  ],
+  "loop_types": [
+   "propeller",
+   "propeller",
+   "propeller"
+  ],
+  "fold": "p+p+p+",
+  "loops_usable": [
+   true,
+   true,
+   true
+  ],
+  "strand_dirs": [
+   1,
+   1,
+   1,
+   1
+  ],
+  "sequence": "AAGGGTTGGGTTGGGTTGGGAA",
+  "n_ions": 0
+ },
+ {
+  "pdb": "9UK6",
+  "n_tetrads": 4,
+  "topology": "parallel",
+  "loops": [
+   2,
+   2,
+   2
+  ],
+  "loop_types": [
+   "propeller",
+   "propeller",
+   "propeller"
+  ],
+  "fold": "p+p+p+",
+  "loops_usable": [
+   true,
+   true,
+   true
+  ],
+  "strand_dirs": [
+   1,
+   1,
+   1,
+   1
+  ],
+  "sequence": "GGGGCCGGGGCCGGGGCCGGGGCC",
+  "n_ions": 4
+ },
+ {
+  "pdb": "9WIH",
+  "n_tetrads": 3,
+  "topology": "parallel",
+  "loops": [
+   1,
+   1,
+   1
+  ],
+  "loop_types": [
+   "propeller",
+   "propeller",
+   "propeller"
+  ],
+  "fold": "p+p+p+",
+  "loops_usable": [
+   true,
+   true,
+   true
+  ],
+  "strand_dirs": [
+   1,
+   1,
+   1,
+   1
+  ],
+  "sequence": "AAGGGTGGGTGGGTGGGAA",
+  "n_ions": 0
+ }
+]

@@ -1,0 +1,15 @@
+{
+ "dataset": "splice121",
+ "features": "GC + 512 canonical 5-mers",
+ "crop": "140:261",
+ "n_train": 24298,
+ "n_val": 2702,
+ "n_test": 3000,
+ "results": {
+  "all": {
+   "alpha": 0.1,
+   "test_accuracy": 0.553,
+   "n_test": 3000
+  }
+ }
+}

@@ -1,0 +1,78 @@
+{
+ "n_fragments": 300,
+ "n_ensemble": 200,
+ "per_bp": {
+  "C_axis_bend_direction_sd": {
+   "noise_var": 61.8615837097168,
+   "total_var": 850.2400512695312,
+   "ceiling_r2": 0.9272422139872751
+  },
+  "C_axis_curvature_sd": {
+   "noise_var": 0.002556981984525919,
+   "total_var": 0.03612975776195526,
+   "ceiling_r2": 0.9292278126697426
+  },
+  "C_major_depth_A_sd": {
+   "noise_var": 0.0008388368878513575,
+   "total_var": 0.00559616181999445,
+   "ceiling_r2": 0.8501049621448957
+  },
+  "C_major_width_A_sd": {
+   "noise_var": 0.008064639754593372,
+   "total_var": 0.018430089578032494,
+   "ceiling_r2": 0.5624199372201688
+  },
+  "C_minor_depth_A_sd": {
+   "noise_var": 0.0006680735968984663,
+   "total_var": 0.012209665961563587,
+   "ceiling_r2": 0.945283220769382
+  },
+  "C_minor_width_A_sd": {
+   "noise_var": 0.005074335262179375,
+   "total_var": 0.008456576615571976,
+   "ceiling_r2": 0.3999539656702841
+  },
+  "C_phosphate_axial_offset_A_C_sd": {
+   "noise_var": 0.0022876597940921783,
+   "total_var": 0.016094543039798737,
+   "ceiling_r2": 0.8578611527872999
+  },
+  "C_phosphate_axial_offset_A_W_sd": {
+   "noise_var": 0.002289780182763934,
+   "total_var": 0.015871960669755936,
+   "ceiling_r2": 0.8557342580159542
+  },
+  "C_phosphate_azimuth_deg_C_sd": {
+   "noise_var": 0.08278865367174149,
+   "total_var": 0.6088881492614746,
+   "ceiling_r2": 0.8640330678595789
+  },
+  "C_phosphate_azimuth_deg_W_sd": {
+   "noise_var": 0.08753325790166855,
+   "total_var": 0.6009957790374756,
+   "ceiling_r2": 0.8543529572838975
+  },
+  "C_phosphate_radius_A_C_sd": {
+   "noise_var": 0.0011385908583179116,
+   "total_var": 0.006533818319439888,
+   "ceiling_r2": 0.8257388248873873
+  },
+  "C_phosphate_radius_A_W_sd": {
+   "noise_var": 0.0011848068097606301,
+   "total_var": 0.006268038414418697,
+   "ceiling_r2": 0.8109764600301177
+  }
+ },
+ "global": {
+  "C_mean_major_width_sd_A": {
+   "noise_var": 0.00022589706350117922,
+   "total_var": 0.0011103081051260233,
+   "ceiling_r2": 0.7965456052619383
+  },
+  "C_mean_minor_width_sd_A": {
+   "noise_var": 0.00013465725351125002,
+   "total_var": 0.0005640120361931622,
+   "ceiling_r2": 0.7612510994975774
+  }
+ }
+}

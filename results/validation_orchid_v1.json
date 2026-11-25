@@ -1,0 +1,50 @@
+{
+ "n_shards": 64,
+ "source": "ORChID tetramer table (dna.bu.edu/orchid)",
+ "channels": {
+  "C_minor_width_A": {
+   "pearson_r_all_positions": 0.012021648974289263,
+   "spearman_rho_all_positions": -0.016140649172197243,
+   "pearson_r_by_position": [
+    0.03280332080248741,
+    0.09962563061708557,
+    0.022136467688899403,
+    -0.38320035543247943
+   ],
+   "mean_instances_per_tetramer": 10378.5
+  },
+  "C_minor_depth_A": {
+   "pearson_r_all_positions": -0.006555221179080611,
+   "spearman_rho_all_positions": -0.0076459918160891914,
+   "pearson_r_by_position": [
+    0.014139252965809188,
+    -0.05263717667692348,
+    0.050829345222844165,
+    0.016407125244767617
+   ],
+   "mean_instances_per_tetramer": 10378.5
+  },
+  "C_major_width_A": {
+   "pearson_r_all_positions": -0.023325169972872484,
+   "spearman_rho_all_positions": 0.007539764733667192,
+   "pearson_r_by_position": [
+    -0.05400909668321041,
+    -0.0867161962090011,
+    -0.02656472427535398,
+    0.35123115306842506
+   ],
+   "mean_instances_per_tetramer": 10144.75
+  },
+  "C_minor_width_A_sd": {
+   "pearson_r_all_positions": 0.11315198190250843,
+   "spearman_rho_all_positions": 0.07874172730053045,
+   "pearson_r_by_position": [
+    0.11534763107764953,
+    0.30648646901464915,
+    -0.07169862919741225,
+    -0.20682197656052792
+   ],
+   "mean_instances_per_tetramer": 10378.5
+  }
+ }
+}

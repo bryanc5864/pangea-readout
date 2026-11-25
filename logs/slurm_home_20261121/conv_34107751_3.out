@@ -1,0 +1,49 @@
+
+=== NaCl_050mM (lambda_D = 13.6 A) ===
+  seq   0  61:56s  41:55s  31:53s
+  seq   1  61:55s  41:55s  31:53s
+  seq   2  61:47s  41:45s  31:45s
+  seq   3  61:47s  41:45s  31:44s
+  seq   4  61:46s  41:46s  31:46s
+  seq   5  61:46s  41:46s  31:46s
+  seq   6  61:48s  41:47s  31:45s
+  seq   7  61:48s  41:48s  31:46s
+  seq   8  61:58s  41:55s  31:54s
+  seq   9  61:58s  41:57s  31:55s
+  seq  10  61:48s  41:47s  31:46s
+  seq  11  61:48s  41:47s  31:46s
+
+=== NaCl_100mM (lambda_D = 9.6 A) ===
+  seq   0  61:59s  41:56s  31:53s
+  seq   1  61:48s  41:46s  31:46s
+  seq   2  61:48s  41:46s  31:45s
+  seq   3  61:47s  41:45s  31:45s
+  seq   4  61:48s  41:46s  31:44s
+  seq   5  61:48s  41:47s  31:45s
+  seq   6  61:49s  41:49s  31:44s
+  seq   7  61:49s  41:47s  31:44s
+  seq   8  61:47s  41:46s  31:45s
+  seq   9  61:49s  41:47s  31:46s
+  seq  10  61:48s  41:46s  31:45s
+  seq  11  61:49s  41:46s  31:44s
+
+=== NaCl_150mM (lambda_D = 7.8 A) ===
+  seq   0  61:59s  41:54s  31:52s
+  seq   1  61:50s  41:46s  31:46s
+  seq   2  61:49s  41:46s  31:46s
+  seq   3  61:50s  41:45s  31:44s
+  seq   4  61:49s  41:46s  31:45s
+  seq   5  61:50s  41:46s  31:45s
+  seq   6  61:51s  41:46s  31:44s
+  seq   7  61:50s  41:45s  31:44s
+  seq   8  61:49s  41:46s  31:44s
+  seq   9  61:50s  41:46s  31:44s
+  seq  10  61:50s  41:46s  31:46s
+  seq  11  61:50s  41:47s  31:45s
+
+=== converged flank by condition (tolerance 0.05 sd) ===
+  NaCl_050mM   plan flank=  16 bp   measured shortest converged solute=none of those tried
+  NaCl_100mM   plan flank=  11 bp   measured shortest converged solute=none of those tried
+  NaCl_150mM   plan flank=   9 bp   measured shortest converged solute=none of those tried
+
+-> /nfs/roberts/scratch/pi_skr2/bjc75/pangea/apbs/convergence_v2/mid/summary_1003.json

@@ -1,0 +1,101 @@
+{
+ "shards": 1024,
+ "channels": {
+  "C_alpha_C_sd": {
+   "finite": 1147860,
+   "exact_zero": 0
+  },
+  "C_alpha_W_sd": {
+   "finite": 1147860,
+   "exact_zero": 0
+  },
+  "C_axis_bend_direction_sd": {
+   "finite": 11289296,
+   "exact_zero": 0
+  },
+  "C_axis_curvature_sd": {
+   "finite": 11289296,
+   "exact_zero": 0
+  },
+  "C_beta_C_sd": {
+   "finite": 1147860,
+   "exact_zero": 0
+  },
+  "C_beta_W_sd": {
+   "finite": 1147860,
+   "exact_zero": 0
+  },
+  "C_delta_C_sd": {
+   "finite": 1166991,
+   "exact_zero": 0
+  },
+  "C_delta_W_sd": {
+   "finite": 1166991,
+   "exact_zero": 0
+  },
+  "C_epsilon_C_sd": {
+   "finite": 1147860,
+   "exact_zero": 0
+  },
+  "C_epsilon_W_sd": {
+   "finite": 1147860,
+   "exact_zero": 0
+  },
+  "C_gamma_C_sd": {
+   "finite": 1166991,
+   "exact_zero": 0
+  },
+  "C_gamma_W_sd": {
+   "finite": 1166991,
+   "exact_zero": 0
+  },
+  "C_major_depth_A_sd": {
+   "finite": 10523920,
+   "exact_zero": 0
+  },
+  "C_major_width_A_sd": {
+   "finite": 10523920,
+   "exact_zero": 0
+  },
+  "C_minor_depth_A_sd": {
+   "finite": 10906608,
+   "exact_zero": 0
+  },
+  "C_minor_width_A_sd": {
+   "finite": 10906608,
+   "exact_zero": 0
+  },
+  "C_phosphate_axial_offset_A_C_sd": {
+   "finite": 11480640,
+   "exact_zero": 0
+  },
+  "C_phosphate_axial_offset_A_W_sd": {
+   "finite": 11480640,
+   "exact_zero": 0
+  },
+  "C_phosphate_azimuth_deg_C_sd": {
+   "finite": 11480640,
+   "exact_zero": 0
+  },
+  "C_phosphate_azimuth_deg_W_sd": {
+   "finite": 11480640,
+   "exact_zero": 0
+  },
+  "C_phosphate_radius_A_C_sd": {
+   "finite": 11480640,
+   "exact_zero": 0
+  },
+  "C_phosphate_radius_A_W_sd": {
+   "finite": 11480640,
+   "exact_zero": 0
+  },
+  "C_zeta_C_sd": {
+   "finite": 1147860,
+   "exact_zero": 0
+  },
+  "C_zeta_W_sd": {
+   "finite": 1147860,
+   "exact_zero": 0
+  }
+ }
+}

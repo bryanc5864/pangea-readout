@@ -1,0 +1,315 @@
+{
+  "n_sequences": 24,
+  "lengths_bp": [
+    121,
+    61,
+    41,
+    31,
+    21
+  ],
+  "reference_length_bp": 121,
+  "scored_bp": 21,
+  "tolerance_rmse_over_sd": 0.05,
+  "elapsed_seconds": 7240.3,
+  "per_condition": {
+    "NaCl_010mM": {
+      "ionic_strength_M": 0.01,
+      "debye_length_A": 30.4,
+      "plan_flank_bp": 36,
+      "n_solved_by_length": {
+        "121": 24,
+        "61": 24,
+        "41": 24,
+        "31": 24,
+        "21": 24
+      },
+      "median_seconds_by_length": {
+        "121": 32.7,
+        "61": 32.5,
+        "41": 34.0,
+        "31": 35.6,
+        "21": 38.8
+      },
+      "convergence": {
+        "61": {
+          "n_fragments": 24,
+          "flank_bp": 20,
+          "rmse_kT_e": 11.4383,
+          "rmse_over_sd": 0.324,
+          "rmse_over_sd_by_radius": [
+            0.2358,
+            0.3096,
+            0.3365,
+            0.4692,
+            0.2774,
+            0.26
+          ],
+          "within_tolerance": false
+        },
+        "41": {
+          "n_fragments": 24,
+          "flank_bp": 10,
+          "rmse_kT_e": 12.0716,
+          "rmse_over_sd": 0.358,
+          "rmse_over_sd_by_radius": [
+            0.2297,
+            0.3043,
+            0.3489,
+            0.4496,
+            0.2987,
+            0.4595
+          ],
+          "within_tolerance": false
+        },
+        "31": {
+          "n_fragments": 24,
+          "flank_bp": 5,
+          "rmse_kT_e": 10.8669,
+          "rmse_over_sd": 0.7811,
+          "rmse_over_sd_by_radius": [
+            0.2516,
+            0.3254,
+            0.4011,
+            0.6141,
+            0.6786,
+            1.5839
+          ],
+          "within_tolerance": false
+        },
+        "21": {
+          "n_fragments": 24,
+          "flank_bp": 0,
+          "rmse_kT_e": 17.9429,
+          "rmse_over_sd": 5.0222,
+          "rmse_over_sd_by_radius": [
+            1.3353,
+            2.2745,
+            3.4324,
+            4.0239,
+            5.8328,
+            9.1042
+          ],
+          "within_tolerance": false
+        }
+      }
+    },
+    "NaCl_050mM": {
+      "ionic_strength_M": 0.05,
+      "debye_length_A": 13.6,
+      "plan_flank_bp": 16,
+      "n_solved_by_length": {
+        "121": 0,
+        "61": 24,
+        "41": 24,
+        "31": 24,
+        "21": 24
+      },
+      "median_seconds_by_length": {
+        "121": null,
+        "61": 23.0,
+        "41": 22.9,
+        "31": 22.6,
+        "21": 22.8
+      },
+      "convergence": {
+        "error": "reference length 121 produced no solutions"
+      }
+    }
+  },
+  "failures": [
+    {
+      "condition": "NaCl_050mM",
+      "seq": 0,
+      "solute_bp": 121,
+      "status": "failed",
+      "reason": "overflow/abort",
+      "seconds": 17.0
+    },
+    {
+      "condition": "NaCl_050mM",
+      "seq": 1,
+      "solute_bp": 121,
+      "status": "failed",
+      "reason": "overflow/abort",
+      "seconds": 18.1
+    },
+    {
+      "condition": "NaCl_050mM",
+      "seq": 2,
+      "solute_bp": 121,
+      "status": "failed",
+      "reason": "overflow/abort",
+      "seconds": 18.1
+    },
+    {
+      "condition": "NaCl_050mM",
+      "seq": 3,
+      "solute_bp": 121,
+      "status": "failed",
+      "reason": "overflow/abort",
+      "seconds": 17.0
+    },
+    {
+      "condition": "NaCl_050mM",
+      "seq": 4,
+      "solute_bp": 121,
+      "status": "failed",
+      "reason": "overflow/abort",
+      "seconds": 20.0
+    },
+    {
+      "condition": "NaCl_050mM",
+      "seq": 5,
+      "solute_bp": 121,
+      "status": "failed",
+      "reason": "overflow/abort",
+      "seconds": 18.8
+    },
+    {
+      "condition": "NaCl_050mM",
+      "seq": 6,
+      "solute_bp": 121,
+      "status": "failed",
+      "reason": "overflow/abort",
+      "seconds": 19.1
+    },
+    {
+      "condition": "NaCl_050mM",
+      "seq": 7,
+      "solute_bp": 121,
+      "status": "failed",
+      "reason": "overflow/abort",
+      "seconds": 15.8
+    },
+    {
+      "condition": "NaCl_050mM",
+      "seq": 8,
+      "solute_bp": 121,
+      "status": "failed",
+      "reason": "overflow/abort",
+      "seconds": 20.9
+    },
+    {
+      "condition": "NaCl_050mM",
+      "seq": 9,
+      "solute_bp": 121,
+      "status": "failed",
+      "reason": "overflow/abort",
+      "seconds": 21.1
+    },
+    {
+      "condition": "NaCl_050mM",
+      "seq": 10,
+      "solute_bp": 121,
+      "status": "failed",
+      "reason": "overflow/abort",
+      "seconds": 18.2
+    },
+    {
+      "condition": "NaCl_050mM",
+      "seq": 11,
+      "solute_bp": 121,
+      "status": "failed",
+      "reason": "overflow/abort",
+      "seconds": 19.1
+    },
+    {
+      "condition": "NaCl_050mM",
+      "seq": 12,
+      "solute_bp": 121,
+      "status": "failed",
+      "reason": "overflow/abort",
+      "seconds": 20.3
+    },
+    {
+      "condition": "NaCl_050mM",
+      "seq": 13,
+      "solute_bp": 121,
+      "status": "failed",
+      "reason": "overflow/abort",
+      "seconds": 19.0
+    },
+    {
+      "condition": "NaCl_050mM",
+      "seq": 14,
+      "solute_bp": 121,
+      "status": "failed",
+      "reason": "overflow/abort",
+      "seconds": 19.1
+    },
+    {
+      "condition": "NaCl_050mM",
+      "seq": 15,
+      "solute_bp": 121,
+      "status": "failed",
+      "reason": "overflow/abort",
+      "seconds": 18.8
+    },
+    {
+      "condition": "NaCl_050mM",
+      "seq": 16,
+      "solute_bp": 121,
+      "status": "failed",
+      "reason": "overflow/abort",
+      "seconds": 25.7
+    },
+    {
+      "condition": "NaCl_050mM",
+      "seq": 17,
+      "solute_bp": 121,
+      "status": "failed",
+      "reason": "overflow/abort",
+      "seconds": 20.5
+    },
+    {
+      "condition": "NaCl_050mM",
+      "seq": 18,
+      "solute_bp": 121,
+      "status": "failed",
+      "reason": "overflow/abort",
+      "seconds": 17.5
+    },
+    {
+      "condition": "NaCl_050mM",
+      "seq": 19,
+      "solute_bp": 121,
+      "status": "failed",
+      "reason": "overflow/abort",
+      "seconds": 19.8
+    },
+    {
+      "condition": "NaCl_050mM",
+      "seq": 20,
+      "solute_bp": 121,
+      "status": "failed",
+      "reason": "overflow/abort",
+      "seconds": 21.0
+    },
+    {
+      "condition": "NaCl_050mM",
+      "seq": 21,
+      "solute_bp": 121,
+      "status": "failed",
+      "reason": "overflow/abort",
+      "seconds": 16.4
+    },
+    {
+      "condition": "NaCl_050mM",
+      "seq": 22,
+      "solute_bp": 121,
+      "status": "failed",
+      "reason": "overflow/abort",
+      "seconds": 23.2
+    },
+    {
+      "condition": "NaCl_050mM",
+      "seq": 23,
+      "solute_bp": 121,
+      "status": "failed",
+      "reason": "overflow/abort",
+      "seconds": 21.5
+    }
+  ],
+  "note": "Pilot scale. PLAN.md revision 2 asks for about 2,000 fragments; this run sizes the full one and shows whether the linearised flank estimates hold in the nonlinear regime.",
+  "complete": false
+}

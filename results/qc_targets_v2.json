@@ -1,0 +1,53 @@
+{
+  "summary": {
+    "n_shards": 1024,
+    "n_fragments": 191344,
+    "n_bp": 61,
+    "n_per_bp_channels": 285,
+    "n_global_channels": 359,
+    "n_provisional": 60,
+    "seconds_per_fragment": 16.827,
+    "cpu_hours_total": 894.4,
+    "strata": {
+      "panel": 119949,
+      "hexamer": 12288,
+      "extremes": 3000,
+      "random": 3500,
+      "compctrl": 644,
+      "mpra": 51963
+    },
+    "median_per_bp_finite_fraction": 0.9836065573770492,
+    "median_global_finite_fraction": 1.0,
+    "n_all_nan_channels": 11,
+    "all_nan_channels_sample": [
+      "C_salt_dmajor_width_A",
+      "C_salt_dminor_width_A",
+      "C_salt_drise_A",
+      "C_salt_droll_deg",
+      "C_salt_dtwist_deg",
+      "C_temp_dmajor_width_A",
+      "C_temp_dminor_width_A",
+      "C_temp_drise_A",
+      "C_temp_droll_deg",
+      "C_temp_dtwist_deg",
+      "E_strand_separation_dG_w100"
+    ],
+    "n_constant_channels": 5,
+    "constant_channels_sample": [
+      "D_delta_twist_sigma0",
+      "D_nucleosome_translational_bp",
+      "D_writhe_sigma0",
+      "F_cruciform_sigma0",
+      "F_zdna_junction_kcal"
+    ],
+    "n_channels_wider_than_the_fragment": 1,
+    "channels_wider_than_the_fragment": [
+      "E_strand_separation_dG_w100"
+    ],
+    "n_duplicate_sequences": 3
+  },
+  "problems": [],
+  "warnings": [
+    "3 sequences appear more than once (0.00% of fragments). Under --split random these leak between training and validation. Under --split similarity, which is the default, identical sequences have Jaccard 1.0 and are assigned to the same side by construction, so they do not leak. Exact duplicates are also a canary for near-duplicates, which exact deduplication cannot see: in this library they arise where two strata sample the same genome, such as the Drosophila panel and the DeepSTARR MPRA elements."
+  ]
+}

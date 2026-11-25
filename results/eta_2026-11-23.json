@@ -1,0 +1,64 @@
+{
+ "computed": "2026-11-23T15:40:00",
+ "items": {
+  "A extras (opening, dielectric)": {
+   "units": 185781,
+   "sec": 1965,
+   "src": "mean of 3,992 production fragments, job 34311833",
+   "cpu_h": 101405
+  },
+  "M quadruplex solve stage": {
+   "units": 73191,
+   "sec": 2397,
+   "src": "one fragment, test 34311852 (GPU build must come first)",
+   "cpu_h": 48733
+  },
+  "M i-motif": {
+   "units": 25868,
+   "sec": 2461.5,
+   "src": "two probe fragments, 34293931",
+   "cpu_h": 17687
+  },
+  "J oxDNA2 v2": {
+   "units": 182655,
+   "sec": 294.5,
+   "src": "256 s (task 34318878_0) to 333 s (7,319 solves, 34288949)",
+   "cpu_h": 14942
+  },
+  "K RNA/hybrid electrostatics": {
+   "units": 469521,
+   "sec": 95.0,
+   "src": "81 s (remainder) to 109 s (103,551 solves)",
+   "cpu_h": 12390
+  },
+  "M triplex": {
+   "units": 6948,
+   "sec": 983,
+   "src": "73 production fragments, 34308933",
+   "cpu_h": 1897
+  },
+  "G trimer DFT": {
+   "units": 60,
+   "sec": 115775.99999999999,
+   "src": "8 finished tasks x 8 CPUs, 34298869",
+   "cpu_h": 1930
+  }
+ },
+ "total_cpu_h": 198985,
+ "eta_cpu_bound": {
+  "last 12 h share (340 CPUs)": {
+   "days": 24.4,
+   "labels_done": "Dec 18"
+  },
+  "mid (700 CPUs)": {
+   "days": 11.8,
+   "labels_done": "Dec 05"
+  },
+  "last 48 h share (1,107 CPUs)": {
+   "days": 7.5,
+   "labels_done": "Dec 01"
+  }
+ },
+ "not_included": "modified-stack DFT (128 tasks, unmeasured), pKa / side-chain / Nes production (tests pending), cruciforms (scope decision), packing (~1 day)",
+ "gpu": "quadruplex build ~720 GPU-h (estimated) + hydration MD <=408 GPU-h; scheduler start estimates Nov 24-25"
+}

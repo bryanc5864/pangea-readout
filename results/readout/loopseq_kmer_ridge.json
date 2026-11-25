@@ -1,0 +1,17 @@
+{
+ "dataset": "loopseq",
+ "features": "GC + 512 canonical 5-mers",
+ "crop": null,
+ "n_train": 157675,
+ "n_val": 19999,
+ "n_test": 19477,
+ "results": {
+  "all": {
+   "alpha": 0.0031622776601683794,
+   "test_pearson_r": 0.39499053947051965,
+   "test_r2": 0.15595044779762512,
+   "gc_only_test_pearson_r": 0.036065632574077494,
+   "n_test": 19477
+  }
+ }
+}

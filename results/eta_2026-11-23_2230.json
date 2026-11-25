@@ -1,0 +1,69 @@
+{
+ "computed": "2026-11-23T22:30:00",
+ "units_left": {
+  "A extras": 179812,
+  "K RNA/hybrid electrostatics": 468761,
+  "J oxDNA2 v2": 181925,
+  "M quadruplex solve stage": 73191,
+  "M i-motif": 25868,
+  "M triplex": 6948,
+  "G trimer DFT": 58
+ },
+ "scopes": {
+  "cruciforms: stems >= 8 bp (12,559)": {
+   "cpu_h": 280227,
+   "slot_h": 419514,
+   "eta": {
+    "last 6 h (556 CPUs, 669 slots)": {
+     "days_labels": 26.1,
+     "training_start": "Dec 21"
+    },
+    "running now (998 slots)": {
+     "days_labels": 17.5,
+     "training_start": "Dec 12"
+    },
+    "last 48 h (1,041 CPUs, 1,404 slots)": {
+     "days_labels": 12.4,
+     "training_start": "Dec 07"
+    }
+   }
+  },
+  "cruciforms: all (43,607)": {
+   "cpu_h": 482039,
+   "slot_h": 905076,
+   "eta": {
+    "last 6 h (556 CPUs, 669 slots)": {
+     "days_labels": 56.4,
+     "training_start": "Jan 20"
+    },
+    "running now (998 slots)": {
+     "days_labels": 37.8,
+     "training_start": "Jan 01"
+    },
+    "last 48 h (1,041 CPUs, 1,404 slots)": {
+     "days_labels": 26.9,
+     "training_start": "Dec 21"
+    }
+   }
+  },
+  "(reference) no cruciforms": {
+   "cpu_h": 198593,
+   "slot_h": 223102,
+   "eta": {
+    "last 6 h (556 CPUs, 669 slots)": {
+     "days_labels": 13.9,
+     "training_start": "Dec 08"
+    },
+    "running now (998 slots)": {
+     "days_labels": 9.3,
+     "training_start": "Dec 04"
+    },
+    "last 48 h (1,041 CPUs, 1,404 slots)": {
+     "days_labels": 6.6,
+     "training_start": "Dec 01"
+    }
+   }
+  }
+ },
+ "note": "cruciform cost from the v1 measurement (6.5 h, 32 GB per candidate); the v2 cost test 34489354 (Newton-path reference) should lower it. Not included: modified-stack DFT, pKa and side-chain production. +1 day packing before training."
+}

@@ -1,0 +1,79 @@
+{
+ "computed": "2026-11-23T20:00:00",
+ "units_left": {
+  "A extras": 181835,
+  "K RNA/hybrid electrostatics": 469132,
+  "J oxDNA2 v2": 182185,
+  "M quadruplex solve stage": 73191,
+  "M i-motif": 25868,
+  "M triplex": 6948,
+  "G trimer DFT": 58
+ },
+ "scopes": {
+  "cruciforms: stems >= 8 bp (12,559)": {
+   "cpu_h": 281396,
+   "slot_h": 420914,
+   "eta": {
+    "last 6 h (467 CPUs, 573 slots)": {
+     "days_labels": 30.6,
+     "labels_done": "Dec 24",
+     "training_start": "Dec 25"
+    },
+    "between (1,000 slots)": {
+     "days_labels": 17.5,
+     "labels_done": "Dec 11",
+     "training_start": "Dec 12"
+    },
+    "last 48 h (1,080 CPUs, 1,449 slots)": {
+     "days_labels": 12.1,
+     "labels_done": "Dec 05",
+     "training_start": "Dec 06"
+    }
+   }
+  },
+  "cruciforms: all (43,607)": {
+   "cpu_h": 483208,
+   "slot_h": 906476,
+   "eta": {
+    "last 6 h (467 CPUs, 573 slots)": {
+     "days_labels": 65.9,
+     "labels_done": "Jan 28",
+     "training_start": "Jan 29"
+    },
+    "between (1,000 slots)": {
+     "days_labels": 37.8,
+     "labels_done": "Dec 31",
+     "training_start": "Jan 01"
+    },
+    "last 48 h (1,080 CPUs, 1,449 slots)": {
+     "days_labels": 26.1,
+     "labels_done": "Dec 19",
+     "training_start": "Dec 20"
+    }
+   }
+  },
+  "(reference) no cruciforms": {
+   "cpu_h": 199762,
+   "slot_h": 224502,
+   "eta": {
+    "last 6 h (467 CPUs, 573 slots)": {
+     "days_labels": 16.3,
+     "labels_done": "Dec 10",
+     "training_start": "Dec 11"
+    },
+    "between (1,000 slots)": {
+     "days_labels": 9.4,
+     "labels_done": "Dec 03",
+     "training_start": "Dec 04"
+    },
+    "last 48 h (1,080 CPUs, 1,449 slots)": {
+     "days_labels": 6.5,
+     "labels_done": "Nov 30",
+     "training_start": "Dec 01"
+    }
+   }
+  }
+ },
+ "not_included": "modified-stack DFT (128 tasks x 8 CPUs, unmeasured), pKa and side-chain production (tests running), Nes (16 tasks, <=160 CPU-h); packing = the +1 day before training",
+ "gpu": "quadruplex GPU build: scheduler start estimate Nov 27 16:20 (~720 GPU-h); hydration MD: Nov 25 18:40"
+}

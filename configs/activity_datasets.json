@@ -1,0 +1,113 @@
+{
+  "_comment": "Regulatory-activity datasets for the CEILING and transfer arms. Every URL in this file was verified to resolve before being recorded. 'sequences_included' is the field that decides usability: a dataset distributing only coordinates or counts cannot drive a physics head without a separate genome lift.",
+  "datasets": [
+    {
+      "name": "lentimpra",
+      "title": "lentiMPRA, ENCODE4 (K562, HepG2, WTC11)",
+      "citation": "Agarwal V, Inoue F, Schubach M, Penzar D, et al. Nature 639:411-420 (2025). doi:10.1038/s41586-024-08430-9",
+      "license": "MIT (human_legnet repackaging of the authors' data)",
+      "sequences_included": true,
+      "element_bp": 230,
+      "element_note": "15 nt 5' adaptor + 200 nt element + 15 nt 3' adaptor",
+      "activity": "mean_value = log2(RNA/DNA)",
+      "columns": "seq_id, seq, mean_value, fold, rev",
+      "split_field": "fold",
+      "use": ["ceiling", "transfer", "low_data"],
+      "files": [
+        {"url": "https://raw.githubusercontent.com/autosome-ru/human_legnet/main/datasets/original/K562.tsv", "dest": "lentimpra/K562.tsv"},
+        {"url": "https://raw.githubusercontent.com/autosome-ru/human_legnet/main/datasets/original/HepG2.tsv", "dest": "lentimpra/HepG2.tsv"},
+        {"url": "https://raw.githubusercontent.com/autosome-ru/human_legnet/main/datasets/original/WTC11.tsv", "dest": "lentimpra/WTC11.tsv"},
+        {"url": "https://raw.githubusercontent.com/autosome-ru/human_legnet/main/datasets/original/K562_averaged.tsv", "dest": "lentimpra/K562_averaged.tsv"},
+        {"url": "https://raw.githubusercontent.com/autosome-ru/human_legnet/main/datasets/original/HepG2_averaged.tsv", "dest": "lentimpra/HepG2_averaged.tsv"},
+        {"url": "https://raw.githubusercontent.com/autosome-ru/human_legnet/main/datasets/original/WTC11_averaged.tsv", "dest": "lentimpra/WTC11_averaged.tsv"}
+      ]
+    },
+    {
+      "name": "deepstarr",
+      "title": "DeepSTARR UMI-STARR-seq, Drosophila S2",
+      "citation": "de Almeida BP, Reiter F, Pagani M, Stark A. Nat Genet 54:613-624 (2022). doi:10.1038/s41588-022-01048-5",
+      "license": "CC-BY-4.0 (Zenodo 5502060)",
+      "sequences_included": true,
+      "element_bp": 249,
+      "activity": "developmental and housekeeping log2 enrichment",
+      "columns": "activity TSV has 6 unnamed numeric columns: Dev_log2_enrichment, Hk_log2_enrichment, then scaled and quantile-normalised variants",
+      "join_warning": "FASTA and activity files join BY ROW ORDER, not by a key. Verify record counts match before pairing.",
+      "use": ["ceiling", "transfer"],
+      "files": [
+        {"url": "https://zenodo.org/records/5502060/files/Sequences_Train.fa?download=1", "dest": "deepstarr/Sequences_Train.fa"},
+        {"url": "https://zenodo.org/records/5502060/files/Sequences_Val.fa?download=1", "dest": "deepstarr/Sequences_Val.fa"},
+        {"url": "https://zenodo.org/records/5502060/files/Sequences_Test.fa?download=1", "dest": "deepstarr/Sequences_Test.fa"},
+        {"url": "https://zenodo.org/records/5502060/files/Sequences_activity_Train.txt?download=1", "dest": "deepstarr/Sequences_activity_Train.txt"},
+        {"url": "https://zenodo.org/records/5502060/files/Sequences_activity_Val.txt?download=1", "dest": "deepstarr/Sequences_activity_Val.txt"},
+        {"url": "https://zenodo.org/records/5502060/files/Sequences_activity_Test.txt?download=1", "dest": "deepstarr/Sequences_activity_Test.txt"}
+      ]
+    },
+    {
+      "name": "jores_plant",
+      "title": "Jores plant core-promoter STARR-seq (Arabidopsis, maize, sorghum)",
+      "citation": "Jores T, Tonnies J, Wrightsman T, Buckler ES, Cuperus JT, Fields S, Queitsch C. Nature Plants 7:842-855 (2021). doi:10.1038/s41477-021-00932-y",
+      "license": "NONE DECLARED in the repository; cite the paper, no explicit redistribution grant",
+      "sequences_included": true,
+      "element_bp": 170,
+      "activity": "log2 enrichment relative to the 35S minimal promoter",
+      "columns": "set, sp, gene, sequence, enrichment; sp in {At, Zm, Sb}",
+      "caveat": "The CNN splits cover only the with-enhancer, dark condition. All six conditions require Supplementary Tables 1 and 2.",
+      "use": ["ceiling", "transfer"],
+      "files": [
+        {"url": "https://raw.githubusercontent.com/tobjores/Synthetic-Promoter-Designs-Enabled-by-a-Comprehensive-Analysis-of-Plant-Core-Promoters/main/CNN/CNN_train_leaf.tsv", "dest": "jores_plant/CNN_train_leaf.tsv"},
+        {"url": "https://raw.githubusercontent.com/tobjores/Synthetic-Promoter-Designs-Enabled-by-a-Comprehensive-Analysis-of-Plant-Core-Promoters/main/CNN/CNN_test_leaf.tsv", "dest": "jores_plant/CNN_test_leaf.tsv"},
+        {"url": "https://raw.githubusercontent.com/tobjores/Synthetic-Promoter-Designs-Enabled-by-a-Comprehensive-Analysis-of-Plant-Core-Promoters/main/CNN/CNN_train_proto.tsv", "dest": "jores_plant/CNN_train_proto.tsv"},
+        {"url": "https://raw.githubusercontent.com/tobjores/Synthetic-Promoter-Designs-Enabled-by-a-Comprehensive-Analysis-of-Plant-Core-Promoters/main/CNN/CNN_test_proto.tsv", "dest": "jores_plant/CNN_test_proto.tsv"}
+      ]
+    },
+    {
+      "name": "yeast_promoter",
+      "title": "Yeast random promoter expression library (DREAM release)",
+      "citation": "Vaishnav ED, de Boer CG, et al. Nature 603:455-463 (2022). doi:10.1038/s41586-022-04506-6",
+      "license": "CC-BY-4.0 (Zenodo 10633252 mirror); GEO GSE254493",
+      "sequences_included": true,
+      "element_bp": 110,
+      "element_note": "17 nt prefix TGCATTTTTTTCACATC + 80 bp random region + 13 nt suffix GGTTACGGCTGTT; about 78 percent are exactly 110 bp, so filter on length",
+      "activity": "train: FACS bin scale 0-17. test: MAUDE score, roughly -1.4 to 1.7",
+      "columns": "2-column TSV, no header: sequence, expression",
+      "caveat": "test_sequences.txt from the challenge has nan for every label; use the MAUDE file instead.",
+      "use": ["ceiling", "transfer", "off_manifold"],
+      "files": [
+        {"url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE254nnn/GSE254493/suppl/GSE254493_train_sequences.txt.gz", "dest": "yeast_promoter/train_sequences.txt.gz"},
+        {"url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE254nnn/GSE254493/suppl/GSE254493_filtered_test_data_with_MAUDE_expression.txt.gz", "dest": "yeast_promoter/test_MAUDE.txt.gz"}
+      ]
+    },
+    {
+      "name": "sharpr_mpra",
+      "title": "Sharpr-MPRA tiled MPRA (K562, HepG2)",
+      "citation": "Ernst J, Melnikov A, Zhang X, Wang L, Rogov P, Mikkelsen TS, Kellis M. Nat Biotechnol 34:1180-1190 (2016). doi:10.1038/nbt.3678",
+      "license": "NONE DECLARED; citation requested",
+      "sequences_included": true,
+      "element_bp": 145,
+      "activity": "per-base SHARPR score, 295 positions per region",
+      "columns": "sequences: 2 columns, ID CELLTYPE_STATE_REGIONID_TILEPOS_CHR_CENTER and 145 bp tile; scores: 295 per-base values per region",
+      "use": ["ceiling"],
+      "files": [
+        {"url": "https://ernstlab.github.io/SHARPR/Scaleup_counts_sequences.zip", "dest": "sharpr_mpra/Scaleup_counts_sequences.zip"},
+        {"url": "https://ernstlab.github.io/SHARPR/K562_SHARPR-MPRA_scores.zip", "dest": "sharpr_mpra/K562_SHARPR-MPRA_scores.zip"},
+        {"url": "https://ernstlab.github.io/SHARPR/HEPG2_SHARPR-MPRA_scores.zip", "dest": "sharpr_mpra/HEPG2_SHARPR-MPRA_scores.zip"}
+      ]
+    },
+    {
+      "name": "splice_sites",
+      "title": "Splice site recognition, the negative control task",
+      "citation": "SpliceFinder: Wang R, Wang Z, Wang J, Li S. BMC Bioinformatics 20:652 (2019). doi:10.1186/s12859-019-3306-3; packaged by InstaDeep for the Nucleotide Transformer benchmark",
+      "license": "parent repository is CC BY-NC-SA 4.0; treat as non-commercial",
+      "sequences_included": true,
+      "element_bp": 400,
+      "activity": "3-class label: acceptor / donor / neither",
+      "columns": "FASTA with header >Seq_<i>|<label>; junction at index 200",
+      "label_warning": "Label mapping is undocumented upstream and was determined empirically from centre dinucleotides: 0=acceptor (AG at 198-199), 1=donor (GT at 200-201), 2=neither. Re-verify before use.",
+      "use": ["negative_control"],
+      "files": [
+        {"url": "https://huggingface.co/datasets/InstaDeepAI/nucleotide_transformer_downstream_tasks/resolve/main/splice_sites_all/train.fna", "dest": "splice_sites/train.fna"},
+        {"url": "https://huggingface.co/datasets/InstaDeepAI/nucleotide_transformer_downstream_tasks/resolve/main/splice_sites_all/test.fna", "dest": "splice_sites/test.fna"}
+      ]
+    }
+  ]
+}

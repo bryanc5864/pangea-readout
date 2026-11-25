@@ -1,0 +1,7 @@
+Traceback (most recent call last):
+  File "/home/bjc75/scratch/pangea/code/final2_20261120_1726/src/model/train.py", line 976, in <module>
+    raise SystemExit(main())
+                     ^^^^^^
+  File "/home/bjc75/scratch/pangea/code/final2_20261120_1726/src/model/train.py", line 948, in main
+    print(json.dumps({k: v for k, v in rec.items() if not k.endswith("_worst")}),
+OSError: [Errno 122] Disk quota exceeded

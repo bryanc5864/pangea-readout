@@ -1,0 +1,608 @@
+{
+  "n_sequences": 4,
+  "conditions": [
+    "NaCl_010mM",
+    "NaCl_050mM",
+    "NaCl_100mM",
+    "NaCl_150mM",
+    "NaCl_250mM",
+    "NaCl_500mM"
+  ],
+  "per_condition_surface_rmse_over_sd": {
+    "NaCl_010mM": {
+      "mean_rmse_over_sd": 4.3171959080791815,
+      "n": 4
+    },
+    "NaCl_050mM": {
+      "mean_rmse_over_sd": 2.108877858077736,
+      "n": 4
+    },
+    "NaCl_100mM": {
+      "mean_rmse_over_sd": 1.4051103004654557,
+      "n": 4
+    },
+    "NaCl_150mM": {
+      "mean_rmse_over_sd": 1.0797313702371374,
+      "n": 4
+    },
+    "NaCl_250mM": {
+      "mean_rmse_over_sd": 0.7625874600850372,
+      "n": 3
+    }
+  },
+  "records": [
+    {
+      "sequence_index": 0,
+      "condition": "NaCl_010mM",
+      "ionic_strength_M": 0.01,
+      "debye_length_A": 30.4,
+      "npbe_converged": true,
+      "lpbe_converged": true,
+      "surface": {
+        "n": 756,
+        "rmse_kT_e": 5.293353123346113,
+        "rmse_over_sd": 4.327707556761866,
+        "max_abs_diff_kT_e": 7.005467017295302,
+        "mean_signed_diff_kT_e": -5.204948916363814,
+        "pearson_r": 0.9826721129737921,
+        "npbe_mean_kT_e": -4.505568840602233
+      },
+      "axis": {
+        "n": 451,
+        "rmse_kT_e": 5.379160075013018,
+        "rmse_over_sd": 5.4456065757800065,
+        "max_abs_diff_kT_e": 7.014522958151745,
+        "mean_signed_diff_kT_e": -5.31629900061164,
+        "pearson_r": 0.9771510012814005,
+        "npbe_mean_kT_e": -4.44080945652659
+      },
+      "npbe_seconds": 54.5,
+      "lpbe_seconds": 39.7
+    },
+    {
+      "sequence_index": 0,
+      "condition": "NaCl_050mM",
+      "ionic_strength_M": 0.05,
+      "debye_length_A": 13.6,
+      "npbe_converged": true,
+      "lpbe_converged": true,
+      "surface": {
+        "n": 756,
+        "rmse_kT_e": 2.3762391108955465,
+        "rmse_over_sd": 2.096480305475101,
+        "max_abs_diff_kT_e": 3.7778362279955493,
+        "mean_signed_diff_kT_e": -2.264988122808674,
+        "pearson_r": 0.9885339734358461,
+        "npbe_mean_kT_e": -3.040022155319045
+      },
+      "axis": {
+        "n": 451,
+        "rmse_kT_e": 2.410354547683954,
+        "rmse_over_sd": 2.608289562670789,
+        "max_abs_diff_kT_e": 3.6387305984989666,
+        "mean_signed_diff_kT_e": -2.3274799722146184,
+        "pearson_r": 0.9854995398840375,
+        "npbe_mean_kT_e": -2.9585534749918883
+      },
+      "npbe_seconds": 36.5,
+      "lpbe_seconds": 30.5
+    },
+    {
+      "sequence_index": 0,
+      "condition": "NaCl_100mM",
+      "ionic_strength_M": 0.1,
+      "debye_length_A": 9.61,
+      "npbe_converged": true,
+      "lpbe_converged": true,
+      "surface": {
+        "n": 756,
+        "rmse_kT_e": 1.496315925967261,
+        "rmse_over_sd": 1.3951248945294572,
+        "max_abs_diff_kT_e": 2.7854343875564496,
+        "mean_signed_diff_kT_e": -1.383809772898389,
+        "pearson_r": 0.9914950149084653,
+        "npbe_mean_kT_e": -2.446554209086761
+      },
+      "axis": {
+        "n": 451,
+        "rmse_kT_e": 1.506151712104451,
+        "rmse_over_sd": 1.7117735924214195,
+        "max_abs_diff_kT_e": 2.6456441066942293,
+        "mean_signed_diff_kT_e": -1.4193646873837968,
+        "pearson_r": 0.9896797938052805,
+        "npbe_mean_kT_e": -2.3542305584598244
+      },
+      "npbe_seconds": 37.2,
+      "lpbe_seconds": 29.1
+    },
+    {
+      "sequence_index": 0,
+      "condition": "NaCl_150mM",
+      "ionic_strength_M": 0.15,
+      "debye_length_A": 7.85,
+      "npbe_converged": true,
+      "lpbe_converged": true,
+      "surface": {
+        "n": 756,
+        "rmse_kT_e": 1.1028150179977174,
+        "rmse_over_sd": 1.0741489032300144,
+        "max_abs_diff_kT_e": 2.312770548753706,
+        "mean_signed_diff_kT_e": -0.9925456816438165,
+        "pearson_r": 0.9927498004896522,
+        "npbe_mean_kT_e": -2.11890754490104
+      },
+      "axis": {
+        "n": 451,
+        "rmse_kT_e": 1.1004739216027597,
+        "rmse_over_sd": 1.3013834644866986,
+        "max_abs_diff_kT_e": 2.180542613751471,
+        "mean_signed_diff_kT_e": -1.0135172299866793,
+        "pearson_r": 0.9915085558630798,
+        "npbe_mean_kT_e": -2.0189800702610783
+      },
+      "npbe_seconds": 38.7,
+      "lpbe_seconds": 29.5
+    },
+    {
+      "sequence_index": 0,
+      "condition": "NaCl_250mM",
+      "ionic_strength_M": 0.25,
+      "debye_length_A": 6.08,
+      "npbe_converged": true,
+      "lpbe_converged": true,
+      "surface": {
+        "n": 756,
+        "rmse_kT_e": 0.7291300159946481,
+        "rmse_over_sd": 0.7631677505128054,
+        "max_abs_diff_kT_e": 1.8235502355960067,
+        "mean_signed_diff_kT_e": -0.6242965028769145,
+        "pearson_r": 0.9935457906471302,
+        "npbe_mean_kT_e": -1.7352795845753142
+      },
+      "axis": {
+        "n": 451,
+        "rmse_kT_e": 0.7149548306285329,
+        "rmse_over_sd": 0.9042869538083734,
+        "max_abs_diff_kT_e": 1.7023420002930227,
+        "mean_signed_diff_kT_e": -0.630137394956998,
+        "pearson_r": 0.9927828951211096,
+        "npbe_mean_kT_e": -1.6246619679001264
+      },
+      "npbe_seconds": 41.2,
+      "lpbe_seconds": 30.3
+    },
+    {
+      "sequence_index": 0,
+      "condition": "NaCl_500mM",
+      "ionic_strength_M": 0.5,
+      "debye_length_A": 4.3,
+      "npbe_converged": false,
+      "lpbe_converged": true
+    },
+    {
+      "sequence_index": 1,
+      "condition": "NaCl_010mM",
+      "ionic_strength_M": 0.01,
+      "debye_length_A": 30.4,
+      "npbe_converged": true,
+      "lpbe_converged": true,
+      "surface": {
+        "n": 756,
+        "rmse_kT_e": 5.3217441327675274,
+        "rmse_over_sd": 4.288973546102698,
+        "max_abs_diff_kT_e": 7.076247933912223,
+        "mean_signed_diff_kT_e": -5.23359766967369,
+        "pearson_r": 0.9822703258355349,
+        "npbe_mean_kT_e": -4.5236847052508224
+      },
+      "axis": {
+        "n": 456,
+        "rmse_kT_e": 5.4066585466109505,
+        "rmse_over_sd": 5.418443958493273,
+        "max_abs_diff_kT_e": 7.064224065033294,
+        "mean_signed_diff_kT_e": -5.3441105210621584,
+        "pearson_r": 0.9778359769658973,
+        "npbe_mean_kT_e": -4.45723192296707
+      },
+      "npbe_seconds": 49.3,
+      "lpbe_seconds": 33.4
+    },
+    {
+      "sequence_index": 1,
+      "condition": "NaCl_050mM",
+      "ionic_strength_M": 0.05,
+      "debye_length_A": 13.6,
+      "npbe_converged": true,
+      "lpbe_converged": true,
+      "surface": {
+        "n": 756,
+        "rmse_kT_e": 2.4025630603599266,
+        "rmse_over_sd": 2.0891038827207384,
+        "max_abs_diff_kT_e": 3.949133713814966,
+        "mean_signed_diff_kT_e": -2.29159600692027,
+        "pearson_r": 0.9883913059460337,
+        "npbe_mean_kT_e": -3.0601493804103104
+      },
+      "axis": {
+        "n": 456,
+        "rmse_kT_e": 2.4361254001786703,
+        "rmse_over_sd": 2.6106658905042495,
+        "max_abs_diff_kT_e": 3.8397024153359816,
+        "mean_signed_diff_kT_e": -2.3535457266812014,
+        "pearson_r": 0.9861039053466695,
+        "npbe_mean_kT_e": -2.9764947047752783
+      },
+      "npbe_seconds": 31.6,
+      "lpbe_seconds": 24.9
+    },
+    {
+      "sequence_index": 1,
+      "condition": "NaCl_100mM",
+      "ionic_strength_M": 0.1,
+      "debye_length_A": 9.61,
+      "npbe_converged": true,
+      "lpbe_converged": true,
+      "surface": {
+        "n": 756,
+        "rmse_kT_e": 1.5134778746846107,
+        "rmse_over_sd": 1.387304424964686,
+        "max_abs_diff_kT_e": 2.904336359929701,
+        "mean_signed_diff_kT_e": -1.4012218941488668,
+        "pearson_r": 0.9916228434728278,
+        "npbe_mean_kT_e": -2.4642227108782055
+      },
+      "axis": {
+        "n": 456,
+        "rmse_kT_e": 1.5226956834976526,
+        "rmse_over_sd": 1.7110839318714464,
+        "max_abs_diff_kT_e": 2.7921220365909294,
+        "mean_signed_diff_kT_e": -1.4360215144678414,
+        "pearson_r": 0.9903129679467496,
+        "npbe_mean_kT_e": -2.369943255650734
+      },
+      "npbe_seconds": 33.5,
+      "lpbe_seconds": 24.2
+    },
+    {
+      "sequence_index": 1,
+      "condition": "NaCl_150mM",
+      "ionic_strength_M": 0.15,
+      "debye_length_A": 7.85,
+      "npbe_converged": true,
+      "lpbe_converged": true,
+      "surface": {
+        "n": 756,
+        "rmse_kT_e": 1.1136571174345489,
+        "rmse_over_sd": 1.064026219629248,
+        "max_abs_diff_kT_e": 2.3873664692471435,
+        "mean_signed_diff_kT_e": -1.0030733682880406,
+        "pearson_r": 0.9930258697326761,
+        "npbe_mean_kT_e": -2.1345507591457102
+      },
+      "axis": {
+        "n": 456,
+        "rmse_kT_e": 1.1106393820904865,
+        "rmse_over_sd": 1.2967824481250756,
+        "max_abs_diff_kT_e": 2.2732910352061277,
+        "mean_signed_diff_kT_e": -1.0233228073017695,
+        "pearson_r": 0.9921578514124239,
+        "npbe_mean_kT_e": -2.032902970813516
+      },
+      "npbe_seconds": 32.6,
+      "lpbe_seconds": 25.0
+    },
+    {
+      "sequence_index": 1,
+      "condition": "NaCl_250mM",
+      "ionic_strength_M": 0.25,
+      "debye_length_A": 6.08,
+      "npbe_converged": true,
+      "lpbe_converged": true,
+      "surface": {
+        "n": 756,
+        "rmse_kT_e": 0.7362399617657952,
+        "rmse_over_sd": 0.7537442212912164,
+        "max_abs_diff_kT_e": 1.8421977900121034,
+        "mean_signed_diff_kT_e": -0.6299341781202159,
+        "pearson_r": 0.9939564201060657,
+        "npbe_mean_kT_e": -1.7492491528663618
+      },
+      "axis": {
+        "n": 456,
+        "rmse_kT_e": 0.7211979633394596,
+        "rmse_over_sd": 0.8991697038316145,
+        "max_abs_diff_kT_e": 1.731975695367653,
+        "mean_signed_diff_kT_e": -0.6351231552358703,
+        "pearson_r": 0.9934242622302745,
+        "npbe_mean_kT_e": -1.637037841615284
+      },
+      "npbe_seconds": 34.1,
+      "lpbe_seconds": 24.8
+    },
+    {
+      "sequence_index": 1,
+      "condition": "NaCl_500mM",
+      "ionic_strength_M": 0.5,
+      "debye_length_A": 4.3,
+      "npbe_converged": false,
+      "lpbe_converged": true
+    },
+    {
+      "sequence_index": 2,
+      "condition": "NaCl_010mM",
+      "ionic_strength_M": 0.01,
+      "debye_length_A": 30.4,
+      "npbe_converged": true,
+      "lpbe_converged": true,
+      "surface": {
+        "n": 755,
+        "rmse_kT_e": 5.363687451900368,
+        "rmse_over_sd": 4.373264210169579,
+        "max_abs_diff_kT_e": 7.297054547521905,
+        "mean_signed_diff_kT_e": -5.27355914042424,
+        "pearson_r": 0.9836248208393717,
+        "npbe_mean_kT_e": -4.518822914517764
+      },
+      "axis": {
+        "n": 455,
+        "rmse_kT_e": 5.451103892743467,
+        "rmse_over_sd": 5.50760732237218,
+        "max_abs_diff_kT_e": 7.1893732951635485,
+        "mean_signed_diff_kT_e": -5.387127494022985,
+        "pearson_r": 0.9790426789792446,
+        "npbe_mean_kT_e": -4.45513833072565
+      },
+      "npbe_seconds": 42.7,
+      "lpbe_seconds": 27.4
+    },
+    {
+      "sequence_index": 2,
+      "condition": "NaCl_050mM",
+      "ionic_strength_M": 0.05,
+      "debye_length_A": 13.6,
+      "npbe_converged": true,
+      "lpbe_converged": true,
+      "surface": {
+        "n": 755,
+        "rmse_kT_e": 2.453933001875199,
+        "rmse_over_sd": 2.171525692189249,
+        "max_abs_diff_kT_e": 4.237553987137326,
+        "mean_signed_diff_kT_e": -2.341338039102501,
+        "pearson_r": 0.9889093315336797,
+        "npbe_mean_kT_e": -3.0624523678911375
+      },
+      "axis": {
+        "n": 455,
+        "rmse_kT_e": 2.4895460779304943,
+        "rmse_over_sd": 2.703694642588277,
+        "max_abs_diff_kT_e": 4.129093199557894,
+        "mean_signed_diff_kT_e": -2.4059827254487325,
+        "pearson_r": 0.9864744717785348,
+        "npbe_mean_kT_e": -2.980756715881894
+      },
+      "npbe_seconds": 26.6,
+      "lpbe_seconds": 21.0
+    },
+    {
+      "sequence_index": 2,
+      "condition": "NaCl_100mM",
+      "ionic_strength_M": 0.1,
+      "debye_length_A": 9.61,
+      "npbe_converged": true,
+      "lpbe_converged": true,
+      "surface": {
+        "n": 755,
+        "rmse_kT_e": 1.5538824979513088,
+        "rmse_over_sd": 1.4495877372507646,
+        "max_abs_diff_kT_e": 3.2287923018424083,
+        "mean_signed_diff_kT_e": -1.4421145974074745,
+        "pearson_r": 0.9918204043924347,
+        "npbe_mean_kT_e": -2.463676620674181
+      },
+      "axis": {
+        "n": 455,
+        "rmse_kT_e": 1.5640978145902966,
+        "rmse_over_sd": 1.7810254238874412,
+        "max_abs_diff_kT_e": 3.120757422986814,
+        "mean_signed_diff_kT_e": -1.4780222760974284,
+        "pearson_r": 0.9904597171878292,
+        "npbe_mean_kT_e": -2.371571677969402
+      },
+      "npbe_seconds": 29.0,
+      "lpbe_seconds": 20.1
+    },
+    {
+      "sequence_index": 2,
+      "condition": "NaCl_150mM",
+      "ionic_strength_M": 0.15,
+      "debye_length_A": 7.85,
+      "npbe_converged": true,
+      "lpbe_converged": true,
+      "surface": {
+        "n": 755,
+        "rmse_kT_e": 1.1388237902635256,
+        "rmse_over_sd": 1.1067770591448964,
+        "max_abs_diff_kT_e": 2.7262675802778853,
+        "mean_signed_diff_kT_e": -1.028835518474784,
+        "pearson_r": 0.9929431109241973,
+        "npbe_mean_kT_e": -2.131173737187695
+      },
+      "axis": {
+        "n": 455,
+        "rmse_kT_e": 1.1360622558764317,
+        "rmse_over_sd": 1.343530626604921,
+        "max_abs_diff_kT_e": 2.6187468816366692,
+        "mean_signed_diff_kT_e": -1.0495044632867943,
+        "pearson_r": 0.9920647136456359,
+        "npbe_mean_kT_e": -2.0320248739409252
+      },
+      "npbe_seconds": 29.0,
+      "lpbe_seconds": 20.9
+    },
+    {
+      "sequence_index": 2,
+      "condition": "NaCl_250mM",
+      "ionic_strength_M": 0.25,
+      "debye_length_A": 6.08,
+      "npbe_converged": false,
+      "lpbe_converged": true
+    },
+    {
+      "sequence_index": 2,
+      "condition": "NaCl_500mM",
+      "ionic_strength_M": 0.5,
+      "debye_length_A": 4.3,
+      "npbe_converged": false,
+      "lpbe_converged": true
+    },
+    {
+      "sequence_index": 3,
+      "condition": "NaCl_010mM",
+      "ionic_strength_M": 0.01,
+      "debye_length_A": 30.4,
+      "npbe_converged": true,
+      "lpbe_converged": true,
+      "surface": {
+        "n": 756,
+        "rmse_kT_e": 5.3497915055880725,
+        "rmse_over_sd": 4.27883831928258,
+        "max_abs_diff_kT_e": 7.533569672228291,
+        "mean_signed_diff_kT_e": -5.253553417960866,
+        "pearson_r": 0.9804519625357108,
+        "npbe_mean_kT_e": -4.506709587935487
+      },
+      "axis": {
+        "n": 449,
+        "rmse_kT_e": 5.4348033430020255,
+        "rmse_over_sd": 5.410502006173644,
+        "max_abs_diff_kT_e": 7.415249456506739,
+        "mean_signed_diff_kT_e": -5.365584312502867,
+        "pearson_r": 0.9732133664532439,
+        "npbe_mean_kT_e": -4.443946960013813
+      },
+      "npbe_seconds": 48.6,
+      "lpbe_seconds": 29.9
+    },
+    {
+      "sequence_index": 3,
+      "condition": "NaCl_050mM",
+      "ionic_strength_M": 0.05,
+      "debye_length_A": 13.6,
+      "npbe_converged": true,
+      "lpbe_converged": true,
+      "surface": {
+        "n": 756,
+        "rmse_kT_e": 2.4133065064721255,
+        "rmse_over_sd": 2.0784015519258556,
+        "max_abs_diff_kT_e": 4.3437572614305715,
+        "mean_signed_diff_kT_e": -2.292510868265415,
+        "pearson_r": 0.9878674615966857,
+        "npbe_mean_kT_e": -3.0408884776354936
+      },
+      "axis": {
+        "n": 449,
+        "rmse_kT_e": 2.445628804104759,
+        "rmse_over_sd": 2.5985200231361536,
+        "max_abs_diff_kT_e": 4.223823917999418,
+        "mean_signed_diff_kT_e": -2.3552482534735795,
+        "pearson_r": 0.9840400135869826,
+        "npbe_mean_kT_e": -2.9611697561217856
+      },
+      "npbe_seconds": 34.3,
+      "lpbe_seconds": 21.8
+    },
+    {
+      "sequence_index": 3,
+      "condition": "NaCl_100mM",
+      "ionic_strength_M": 0.1,
+      "debye_length_A": 9.61,
+      "npbe_converged": true,
+      "lpbe_converged": true,
+      "surface": {
+        "n": 756,
+        "rmse_kT_e": 1.5279789935562331,
+        "rmse_over_sd": 1.388424145116915,
+        "max_abs_diff_kT_e": 3.3096881686989033,
+        "mean_signed_diff_kT_e": -1.40418792211327,
+        "pearson_r": 0.9911131034140467,
+        "npbe_mean_kT_e": -2.447585120023886
+      },
+      "axis": {
+        "n": 449,
+        "rmse_kT_e": 1.5353935841871138,
+        "rmse_over_sd": 1.7116831559059695,
+        "max_abs_diff_kT_e": 3.1900142426633407,
+        "mean_signed_diff_kT_e": -1.4398517219689522,
+        "pearson_r": 0.9887928638953635,
+        "npbe_mean_kT_e": -2.3569058179891873
+      },
+      "npbe_seconds": 34.2,
+      "lpbe_seconds": 23.2
+    },
+    {
+      "sequence_index": 3,
+      "condition": "NaCl_150mM",
+      "ionic_strength_M": 0.15,
+      "debye_length_A": 7.85,
+      "npbe_converged": true,
+      "lpbe_converged": true,
+      "surface": {
+        "n": 756,
+        "rmse_kT_e": 1.132787669038904,
+        "rmse_over_sd": 1.0739732989443906,
+        "max_abs_diff_kT_e": 2.808527372126564,
+        "mean_signed_diff_kT_e": -1.0096847745690265,
+        "pearson_r": 0.9923767951296841,
+        "npbe_mean_kT_e": -2.1202618326659115
+      },
+      "axis": {
+        "n": 449,
+        "rmse_kT_e": 1.1275444765265945,
+        "rmse_over_sd": 1.3069937796968225,
+        "max_abs_diff_kT_e": 2.6894553215696497,
+        "mean_signed_diff_kT_e": -1.0307210205687667,
+        "pearson_r": 0.9907475955891372,
+        "npbe_mean_kT_e": -2.0218690378142488
+      },
+      "npbe_seconds": 34.7,
+      "lpbe_seconds": 23.8
+    },
+    {
+      "sequence_index": 3,
+      "condition": "NaCl_250mM",
+      "ionic_strength_M": 0.25,
+      "debye_length_A": 6.08,
+      "npbe_converged": true,
+      "lpbe_converged": true,
+      "surface": {
+        "n": 756,
+        "rmse_kT_e": 0.7583012525619627,
+        "rmse_over_sd": 0.7708504084510901,
+        "max_abs_diff_kT_e": 2.273816989492061,
+        "mean_signed_diff_kT_e": -0.6381654305046378,
+        "pearson_r": 0.9930363953011389,
+        "npbe_mean_kT_e": -1.7369907494344399
+      },
+      "axis": {
+        "n": 449,
+        "rmse_kT_e": 0.7403677418913016,
+        "rmse_over_sd": 0.9166566827369783,
+        "max_abs_diff_kT_e": 2.1541729151134863,
+        "mean_signed_diff_kT_e": -0.6438881861333148,
+        "pearson_r": 0.9919781444185142,
+        "npbe_mean_kT_e": -1.6277140470023008
+      },
+      "npbe_seconds": 37.2,
+      "lpbe_seconds": 22.3
+    },
+    {
+      "sequence_index": 3,
+      "condition": "NaCl_500mM",
+      "ionic_strength_M": 0.5,
+      "debye_length_A": 4.3,
+      "npbe_converged": false,
+      "lpbe_converged": true
+    }
+  ],
+  "interpretation": "If the discrepancy falls monotonically with ionic strength, substituting lpbe above the highest npbe-convergent condition is justified, and the value at that condition bounds the error accepted. If it does not fall, the high-salt conditions are dropped instead."
+}
