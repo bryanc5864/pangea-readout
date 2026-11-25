@@ -287,6 +287,8 @@ def main():
         subprocess.run(["tar", "-x", "-C", code], input=arch, check=True)
         open(os.path.join(a.state, f"code_{head}.done"), "w").write(head + "\n")
     for p, rel in walk(code):
+        if os.path.islink(p):  # symlinks in the repo (logs/slurm -> scratch) are not files; upload_folder skips them
+            continue
         size = os.lstat(p).st_size
         if os.path.isfile(p) and not os.path.islink(p) and size <= SCAN_MAX:
             scan(p, open(p, "rb").read(), hits)

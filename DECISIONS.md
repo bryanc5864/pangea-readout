@@ -5818,3 +5818,20 @@ trimer DFT, modRNA DFT, mdhyd, packA, packNes, and the pKa/cruciform-cost/Isc pr
 including the held pangea-conv, were left alone. Both background watchers stopped. Saved per-row outputs stay on
 disk; the rows of the tasks killed mid-run have no output and will be picked up by the leftovers scripts on restart.
 The quadruplex PDBFixer-on-CPU fix was not yet verified on a GPU task.
+
+## 2026-11-24 23:55 — public deposit: GitHub (code) and Hugging Face (data)
+On the user's request: code, configs, tests, plan, logs and summary results are on GitHub
+(github.com/bryanc5864/pangea-readout, public; commits use the account's noreply address). Data goes to the
+public Hugging Face dataset bryan7264/pangea-readout: packed targets and libraries as-is, solver outputs as
+<= 4 GiB tar parts with member indexes, code snapshots, and the git tree; MANIFEST.tsv and EXCLUDED.tsv list
+what went up and what did not. Left out: data-loader caches (rebuilt from shards), superseded targets_v1 and
+pilots, public genomes (manifest only), third-party experimental datasets and downloads (not ours to
+redistribute; fetch scripts rebuild them). No model exists, so no model repository yet. Staging and upload run as
+idle-priority Slurm jobs (hf-stage 34620656, hf-upload 34620657 after it), both restartable; the HF cache is on
+scratch because the home fileset is at 99 % of its file limit (the new .git is packed to 30 files).
+01:38 (2026-11-25): deposit complete and verified. Staging (34620656, moved to day,scavenge with requeue because
+day's estimated start was 27 Nov) ran 00:33-01:25: 12,955 files, 142.7 GB. Upload (34620657) 01:29-01:36. The
+check: every MANIFEST path present on the Hub with the same size, every tar-part sha256 equal to the Hub's record,
+and 1 MiB from the middle of three large files (famW tar part, famW shard, famA_prod tar part) byte-identical to
+the local copy. The one first-pass miss was code/logs/slurm, a symlink in git to the scratch logs, not a file;
+dropped from the manifest and the staging script now skips symlinks in the code tree.

@@ -7,6 +7,8 @@
 
 **2026-11-24 22:28: ALL PANGEA JOBS STOPPED on the user's order** (24 job IDs cancelled; see DECISIONS.md). Nothing is queued or running; the rows below show the state at the stop. Completed outputs are on disk.
 
+**Deposit (done 2026-11-25 01:38, verified):** code on GitHub `bryanc5864/pangea-readout`; data on the HF dataset `bryan7264/pangea-readout` (12,955 files, 142.7 GB; MANIFEST.tsv, EXCLUDED.tsv). No model repository yet: no model.
+
 ## Label checklist (2026-11-24, 14:03) -- every family: production -> packer -> final inputs
 
 No PANGEA model exists or trains until every row below is "packed" (user's instruction).
